@@ -283,6 +283,85 @@
           "title": "文章作成の基本を学ぶための記事・学習コンテンツのまとめ - Qiita"
         }
       ]
+    },
+    {
+      "title": "Yahoo!ニュース・トピックス - IT",
+      "feedUrl": "https://news.yahoo.co.jp/rss/topics/it.xml",
+      "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
+      "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397646?source=rss",
+          "author": null,
+          "description": "NTTぷららは2日、サービス機器配送などの委託先で個人情報が流出した可能性があると発表した。現時点で最大800万件の個人情報が流出した可能性があるとしている。",
+          "link": "https://news.yahoo.co.jp/pickup/6397646?source=rss",
+          "publishedOn": "2021-07-02T11:53:36.000Z",
+          "wordCount": 65,
+          "title": "NTT系企業 800万件情報流出か"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397634?source=rss",
+          "author": null,
+          "description": "ピンタレストは米国時間7月1日、ボディーニュートラリティー（容姿ではなく体の機能に注目すべきだという考え方）を奨励する取り組みの一環として、減量に関する広告をすべて禁止すると発表した。ピンタレストは画像検索・共有サービス。",
+          "link": "https://news.yahoo.co.jp/pickup/6397634?source=rss",
+          "publishedOn": "2021-07-02T09:26:33.000Z",
+          "wordCount": 64,
+          "title": "ピンタレスト 体の減量広告禁止"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397598?source=rss",
+          "author": null,
+          "description": "動画SNSのTikTokは米国時間7月1日、投稿できる動画の長さの上限を60秒から3分に延長すると発表した。全ユーザーが対象となる。",
+          "link": "https://news.yahoo.co.jp/pickup/6397598?source=rss",
+          "publishedOn": "2021-07-02T02:06:03.000Z",
+          "wordCount": 65,
+          "title": "TikTok動画 制限60秒から3分に"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397555?source=rss",
+          "author": null,
+          "description": "空飛ぶクルマを開発しているクラインビジョンは6月30日、スロバキアで行った試作機の試験飛行で、同国の2都市間を結ぶ35分間の飛行に成功したと発表した。この試作機は、3分足らずで航空機から道路を走る車へと変形できるという。",
+          "link": "https://news.yahoo.co.jp/pickup/6397555?source=rss",
+          "publishedOn": "2021-07-01T13:08:58.000Z",
+          "wordCount": 63,
+          "title": "空飛ぶ車 35分の都市間飛行成功"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397509?source=rss",
+          "author": null,
+          "description": "飲酒運転による事故が起きるたび、「アルコールが検出されたら運転できなくなる装置を開発できれば」という意見が出てくる。各メーカーとも開発は行ってきたものの、実用化されたものは、今のところない。その課題について解説する。",
+          "link": "https://news.yahoo.co.jp/pickup/6397509?source=rss",
+          "publishedOn": "2021-07-01T05:21:47.000Z",
+          "wordCount": 62,
+          "title": "飲酒運転防ぐ車 実用化に課題も"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397510?source=rss",
+          "author": null,
+          "description": "耳の聞こえない人や、発話が難しい人がオンラインで手話通訳や文字通訳を介して、聞こえる人と電話でやりとりができる「電話リレーサービス」の運用が1日、始まった。24時間365日、双方向でのやりとりが可能となり、緊急通報にも対応。",
+          "link": "https://news.yahoo.co.jp/pickup/6397510?source=rss",
+          "publishedOn": "2021-07-01T05:15:53.000Z",
+          "wordCount": 62,
+          "title": "電話リレーサービス 運用始まる"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397448?source=rss",
+          "author": null,
+          "description": "日本郵政は30日、経営戦略の軸とする「デジタル郵便局」構想の実現を担う新会社を7月1日付で設立すると発表した。郵便や銀行、保険といった各種サービスを一体で提供するアプリの開発などを進める予定。",
+          "link": "https://news.yahoo.co.jp/pickup/6397448?source=rss",
+          "publishedOn": "2021-06-30T11:33:17.000Z",
+          "wordCount": 64,
+          "title": "日本郵政 デジタル化で新会社"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397416?source=rss",
+          "author": null,
+          "description": "文科省は、教職課程で学生が小中高校の教員免許を取得する際、ICTを活用した教育に関する科目の履修を義務付けることを決めた。小中学校では児童生徒に1人1台の端末配布が進んでおり、教員のICTを活用した指導力の向上が急務となっている。",
+          "link": "https://news.yahoo.co.jp/pickup/6397416?source=rss",
+          "publishedOn": "2021-06-30T05:24:10.000Z",
+          "wordCount": 64,
+          "title": "教職課程ICT科目必修へ 文科省"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

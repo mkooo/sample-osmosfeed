@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:33:32.342Z</updated>
+    <updated>2021-07-04T00:36:32.201Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
@@ -284,6 +284,86 @@
         <summary type="html"><![CDATA[たまに裁判傍聴に行くんですけど、先日見た刑事裁判が酷かった。 コンビニでおにぎりを1つ盗んだベトナム人の男性(なので罪名は窃盗) お金がなく2日前から何も食べていなかった。公園で寝泊まりしていた。お腹がすいて死にそうで盗んでしまっ… https://t.co/sqPnrkjcmS]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTT系企業 800万件情報流出か]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397646?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397646?source=rss"/>
+        <updated>2021-07-02T11:53:36.000Z</updated>
+        <summary type="html"><![CDATA[NTTぷららは2日、サービス機器配送などの委託先で個人情報が流出した可能性があると発表した。現時点で最大800万件の個人情報が流出した可能性があるとしている。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ピンタレスト 体の減量広告禁止]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397634?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397634?source=rss"/>
+        <updated>2021-07-02T09:26:33.000Z</updated>
+        <summary type="html"><![CDATA[ピンタレストは米国時間7月1日、ボディーニュートラリティー（容姿ではなく体の機能に注目すべきだという考え方）を奨励する取り組みの一環として、減量に関する広告をすべて禁止すると発表した。ピンタレストは画像検索・共有サービス。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok動画 制限60秒から3分に]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397598?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397598?source=rss"/>
+        <updated>2021-07-02T02:06:03.000Z</updated>
+        <summary type="html"><![CDATA[動画SNSのTikTokは米国時間7月1日、投稿できる動画の長さの上限を60秒から3分に延長すると発表した。全ユーザーが対象となる。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空飛ぶ車 35分の都市間飛行成功]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397555?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397555?source=rss"/>
+        <updated>2021-07-01T13:08:58.000Z</updated>
+        <summary type="html"><![CDATA[空飛ぶクルマを開発しているクラインビジョンは6月30日、スロバキアで行った試作機の試験飛行で、同国の2都市間を結ぶ35分間の飛行に成功したと発表した。この試作機は、3分足らずで航空機から道路を走る車へと変形できるという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飲酒運転防ぐ車 実用化に課題も]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397509?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397509?source=rss"/>
+        <updated>2021-07-01T05:21:47.000Z</updated>
+        <summary type="html"><![CDATA[飲酒運転による事故が起きるたび、「アルコールが検出されたら運転できなくなる装置を開発できれば」という意見が出てくる。各メーカーとも開発は行ってきたものの、実用化されたものは、今のところない。その課題について解説する。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電話リレーサービス 運用始まる]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397510?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397510?source=rss"/>
+        <updated>2021-07-01T05:15:53.000Z</updated>
+        <summary type="html"><![CDATA[耳の聞こえない人や、発話が難しい人がオンラインで手話通訳や文字通訳を介して、聞こえる人と電話でやりとりができる「電話リレーサービス」の運用が1日、始まった。24時間365日、双方向でのやりとりが可能となり、緊急通報にも対応。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本郵政 デジタル化で新会社]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397448?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397448?source=rss"/>
+        <updated>2021-06-30T11:33:17.000Z</updated>
+        <summary type="html"><![CDATA[日本郵政は30日、経営戦略の軸とする「デジタル郵便局」構想の実現を担う新会社を7月1日付で設立すると発表した。郵便や銀行、保険といった各種サービスを一体で提供するアプリの開発などを進める予定。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教職課程ICT科目必修へ 文科省]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397416?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397416?source=rss"/>
+        <updated>2021-06-30T05:24:10.000Z</updated>
+        <summary type="html"><![CDATA[文科省は、教職課程で学生が小中高校の教員免許を取得する際、ICTを活用した教育に関する科目の履修を義務付けることを決めた。小中学校では児童生徒に1人1台の端末配布が進んでおり、教員のICTを活用した指導力の向上が急務となっている。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
         </author>
     </entry>
     <entry>
