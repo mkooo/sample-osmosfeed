@@ -94,6 +94,472 @@
           "title": "教職課程ICT科目必修へ 文科省"
         }
       ]
+    },
+    {
+      "title": "paiza開発日誌",
+      "feedUrl": "https://paiza.hatenablog.com/rss",
+      "siteUrl": "https://paiza.hatenablog.com/",
+      "articles": [
+        {
+          "id": "hatenablog://entry/26006613778703817",
+          "author": null,
+          "description": "Photo by Mark Hawkins\nこんにちは。谷口です。\n入社から数年たった若手エンジニアの方からよくご相談を受けるのが「会社からマネジメント業務も求められているけどどうしたらよいかわからない」といったお悩みです。\n「マネジメントをするのが嫌だから」という理由で、転職を希望するITエンジニアの方は少なくありません。\nその中には「今の会社を離れればマネジメントをしなくて済む」「自社開発をしている企業に入ればプログラミングだけをしていられる」と思っている人もいます。が、それは間違いです。\n一口にマネジメントといってもその分野はいくつかにわかれます。受託開発におけるいわゆるプロジェクトマネジメントだけが、エンジニアに求められるマネジメント業務ではありません。\nというわけで今回は、マネジメント初心者の方向けに、エンジニアに求められるマネジメント業務について簡単に解説します。\nチームマネジメント\n当たり前ですが、開発業務はほとんどの場合エンジニア一人ではなく、複数人でチームを組んでおこないます。チームマネジメントとは、そのチームに所属するメンバー個々の働きやチーム全体の生産性を高めるためにマネジメントをすることです。\nエンジニアの仕事を続けて年次や経験を重ねていくと、後輩や部下が増えてきますよね。チームリーダーとして、彼らをまとめあげ、一緒に成果を上げることが求められたりもするでしょう。このときに必要なのがチームマネジメントです。\nメンバーと信頼関係を築く\n「自分の仕事だけが進めばよい、自分だけが成果を上げればよい」「コミュニケーションは必要最低限でよい」という考えではチームマネジメントはできません。\nメンバーとの信頼関係を築いた上で、チームとしての成果の最大化や効率化を目指すには、以下のようなポイントに気をつけるとよいかと思います。\nメンバーとのコミュニケーション\n・情報…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/02/140000",
+          "publishedOn": "2021-07-02T05:00:00.000Z",
+          "wordCount": 254,
+          "title": "「自分にマネジャーは無理」は思い込みかも？エンジニアに求められるマネジメントスキルとは",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210701/20210701171228.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613781574564",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、Webデザインに活用できるモーションデザインをブラウザ上のエディタから誰でも簡単に作れるWebサービスをご紹介します。\n手軽に高度なアニメーションを実現できる機能が豊富に提供されており、簡単なものならマウスで数回クリックするだけで完成してしまいます。無料で書き出しにも対応しており、記事後半ではFigmaとの連携方法についても解説しています。\nWebのアニメーションにご興味ある方はぜひ参考にしてみてください！\n【 Jitter 】\n\n■「Jitter」の使い方\nそれでは、「Jitter」をどのように使えばいいのか詳しく見ていきましょう！\nまずはサイトのトップページから【Try it now】ボタンをクリックして無料のユーザー登録を済ませておきます。\n\n\nメールアドレスや名前などを入力するだけなので簡単です。\n\n登録したメールアドレス宛にログイン用のリンクが送付されるのでクリックしましょう。\n\nすると自分専用のダッシュボード画面が表示されます。\n\nこれで準備は完了です！\n公式チュートリアルも公開されているので、最初にいくつかチェックしておくといいでしょう。\n■「Jitter」の機能紹介\nまず最初に「Jitter」のWebエディタがどのような機能を提供しているのかについて、基本的な部分をピックアップして解説しておきます。\n新規のプロジェクトを作成するにはダッシュボード画面から「New file」ボタンをクリックします。\n\n\nモーションデザインを作成するための編集エディタが表示されます。\n\n\nこのエディタはざっくり言うと、3つの画面に分かれています。\n\nそれぞれの画面は以下のような役割があります。\n【レイヤー】キャンバス上に配置したオブジェクトのリスト\n【キャンバス】デザインを作成するメイン画面\n【プロパティ】オブジェクトの設定…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/30/160000",
+          "publishedOn": "2021-06-30T07:00:00.000Z",
+          "wordCount": 274,
+          "title": "高度なモーションデザインを無料で作成できるWebエディタ「Jitter」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210630/20210630121216.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613781224086",
+          "author": null,
+          "description": "このたび、不朽の名作「シュタインズゲート」とpaizaのコラボが開催決定しました。\n岡部たちの新たな野望を達成する手段は「プログラミング」。秋葉原に、そして世界に革命を起こせ！2021年7月28日、数々の世界線を超えてきた岡部たちに、新たなオペレーションが始まる！\n7/28の開催に向けて、ただいまティザーページにて事前登録受付中です。\n事前登録はこちら\n\n\n待ってる間にプログラミング学習できるコンテンツ\nプログラミングが動画で学べるpaizaラーニング\n\npaizaラーニングは、動画レッスンを見ながらプログラミングの基本を学び、ブラウザ上で演習問題を解くことでスキルが身につくプログラミング学習サービスです。\nPython、Java、C言語、PHP、Ruby、SQLなど人気言語の入門編から、RailsやLaravel、DjangoなどのWebフレームワークを使ってアプリ開発ができる講座など、プログラミング初心者・未経験者でも楽しくやさしく学べる内容となっています。\n動画講座は、未経験から始められる各プログラミング言語の入門編から\n\n各言語のWebアプリケーションフレームワークなどを使って、実際に簡単なWebサービスを作ってみることができる実践的なWeb開発入門編\n\nなどを公開しています。\npaizaラーニングについて詳しくはこちら\n\n\nコードクロニクル\n対応言語：Python、Java、PHP、Ruby、C#、C、C++、JavaScript、Kotlin\n\nコードクロニクル』は、「プログラミング＝魔法」というファンタジー世界で、簡単なプログラミング問題を解きながら進めていく学習ゲームです。\n豊かな自然に恵まれ、さまざまな種族が共存する穏やかな王国「パイザ」。魔法使いのお姫様エレナが17歳になった時、父王から「古より伝わりし王家秘伝の魔導書をその手におさめよ」と試練が与えられる。魔法で守られた王国「パイザ」から下界に降り立ち、人々を助けたり子どもたちに魔法を教えたりしながら進む一行、エレナと仲間たちの冒険のゆくえは……？\n\n\nコードガールこれくしょん\n対応言語：Python、Java、PHP、Ruby、C、C++、C#、JavaScript\n\n『コードガールこれくしょん』は、プログラミング問題を解いて「コードガール」を集めながらストーリーを進めていくプログラミング学習コンテンツです。\n\nゲーム内では、クエスト報酬やログインボーナスなどとして手に入るコインやダイヤを使ってさまざまなコードガールが収集できます。このコードガールは、クエストを有利に進められるスキルが使えたり、これくしょんとしてマイページに飾ったりすることができます。\nノーマルモードとハードモード（※現在Pythonのみ対応）があり、初心者でも少しずつプログラミングの練習ができます。\n\nほかにも、paizaの学習ゲームコンテンツをこちらでご紹介しています。興味のある方はぜひチャレンジしてみてください！\n\n\n\n\n\npaizaラーニング」では、未経験者でもブラウザさえあれば、今すぐプログラミングの基礎が動画で学べるレッスンを多数公開しております。\n詳しくはこちら\n\nそしてpaizaでは、Webサービス開発企業などで求められるコーディング力や、テストケースを想定する力などが問われるプログラミングスキルチェック問題も提供しています。\nスキルチェックに挑戦した人は、その結果によってS・A・B・C・D・Eの6段階のランクを取得できます。必要なスキルランクを取得すれば、書類選考なしで企業の求人に応募することも可能です。「自分のプログラミングスキルを客観的に知りたい」「スキルを使って転職したい」という方は、ぜひチャレンジしてみてください。\n詳しくはこちら",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/29/150000",
+          "publishedOn": "2021-06-29T06:00:00.000Z",
+          "wordCount": 237,
+          "title": "paiza×シュタインズ・ゲートコラボ決定！事前登録受付中",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210629/20210629132417.png",
+            "type": "image/png",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613779504703",
+          "author": null,
+          "description": "こんにちは。倉内です。\n以前、中途入社した社員がいち早く組織になじみ、成果を出すために企業側は「オンボーディング」で受け入れる必要があるとお伝えしたことがあります。\npaiza.hatenablog.com\n昨今入社時からリモート勤務というのも珍しくないと思いますが、オフィスでの受け入れと異なり課題を感じている企業も多いのではないでしょうか。\nまた、エンジニアはリモートワークとの相性がよい職種とは言え、転職直後にリモートで働く経験がある人はまだそう多くはなく、不安を感じている人がほとんどです。\nそこで今回は、リモート環境下で社員を受け入れる際に企業はどんなことに気をつけるべきか、そして企業の成功事例を見ながら具体的な取り組みについても考えたいと思います。\nリモート時代だからこそ重視したいオンボーディング\nオンボーディングをする意味\nエンジニアは実際リモートワークをどう感じているか\nアンケート回答者の属性\nリモートワークの満足度\nリモートワークの不満・不便なこと\nリモート下での具体的なオンボーディング事例\n押さえておきたい4つの基本事項\n1. 適したツールを利用する\n2. 暗黙のルールをなくし見える化する\n3. 意図的なコミュニケーション機会を設ける\n4. 適切な期待値やゴール、評価制度を設定する\n他社事例\nVisionalグループ\nNTT Communications\nLAPRAS\nまとめ\nリモート時代だからこそ重視したいオンボーディング\nオンボーディングをする意味\nオンボーディングとは、簡単に言うと「新卒・中途で採用した新入社員が帰属意識を持ち、組織の一員として早期に成果を出せるようサポートする仕組みのこと」です。\n導入するメリットは大きく以下の3つがあります。\n新しいメンバーを短期間で戦力化する\n既存社員を巻き込んだ取組みのため組織の一体感・結束力を高める\n早期退職を防…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/28/130000",
+          "publishedOn": "2021-06-28T04:00:00.000Z",
+          "wordCount": 289,
+          "title": "リモート時代のオンボーディング、事例3選＆成功のポイント",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210624/20210624174045.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613779064742",
+          "author": null,
+          "description": "Photo by Coffee Channel\nこんにちは。谷口です。\n最近、プログラミングの勉強を始めたり、エンジニアとしての就職・転職を目指したりする人が増えてきました。\n株式会社学情が先月調査した「転職における希望業種・希望職種」のアンケート結果によると、20代が転職の際に魅力を感じる業界は「IT・通信・インターネット」が34.0％で最多だそうです。昨年1月の10.1％と比較すると、3倍以上も増加しています。\nprtimes.jp\n今回は実際にIT業界やエンジニア職への就職・転職を目指している方に向けて、プログラミングの学習に役立つコンテンツをご紹介します。\nIT業界・エンジニア職に魅力を感じている人の割合\n前述の通り、20代が転職の際に魅力を感じる業界は「IT・通信・インターネット」がもっとも多く、その理由としては\n今後より伸びていく業界だと思う\n成長している業界でスキルを身につけたい\nITの知識やスキルがあれば、どこに行っても通用すると思う\nなどがありました。\n\n（出典）【20代意識調査】「IT・通信・インターネット」業界への転職を希望する20代が、コロナ前から3倍に。「成長している業界でスキルを身につけたい」の声。｜株式会社学情のプレスリリース\n転職の際に魅力を感じる職種は、「企画・事務・管理系」、次いで「ITエンジニア系（SE・システム開発・インフラ）」でした。\nITエンジニア系は昨年1月と比べると7.0ポイントも増加しており、理由としては「ITエンジニアは、現在注目されている職種。安定した生活ができると思う」などがありました。\n\n（出典）【20代意識調査】「IT・通信・インターネット」業界への転職を希望する20代が、コロナ前から3倍に。「成長している業界でスキルを身につけたい」の声。｜株式会社学情のプレスリリース\n特にIT業界・ITエンジニアに魅力を感じる人…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/25/130000",
+          "publishedOn": "2021-06-25T04:00:00.000Z",
+          "wordCount": 260,
+          "title": "20代からプログラミングを始めるための学習コンテンツ紹介",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210624/20210624184649.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613779044652",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、親指サイズの超小型ボディにLinuxを搭載し、さらにAI開発エディタやカメラなども詰め込んだ強力なカメラモジュールをご紹介します。\n手持ちのパソコンにあるUSBに挿すだけですぐに起動し、専用の開発エディタを使ってAIカメラを試したりトレーニングをしたりなどが簡単にできるのが特徴です。\nさらに顔認識、オブジェクト分類、トラッキング、カラー検出…など10種類以上の機能がすぐに利用できるうえ、Jupyter Notebookでモジュールを制御できるので便利です。\nAIを活用したい人やIoT開発に興味がある人も含めて、ぜひ参考にしてみてください！\n■「M5Stack UnitV2 AI カメラ」とは\nモニターやセンサー類などが全部入りの小型マイコンモジュール「M5Stack」シリーズで知られる中国のスタートアップ企業をご存知でしょうか。\n同社が新しく2021年に発売したのが今回ご紹介する「M5Stack UnitV2」と呼ばれるAIカメラモジュールです。非常に小さな本体なのにAI開発に必要なツールをぎっしり詰め込んでいるのが印象的です。\n\nパッケージを開けてみると、本体とは別にスタンドパーツ、microSDカード(16GB)、USBケーブルなどが同梱されています。\n\nとりあえず使ってみたいという方であれば、別途なにかを買い足さなくてもすぐに使えるので便利でしょう。\n\n本体の大まかな構成は以下のようになります。\n\nこの小さなボディにマイクやGrove互換コネクタまで搭載されているのは助かります。\n\n現時点ですぐに試せるAIカメラの機能としては次のようなものがあります。\n対象物の認識＆カスタムトレーニング\n顔認識＆検出、トレーニングによる顔認識\n対象物の自動トラッキング\n形状認識＆マッチング＆面積の自動計算\nカラー検出＆トラッキング…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/23/150000",
+          "publishedOn": "2021-06-23T06:00:00.000Z",
+          "wordCount": 308,
+          "title": "USBに挿すだけ！Linuxで動く「M5Stack UnitV2」AIカメラの実力を試してみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210623/20210623131339.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613777010943",
+          "author": null,
+          "description": "こんにちは。倉内です。\nプログラミング学習を始めたばかりの方が最初に難しいと感じるポイントが「リスト（配列）」ではないでしょうか。\nなんとなく分かったつもりでいざデータをリストで扱おうとすると、処理がうまく書けなかったり思い通りの動きをさせられなかったり…もちろん検索すればサンプルコード等はたくさん出てきますが、基本的な概念をしっかり理解しておけば応用も利きますし、この先の学習もスムーズに取り組めます。\nそこで今回は、paizaラーニングで無料公開中の動画講座「Python3入門編」と解答例つき練習問題集を利用して、プログラミング初学者の方にリストを基本から解説したいと思います！\nまた、ただいま指定のプログラミング問題に挑戦すると、抽選でAmazonギフト券がもらえるキャンペーンも実施中です。リスト処理をマスターしてぜひチャレンジしてみてください！キャンペーン詳細はこちら\n\n前置き：利用教材について\nリストとは何かを学ぼう\nリストの概念\nリストの具体例\nリストのつかいどころ\nリストの基本操作を学ぼう\nリストの作成・要素の取り出し\nリストの要素を更新する\nループ処理でリストを操作する\n多次元リストを理解しよう\n2次元リスト\n3次元リスト\nリストを使って問題を解いてみよう\n全ての要素の和（Dランク相当）\n魔法陣（Bランク相当）\nまとめ\n前置き：利用教材について\npaizaラーニングは、Webブラウザとインターネット環境があればどなたでもご利用いただけます。\n動画はプロの声優さんによる解説つきで、学習した内容をすぐ演習課題で復習できるのが特徴です。\n\n練習問題として利用するのは、さまざまな難易度・内容のプログラミング問題を集めた「レベルアップ問題集」です。\n問題を解いたあとコードをテストするための全入力ケースが閲覧でき、一部問題は解答コード・解説もついています*1。\n以降はサンプ…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/21/130000",
+          "publishedOn": "2021-06-21T04:00:00.000Z",
+          "wordCount": 357,
+          "title": "Pythonのリストをマスターする！基礎から多次元リストまで徹底解説",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210618/20210618011415.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613776510893",
+          "author": null,
+          "description": "Photo by Open Knowledge Foundation Deutschland\nこんにちは。谷口です。\n最近はリモートワークをしているエンジニアの方も増えてきたかと思います。（エンジニアに限った話ではありませんが…）\n以前piazaでリモートワークにおける課題をアンケート調査しましたが、もっとも多かった課題は「コミュニケーションのとりづらさ」でした。\nprtimes.jp\n「エンジニアは一人でもくもくと進められる仕事」というイメージを持っている人もいるかもしれません。が、実際は組織に所属してチームでプロダクトを作るわけですから、コミュニケーションは欠かせません。（エンジニアに限った話ではありませんが…）\nというわけで今回は、リモートワークが主流となったエンジニア組織におけるコミュニケーションに必要なことについて考えてみます。\nリモートにおけるコミュニケーションの複雑化\nもはや一時的なものではなくなったリモートワーク、もう一年以上会社に出社していない…なんてエンジニアの方も多いのではないでしょうか。かくいう私も昨年の3月以降一度も出社していません。\nリモートワークは通勤のストレスもなく、自分に合った環境とペースで仕事しやすいなどのメリットがあります。一方で、チーム開発を進めるために状況や情報を共有したり、議論や相談、ヒアリングや雑談、加えて求人応募者との面接などなど、仕事で細かなコミュニケーションが発生する場面は数え切れないほどあります。\n「別にSlackとzoomがあれば足りるし」と思っている人もいるかもしれませんが、特にチームリーダーなどでマネジメントや採用を担当している方々、転職先に入社したばかりだけどリモートせざるを得ない方々などの中には、こうしたコミュニケーションの難度が上がっていると感じている方も多いかと思いでしょう。\n発生しがちな課題\n出社していた…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/18/130000",
+          "publishedOn": "2021-06-18T04:00:00.000Z",
+          "wordCount": 252,
+          "title": "エンジニアを疲弊させないリモートでのコミュニケーション",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210617/20210617150237.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613776477198",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、普段から使い慣れているGoogleスプレッドシートを高品質なWebサイトに変換できるWebサービスをご紹介します！\nユーザーがやることはセルの値を変更するだけというお手軽さと、Webサイトのレイアウト構成を細かく変更したり上級者向けにJavaScriptやCSSを編集する機能も無料で提供されているのが特徴です。\n手っ取り早くクオリティの高いWebサイトを作成したい人にも最適なので、ぜひ参考にしてみてください！\n【 Siteoly 】\n\n■「Siteoly」の使い方\nそれでは、「Siteoly」をどのように使えばいいのか詳しく見ていきましょう！\nまずはサイトのトップページにアクセスして、画面上部にある【Login】ボタンから無料のユーザー登録をしておきます。\n\n\nGoogleのアイコン部分をクリックしてください。\n\n\nするとアカウント選択画面が表示されるので、利用したいアカウントを連携しましょう。\n\n\n以下のようなダッシュボードが表示されたら準備は完了です！\n\nこの画面からGoogleのスプレッドシートを活用した新規のWebサイトを作成できるようになっています。また、詳細なチュートリアルやドキュメントも充実しているので、最初にざっくりと目を通しておくといいでしょう。\n■スプレッドシートからWebサイトを作ってみよう！\nそれでは「Siteoly」を利用してもっとも基本的なWebサイトを実際に作ってみましょう。\nまずはダッシュボードから【Create new site】ボタンをクリックして新規プロジェクトを作成するところから始めます。\n\n\n高品質なWebサイトのテンプレートがいくつか表示されるので、自分の好きなタイプを1つ選択してみてください。今回はサンプルとして「Book List Template」を選んでみました。\n\nテ…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/16/150000",
+          "publishedOn": "2021-06-16T06:00:00.000Z",
+          "wordCount": 282,
+          "title": "Googleスプレッドシートが高度なWebサイトに大変身するノーコードサービス「Siteoly」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210616/20210616110703.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613773638060",
+          "author": null,
+          "description": "こんにちは。paizaラーニングでコンテンツ制作をしている学生スタッフの工藤です。\n以前、こちらの記事でソートアルゴリズムの基本について紹介しました。\n今回はその続編として、もっと効率がよく実用的なソートアルゴリズムである「シェルソート」「マージソート」「クイックソート」を学べる練習問題集「効率的なソートアルゴリズムメニュー」を公開しました。\n\nプログラミング問題を解いてソートアルゴリズムについてさらに理解を深めていきましょう！\nなお、この問題集の一部の問題は「素朴なソートアルゴリズムメニュー」の内容を前提としているため、そもそもソートアルゴリズムとは何か？という前提を知りたい方、および「選択ソート」「挿入ソート」「バブルソート」に馴染みのない方は、まずそちらから取り組んでみてください。\nレベルアップ問題集とは\n「効率的なソートアルゴリズムメニュー」は、レベルアップ問題集にて公開しています。\nレベルアップ問題集とは、プログラミング学習における計算ドリルや漢字ドリルのようなものだと思ってください。\nドリルのようにプログラミング問題を解き進めながら、解答例となるコード（一部言語）や解説文も参照できる*1ため分からないことを理解したり、苦手なポイントを克服したりできるように作られています。\npaizaが提供しているスキルチェックとは異なり時間制限がなく、問題文や自分の解答コードを公開することが認められていますので、誰かと協力して取り組むことも可能です。\n\n練習問題集「効率的なソートアルゴリズムメニュー」\n「効率的なソートアルゴリズムメニュー」には、プログラミング問題が全3問用意されています。\nソートとは簡単に言うと、順序づけることができるデータの集まりを、なんらかの基準に従って並べる操作のことです。\nソート処理はとても基本的なアルゴリズムで、いたるところで利用されています。ほんの…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/14/130000",
+          "publishedOn": "2021-06-14T04:00:00.000Z",
+          "wordCount": 507,
+          "title": "効率的な「ソートアルゴリズム」を学ぶ！プログラミング問題集公開",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210609/20210609175246.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613773585485",
+          "author": null,
+          "description": "Photo by Sarebea\nこんにちは。谷口です。\n最近、パナソニックによる中高年社員の早期退職募集が話題になりました。少し前には富士通やNECといった企業も同じような大規模な人員整理を実施していましたし、大企業の雇用や経営状況に関するニュースは依然として絶えません。\nnews.yahoo.co.jp\nエンジニアの中には、「言うてもIT業界とかエンジニアは大丈夫だろう、人員不足だし」と考えている方もいるかもしれません。が、新型コロナウイルスの流行が依然としておさまらず、景気の回復も見込めない現在、そんな悠長なことは言っていられないかもしれません。\nノースキルの中高年エンジニアは不要\n「もう終身雇用制度の時代は終わっている」という話を聞いたことがある人は多いでしょう。ただ、実際に自分の会社でリストラがあったとか、給与が大幅に下げられたといった経験がない限り、身をもって実感している人はまだまだ少ないかと思います。\nむしろ、前述の通り「言うてもIT業界やエンジニアは大丈夫だろう（≒自分は大丈夫だろう）」と思っている人のほうが多いのではないでしょうか。\n日本はやはり仕事とは「終身雇用で一生ひとつの会社に勤めるもの」「キャリアは勤め先が引いた道を歩いていくもの」という考えが結構残っているわけですが、もう終身雇用が崩壊しているわけです。\nかつて高度成長期の時代は、働いていれば社会の経済成長に伴い昇給していくことができました。加えて、企業の言う通りに仕事をしていれば終身雇用で一生面倒を見てもらえるので、定年まで一社で働き続ける人がほとんどでした。それこそ大手企業に入社して順調に出世していくのは、理想のキャリアでした。\nところが現在はどうでしょう、誰もが知っている大手企業が大規模な人員整理を実施しています。\n前述のパナソニックで対象とされたのは50代以降の中高年社員ということですが、…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/11/153000",
+          "publishedOn": "2021-06-11T06:30:00.000Z",
+          "wordCount": 235,
+          "title": "中高年で低スキルの「名ばかりエンジニア」が淘汰される時代",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210610/20210610135547.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613773898150",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回はあらゆるWebサイトを誰でも簡単にノーコードでPWAに変えることができるWebサービスをご紹介します。\n一般的なサーバにホスティングされているサイトだけでなく、Wordpressで作成されたサイトからWebflowなどのサービスを利用して作られたサイトまで幅広く対応しているのが特徴です。\nPWA対応にご興味ある方はぜひ参考にしてみてください！\n【 Progressier 】\n\n■「Progressier」の使い方\nそれでは、「Progressier」をどのように使えばいいのかを詳しく見ていきましょう！\nまずはPWAに変換したいWebサイトを準備します。今回は、サンプルとしてNetlifyでホスティングしている以下のようなサイトを用意しました。\n\nこのサイトを試しにPWA対応していくことにしましょう。\n\n「Progressier」のトップページにアクセスしたら、画面中央にある入力ボックスへPWAにしたいWebサイトのURLを貼り付けてください。\n\n\n設定画面が表示されるので、好きなプロジェクト名を入力します。\n\n\n次にWebサイトの種類を選択するのですが、今回の場合だと「Standard site」を選択します。\n\n他にも「Webflow」「Wordpress」などで作られたWebサイトにも対応しているので、自分の環境に合った種類を選択してみてください。\n\n最後にメールアドレスやパスワードを設定してユーザー登録を済ませておきましょう。\n\n\n以下のようなダッシュボードが表示されたら準備は完了です！\n\nあとはこのダッシュボードからWebサイトをPWAに変換したり、複数のサイトを設定・管理したりなどができるようになります。\n■WebサイトをPWAにしてみよう！\nさきほど表示されたダッシュボードには、いくつかタスクが用意されているの…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/09/150000",
+          "publishedOn": "2021-06-09T06:00:00.000Z",
+          "wordCount": 257,
+          "title": "どんなWebサイトもノーコードでPWA化を実現できる「Progressier」を試してみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210609/20210609123121.png",
+            "type": "image/png",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613772101654",
+          "author": null,
+          "description": "こんにちは。倉内です。\nコロナ禍においてもエンジニア、とりわけ経験者の転職では売り手市場が続き、むしろ企業側が採用に苦労しているというのが現状です。\n先日dodaが発表した転職求人倍率レポート（2021年4月）を見ても、業界ではIT・通信、職種では技術系（IT・通信）が他を大きく引き離し高い求人倍率を維持しています。\nしかし、このような状況下かつスキルも経験もそれなりにあるにもかかわらず、なぜか転職活動がうまくいかなかったり、転職後に後悔する方もいらっしゃいます。\n100％確実な必勝法はないにせよ、それらの多くは企業選びさえきちんとポイントを押さえてやっておけば回避できた可能性があります。\nそこで今回は、paizaがITエンジニア専門の転職サイトを運用する中で見えてきた、実力があるのに企業選びで失敗してしまう人の特徴と対策をお伝えしたいと思います。\n実力があるのに企業選びに失敗する人の特徴\n勢いで転職先を決めてしまった\n冒頭でもお伝えしたとおり、エンジニア経験がある方は、転職サイトに登録してある程度プロフィールを埋めておけばスカウトメールがいくつも届くと思います。\nパッと見てよさそうだな・興味をひかれるなという直感はとても大切ではあるのですが、勢いだけで転職先を決めてしまうと入社後にギャップを感じて後悔する方が多いようです。\n特に現状の環境がつまらないと感じていたり、変化がほしいと感じていたりする人ほどその傾向が強いため注意が必要です。\nたとえば、スタートアップ企業に憧れてとんとん拍子に選考も進んで飛び込んだが、すぐに事業を畳んでしまったなんてことになったら大変ですよね。大企業や創業年数が長い企業が絶対安心という時代ではないものの「成長性・将来性のある事業をおこなっているか」の見極めはやはり必要です。\nと言っても、自分で判断をするのは難しいですよね。そこでひとつの目安として…",
+          "link": "https://paiza.hatenablog.com/entry/2021/06/07/140000",
+          "publishedOn": "2021-06-07T05:00:00.000Z",
+          "wordCount": 234,
+          "title": "なぜスキルのあるエンジニアが転職で企業選びに失敗するのか",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210604/20210604192427.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Qiita - 人気の記事",
+      "feedUrl": "https://qiita.com/popular-items/feed",
+      "siteUrl": "https://qiita.com/popular-items",
+      "articles": [
+        {
+          "id": "https://qiita.com/koorinonaka/items/a14b5e6b872ebc73cf31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "3度のアップデート（作り直し）を経て、いくつか知見を得たのでここに記します。\n\nfootsteps とは\n\n足音、足跡、その他、足元からトレースした地面に対して再生するエフェクトを指します。\n\nエフェク…",
+          "link": "https://qiita.com/koorinonaka/items/a14b5e6b872ebc73cf31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T15:03:14.000Z",
+          "wordCount": 668,
+          "title": "[UE] 足跡、足音エフェクトを再生する"
+        },
+        {
+          "id": "https://qiita.com/kn339264/items/86f2cd54c015b5ed49a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "書籍『プログラミングElixir』に書かれたコードを実行できる環境を作ります。\n\nElixirをインストール\n\n環境はmacOS BigSur バージョン11.3.1です。\n\nhttps://elixir…",
+          "link": "https://qiita.com/kn339264/items/86f2cd54c015b5ed49a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T13:07:21.000Z",
+          "wordCount": 325,
+          "title": "mac+VSCodeでElixir実行環境を作る"
+        },
+        {
+          "id": "https://qiita.com/moriai/items/f633e01728d8d062adb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n仮想環境上の Windows 10 で WSL を使っている。WSL が 2 になり、軽く快適にはなったのは良いのだが、Windows との時刻が大きくズレていることがある。\n\nPS> w…",
+          "link": "https://qiita.com/moriai/items/f633e01728d8d062adb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T11:00:10.000Z",
+          "wordCount": 955,
+          "title": "WindowsとWSL2の時刻のズレが気になる..."
+        },
+        {
+          "id": "https://qiita.com/silloi/items/27a361cf2f2729871b69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年7月3日（日本時間）、Vueの創始者Evan Youが新たなパッケージをリリースしました。\n\nhttps://github.com/vuejs/petite-vue\n\npetite-vue\n\np…",
+          "link": "https://qiita.com/silloi/items/27a361cf2f2729871b69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T07:43:27.000Z",
+          "wordCount": 667,
+          "title": "petite-vue 最速 使い方"
+        },
+        {
+          "id": "https://qiita.com/kanawoinvest/items/23507afc7d83f474e75b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "モチベーション\n\nどうも、ご無沙汰しております。最近も相変わらず投資戦略について研究しています。さて、今回は、投資戦略と言っても、大まかに二つのアプローチがあり、一つは収益機会を見つける（予測または…",
+          "link": "https://qiita.com/kanawoinvest/items/23507afc7d83f474e75b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T07:23:46.000Z",
+          "wordCount": 841,
+          "title": "～アルゴリズム取引・教養編～　エド・ソープから学ぶケリー基準"
+        },
+        {
+          "id": "https://qiita.com/Tonky/items/fd82d70840d74cd774dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めに\n\n最近、DjangoのORMが発行しているqueryを見る機会がありました。\nしかし、僕自身SQLについて勉強をあまりしたことがなかったので、ORMが発行するqueryを見てもチンプンカンプ…",
+          "link": "https://qiita.com/Tonky/items/fd82d70840d74cd774dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T04:20:09.000Z",
+          "wordCount": 565,
+          "title": "SQL備忘録"
+        },
+        {
+          "id": "https://qiita.com/aizawa213/items/0d9ae989a94e3943942a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何\n\n最近マークダウン記法を使い始めたのですが、最初プレビューでよく崩れを起こして戸惑ったのでマークダウン崩れちゃうポイントと対処法についてまとめました。\n\nはじめに\n\nこの後マークダウン崩れちゃ…",
+          "link": "https://qiita.com/aizawa213/items/0d9ae989a94e3943942a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T04:19:24.000Z",
+          "wordCount": 550,
+          "title": "「マークダウン書く時なんか崩れちゃうんだよな」ポイントをなくす"
+        },
+        {
+          "id": "https://qiita.com/uhooi/items/ce31c80b7f5035e20be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nSwiftUIでスプラッシュ画面を実装する方法を紹介します。\n\n環境\n\n\nOS：macOS Big Sur 11.3\nXcode：12.5 (12E262)\nSwift：5.4\n\n\nスプラッシュ画…",
+          "link": "https://qiita.com/uhooi/items/ce31c80b7f5035e20be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T04:03:58.000Z",
+          "wordCount": 453,
+          "title": "SwiftUIでスプラッシュ画面を実装する方法(iOS)"
+        },
+        {
+          "id": "https://qiita.com/s_meika/items/1c87253a542ffc45a764?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "お知らせ\n\n過去数回解説したものの実装をgithubで公開しました。\n\n\nTOPPERS/ASP for Wio Terminal with Rust\nサンプルプログラム\n\n\nまだ動作確認は途中ですが、記事…",
+          "link": "https://qiita.com/s_meika/items/1c87253a542ffc45a764?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-03T03:02:42.000Z",
+          "wordCount": 292,
+          "title": "TOPPERS/ASPをRustから使うサンプル(α版)を公開しました"
+        },
+        {
+          "id": "https://qiita.com/Daigorian/items/4482c51adf282fc79db7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は\n\nAndroid TVアプリ開発者が自分の開発したアプリを amazon Fire TV に配信するまでに行った作業をまとめています。\n\n開発したアプリ\n\n実際に開発したアプリはこちらの E…",
+          "link": "https://qiita.com/Daigorian/items/4482c51adf282fc79db7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T19:30:39.000Z",
+          "wordCount": 838,
+          "title": "android TV アプリをamazon Fire TVに対応させる(またはamazon appstore審査で聞かれること)"
+        },
+        {
+          "id": "https://qiita.com/noji505/items/59eb8949c075a4f249cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n業務にてテスト実施等の際に、テストを実施した証拠として画面のキャプチャー画像を作成することがあると思います。\nキャプチャー画像を作成する方法は色々あると思うのですが、個人的に楽だと思う方…",
+          "link": "https://qiita.com/noji505/items/59eb8949c075a4f249cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T17:20:14.000Z",
+          "wordCount": 306,
+          "title": "Windowsでスクリーンショット作成"
+        },
+        {
+          "id": "https://qiita.com/yoshii0110/items/ec209712cafa7547c680?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n\n今回は、今年5月くらいにローンチされたAWSの新サービス、APP Runnerについて特徴的な部分をピックアップしまとめていきます。(ハンズオン系の記事はいっぱいあるので、、)\nまた、内…",
+          "link": "https://qiita.com/yoshii0110/items/ec209712cafa7547c680?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T15:22:23.000Z",
+          "wordCount": 337,
+          "title": "App Runnerの特徴9つまとめてみた"
+        },
+        {
+          "id": "https://qiita.com/ohakutsu/items/422aafb04a886f6d654c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は Qiita の記事投稿イベント「こんなことまで！？ブラウザでできること選手権」の記事です。\n\nhttps://qiita.com/official-events/be8c5ab5a9ddf…",
+          "link": "https://qiita.com/ohakutsu/items/422aafb04a886f6d654c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T12:59:03.000Z",
+          "wordCount": 443,
+          "title": "すぐに対応できそうな PWA をより良くするための API を調べてみた"
+        },
+        {
+          "id": "https://qiita.com/Takuyaaaa/items/00c0154307a556ffea90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "仕事以外の時間もプログラミングやその他技術を学習するなどして過ごしているエンジニアも多いと思いますが、自分もその一人でした。インプットとして技術書などもよく読んでいるのですが、勉強する中で下記の様な…",
+          "link": "https://qiita.com/Takuyaaaa/items/00c0154307a556ffea90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T11:40:10.000Z",
+          "wordCount": 331,
+          "title": "技術書プラットフォーム\"Hello Books\"の紹介と個人開発のすすめ"
+        },
+        {
+          "id": "https://qiita.com/getty104/items/c06773198c0244e7744d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何\n\nhttps://qiita.com/official-events/d409f91fc8b9b44cefb4\n\nの参加記事です。\n\nエンジニアとして開発をしていく以上、設計についての知識を身…",
+          "link": "https://qiita.com/getty104/items/c06773198c0244e7744d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T11:30:10.000Z",
+          "wordCount": 344,
+          "title": "設計を学びたいときに読みたい本一覧"
+        },
+        {
+          "id": "https://qiita.com/water0328/items/b054314cbe2f5277f63e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n今回は私が実際に使用しているfigmaのプラグインの紹介をしていこうと思います。\n\nおすすめプラグイン\n\n1. Font Preview\n\n手持ちのフォントをリアルタイムでプレビューできます。…",
+          "link": "https://qiita.com/water0328/items/b054314cbe2f5277f63e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T10:16:59.000Z",
+          "wordCount": 296,
+          "title": "【使わないと損！？】figamオススメプラグイン"
+        },
+        {
+          "id": "https://qiita.com/hedgehog-genki/items/c32df2fd1b241ab8ba1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "桐生ココさん卒業LIVEに合わせてモザイクアート動画を作成した話\n\nこれまでアップしてきた動画、アーカイブのサムネを使用してモザイクアートを作成して、動画にしました。I will never for…",
+          "link": "https://qiita.com/hedgehog-genki/items/c32df2fd1b241ab8ba1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T08:54:02.000Z",
+          "wordCount": 532,
+          "title": "桐生ココさん卒業LIVEに合わせてモザイクアート動画を作成した話"
+        },
+        {
+          "id": "https://qiita.com/daishi/items/b4b6e683fdb8bb8c9f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-4-beta/\n\nが出ていたので、読んでみて個人的に気になったものを…",
+          "link": "https://qiita.com/daishi/items/b4b6e683fdb8bb8c9f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T04:35:28.000Z",
+          "wordCount": 498,
+          "title": "「Announcing TypeScript 4.4 Beta」を読む"
+        },
+        {
+          "id": "https://qiita.com/m-ultimatrust/items/c4f72e3a8c7fa4bf81e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n私はUltimatrust株式会社にて、主にAI分野の開発を担当しています。\n\nこの記事では会社の宣伝も兼ねて、AI技術に触れたことがない方に向けて、「AIという技術が何なのか」というとこ…",
+          "link": "https://qiita.com/m-ultimatrust/items/c4f72e3a8c7fa4bf81e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T01:07:44.000Z",
+          "wordCount": 406,
+          "title": "AIという技術─機械学習とディープラーニングの差異"
+        },
+        {
+          "id": "https://qiita.com/yuma_1999_/items/f2a15224e4c28eb0883b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの記事ではcanvas要素にて描かれた画像をスクレイピングする方法について紹介したいと思います．\n\n注意\nこの記事を参考にして利用する際には著作権法や利用規約を理解した上で行いましょう．\n\n今回の課…",
+          "link": "https://qiita.com/yuma_1999_/items/f2a15224e4c28eb0883b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-02T01:02:16.000Z",
+          "wordCount": 501,
+          "title": "canvas要素にて描かれた画像をスクレイピングする方法"
+        },
+        {
+          "id": "https://qiita.com/Soogle_1729/items/fe9c8cf44ad36a9a3127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "サービス概要\n\nキャンプの写真・キャンプギア・場所の記録できる投稿型のサービスです。\nURL：https://www.takibee.net\nGithub：https://github.com/Mo…",
+          "link": "https://qiita.com/Soogle_1729/items/fe9c8cf44ad36a9a3127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T22:54:25.000Z",
+          "wordCount": 334,
+          "title": "【個人開発】キャンプを記録するサービスTAKiBee（タキビー）をリリースしました!"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/de4a7aa2409b54e42817?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "プレゼン、凝りたいと思い始める時が危ないですね。\n以下あたりが軸なのかなと思い、並べてみました。\n結局UMLとかシーケンス図とかAWSの図とかどれで描くと良いのよ？と思ったときの選択肢 - Qiita の姉妹編です…",
+          "link": "https://qiita.com/e99h2121/items/de4a7aa2409b54e42817?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T21:22:00.000Z",
+          "wordCount": 351,
+          "title": "結局Markdownでプレゼン資料ってどれで作ると良いのよ？と思ったときの選択肢"
+        },
+        {
+          "id": "https://qiita.com/aoen210/items/ccfdb9060229b9b7fb16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n6/29にAnsible Runner v2.0.0 がリリースされました．\n使用感が気になり試してみました．\n\nAnsible Runner とは\n\nansible-playbook の後…",
+          "link": "https://qiita.com/aoen210/items/ccfdb9060229b9b7fb16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T19:01:49.000Z",
+          "wordCount": 624,
+          "title": "Ansible Runner v2.0.0 を触ってみた"
+        },
+        {
+          "id": "https://qiita.com/kuluna/items/5c997fba91ccd806121b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Unity 2020.2からC#のバージョンがあがり、C#をnullセーフで書くことができます。\n\n有効にするには\n\nusing文とclass宣言の前にnullセーフを有効にする特別なフラグを書きます。\n\nusing System.Collections;\nusing System.Collections.Generic;\nusing UnityEngine;\n\n#nullable enable\n\npublic class Hoge : MonoBehaviour\n{\n}…",
+          "link": "https://qiita.com/kuluna/items/5c997fba91ccd806121b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T12:42:46.000Z",
+          "wordCount": 389,
+          "title": "Unityでnullセーフに書く"
+        },
+        {
+          "id": "https://qiita.com/magokorokun/items/6cfd484ff1614dfe9ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "馬心君（まごころくん）とは\n\n2005年に発表した、遺伝的アルゴリズムによる競馬予想サイト、「馬心君（まごころくん）」のバージョンアップを毎年試みていますが、なかなか初版の成績を超えることができずに…",
+          "link": "https://qiita.com/magokorokun/items/6cfd484ff1614dfe9ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T10:51:32.000Z",
+          "wordCount": 597,
+          "title": "遺伝的アルゴリズムによる競馬予想ソフト「シン・馬心君」PoCスタート！"
+        },
+        {
+          "id": "https://qiita.com/T-STAR/items/d7a9e08caec5cd4c3f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "趣旨\n\nAttentionを主要なコンポーネントとして構成される画像認識モデルの論文へのリンクを、arXiv.orgへの論文登録日時の順で並べて掲載。公式実装が公開されている場合は、そのリンクも掲載。\n…",
+          "link": "https://qiita.com/T-STAR/items/d7a9e08caec5cd4c3f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T08:20:21.000Z",
+          "wordCount": 5076,
+          "title": "Transformer系画像認識モデル論文リンク集"
+        },
+        {
+          "id": "https://qiita.com/uesyn/items/cf47e12fba5e5c5ea25f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PodSecurityPolicyの廃止とPodSecurity\n\nKubernetesのv1.21でPodSecurityPolicy(以下PSP)が非推奨となり、v1.25では削除される予定とな…",
+          "link": "https://qiita.com/uesyn/items/cf47e12fba5e5c5ea25f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T08:09:47.000Z",
+          "wordCount": 831,
+          "title": "PodSecurityPolicyの廃止に備えて、一足先にPodSecurity Admissionを試してみよう!"
+        },
+        {
+          "id": "https://qiita.com/tokawa-ms/items/bf0784fd00cbe88d8663?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nAzure Virtual Machines の RTT 測定には、Azure Datacenter 内のネットワーク高速化の仕組み上、TCP/UDP かつ、実際に到達できるポートに対する通…",
+          "link": "https://qiita.com/tokawa-ms/items/bf0784fd00cbe88d8663?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-01T07:40:34.000Z",
+          "wordCount": 751,
+          "title": "Azure 仮想マシン 高速ネットワーク 概要 ~ Azure VM 間の RTT 測定に ICMP を使ってはいけない ~"
+        },
+        {
+          "id": "https://qiita.com/gilly/items/5ff7bd7142e963cdbb9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近、仕事で使うMacを新しくしました。\n入っていたOSがCatalinaだったため、デフォルトのシェルがZshでした。\n\nどうやら今後もZshのままみたいですし、ならばZshで環境整えよ…",
+          "link": "https://qiita.com/gilly/items/5ff7bd7142e963cdbb9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-06-30T23:48:23.000Z",
+          "wordCount": 626,
+          "title": "bashからZshに乗り換え - preztoを使ってプロンプトテーマを変えてみた"
+        },
+        {
+          "id": "https://qiita.com/kyuko_dance/items/dae0e9fc6391a3531f04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n未経験からプログラマとして今の会社に入社して、研修で初めて教えてもらったのがSQLでした。\n初めてプログラミングに触れるので不安もありましたが、いざやってみると意外にも簡単で拍子抜けしたこ…",
+          "link": "https://qiita.com/kyuko_dance/items/dae0e9fc6391a3531f04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-06-30T23:16:57.000Z",
+          "wordCount": 1136,
+          "title": "SQL練習問題六講"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
