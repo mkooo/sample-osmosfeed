@@ -2,10 +2,279 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T01:01:53.724Z</updated>
+    <updated>2021-07-06T01:06:39.306Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RustでCコンパイラ作ってみた]]></title>
+        <id>https://qiita.com/temmaru/items/6da42ede23aeabe8c263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/temmaru/items/6da42ede23aeabe8c263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T09:01:46.000Z</updated>
+        <summary type="html"><![CDATA[背景
+
+Rustという言語がとても気になっていた。
+まだ登場してから長くない言語なのに、Oracleのコンテナランタイム環境として採用されたり、MicrosoftがC++の後継として採用したりと、主…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米IT企業にサイバー攻撃FBI調査]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397883?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397883?source=rss"/>
+        <updated>2021-07-05T07:49:00.000Z</updated>
+        <summary type="html"><![CDATA[FBIは3日、米IT企業への大規模なランサムウエア攻撃を調査していると表明した。2日、米クライアント管理システムサービスのカセヤがサイバー攻撃を受けた。ロシア系のランサムウエア攻撃集団「REvil」の関与が疑われている。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未経験者が１年間、１日１コミットを毎日やってみて得たこと]]></title>
+        <id>https://qiita.com/CHOIJUNGWON/items/2cabde81ad9588f3e092?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/CHOIJUNGWON/items/2cabde81ad9588f3e092?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T06:11:41.000Z</updated>
+        <summary type="html"><![CDATA[始めた理由
+
+１日１コミットとは文字通り、毎日欠かさず何かしらのコミットをすることです。
+入社当時、私はプログラミングに関してなんの経験もなかった未経験者だったので、今後開発の仕事を上手くやれる自信…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾン新CEO 帝国守れるか]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397871?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397871?source=rss"/>
+        <updated>2021-07-05T05:56:42.000Z</updated>
+        <summary type="html"><![CDATA[アンディ・ジャシー氏は5日、創業者のジェフ・ベゾス氏の後任としてアマゾンの最高経営責任者（CEO）に就任する。「アンディはジェフの直属の部下の中で一番アマゾンらしかった」という声も。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック]]></title>
+        <id>hatenablog://entry/26006613782549489</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/05/130000"/>
+        <updated>2021-07-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+これからITエンジニアを目指そうという方の中には、学校で情報系を専攻した方もいれば、そうでない方もいらっしゃると思います。
+プログラミングは、向き不向きもありますが、基本の習得からサービスやアプリの開発までその気があればWebの学習教材や書籍、スクールに通うなどの方法で十分習得することができます。
+ただ、業務で開発をする場合、コードさえ書ければよいというわけではなく、それ以外にも実務で必須のテクニックがあります。特に未経験からエンジニアになると最初はそのあたりが分からず苦労することも多いようです。
+そこで今回は、エンジニアとして開発をおこなうにあたって、覚えておくべき基本的なテクニックのうちいくつかをお伝えしたいと思います。
+エンジニアを目指す人向け・開発の必須知識6選
+コーディングの規則について知る
+あとから読んでも理解できるコメントを残す
+エラーメッセージに慣れる
+コマンド実行を嫌がらない
+適切にログを出力して検証などに役立てる
+欲しい結果にたどり着くための検索力をつける
+なぜ業務ではそういった知識が必要になるのか
+チームで開発する
+開発規模の違い
+影響範囲の違い
+まとめ
+エンジニアを目指す人向け・開発の必須知識6選
+コーディングの規則について知る
+学習のためにプログラミング問題を解いたり、趣味でひとりで開発したりといったときにはとりあえず動くコードであればいいかもしれません。
+ただし業務での開発は多くの場合チームでおこないます。自分が書いたコードを他の人がメンテナンスしたり、逆に他の人が担当した機能に手をいれるために影響範囲を調べたりすることもあるでしょう。業務ではそういったことも意識してコードを書く必要があります。
+そこで、保守性や品質を高めるためにプロジェクトで共通して守るべきコーディングのルールをまとめたものが「コーディング規約」です。コ…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSストレージサービスのそれぞれの特徴]]></title>
+        <id>https://qiita.com/Mikoto_Hashimoto/items/811777be1083e6158916?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Mikoto_Hashimoto/items/811777be1083e6158916?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T02:36:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+AWSには様々なストレージサービスがあります。
+一番よく聞くのはS3でしょう。他にもEBSやEFSなどもストレージサービスに含まれます。
+では、それらは一体なにが違うのでしょうか。
+
+実は…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【bash】if (testコマンド) の`-a`, `-e`オプションの違い]]></title>
+        <id>https://qiita.com/eyuta/items/8bf591a97b0de6ad1284?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/eyuta/items/8bf591a97b0de6ad1284?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T01:30:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+help testコマンドによると、「ファイルが存在するか」を判定するオプションは、以下の 2 種類がありました。
+今回は、この 2 つのオプションの挙動の違いを調べてみました。
+
+
+-a …]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[liff.init()時のセキュリティ改善について]]></title>
+        <id>https://qiita.com/ppt_msdg_maas/items/869531a67f1e5fcac22b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ppt_msdg_maas/items/869531a67f1e5fcac22b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T01:20:23.000Z</updated>
+        <summary type="html"><![CDATA[導入
+
+LINE上でアプリを開発する際に、LIFFを使用している方が多いのではないでしょうか。
+LINE上のユーザー情報などを取得する際には、liff.init()を実行するのですが、今まではアクセ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビジュアルプログラミングだけで郵便受けにモノが入ってるかどうか検知してみた]]></title>
+        <id>https://qiita.com/inui_yui/items/6de23911cded9d4423dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/inui_yui/items/6de23911cded9d4423dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T00:52:12.000Z</updated>
+        <summary type="html"><![CDATA[あらすじ
+
+マンションに住んでおり、エントランスに郵便受けがあります。テレワークや緊急事態宣言によって家から出る日が減り、郵便受けを毎日確認しにいくのがめんどくさくなりました。確認しても何も入ってな…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スケールする要求を支える仕様の「意図」と「直交性」]]></title>
+        <id>https://qiita.com/hirokidaichi/items/61ad129eae43771d0fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hirokidaichi/items/61ad129eae43771d0fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T00:42:49.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+どんなソフトウェアエンジニアも拡張しやすくメンテナンスしやすいソフトウェアを作りたいと思っているはずです。また、どんなプロダクトマネージャも同様に拡張しやすいシンプルな要求を作りたいと考…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラムでチェックしているとしてもDBにも必ず制約をつけよう！]]></title>
+        <id>https://qiita.com/ham0215/items/1d42464e666917475ff1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ham0215/items/1d42464e666917475ff1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T00:07:21.000Z</updated>
+        <summary type="html"><![CDATA[RDBに保存するデータの必須チェックやユニークチェックはプログラムでチェックする事もできますが、DBの制約でチェックする事もできます。
+
+例えばusersテーブルのnameは必須という仕様を実装する場…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【音声認識】GCPのCloud Speech-to-Text APIを利用して音声認識入門してみた]]></title>
+        <id>https://qiita.com/kodai_ari/items/f8505b51ad0a70351c43?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kodai_ari/items/f8505b51ad0a70351c43?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T23:20:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+私は普段AWSを用いてシステムの開発を行なっているインフラエンジニアです。
+最近機械学習に興味をもち始め、Google Cloud Platform(GCP)で機械学習APIとして提供さ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[すごいReactフック8選]]></title>
+        <id>https://qiita.com/baby-degu/items/52dbb382bbaf6c43e2db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/baby-degu/items/52dbb382bbaf6c43e2db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T23:06:16.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、Simon Holdorf氏による「8 Awesome React Hooks」（2021年4月4日公開）の和訳を、著者の許可を得て掲載しているものです。
+
+すごいReactフック8選
+
+
+
+はじ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercelを使ってLINE Botを永続化する]]></title>
+        <id>https://qiita.com/tomosukesan/items/357c05ec58574b639089?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tomosukesan/items/357c05ec58574b639089?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T22:04:53.000Z</updated>
+        <summary type="html"><![CDATA[本記事はこちら↓を参考に実施しています。
+まずは「1.2」の項目を行なっていただきたいです。
+「3. デプロイ」から仕様が変更されています。
+＊Vercelはnow時代から仕様がちょくちょく変わる、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AwesomeなSRE読み物集 - SRE Resources「On call」の章を中心に]]></title>
+        <id>https://qiita.com/e99h2121/items/ae338e099f2ba765aed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/ae338e099f2ba765aed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T21:15:15.000Z</updated>
+        <summary type="html"><![CDATA[本当にawesomeなGitHubのawesomeリスト の、Awesome SRE - Site Reliability Engineering Resources
+
+https://github.…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Swift] URLSession+async/await+CodableでAPIクライアントを作る]]></title>
+        <id>https://qiita.com/hcrane/items/288a5f89dc5b2dbec8f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hcrane/items/288a5f89dc5b2dbec8f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T17:36:31.000Z</updated>
+        <summary type="html"><![CDATA[※注意
+本記事は Xcode 13.1 beta の環境で動作確認したものです。正式版では動作が変わる可能性もあります。
+
+前書き
+
+過去に以下のような記事を上げていましたが、その async/awai…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefoxは危険なJavaScriptに対応しない]]></title>
+        <id>https://qiita.com/rana_kualu/items/8803f02c72a54f366f2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/rana_kualu/items/8803f02c72a54f366f2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T16:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Firefox / Safari
+
+MozillaはMozilla Specification Positionsというリストを公開しています。
+
+IETFやW3C、TC39などが提唱しているWeb技術…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【LambdaでOpenCVを利用】AWSとOpenCVを利用してポケモン画像でアスキーアート風に変換するAPIを作った]]></title>
+        <id>https://qiita.com/yuikoito/items/7dcf1deeed46f46b2f2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yuikoito/items/7dcf1deeed46f46b2f2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T16:07:38.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Yuiです。
+
+引き続き週イチ発信をしていきます。
+今週はAWSとOpenCVを使って、画像処理を行ったのでそのことについて書きます。
+
+以下の件です。
+
+ポケモンAPIとOpenCVを使って…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ページ内ナビゲーションの現在地の表示は IntersectionObserver を使うと良さそう]]></title>
+        <id>https://qiita.com/minojiro/items/9d7239d63d3000d13d11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/minojiro/items/9d7239d63d3000d13d11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T16:06:28.000Z</updated>
+        <summary type="html"><![CDATA[ここ最近、ウェブページ内ナビゲーションの現在地の表示（カレント表示）を実装する時は IntersectionObserver を使っています。
+以前はスクロールイベントで位置を取って計算していました…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネット広告汚染 ゆがんだ構造]]></title>
         <id>https://news.yahoo.co.jp/pickup/6397811?source=rss</id>
@@ -14,6 +283,33 @@
         <summary type="html"><![CDATA[2020年のネット広告費は2兆2290億円で、テレビや新聞などマスコミ4媒体の2兆2536億円に匹敵するほど成長を続ける。それに比例して、生活者を欺くような広告も増えている。関係者に取材を進めると、業界のゆがんだ構造が見えてきた。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【個人開発】Node.jsを使用したWebサイトの構築]]></title>
+        <id>https://qiita.com/nacho0707/items/650b3cbdfb99588dffa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nacho0707/items/650b3cbdfb99588dffa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T12:33:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+半年間かけNode.jsを使用したWebサイトの構築を行いました。おすすめの飲食店の紹介サイトみたいなものです。この記事ではWebサイトの進め方や使用した技術について紹介していきます。
+…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[p5.jsでマウスに反応していい感じにフワフワする波を書く]]></title>
+        <id>https://qiita.com/aizawa213/items/1345a3c9a5959b8a7df8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/aizawa213/items/1345a3c9a5959b8a7df8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T10:51:33.000Z</updated>
+        <summary type="html"><![CDATA[これは何
+
+昔p5.jsでつくったマウスに追従する波の書き方とコードをまとめたものです。
+備忘録もかねてめちゃめちゃ細かく書いてます。
+自分が書いたコードなのに全然内容が思い出せなくて焦ったのでちゃ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +372,18 @@ GitHubに成果物がございます。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Power Automate Desktop実行ログのPower BIによる可視化]]></title>
+        <id>https://qiita.com/ishiayaya/items/05b3d626e1ee2b0d6a87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ishiayaya/items/05b3d626e1ee2b0d6a87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T07:12:29.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+　2021/06/28のPower Automateのブログ Advanced Power Automate RPA run log analytics with Power BI an…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ハッカソンを開催・参加して「アウトプット共有アプリ」を作った話]]></title>
         <id>https://qiita.com/Hiyoko1213/items/6ebfcfecb66cb5684d8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/Hiyoko1213/items/6ebfcfecb66cb5684d8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -96,6 +404,18 @@ Qiita初投稿になります,株式会社varインターン生のreimeiです.
         <summary type="html"><![CDATA[e-Statとは
 
 e-Statとは日本の統計が閲覧できる政府統計ポータルサイトである。各省庁が公表しているデータは基本的にe-Statから入手可能である。e-Statでのデータ入手方法は２通りある…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「初手lightgbm」に代わる「初手PyCaret」]]></title>
+        <id>https://qiita.com/TOMOYUKIDS/items/3aa81b2bf9c80f756c46?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/TOMOYUKIDS/items/3aa81b2bf9c80f756c46?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T04:27:09.000Z</updated>
+        <summary type="html"><![CDATA[1. 「初手lightgbm」とPyCaret
+
+データ分析を行う上で、少し前まで「初手lightgbm」なる言葉があったと思いますが、これは大量のデータを扱ったとしても、比較的に早くモデルを作成で…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
