@@ -22,6 +22,33 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398004?source=rss",
+          "author": null,
+          "description": "任天堂はゲーム機「Nintendo Switch」の新型機として有機ELモデルを発表した。10月8日に発売する。",
+          "link": "https://news.yahoo.co.jp/pickup/6398004?source=rss",
+          "publishedOn": "2021-07-06T13:51:46.000Z",
+          "wordCount": 63,
+          "title": "新型Switch発表 10月8日に発売"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397950?source=rss",
+          "author": null,
+          "description": "ツイッターに虚偽の投稿をされて名誉を傷つけられたとして、ジャーナリストの伊藤詩織さんが、元東京大大学院特任准教授に110万円の損害賠償を求めた訴訟の判決で、東京地裁（藤沢裕介裁判長）は6日、33万円の支払いを命じた。",
+          "link": "https://news.yahoo.co.jp/pickup/6397950?source=rss",
+          "publishedOn": "2021-07-06T04:59:32.000Z",
+          "wordCount": 61,
+          "title": "伊藤詩織さんを中傷 賠償命令"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6397949?source=rss",
+          "author": null,
+          "description": "「死のブルースクリーン」（BSOD）は「Windows」の世界でよく知られており、何らかの重大な問題があることを示す警告として長く用いられている。しかし「Windows 11」では、BSODという頭字語のBがblackへと変わっているという。",
+          "link": "https://news.yahoo.co.jp/pickup/6397949?source=rss",
+          "publishedOn": "2021-07-06T04:45:53.000Z",
+          "wordCount": 71,
+          "title": "「死の青い画面」Win11では黒?"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6397883?source=rss",
           "author": null,
           "description": "FBIは3日、米IT企業への大規模なランサムウエア攻撃を調査していると表明した。2日、米クライアント管理システムサービスのカセヤがサイバー攻撃を受けた。ロシア系のランサムウエア攻撃集団「REvil」の関与が疑われている。",
@@ -317,20 +344,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613772101654",
-          "author": null,
-          "description": "こんにちは。倉内です。\nコロナ禍においてもエンジニア、とりわけ経験者の転職では売り手市場が続き、むしろ企業側が採用に苦労しているというのが現状です。\n先日dodaが発表した転職求人倍率レポート（2021年4月）を見ても、業界ではIT・通信、職種では技術系（IT・通信）が他を大きく引き離し高い求人倍率を維持しています。\nしかし、このような状況下かつスキルも経験もそれなりにあるにもかかわらず、なぜか転職活動がうまくいかなかったり、転職後に後悔する方もいらっしゃいます。\n100％確実な必勝法はないにせよ、それらの多くは企業選びさえきちんとポイントを押さえてやっておけば回避できた可能性があります。\nそこで今回は、paizaがITエンジニア専門の転職サイトを運用する中で見えてきた、実力があるのに企業選びで失敗してしまう人の特徴と対策をお伝えしたいと思います。\n実力があるのに企業選びに失敗する人の特徴\n勢いで転職先を決めてしまった\n冒頭でもお伝えしたとおり、エンジニア経験がある方は、転職サイトに登録してある程度プロフィールを埋めておけばスカウトメールがいくつも届くと思います。\nパッと見てよさそうだな・興味をひかれるなという直感はとても大切ではあるのですが、勢いだけで転職先を決めてしまうと入社後にギャップを感じて後悔する方が多いようです。\n特に現状の環境がつまらないと感じていたり、変化がほしいと感じていたりする人ほどその傾向が強いため注意が必要です。\nたとえば、スタートアップ企業に憧れてとんとん拍子に選考も進んで飛び込んだが、すぐに事業を畳んでしまったなんてことになったら大変ですよね。大企業や創業年数が長い企業が絶対安心という時代ではないものの「成長性・将来性のある事業をおこなっているか」の見極めはやはり必要です。\nと言っても、自分で判断をするのは難しいですよね。そこでひとつの目安として…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/07/140000",
-          "publishedOn": "2021-06-07T05:00:00.000Z",
-          "wordCount": 234,
-          "title": "なぜスキルのあるエンジニアが転職で企業選びに失敗するのか",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210604/20210604192427.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -339,6 +352,87 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL; NR\n\nPyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)\nなのに日…",
+          "link": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T11:37:37.000Z",
+          "wordCount": 538,
+          "title": "「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？"
+        },
+        {
+          "id": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n普通、試験ってスキルアップしてから受けるものですよね？\n進めていくとスキルアップできる試験が存在するのを知っていますか？\n\nそんな型破りな試験が存在するのです。\n\n【無料公開】fwywd 採…",
+          "link": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T07:37:45.000Z",
+          "wordCount": 876,
+          "title": "【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~"
+        },
+        {
+          "id": "https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n初めまして、ARIの2年目土井と申します。\n弊社のOrganizationsからスクリーンショットに関する記事\n\nhttps://qiita.com/noji505/items/59eb89…",
+          "link": "https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T04:37:39.000Z",
+          "wordCount": 312,
+          "title": "Windowsのスクリーンショットの使い分け"
+        },
+        {
+          "id": "https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先日、誰でも最短1分でYouTubeの切り抜きを作れるウェブサービスを公開しました。\n\n私はプログラミングの勉強を始めて1年半の初学者ですが、個人開発でサービスを公開するまでに、数多くの失敗と苦労をし…",
+          "link": "https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T03:06:05.000Z",
+          "wordCount": 398,
+          "title": "１００万円失いながらハッキングを乗り越え誰でも１分で切り抜きを作れるサービスを公開するまでの失敗と学び"
+        },
+        {
+          "id": "https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先日AWS CDKを初めて触ってみたのですが、使ってみて想像していたより便利だったのと、AWSの勉強を始めて年月が浅い方向けに解説がされているようなサイトやブログがあまり多くないように感…",
+          "link": "https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T00:16:33.000Z",
+          "wordCount": 830,
+          "title": "【AWS】AWS CDK初心者のわたしが開発を始めるにあたり参考になったサイトまとめ（ちょこっとハンズオン有）"
+        },
+        {
+          "id": "https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n今年4月からAWSソリューションアーキテクトアソシエイトの勉強を始めました。\n知識の定着には手を動かすのが良いと思い、AWSのサービスを幾つか使ってサーバー構築を行いました。\n\nアソシエイ…",
+          "link": "https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T23:50:44.000Z",
+          "wordCount": 828,
+          "title": "【AWS初心者】AWSソリューションアーキテクトアソシエイト資格勉強で得た知識でサーバー構築をする"
+        },
+        {
+          "id": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "勉強方法が完全に間違っていた\n\n私は今年２月末、AWS-SAAに合格しました。勉強期間は約３ヶ月で、最初の２ヶ月は勉強内容がとても難しく、なかなか進むことができませんでした。SAA受験書にある内容を…",
+          "link": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T22:57:32.000Z",
+          "wordCount": 354,
+          "title": "【初心者向け】AWS-SAA勉強を始まる前に確認しておくと役に立つかも知れない基本用語チェックリスト"
+        },
+        {
+          "id": "https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ここ数日、自分が管理している多数のアカウントの整理をしていまして、（本当はよくないことですが）使い回してるパスワードがわりとあったので、そういったパスワードを撲滅すべく変更をしては1Password…",
+          "link": "https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T12:58:09.000Z",
+          "wordCount": 287,
+          "title": "こんなパスワード変更画面は嫌だ"
+        },
+        {
+          "id": "https://qiita.com/KKusumi/items/d1c8ea9acc8544fa64aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近のAndroid界隈でホットな話題といえば、そう。Jetpack Compose。\nこないだやってたI/O Extended Japan 2021 - AndroidでもJetpac…",
+          "link": "https://qiita.com/KKusumi/items/d1c8ea9acc8544fa64aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T09:10:40.000Z",
+          "wordCount": 846,
+          "title": "【Android】Jetpack Compose × MVVM × Hilt × マルチモジュールでポケモン図鑑作ってみた【Jetpack Compose】"
+        },
         {
           "id": "https://qiita.com/temmaru/items/6da42ede23aeabe8c263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -356,6 +450,15 @@
           "publishedOn": "2021-07-05T06:11:41.000Z",
           "wordCount": 351,
           "title": "未経験者が１年間、１日１コミットを毎日やってみて得たこと"
+        },
+        {
+          "id": "https://qiita.com/flyaway/items/1482671cdc61367a9c1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Java 8で追加されたMap#computeIfAbsentの使用例について紹介します。\n\nこんなコードはありませんか？\n\nたとえば、Mapに要素を追加するaddStudentメソッドがあります。\n\ni…",
+          "link": "https://qiita.com/flyaway/items/1482671cdc61367a9c1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T05:54:21.000Z",
+          "wordCount": 379,
+          "title": "Java: Map#computeIfAbsentの使いどころ"
         },
         {
           "id": "https://qiita.com/Mikoto_Hashimoto/items/811777be1083e6158916?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -482,6 +585,15 @@
           "publishedOn": "2021-07-04T16:06:28.000Z",
           "wordCount": 354,
           "title": "ページ内ナビゲーションの現在地の表示は IntersectionObserver を使うと良さそう"
+        },
+        {
+          "id": "https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n本記事は、PythonでGISデータを扱うためのライブラリGeoPandasを紹介する記事です\nPythonにおけるGISデータの操作全般はこちらの記事で紹介しているので、まずはリンク先…",
+          "link": "https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-04T14:14:46.000Z",
+          "wordCount": 2681,
+          "title": "【PythonでGIS】GeoPandasまとめ"
         },
         {
           "id": "https://qiita.com/nacho0707/items/650b3cbdfb99588dffa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -941,6 +1053,15 @@
           "publishedOn": "2021-06-30T23:16:57.000Z",
           "wordCount": 1136,
           "title": "SQL練習問題六講"
+        },
+        {
+          "id": "https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめまして。DMM.com PF（プラットフォーム事業本部）公式のQiitaをはじめました！今回は、簡単にDMM.comのプラットフォーム事業について、とどのような記事を公開していくかのご紹介をし…",
+          "link": "https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-06-30T02:03:40.000Z",
+          "wordCount": 318,
+          "title": "ご紹介：DMM.comPF事業本部です"
         }
       ]
     }

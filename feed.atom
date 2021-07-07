@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T01:06:39.306Z</updated>
+    <updated>2021-07-07T01:06:31.613Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型Switch発表 10月8日に発売]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398004?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398004?source=rss"/>
+        <updated>2021-07-06T13:51:46.000Z</updated>
+        <summary type="html"><![CDATA[任天堂はゲーム機「Nintendo Switch」の新型機として有機ELモデルを発表した。10月8日に発売する。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？]]></title>
+        <id>https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-06T11:37:37.000Z</updated>
+        <summary type="html"><![CDATA[TL; NR
+
+PyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)
+なのに日…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~]]></title>
+        <id>https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-06T07:37:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+普通、試験ってスキルアップしてから受けるものですよね？
+進めていくとスキルアップできる試験が存在するのを知っていますか？
+
+そんな型破りな試験が存在するのです。
+
+【無料公開】fwywd 採…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊藤詩織さんを中傷 賠償命令]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397950?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397950?source=rss"/>
+        <updated>2021-07-06T04:59:32.000Z</updated>
+        <summary type="html"><![CDATA[ツイッターに虚偽の投稿をされて名誉を傷つけられたとして、ジャーナリストの伊藤詩織さんが、元東京大大学院特任准教授に110万円の損害賠償を求めた訴訟の判決で、東京地裁（藤沢裕介裁判長）は6日、33万円の支払いを命じた。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「死の青い画面」Win11では黒?]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6397949?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6397949?source=rss"/>
+        <updated>2021-07-06T04:45:53.000Z</updated>
+        <summary type="html"><![CDATA[「死のブルースクリーン」（BSOD）は「Windows」の世界でよく知られており、何らかの重大な問題があることを示す警告として長く用いられている。しかし「Windows 11」では、BSODという頭字語のBがblackへと変わっているという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windowsのスクリーンショットの使い分け]]></title>
+        <id>https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-06T04:37:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+初めまして、ARIの2年目土井と申します。
+弊社のOrganizationsからスクリーンショットに関する記事
+
+https://qiita.com/noji505/items/59eb89…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[１００万円失いながらハッキングを乗り越え誰でも１分で切り抜きを作れるサービスを公開するまでの失敗と学び]]></title>
+        <id>https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-06T03:06:05.000Z</updated>
+        <summary type="html"><![CDATA[先日、誰でも最短1分でYouTubeの切り抜きを作れるウェブサービスを公開しました。
+
+私はプログラミングの勉強を始めて1年半の初学者ですが、個人開発でサービスを公開するまでに、数多くの失敗と苦労をし…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS】AWS CDK初心者のわたしが開発を始めるにあたり参考になったサイトまとめ（ちょこっとハンズオン有）]]></title>
+        <id>https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-06T00:16:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+先日AWS CDKを初めて触ってみたのですが、使ってみて想像していたより便利だったのと、AWSの勉強を始めて年月が浅い方向けに解説がされているようなサイトやブログがあまり多くないように感…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS初心者】AWSソリューションアーキテクトアソシエイト資格勉強で得た知識でサーバー構築をする]]></title>
+        <id>https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T23:50:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+今年4月からAWSソリューションアーキテクトアソシエイトの勉強を始めました。
+知識の定着には手を動かすのが良いと思い、AWSのサービスを幾つか使ってサーバー構築を行いました。
+
+アソシエイ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】AWS-SAA勉強を始まる前に確認しておくと役に立つかも知れない基本用語チェックリスト]]></title>
+        <id>https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T22:57:32.000Z</updated>
+        <summary type="html"><![CDATA[勉強方法が完全に間違っていた
+
+私は今年２月末、AWS-SAAに合格しました。勉強期間は約３ヶ月で、最初の２ヶ月は勉強内容がとても難しく、なかなか進むことができませんでした。SAA受験書にある内容を…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[こんなパスワード変更画面は嫌だ]]></title>
+        <id>https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T12:58:09.000Z</updated>
+        <summary type="html"><![CDATA[ここ数日、自分が管理している多数のアカウントの整理をしていまして、（本当はよくないことですが）使い回してるパスワードがわりとあったので、そういったパスワードを撲滅すべく変更をしては1Password…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Android】Jetpack Compose × MVVM × Hilt × マルチモジュールでポケモン図鑑作ってみた【Jetpack Compose】]]></title>
+        <id>https://qiita.com/KKusumi/items/d1c8ea9acc8544fa64aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/KKusumi/items/d1c8ea9acc8544fa64aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T09:10:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+最近のAndroid界隈でホットな話題といえば、そう。Jetpack Compose。
+こないだやってたI/O Extended Japan 2021 - AndroidでもJetpac…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RustでCコンパイラ作ってみた]]></title>
         <id>https://qiita.com/temmaru/items/6da42ede23aeabe8c263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -50,6 +199,22 @@ Rustという言語がとても気になっていた。
         <summary type="html"><![CDATA[アンディ・ジャシー氏は5日、創業者のジェフ・ベゾス氏の後任としてアマゾンの最高経営責任者（CEO）に就任する。「アンディはジェフの直属の部下の中で一番アマゾンらしかった」という声も。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java: Map#computeIfAbsentの使いどころ]]></title>
+        <id>https://qiita.com/flyaway/items/1482671cdc61367a9c1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/flyaway/items/1482671cdc61367a9c1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T05:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Java 8で追加されたMap#computeIfAbsentの使用例について紹介します。
+
+こんなコードはありませんか？
+
+たとえば、Mapに要素を追加するaddStudentメソッドがあります。
+
+i…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -271,6 +436,19 @@ IETFやW3C、TC39などが提唱しているWeb技術…]]></summary>
         <updated>2021-07-04T16:06:28.000Z</updated>
         <summary type="html"><![CDATA[ここ最近、ウェブページ内ナビゲーションの現在地の表示（カレント表示）を実装する時は IntersectionObserver を使っています。
 以前はスクロールイベントで位置を取って計算していました…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【PythonでGIS】GeoPandasまとめ]]></title>
+        <id>https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-04T14:14:46.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+本記事は、PythonでGISデータを扱うためのライブラリGeoPandasを紹介する記事です
+PythonにおけるGISデータの操作全般はこちらの記事で紹介しているので、まずはリンク先…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -1176,6 +1354,16 @@ Webのアニメーションにご興味ある方はぜひ参考にしてみて�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ご紹介：DMM.comPF事業本部です]]></title>
+        <id>https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-06-30T02:03:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして。DMM.com PF（プラットフォーム事業本部）公式のQiitaをはじめました！今回は、簡単にDMM.comのプラットフォーム事業について、とどのような記事を公開していくかのご紹介をし…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[paiza×シュタインズ・ゲートコラボ決定！事前登録受付中]]></title>
         <id>hatenablog://entry/26006613781224086</id>
         <link href="https://paiza.hatenablog.com/entry/2021/06/29/150000"/>
@@ -1526,28 +1714,6 @@ PWA対応にご興味ある方はぜひ参考にしてみてください！
 あとはこのダッシュボードからWebサイトをPWAに変換したり、複数のサイトを設定・管理したりなどができるようになります。
 ■WebサイトをPWAにしてみよう！
 さきほど表示されたダッシュボードには、いくつかタスクが用意されているの…]]></summary>
-        <author>
-            <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜスキルのあるエンジニアが転職で企業選びに失敗するのか]]></title>
-        <id>hatenablog://entry/26006613772101654</id>
-        <link href="https://paiza.hatenablog.com/entry/2021/06/07/140000"/>
-        <updated>2021-06-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。倉内です。
-コロナ禍においてもエンジニア、とりわけ経験者の転職では売り手市場が続き、むしろ企業側が採用に苦労しているというのが現状です。
-先日dodaが発表した転職求人倍率レポート（2021年4月）を見ても、業界ではIT・通信、職種では技術系（IT・通信）が他を大きく引き離し高い求人倍率を維持しています。
-しかし、このような状況下かつスキルも経験もそれなりにあるにもかかわらず、なぜか転職活動がうまくいかなかったり、転職後に後悔する方もいらっしゃいます。
-100％確実な必勝法はないにせよ、それらの多くは企業選びさえきちんとポイントを押さえてやっておけば回避できた可能性があります。
-そこで今回は、paizaがITエンジニア専門の転職サイトを運用する中で見えてきた、実力があるのに企業選びで失敗してしまう人の特徴と対策をお伝えしたいと思います。
-実力があるのに企業選びに失敗する人の特徴
-勢いで転職先を決めてしまった
-冒頭でもお伝えしたとおり、エンジニア経験がある方は、転職サイトに登録してある程度プロフィールを埋めておけばスカウトメールがいくつも届くと思います。
-パッと見てよさそうだな・興味をひかれるなという直感はとても大切ではあるのですが、勢いだけで転職先を決めてしまうと入社後にギャップを感じて後悔する方が多いようです。
-特に現状の環境がつまらないと感じていたり、変化がほしいと感じていたりする人ほどその傾向が強いため注意が必要です。
-たとえば、スタートアップ企業に憧れてとんとん拍子に選考も進んで飛び込んだが、すぐに事業を畳んでしまったなんてことになったら大変ですよね。大企業や創業年数が長い企業が絶対安心という時代ではないものの「成長性・将来性のある事業をおこなっているか」の見極めはやはり必要です。
-と言っても、自分で判断をするのは難しいですよね。そこでひとつの目安として…]]></summary>
         <author>
             <name>paiza開発日誌</name>
         </author>
