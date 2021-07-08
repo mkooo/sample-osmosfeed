@@ -22,6 +22,33 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398088?source=rss",
+          "author": null,
+          "description": "中国の規制当局は7日、独占禁止法に違反したとして中国インターネット通販最大手のアリババ集団などに罰金を科す決定を出したと発表した。アリババ集団などが関わった22案件について、それぞれ50万元（約850万円）の罰金を科した。",
+          "link": "https://news.yahoo.co.jp/pickup/6398088?source=rss",
+          "publishedOn": "2021-07-07T13:39:49.000Z",
+          "wordCount": 56,
+          "title": "中国当局 滴滴やアリババに罰金"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398047?source=rss",
+          "author": null,
+          "description": "米国防総省は6日、マイクロソフトと締結した約1兆1000億円規模の大型クラウド契約を解除したと発表した。政治的偏向が入札を左右したという疑惑を巡り、マイクロソフトと競合するアマゾン・ドットコム間で生じた激しい対立を回避した格好。",
+          "link": "https://news.yahoo.co.jp/pickup/6398047?source=rss",
+          "publishedOn": "2021-07-07T04:57:23.000Z",
+          "wordCount": 55,
+          "title": "米、MSとの1兆円契約を解除"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398032?source=rss",
+          "author": null,
+          "description": "任天堂は、ニンテンドースイッチの新型である「Nintendo Switch 有機ELモデル」を10月8日に発売予定として発表した。有機ELモデルのディスプレーは7インチになり、内蔵メモリの倍増（64GB）、スピーカーの刷新などの違いがある。",
+          "link": "https://news.yahoo.co.jp/pickup/6398032?source=rss",
+          "publishedOn": "2021-07-07T01:50:38.000Z",
+          "wordCount": 63,
+          "title": "Switch新型モデル 機能の違いは"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398004?source=rss",
           "author": null,
           "description": "任天堂はゲーム機「Nintendo Switch」の新型機として有機ELモデルを発表した。10月8日に発売する。",
@@ -163,6 +190,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613784123348",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、GitHubのリポジトリをWebベースのRSSリーダーに変えることができるユニークなツールをご紹介します。\n専門的な知識は一切不要で、マークダウンファイルに好きなフィードを追加していくだけですぐに自分だけのRSSリーダーを作って管理できるようになります。\nすべて無料で利用可能なので、ご興味ある方はぜひ参考にしてみてください！\n【 osmos::feed 】\n\n■「osmos::feed」の使い方\nそれでは、「osmos::feed」をどのように使えばいいのか詳しく見ていきましょう！\n基本的な使い方としては、公式のリポジトリにテンプレートが公開されているので、これを自分のGitHubリポジトリとしてコピーするところから始めます。\nテンプレートは以下のURLからアクセスできるようになっています。\n\n＜テンプレートURL＞\nhttps://github.com/osmoscraft/osmosfeed-template\n\n\n【Use this template】ボタンをクリックしてください。\n\n\nリポジトリの作成画面が表示されるので、好きなリポジトリ名を設定してから画面下部にある緑色のボタンをクリックします。\n\n\nこれで、自分のGitHubリポジトリとしてテンプレートがコピーされました。\n\nテンプレートにはデフォルトでいくつかのRSSがすでに登録されているので、まずはこの状態でRSSリーダーとして機能するかを確認してみましょう。\n\n【Settings】タブをクリックしてください。\n\n\n「Pages」の項目をクリックしてGitHub Pagesの設定画面を開きます。\n\n\n【Source】の項目でブランチを選択するのですが、リストから「gh-pages」を選んでから「Save」ボタンをクリックしてください。\n\n\n数秒ほど待ってから…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/07/150000",
+          "publishedOn": "2021-07-07T06:00:00.000Z",
+          "wordCount": 289,
+          "title": "簡単すぎる！GitHubを自分だけのRSSリーダーに変える「osmos:feed」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210707/20210707103439.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613782549489",
           "author": null,
@@ -353,6 +394,141 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
+          "link": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T16:00:31.000Z",
+          "wordCount": 340,
+          "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
+        },
+        {
+          "id": "https://qiita.com/Miyaji555/items/100aec9a7da093557797?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1. はじめに\n\nアプリケーションを作成していると複数のアカウント種別(何と表現していいのかわからない)を作成したくなることがあると思う。つまり、管理者アカウントと一般アカウントだったり、先生アカウ…",
+          "link": "https://qiita.com/Miyaji555/items/100aec9a7da093557797?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T11:38:15.000Z",
+          "wordCount": 360,
+          "title": "Flutter×Firebaseで複数のアカウント種別を作成する"
+        },
+        {
+          "id": "https://qiita.com/ishishow/items/401629972bea46c680f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nKubernetesを利用する時にサービスメッシュを検討することがあるかと思います。\n\n本記事ではサービスメッシュとは何か?\nまた、サービスメッシュの機能を持つIstioについて説明してい…",
+          "link": "https://qiita.com/ishishow/items/401629972bea46c680f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T10:21:27.000Z",
+          "wordCount": 384,
+          "title": "サービスメッシュ Istioとは?"
+        },
+        {
+          "id": "https://qiita.com/keisuke-ota/items/09a6d5007957c139ce2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nグラフ可視化ライブラリ Altair は、pandas の DataFrame を入力することで様々なグラフを作成することができる。しかし、pandas の行数が 5000 を超えると次のよ…",
+          "link": "https://qiita.com/keisuke-ota/items/09a6d5007957c139ce2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T09:48:24.000Z",
+          "wordCount": 593,
+          "title": "【Python】Altair でビッグデータを可視化する"
+        },
+        {
+          "id": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nパフォーマンスが事業に影響を与えるという話はよく聞くが、実際にどんな事例があるのだろうかと思ったので調べてみました。\n他にも多く事例があると思うので、他にもあったらコメントいただけると嬉…",
+          "link": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T05:38:15.000Z",
+          "wordCount": 332,
+          "title": "Webサイトのパフォーマンス改善がもたらした事例をまとめてみた"
+        },
+        {
+          "id": "https://qiita.com/evebursterrorR/items/033907d163db3dad135a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "暇つぶしがてらポ〇モン的対戦RPGゲームを開発したので、その中身の作り方の概要を記事にしたいと思います。Qiitaに投稿するの初めてで書くの慣れてないので読みにくかったらすいません。また、Unity…",
+          "link": "https://qiita.com/evebursterrorR/items/033907d163db3dad135a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T04:55:56.000Z",
+          "wordCount": 530,
+          "title": "ポ〇モン的対戦RPGゲームの作り方-1.ゲーム進行の管理"
+        },
+        {
+          "id": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こちらの具体的な開発についてのpostです。\nhttps://qiita.com/geeorgey/items/ace37bd92841c9d1a378\n\n開発元となるソースコードはこちらです。\nht…",
+          "link": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:59:16.000Z",
+          "wordCount": 723,
+          "title": "pythonを使ってリアクティブなWebアプリを作りたい【開発編】"
+        },
+        {
+          "id": "https://qiita.com/piacerex/items/6b64dfe70f48c89d8385?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Elixir Digitalization Implementors／fukuoka.ex／kokura.exのpiacereです\nご覧いただいて、ありがとうございます \n\nNxがOTP24必須となった…",
+          "link": "https://qiita.com/piacerex/items/6b64dfe70f48c89d8385?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:51:54.000Z",
+          "wordCount": 557,
+          "title": "WSL2でDB付きElixir／Phoenix／Nxを使う最短手順"
+        },
+        {
+          "id": "https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年7月3日に静岡県熱海市伊豆山地区で発生した土石流災害に関連して、静岡県では兼ねてから災害に備えて3次元点群データの蓄積・オープンデータ化が進められていたほか、災害発生直後より比較的短期間…",
+          "link": "https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:17:30.000Z",
+          "wordCount": 387,
+          "title": "2021年7月静岡県熱海市の土石流災害に関する空間データの可視化と共有"
+        },
+        {
+          "id": "https://qiita.com/takahirom/items/14ab7d910c39c74c45a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "例えばComposeで動画再生したいけどonStopで止めたいときとかありますよね？\n先日、ComposeのNavigationで画面単位で取得できるNavBackStackEntryにlifecy…",
+          "link": "https://qiita.com/takahirom/items/14ab7d910c39c74c45a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T01:46:38.000Z",
+          "wordCount": 333,
+          "title": "Compose Navigationで使えるNavBackStackEntryのlifecycleとは？"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/e99h2121/items/bb9e22af744dec95caa0\n\nの続編のようなポエム。\n\n「できるかできないかわからない状態」の物事に対して「いつまでになら…",
+          "link": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T21:21:46.000Z",
+          "wordCount": 323,
+          "title": "「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵"
+        },
+        {
+          "id": "https://qiita.com/nosuke505/items/0c93900516070e59f127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "新社会人１年目で周りにある問題を解決してみてたい\n\nこれはグループ取り組んだものです。会社では報連相をSlackとTeamsで行っていました。しかし、自分たち社会人１年目の同期はLineでやりとりし…",
+          "link": "https://qiita.com/nosuke505/items/0c93900516070e59f127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T18:45:46.000Z",
+          "wordCount": 700,
+          "title": "LineとTeamsをSlackに集約"
+        },
+        {
+          "id": "https://qiita.com/OKsaiyowa/items/925df2d48f0bcfd2b6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nVR空間で操作したアバターをAR空間に表示するという一見単純な実装ですが、\n意外と考慮しないといけない点が多く、大変だったのでメモします。\n\n私のやろうとしていることとほぼ同じことを行い、…",
+          "link": "https://qiita.com/OKsaiyowa/items/925df2d48f0bcfd2b6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T16:01:23.000Z",
+          "wordCount": 1365,
+          "title": "【Unity(C#)】DMM VR ConnectとImmersalを組み合わせてVR空間で操作したアバターをAR空間に表示する"
+        },
+        {
+          "id": "https://qiita.com/m3t/items/676c7ec8570864c715a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの度、ポートフォリオとして「TABIGINNER」というアプリを作りました!！ ​\n私自身、元バックパッカーで旅が大好きなので、コロナ下で外出することが中々難しいこのご時世ではあります…",
+          "link": "https://qiita.com/m3t/items/676c7ec8570864c715a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T15:45:53.000Z",
+          "wordCount": 368,
+          "title": "〜旅人育成アプリ「TABIGINNER」を作りました〜"
+        },
+        {
+          "id": "https://qiita.com/JGS_Developer/items/8060b672139553a2d896?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nクラッシュレポーターに関する日本語情報はとても少ない\nというか英語でも少ないし、UE4.24前後からは仕様が微妙に変化しているらしくggってもわからない部分が多い\nなので「かっこいいクラ…",
+          "link": "https://qiita.com/JGS_Developer/items/8060b672139553a2d896?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T15:31:53.000Z",
+          "wordCount": 553,
+          "title": "【UE4】完全に独立したカスタムクラッシュレポーターを実装する"
+        },
+        {
           "id": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "TL; NR\n\nPyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)\nなのに日…",
@@ -407,6 +583,15 @@
           "title": "【AWS初心者】AWSソリューションアーキテクトアソシエイト資格勉強で得た知識でサーバー構築をする"
         },
         {
+          "id": "https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GitHubにAPIのキーが書かれたファイルを上げてしまったので、対処の流れを書き残しておきます。\n　BFGを使用する方法とfilter-branchを使用する方法があるのですが、今回は後者をやっ…",
+          "link": "https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T23:22:40.000Z",
+          "wordCount": 450,
+          "title": "githubに間違って機密データを上げてしまった時の対処"
+        },
+        {
           "id": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "勉強方法が完全に間違っていた\n\n私は今年２月末、AWS-SAAに合格しました。勉強期間は約３ヶ月で、最初の２ヶ月は勉強内容がとても難しく、なかなか進むことができませんでした。SAA受験書にある内容を…",
@@ -414,6 +599,15 @@
           "publishedOn": "2021-07-05T22:57:32.000Z",
           "wordCount": 354,
           "title": "【初心者向け】AWS-SAA勉強を始まる前に確認しておくと役に立つかも知れない基本用語チェックリスト"
+        },
+        {
+          "id": "https://qiita.com/komugi_papa/items/8abde502fedd0a1e9c56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "私事ではありますが、2020年5月にコーギーという中型犬をお迎えし、楽しく日々を過ごしています。\n\n\n\n「コーギーについて、TwitterAPIで根掘り葉掘り分析してやる！」\n\nと意気込んでいましたが、Tw…",
+          "link": "https://qiita.com/komugi_papa/items/8abde502fedd0a1e9c56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T21:01:21.000Z",
+          "wordCount": 479,
+          "title": "【2021年7月執筆】Twitterでのsearch APIの制約について"
         },
         {
           "id": "https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
