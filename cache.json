@@ -22,6 +22,42 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398174?source=rss",
+          "author": null,
+          "description": "米グーグルが、日本で送金アプリを運営する新興企業「pring（プリン）」を買収することが8日、分かった。グーグルは、資金移動業者として登録しているプリンを買収し、日本で個人間の送金サービスに本格参入する意向とみられる。",
+          "link": "https://news.yahoo.co.jp/pickup/6398174?source=rss",
+          "publishedOn": "2021-07-08T12:54:05.000Z",
+          "wordCount": 70,
+          "title": "Google 日本で送金本格参入へ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398163?source=rss",
+          "author": null,
+          "description": "米国の37州・特別区の司法長官は7日、グーグルがアンドロイドを搭載したスマートフォン向けアプリストアの独占的地位を維持するために競合を買収するなどし、反トラスト法（独占禁止法）違反したとして連邦地裁に提訴した。",
+          "link": "https://news.yahoo.co.jp/pickup/6398163?source=rss",
+          "publishedOn": "2021-07-08T10:23:38.000Z",
+          "wordCount": 68,
+          "title": "独禁法違反 米複数州Google提訴"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398157?source=rss",
+          "author": null,
+          "description": "現在のスマートフォンは、ほとんどがバッテリー内蔵で、交換できない。スマートフォンからPCまで、バッテリー交換できない形に変わってからもう10年以上が経過している。なぜ交換できなくなったのか、そこには複数の理由があるという。",
+          "link": "https://news.yahoo.co.jp/pickup/6398157?source=rss",
+          "publishedOn": "2021-07-08T09:19:03.000Z",
+          "wordCount": 68,
+          "title": "なぜ スマホ電池交換できぬ理由"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398151?source=rss",
+          "author": null,
+          "description": "7月9日公開予定の映画「100日間生きたワニ」を巡り、映画レビューサイトで荒らし行為が横行している。「金と時間の無駄」「超駄作」などのひぼう中傷のほか、全く関係のないストーリーをつづった「ネタレビュー」のような投稿も多いという。",
+          "link": "https://news.yahoo.co.jp/pickup/6398151?source=rss",
+          "publishedOn": "2021-07-08T08:34:47.000Z",
+          "wordCount": 65,
+          "title": "100ワニ映画に「荒らし」横行"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398088?source=rss",
           "author": null,
           "description": "中国の規制当局は7日、独占禁止法に違反したとして中国インターネット通販最大手のアリババ集団などに罰金を科す決定を出したと発表した。アリババ集団などが関わった22案件について、それぞれ50万元（約850万円）の罰金を科した。",
@@ -371,20 +407,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613773898150",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回はあらゆるWebサイトを誰でも簡単にノーコードでPWAに変えることができるWebサービスをご紹介します。\n一般的なサーバにホスティングされているサイトだけでなく、Wordpressで作成されたサイトからWebflowなどのサービスを利用して作られたサイトまで幅広く対応しているのが特徴です。\nPWA対応にご興味ある方はぜひ参考にしてみてください！\n【 Progressier 】\n\n■「Progressier」の使い方\nそれでは、「Progressier」をどのように使えばいいのかを詳しく見ていきましょう！\nまずはPWAに変換したいWebサイトを準備します。今回は、サンプルとしてNetlifyでホスティングしている以下のようなサイトを用意しました。\n\nこのサイトを試しにPWA対応していくことにしましょう。\n\n「Progressier」のトップページにアクセスしたら、画面中央にある入力ボックスへPWAにしたいWebサイトのURLを貼り付けてください。\n\n\n設定画面が表示されるので、好きなプロジェクト名を入力します。\n\n\n次にWebサイトの種類を選択するのですが、今回の場合だと「Standard site」を選択します。\n\n他にも「Webflow」「Wordpress」などで作られたWebサイトにも対応しているので、自分の環境に合った種類を選択してみてください。\n\n最後にメールアドレスやパスワードを設定してユーザー登録を済ませておきましょう。\n\n\n以下のようなダッシュボードが表示されたら準備は完了です！\n\nあとはこのダッシュボードからWebサイトをPWAに変換したり、複数のサイトを設定・管理したりなどができるようになります。\n■WebサイトをPWAにしてみよう！\nさきほど表示されたダッシュボードには、いくつかタスクが用意されているの…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/09/150000",
-          "publishedOn": "2021-06-09T06:00:00.000Z",
-          "wordCount": 257,
-          "title": "どんなWebサイトもノーコードでPWA化を実現できる「Progressier」を試してみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210609/20210609123121.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
@@ -394,6 +416,96 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの投稿は、RPAツール「UiPath」の 製品歴史を振り返ってみる 記事です。\n\nRPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiPathブログ発信…",
+          "link": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T10:27:36.000Z",
+          "wordCount": 568,
+          "title": "【UiPath】過去の製品バージョンを振り返る（2016-2021）"
+        },
+        {
+          "id": "https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nESP32をArduinoIDEで開発していると妙にコンパイルが遅い気がします。AVRに比べれば機能が多いのでコンパイルに時間がかかるのはわかるのですが、１度ビルドし直すだけでも長いプロ…",
+          "link": "https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T09:13:27.000Z",
+          "wordCount": 355,
+          "title": "Arduino IDE でESP32のコンパイル時間を短縮する方法"
+        },
+        {
+          "id": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n2021年にOpenAIによって公開された、テキストを画像に変換する「DALL-E」についてまとめました。\n\n生成した画像\n\n「バレリーナの衣装を着て、犬の散歩をする赤ちゃん大根」の画像です…",
+          "link": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T09:02:05.000Z",
+          "wordCount": 317,
+          "title": "テキストから画像を生成する：Zero-Shot Text-to-Image Generation [Ramesh+, 2021]"
+        },
+        {
+          "id": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先人に作ってもらったデータ変換用のPythonスクリプトを部署内で使用していたのだが、Python環境のないメンバーに展開するためにexe化することにした。 \nひとまずPyinstalle…",
+          "link": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T07:41:26.000Z",
+          "wordCount": 432,
+          "title": "Pythonスクリプトのexe化"
+        },
+        {
+          "id": "https://qiita.com/thmd9726/items/9ea9ef1161c537c432ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nPyCharmでDjangoアプリを作成することには次のような利点があります。\n\n\nDjango関連のコマンド入力を削減できる\nデバッグがしやすい\n\n\n今回は、Djangoサーバの起動と簡単なW…",
+          "link": "https://qiita.com/thmd9726/items/9ea9ef1161c537c432ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T03:54:52.000Z",
+          "wordCount": 361,
+          "title": "PyCharmとDjangoでサクッとWebアプリの作成"
+        },
+        {
+          "id": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "以下の記事を読みました。\n\nCookieのPath属性は本当に安全性に寄与しないのか\n\n結論として以下となっています。\n\n\n結論。Path属性は特殊な状況下ではある程度安全性に寄与する\nPath属性は、これ…",
+          "link": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T03:45:40.000Z",
+          "wordCount": 358,
+          "title": "Re: CookieのPath属性は本当に安全性に寄与しないのか"
+        },
+        {
+          "id": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Applying Natural Language Processing to Healthcare Text at Scale - The Databricks Blogの翻訳です。\n\n\nこの記事はJ…",
+          "link": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T02:22:22.000Z",
+          "wordCount": 388,
+          "title": "ヘルスケアにおける大規模テキストデータへの自然言語処理の適用"
+        },
+        {
+          "id": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "iOSアプリをApp Storeではなく、Webサービスなどからベータ版のアプリを配信する方法を Ad hoc 配信といいます。\nAd hoc配信はiOSアプリ開発の黎明期から行われておりますが、…",
+          "link": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T01:49:09.000Z",
+          "wordCount": 873,
+          "title": "Ad hoc配信をやめてTestFlightで配信する"
+        },
+        {
+          "id": "https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "html2canvas\n\nVue.js + TypeScriptの構成で画面キャプチャ取りたいな〜と思っていたら良さそうなライブラリを見つけました。\nこれを使って一応要求は満たせし、せっかくなので実装…",
+          "link": "https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T00:40:38.000Z",
+          "wordCount": 551,
+          "title": "html2canvasを使ってVue.jsで画面キャプチャを取る（おまけ付き）"
+        },
+        {
+          "id": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回: https://qiita.com/Takazudo/items/59a1f44ecdc01e95604f\n\n「先輩さん」\n『はい、後輩ちゃん』\n「前話してた1,000万の見積もりの話なんです…",
+          "link": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T17:03:36.000Z",
+          "wordCount": 447,
+          "title": "俺の見積もりがこんなに安いわけがない: 第2話 We will specialize"
+        },
+        {
           "id": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
@@ -401,6 +513,33 @@
           "publishedOn": "2021-07-07T16:00:31.000Z",
           "wordCount": 340,
           "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
+        },
+        {
+          "id": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回の記事でコメントいただいたので。\n\nこんな感じになる。\n前回はランダムでルーン文字に置換しただけだったけど、今回のは頑張ればちゃんと読める。\n\n\n\n前回の記事のものを改造していきます。\n\nhttps://…",
+          "link": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T15:39:25.000Z",
+          "wordCount": 903,
+          "title": "一般サイトがハンター専用サイトになるChrome拡張を作る"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Newポケモンスナップ、いろんなフィルタがあって現代の写真遊びに則ったカメラゲームらしさがあって凄く素敵ですね。\n\n　\n\nいろんなフィルタがある中、シルエットフィルタはゲームらしいフィルタで意外と他のゲ…",
+          "link": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T15:33:51.000Z",
+          "wordCount": 719,
+          "title": "[Unity]カメラに映る画面をおしゃれにシルエット化する"
+        },
+        {
+          "id": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n僕は現在ITスタートアップでソフトウェアエンジニアとして働いています。プログラミングの学習歴はおおよそ2年です。\n先日、最新の技術記事が自動配信されるSlackアプリ「Winkie(ウィ…",
+          "link": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T13:50:52.000Z",
+          "wordCount": 352,
+          "title": "文系エンジニア未経験がアプリケーションを作れるようになるまで"
         },
         {
           "id": "https://qiita.com/Miyaji555/items/100aec9a7da093557797?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -428,6 +567,15 @@
           "publishedOn": "2021-07-07T09:48:24.000Z",
           "wordCount": 593,
           "title": "【Python】Altair でビッグデータを可視化する"
+        },
+        {
+          "id": "https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "３大クラウドサービスを比較しました。\n(2021/07/07更新)\n\n⭐ 概要\n\n\n\n⭐ サービス\n\n\n\n⭐ 価格\n\n仮想マシンの１台あたりの価格比較。\n\n\n\n⭐ Googleトレンド\n\n集計期間: 2011/06/08…",
+          "link": "https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T05:47:49.000Z",
+          "wordCount": 683,
+          "title": "AWS, Azure, GCP ３大クラウドサービスを比較しました!"
         },
         {
           "id": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -536,6 +684,15 @@
           "publishedOn": "2021-07-06T11:37:37.000Z",
           "wordCount": 538,
           "title": "「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？"
+        },
+        {
+          "id": "https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは。皆さん、箱アイス買いますか？夏になるとパッケージの裏がはがきになってて、懸賞応募できるようになっているアイスとかありますよね！私は毎年あずきバー食べて送ってます、筆者です\n\n(…",
+          "link": "https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T09:06:29.000Z",
+          "wordCount": 321,
+          "title": "オプショナルチェイニングのドキュメント見て、jsの関数ってオブジェクトだったわと再認識した"
         },
         {
           "id": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

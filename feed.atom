@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T01:02:58.229Z</updated>
+    <updated>2021-07-09T01:04:13.665Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google 日本で送金本格参入へ]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398174?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398174?source=rss"/>
+        <updated>2021-07-08T12:54:05.000Z</updated>
+        <summary type="html"><![CDATA[米グーグルが、日本で送金アプリを運営する新興企業「pring（プリン）」を買収することが8日、分かった。グーグルは、資金移動業者として登録しているプリンを買収し、日本で個人間の送金サービスに本格参入する意向とみられる。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UiPath】過去の製品バージョンを振り返る（2016-2021）]]></title>
+        <id>https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T10:27:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+この投稿は、RPAツール「UiPath」の 製品歴史を振り返ってみる 記事です。
+
+RPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiPathブログ発信…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独禁法違反 米複数州Google提訴]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398163?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398163?source=rss"/>
+        <updated>2021-07-08T10:23:38.000Z</updated>
+        <summary type="html"><![CDATA[米国の37州・特別区の司法長官は7日、グーグルがアンドロイドを搭載したスマートフォン向けアプリストアの独占的地位を維持するために競合を買収するなどし、反トラスト法（独占禁止法）違反したとして連邦地裁に提訴した。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ スマホ電池交換できぬ理由]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398157?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398157?source=rss"/>
+        <updated>2021-07-08T09:19:03.000Z</updated>
+        <summary type="html"><![CDATA[現在のスマートフォンは、ほとんどがバッテリー内蔵で、交換できない。スマートフォンからPCまで、バッテリー交換できない形に変わってからもう10年以上が経過している。なぜ交換できなくなったのか、そこには複数の理由があるという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino IDE でESP32のコンパイル時間を短縮する方法]]></title>
+        <id>https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T09:13:27.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ESP32をArduinoIDEで開発していると妙にコンパイルが遅い気がします。AVRに比べれば機能が多いのでコンパイルに時間がかかるのはわかるのですが、１度ビルドし直すだけでも長いプロ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テキストから画像を生成する：Zero-Shot Text-to-Image Generation [Ramesh+, 2021]]]></title>
+        <id>https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T09:02:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+2021年にOpenAIによって公開された、テキストを画像に変換する「DALL-E」についてまとめました。
+
+生成した画像
+
+「バレリーナの衣装を着て、犬の散歩をする赤ちゃん大根」の画像です…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100ワニ映画に「荒らし」横行]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398151?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398151?source=rss"/>
+        <updated>2021-07-08T08:34:47.000Z</updated>
+        <summary type="html"><![CDATA[7月9日公開予定の映画「100日間生きたワニ」を巡り、映画レビューサイトで荒らし行為が横行している。「金と時間の無駄」「超駄作」などのひぼう中傷のほか、全く関係のないストーリーをつづった「ネタレビュー」のような投稿も多いという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonスクリプトのexe化]]></title>
+        <id>https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T07:41:26.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+先人に作ってもらったデータ変換用のPythonスクリプトを部署内で使用していたのだが、Python環境のないメンバーに展開するためにexe化することにした。 
+ひとまずPyinstalle…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCharmとDjangoでサクッとWebアプリの作成]]></title>
+        <id>https://qiita.com/thmd9726/items/9ea9ef1161c537c432ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/thmd9726/items/9ea9ef1161c537c432ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T03:54:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+PyCharmでDjangoアプリを作成することには次のような利点があります。
+
+
+Django関連のコマンド入力を削減できる
+デバッグがしやすい
+
+
+今回は、Djangoサーバの起動と簡単なW…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: CookieのPath属性は本当に安全性に寄与しないのか]]></title>
+        <id>https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T03:45:40.000Z</updated>
+        <summary type="html"><![CDATA[以下の記事を読みました。
+
+CookieのPath属性は本当に安全性に寄与しないのか
+
+結論として以下となっています。
+
+
+結論。Path属性は特殊な状況下ではある程度安全性に寄与する
+Path属性は、これ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘルスケアにおける大規模テキストデータへの自然言語処理の適用]]></title>
+        <id>https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T02:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Applying Natural Language Processing to Healthcare Text at Scale - The Databricks Blogの翻訳です。
+
+
+この記事はJ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ad hoc配信をやめてTestFlightで配信する]]></title>
+        <id>https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T01:49:09.000Z</updated>
+        <summary type="html"><![CDATA[iOSアプリをApp Storeではなく、Webサービスなどからベータ版のアプリを配信する方法を Ad hoc 配信といいます。
+Ad hoc配信はiOSアプリ開発の黎明期から行われておりますが、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html2canvasを使ってVue.jsで画面キャプチャを取る（おまけ付き）]]></title>
+        <id>https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T00:40:38.000Z</updated>
+        <summary type="html"><![CDATA[html2canvas
+
+Vue.js + TypeScriptの構成で画面キャプチャ取りたいな〜と思っていたら良さそうなライブラリを見つけました。
+これを使って一応要求は満たせし、せっかくなので実装…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俺の見積もりがこんなに安いわけがない: 第2話 We will specialize]]></title>
+        <id>https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T17:03:36.000Z</updated>
+        <summary type="html"><![CDATA[前回: https://qiita.com/Takazudo/items/59a1f44ecdc01e95604f
+
+「先輩さん」
+『はい、後輩ちゃん』
+「前話してた1,000万の見積もりの話なんです…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう]]></title>
         <id>https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -16,6 +199,52 @@
 Unityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。
 
 なので「ちょっとしたゲームが出来たから配布して…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一般サイトがハンター専用サイトになるChrome拡張を作る]]></title>
+        <id>https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T15:39:25.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でコメントいただいたので。
+
+こんな感じになる。
+前回はランダムでルーン文字に置換しただけだったけど、今回のは頑張ればちゃんと読める。
+
+
+
+前回の記事のものを改造していきます。
+
+https://…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity]カメラに映る画面をおしゃれにシルエット化する]]></title>
+        <id>https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T15:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Newポケモンスナップ、いろんなフィルタがあって現代の写真遊びに則ったカメラゲームらしさがあって凄く素敵ですね。
+
+　
+
+いろんなフィルタがある中、シルエットフィルタはゲームらしいフィルタで意外と他のゲ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文系エンジニア未経験がアプリケーションを作れるようになるまで]]></title>
+        <id>https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T13:50:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+僕は現在ITスタートアップでソフトウェアエンジニアとして働いています。プログラミングの学習歴はおおよそ2年です。
+先日、最新の技術記事が自動配信されるSlackアプリ「Winkie(ウィ…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -111,6 +340,35 @@ https://github.com/osmoscraft/osmosfeed-template
 数秒ほど待ってから…]]></summary>
         <author>
             <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS, Azure, GCP ３大クラウドサービスを比較しました!]]></title>
+        <id>https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T05:47:49.000Z</updated>
+        <summary type="html"><![CDATA[３大クラウドサービスを比較しました。
+(2021/07/07更新)
+
+⭐ 概要
+
+
+
+⭐ サービス
+
+
+
+⭐ 価格
+
+仮想マシンの１台あたりの価格比較。
+
+
+
+⭐ Googleトレンド
+
+集計期間: 2011/06/08…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -291,6 +549,20 @@ VR空間で操作したアバターをAR空間に表示するという一見単�
 
 PyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)
 なのに日…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オプショナルチェイニングのドキュメント見て、jsの関数ってオブジェクトだったわと再認識した]]></title>
+        <id>https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-06T09:06:29.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+こんにちは。皆さん、箱アイス買いますか？夏になるとパッケージの裏がはがきになってて、懸賞応募できるようになっているアイスとかありますよね！私は毎年あずきバー食べて送ってます、筆者です
+
+(…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -1968,45 +2240,6 @@ news.yahoo.co.jp
 かつて高度成長期の時代は、働いていれば社会の経済成長に伴い昇給していくことができました。加えて、企業の言う通りに仕事をしていれば終身雇用で一生面倒を見てもらえるので、定年まで一社で働き続ける人がほとんどでした。それこそ大手企業に入社して順調に出世していくのは、理想のキャリアでした。
 ところが現在はどうでしょう、誰もが知っている大手企業が大規模な人員整理を実施しています。
 前述のパナソニックで対象とされたのは50代以降の中高年社員ということですが、…]]></summary>
-        <author>
-            <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どんなWebサイトもノーコードでPWA化を実現できる「Progressier」を試してみた！]]></title>
-        <id>hatenablog://entry/26006613773898150</id>
-        <link href="https://paiza.hatenablog.com/entry/2021/06/09/150000"/>
-        <updated>2021-06-09T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
-今回はあらゆるWebサイトを誰でも簡単にノーコードでPWAに変えることができるWebサービスをご紹介します。
-一般的なサーバにホスティングされているサイトだけでなく、Wordpressで作成されたサイトからWebflowなどのサービスを利用して作られたサイトまで幅広く対応しているのが特徴です。
-PWA対応にご興味ある方はぜひ参考にしてみてください！
-【 Progressier 】
-
-■「Progressier」の使い方
-それでは、「Progressier」をどのように使えばいいのかを詳しく見ていきましょう！
-まずはPWAに変換したいWebサイトを準備します。今回は、サンプルとしてNetlifyでホスティングしている以下のようなサイトを用意しました。
-
-このサイトを試しにPWA対応していくことにしましょう。
-
-「Progressier」のトップページにアクセスしたら、画面中央にある入力ボックスへPWAにしたいWebサイトのURLを貼り付けてください。
-
-
-設定画面が表示されるので、好きなプロジェクト名を入力します。
-
-
-次にWebサイトの種類を選択するのですが、今回の場合だと「Standard site」を選択します。
-
-他にも「Webflow」「Wordpress」などで作られたWebサイトにも対応しているので、自分の環境に合った種類を選択してみてください。
-
-最後にメールアドレスやパスワードを設定してユーザー登録を済ませておきましょう。
-
-
-以下のようなダッシュボードが表示されたら準備は完了です！
-
-あとはこのダッシュボードからWebサイトをPWAに変換したり、複数のサイトを設定・管理したりなどができるようになります。
-■WebサイトをPWAにしてみよう！
-さきほど表示されたダッシュボードには、いくつかタスクが用意されているの…]]></summary>
         <author>
             <name>paiza開発日誌</name>
         </author>
