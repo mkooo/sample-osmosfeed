@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T01:04:13.665Z</updated>
+    <updated>2021-07-10T01:02:10.456Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[記憶に影響?電子教材で失うもの]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398274?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398274?source=rss"/>
+        <updated>2021-07-09T13:57:32.000Z</updated>
+        <summary type="html"><![CDATA[教育現場に1人1台のタブレットやパソコンを配布する「GIGAスクール構想」が本格的に始まった。一方で、急速なデジタル化に対し、慎重さを求める研究者もいる。デジタル教科書の導入で、生徒・児童の理解度にどのような変化があるのか。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜFAX不可欠? 医療や警察]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398237?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398237?source=rss"/>
+        <updated>2021-07-09T07:45:12.000Z</updated>
+        <summary type="html"><![CDATA[河野太郎行政・規制改革担当相が、省庁などでのFAX使用廃止の方針を断念したと、北海道新聞が報道。日本では、医療現場や警察関係のように、セキュリティの観点などからも、FAXを廃止するのは望ましくない分野がある。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物議のネットさい銭 一時停止]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398231?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398231?source=rss"/>
+        <updated>2021-07-09T06:34:15.000Z</updated>
+        <summary type="html"><![CDATA[神社データベースサイト「カミムスビ」は8日、オンラインでさい銭を投げる機能について一時停止すると発表。京都市内の神社などが、ツイッターで相次いで注意喚起を行っていた。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優秀だけど今の仕事が嫌いなエンジニアたちはどうしたらいいんだろう]]></title>
+        <id>hatenablog://entry/26006613784111724</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/09/130000"/>
+        <updated>2021-07-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。谷口です。
+今の自分の仕事について「不満がある」「この仕事についたことを後悔している」「転職したい」と考えている人は多いでしょう。
+特にエンジニアの場合、スキルのある優秀な方々からも
+エンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌
+インフラエンジニアになったが、本当はもっと開発寄りの仕事がしたい
+のようなご相談をよくお受けします。
+エンジニアが自分にとって満足度の高い仕事を得るにはどうしたらよいのでしょうか。
+優秀なエンジニアだからこそ感じる不満
+例えば、最初にあげた「エンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌」というよくある悩みを抱えている人について考えてみます。
+こうした悩みを抱える方々は、それなりに開発もマネジメントもできる優秀な方々が多くいらっしゃいます。
+プログラミングや開発業務が好きでエンジニアになったけど、数年たって会社からマネジメント業務を求められるようになった。マネジメントもチームにとって必要だからやってはいるしできなくはないけど、好きではない…。自分はやっぱり技術が好きだし開発がしたい…。けどマネジメントしないと会社から評価されないし、開発だけが続けられるキャリアパスもないし…。
+新卒から数年たったエンジニア、それも技術が好きで得意な、優秀なエンジニアならではのお悩みです。
+不満を解消して満足できる仕事を見つけるには
+前述のお悩みを抱えたエンジニアが、不満を解消するには以下のような方法があります。
+今すぐ開発に専念できそうな企業に転職する
+
+会社から求められる仕事内容や評価体制、キャリアパスなどに不満があるのであれば、自分の希望に近しい企業を探して、転職すればすぐにでも不満を解消できるでしょう。
+ただ、ここで注意すべきことは以下の二点です。
+得意＝やりたいことではない、働きやすさ…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GAS＆Backlog APIで必要情報のみを取得して見やすく一覧化する話]]></title>
+        <id>https://qiita.com/ps-ho/items/41427e41351240cf1984?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ps-ho/items/41427e41351240cf1984?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T02:34:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+案件管理でツールを使用してますが、「各案件の状況が分かるような一覧資料を別途用意して！」ということが多々あります。
+ツールと別途資料準備で2重管理になり、手間と不整合で管理に苦労します。
+
+Backlog（案件管理ツール）のAPIを使用して、GASで必要情報のみを取得して自動で一覧化されるようにしてみました…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[window.onloadが効かない。そんな時はoverflow:auto;を探そう]]></title>
+        <id>https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T00:35:38.000Z</updated>
+        <summary type="html"><![CDATA[ほぼタイトルで完結していますが、一応どこでoverflow:auto;を探せばよいかほんの少しだけ書きます。
+
+body{
+     overflow:auto;
+}
+/* もしくは */
+html{
+     over…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Azure Bicepを試してみた]]></title>
+        <id>https://qiita.com/hikaru_motomiya/items/554ccb3671f7e9cf0aef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hikaru_motomiya/items/554ccb3671f7e9cf0aef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T00:02:31.000Z</updated>
+        <summary type="html"><![CDATA[1.はじめに
+
+平素より大変お世話になっております。
+そろそろ暑くなると思いきや、いきなりじめじめしてきて嫌な感じですね。
+
+私はARMテンプレートを利用してリソースをデプロイしていたのですが、これが…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIチャットボットを開発するレシピの紹介]]></title>
+        <id>https://qiita.com/Axross_SBiv/items/36c8c5976d89a5e2c28f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Axross_SBiv/items/36c8c5976d89a5e2c28f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T23:51:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Axrossを運営している藤原です。
+
+Axross とは、エンジニアの"教育"と"実務"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクと社内起業…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自作のWPFアプリを後から自動テスト・DI対応にしてみる。その1]]></title>
+        <id>https://qiita.com/soi/items/273e60b2a48d57ae762f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/soi/items/273e60b2a48d57ae762f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T22:17:20.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+これはもともとあったMVVMなWPFアプリに自動テストとDependency-Injection(DI)を実装してみた記録です。変更点はWPFとはあまり関係ないので、C#であれば他のフレーム…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術ようつべチャンネル集]]></title>
+        <id>https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T17:54:28.000Z</updated>
+        <summary type="html"><![CDATA[役立つYouTubeのチャンネルまとめ
+
+物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する
+取っ掛かり、ハマりがち、コ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【JAMstack】Next.js × Firebase で JAMstack なブログサイトを作る①［概要］]]></title>
+        <id>https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T17:46:06.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+
+
+Next.jsの勉強を始め、公式のチュートリアルでブログサイトを作成しました。
+その過程で、JAMstackとういうアーキテクチャを知り、最近勉強していたFirebaseと組み合わせると自分…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイル開発、スクラムの基本を説明します@ANGEL Dojo]]></title>
+        <id>https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T16:18:42.000Z</updated>
+        <summary type="html"><![CDATA[目次
+
+1.概要
+2.はじめに
+3.ウォーターフォール開発とアジャイル開発
+4.スクラムとは
+5.まとめ
+
+1-概要
+
+現在弊社で参加しているAWS主催の内製化支援に向けたトレーニング「ANGEL Do…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストを書くのはエンジニアとしてのプライドを保つために必要という考え]]></title>
+        <id>https://qiita.com/ikuosaito1989/items/2f7cd22007e74ae24242?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ikuosaito1989/items/2f7cd22007e74ae24242?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T15:03:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+テストは絶対書くべきだ！と思っていて、ここ数年は当たり前のようにカバレッジ100%でプログラムを書いてきたこともあり、テストの重要性について考えたこともありませんでした。最近、テストを導…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackにバイク川崎バイクを導入する【Python/Slackbot/Mecab】]]></title>
+        <id>https://qiita.com/pepperland_sk/items/ffe361b3bf3abf02ef58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/pepperland_sk/items/ffe361b3bf3abf02ef58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T13:34:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+バイク川崎バイクとは
+
+
+
+
+何でも略したらBKB(ベッドで急に爆睡など)になるネタなどがある。ネタの中では『BKB』というフレーズを多用し、身の回りの事を何でも『BKB』にして表現[11]し、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google 日本で送金本格参入へ]]></title>
         <id>https://news.yahoo.co.jp/pickup/6398174?source=rss</id>
@@ -38,6 +246,18 @@ RPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiP
         <summary type="html"><![CDATA[米国の37州・特別区の司法長官は7日、グーグルがアンドロイドを搭載したスマートフォン向けアプリストアの独占的地位を維持するために競合を買収するなどし、反トラスト法（独占禁止法）違反したとして連邦地裁に提訴した。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power AutomateでTeamsの特定のスレッドに定期リマインダーを送る]]></title>
+        <id>https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T10:20:05.000Z</updated>
+        <summary type="html"><![CDATA[サブ業務チームのスクラムマスターのススメでデイリーレトロスペクティブはじめました。
+同期的に集まらずMiroのボードに各自Keep&Problemを書き出すようにしているんですが、
+忘れそうな自分と…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -158,6 +378,19 @@ Path属性は、これ…]]></summary>
         <updated>2021-07-08T01:49:09.000Z</updated>
         <summary type="html"><![CDATA[iOSアプリをApp Storeではなく、Webサービスなどからベータ版のアプリを配信する方法を Ad hoc 配信といいます。
 Ad hoc配信はiOSアプリ開発の黎明期から行われておりますが、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UE4] Widgetとリソースを切り離す方法]]></title>
+        <id>https://qiita.com/EGJ-Ken_Kuwano/items/1c13f6ded4174c7fbddf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/EGJ-Ken_Kuwano/items/1c13f6ded4174c7fbddf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T01:44:47.000Z</updated>
+        <summary type="html"><![CDATA[1. 課題
+
+　本記事では「Widgetとリソースを切り離す方法」を説明しており、この記事を読むと"Widgetを使用してUIを構築する際の問題とその解消方法"が理解できるようになります。
+　Wid…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -294,6 +527,16 @@ Kubernetesを利用する時にサービスメッシュを検討することが�
         <summary type="html"><![CDATA[概要
 
 グラフ可視化ライブラリ Altair は、pandas の DataFrame を入力することで様々なグラフを作成することができる。しかし、pandas の行数が 5000 を超えると次のよ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポ〇モン的対戦RPGゲームの作り方-2.外部データのインポートとEditor拡張]]></title>
+        <id>https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T07:51:12.000Z</updated>
+        <summary type="html"><![CDATA[暇つぶしがてらポ〇モン的対戦RPGゲームを開発したので、その中身の作り方の概要を記事にしたいと思います。Qiitaに投稿するの初めてで書くの慣れてないので読みにくかったらすいません。また、Unity…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -693,6 +936,21 @@ https://qiita.com/noji505/items/59eb89…]]></summary>
 「コーギーについて、TwitterAPIで根掘り葉掘り分析してやる！」
 
 と意気込んでいましたが、Tw…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ANGEL Dojo】なぜ入社3年未満のWebエンジニアがAWSを学ぶのか]]></title>
+        <id>https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-05T14:03:36.000Z</updated>
+        <summary type="html"><![CDATA[1.はじめに
+
+皆さん、こんにちは。
+新卒入社2年目の Web エンジニアです。
+
+この度、AWS が主催する疑似プロジェクト「ANGEL DOJO」に参加する機会をいただいたので、なぜインフラでもな…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
