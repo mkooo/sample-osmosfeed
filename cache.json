@@ -22,6 +22,33 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398471?source=rss",
+          "author": null,
+          "description": "任天堂の家庭用ゲーム機NINTENDO64用ソフト「スーパーマリオ64」が11日、競売にかけられ、ゲームソフト史上最高額の156万ドル（約1億7200万円）で落札された。ゲームソフトの落札額が100万ドル（約1億1000万円）を超えるのは初めて。",
+          "link": "https://news.yahoo.co.jp/pickup/6398471?source=rss",
+          "publishedOn": "2021-07-12T00:33:20.000Z",
+          "wordCount": 65,
+          "title": "マリオ64に米で1.7億円 最高額"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398447?source=rss",
+          "author": null,
+          "description": "トランプ前米大統領の最側近ジェイソン・ミラー氏が新しいSNS「GETTR」を立ち上げた。トランプ氏は議事堂襲撃事件後、ツイッターから排除され、発信力を大幅に後退させた。GETTRはトランプ氏の政治運動の新たな拠点となる見通しという。",
+          "link": "https://news.yahoo.co.jp/pickup/6398447?source=rss",
+          "publishedOn": "2021-07-11T12:28:09.000Z",
+          "wordCount": 66,
+          "title": "トランプ陣営 SNS立ち上げ意図"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398415?source=rss",
+          "author": null,
+          "description": "動画配信サービス「ディズニー＋」を巡り、利用者から苦情が寄せられている。退会方法が複雑との指摘で、完了までにトップページから十数ページ遷移する必要があったという。運営会社は「真摯（しんし）に受け止め、改善に励む」。",
+          "link": "https://news.yahoo.co.jp/pickup/6398415?source=rss",
+          "publishedOn": "2021-07-11T06:02:45.000Z",
+          "wordCount": 68,
+          "title": "退会方法が複雑? Disney+に苦情"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398384?source=rss",
           "author": null,
           "description": "消しゴムやキーホルダーなど身近な物を模倣した小型カメラがインターネット上に出回っている。「防犯用」などとうたうが、誰でも簡単に安価で購入できることから、盗撮行為に悪用されることもある。",
@@ -470,6 +497,150 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nFirebase Local Emulator Suiteを使う際にコピペで動かしたいのでそのまとめです。\n\n公式ドキュメント\nFirebase Local Emulator Suite の概要…",
+          "link": "https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T13:04:35.000Z",
+          "wordCount": 721,
+          "title": "コピペで使うFirebase【Local Emulator Suite編】"
+        },
+        {
+          "id": "https://qiita.com/ProjectEuropa/items/a5f5e3fe5669710b79e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "結論\n\n/var/run/supervisor.sockをVolumeマウントして、\nWebアプリコンテナとDatadogAgentコンテナ間で/var/run/supervisor.sockを使用…",
+          "link": "https://qiita.com/ProjectEuropa/items/a5f5e3fe5669710b79e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T12:50:44.000Z",
+          "wordCount": 335,
+          "title": "Docker上で起動しているWebアプリのSupervisorをDatadogで監視する"
+        },
+        {
+          "id": "https://qiita.com/vit_udon_husqy/items/8d7e749fd92cde6dafec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\n学習コミュニティで書籍勉強会を主催してみました。\n概要は以下の通り。\n・スッキリわかるSQL入門を読み、自分なりの解釈でまとめてみる\n・メンバー四人で各１章ずつを担当して読み、Qiita等で…",
+          "link": "https://qiita.com/vit_udon_husqy/items/8d7e749fd92cde6dafec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T12:40:29.000Z",
+          "wordCount": 338,
+          "title": "【SQL書籍勉強会】SQLとは？"
+        },
+        {
+          "id": "https://qiita.com/mirai_yuki_tech/items/d5dda8ae46b2be965727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "記事の内容\n\n本記事で紹介する内容は、一見簡単に出来そうで、ちょっとした工夫をしないと実装できない内容です。\n本記事では、以下内容を紹介いたします。\n一つのタクトスイッチで\n\n\nESP8266をDeep…",
+          "link": "https://qiita.com/mirai_yuki_tech/items/d5dda8ae46b2be965727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T11:27:29.000Z",
+          "wordCount": 440,
+          "title": "ESP8266のDeepSleepをタクトスイッチひとつで制御したい"
+        },
+        {
+          "id": "https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nガウス過程回帰は機械学習領域ではかなりメジャーなので、皆様御存知かと思いますが、\nここで本当に初学者がガウス過程回帰にいきつくような解説と、多次元まで対応したPythonのガウス過程回帰…",
+          "link": "https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T10:19:41.000Z",
+          "wordCount": 455,
+          "title": "誰でも理解できるガウス過程とガウス過程回帰　基礎編"
+        },
+        {
+          "id": "https://qiita.com/fumifumitaro/items/c613d033ebc94c5e608d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まずは、私がkaggleで扱ったコードをそのまま掲載します。\n(おいおい直して汎用的なものにします。)\n\ndef preprocess(df):\n    excerpt_processed=[]\n    for e …",
+          "link": "https://qiita.com/fumifumitaro/items/c613d033ebc94c5e608d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T09:09:04.000Z",
+          "wordCount": 443,
+          "title": "自然言語処理の前処理の話(記号の削除、stopwordsの削除、語形の統一など)"
+        },
+        {
+          "id": "https://qiita.com/Takazudo/items/941b6eaddcf3d06ce1a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "第1話: We will selective\n第2話: We will specialize\n第3話: No estimates\n\n\n\n\n「先輩さん」\n『はい、後輩ちゃん』\n「前話してた1,000万の見積…",
+          "link": "https://qiita.com/Takazudo/items/941b6eaddcf3d06ce1a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T08:26:46.000Z",
+          "wordCount": 501,
+          "title": "俺の見積もりがこんなに安いわけがない: 第3話 No estimates"
+        },
+        {
+          "id": "https://qiita.com/sgeboku/items/9eca763879c04e24b058?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Pythonで作成した画像やネットで拾ってきた画像を１つのエクセルファイルに張り付けて保存する。\n画像はA列に貼り付けます。各画像は重ならないようにはしているつもりです。\n\nimport tkinte…",
+          "link": "https://qiita.com/sgeboku/items/9eca763879c04e24b058?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T08:25:11.000Z",
+          "wordCount": 406,
+          "title": "フォルダ内の画像をまとめてエクセルに貼り付け"
+        },
+        {
+          "id": "https://qiita.com/mirai_yuki_tech/items/f69d45f9915bfe71369f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ESP8266が抱える突入電流の問題\n\n本記事は、「ESP8266を単三乾電池一本で駆動したい」、「よわよわ電源だけどESPを起動できるようにしたい」などの要望に対するヒントになればと思います。\n\n突…",
+          "link": "https://qiita.com/mirai_yuki_tech/items/f69d45f9915bfe71369f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T08:22:24.000Z",
+          "wordCount": 344,
+          "title": "ESP8266の起動時の突入電流を抑え込む方法"
+        },
+        {
+          "id": "https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めまして！やばい現場でSEやっています！\n\n本当にあったやばいコードを並べてみました♪\n\nたくさんのグローバル変数\n\nグローバル変数って使う機会そうそうないと思うんですよ。あっても定数だけだとか。\n変数…",
+          "link": "https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T05:47:37.000Z",
+          "wordCount": 297,
+          "title": "本当にあったやばいコード"
+        },
+        {
+          "id": "https://qiita.com/torifukukaiou/items/949ff6d59ffeeec0cd51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/official-campaigns/engineer-festa/2021\n\nこの記事は\n\n\n2021年7月1日から8月25日まで開催されているQiitaエンジニアフ…",
+          "link": "https://qiita.com/torifukukaiou/items/949ff6d59ffeeec0cd51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T05:38:34.000Z",
+          "wordCount": 523,
+          "title": "Qiitaエンジニアフェスタ2021 LGTMランキング！"
+        },
+        {
+          "id": "https://qiita.com/sprout2000/items/c6908d61314c2d8c8304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n「Electron + TypeScript + React の環境構築(Early 2021)」のホットリロード版です。\n\nhttps://qiita.com/sprout2000/it…",
+          "link": "https://qiita.com/sprout2000/items/c6908d61314c2d8c8304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T04:05:06.000Z",
+          "wordCount": 1108,
+          "title": "Electron + TypeScript + React の環境構築 (Summer 2021)"
+        },
+        {
+          "id": "https://qiita.com/dialoguedaisuki/items/b41a0e7b43104bd3045d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "すぐ消すbotとは\n\n\n悪意あるものが私のリポジトリを悪用し、ネット上でボヤ騒ぎを起こしたbotのことである。\n\n\nまとめ記事が顛末に詳しい、こちらの記事も間違いがあるがまとまっている。 \n\n\n\nhttps://…",
+          "link": "https://qiita.com/dialoguedaisuki/items/b41a0e7b43104bd3045d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T02:35:51.000Z",
+          "wordCount": 488,
+          "title": "Pythonですぐ消すbotを再現する"
+        },
+        {
+          "id": "https://qiita.com/orimomo/items/f7b2acd12bf8d26d48fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Universal Linksを実装した際にいくつかハマったことがあったので、覚書として残しておきます。\n\n【おさらい】 Universal Linksとは\n\n\niOS9〜利用可能\n通常のWeb URL経…",
+          "link": "https://qiita.com/orimomo/items/f7b2acd12bf8d26d48fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T01:18:29.000Z",
+          "wordCount": 389,
+          "title": "【iOS】Universal Links実装時にハマったこと"
+        },
+        {
+          "id": "https://qiita.com/suzuki0430/items/8b6e99669a8d4242a5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n前回の記事でCodeCommit, CodeBuild, CodePipelineを使って、AWSサービスのみでCI/CDパイプラインを構築しました。\n今回は構築したパイプラインにBlu…",
+          "link": "https://qiita.com/suzuki0430/items/8b6e99669a8d4242a5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T01:15:19.000Z",
+          "wordCount": 468,
+          "title": "【AWS】ECS構築の基礎 −Blue/Greenデプロイ編−"
+        },
+        {
+          "id": "https://qiita.com/studio_haneya/items/dc072d4329fcacfaac2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "驚いたところ\n\n以下を実行するとどうなるでしょうか？\n\n>>> HOGE = 'aaa'\n>>> \n>>> def func(is_b):\n>>>     if is_b:\n>>>         global HOGE\n>>…",
+          "link": "https://qiita.com/studio_haneya/items/dc072d4329fcacfaac2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T17:56:36.000Z",
+          "wordCount": 696,
+          "title": "pythonのglobalの動作にちょっと驚いた"
+        },
+        {
           "id": "https://qiita.com/the_haigo/items/76d1ee732f63f6b6d979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nこの記事はcvlibで使うように独自データセットでyolov4を学習した手順をまとめたものです\nファイル周りの処理やファイルリストの作成にElixirを使用しています\n\n環境\n\nOS ubu…",
@@ -477,6 +648,15 @@
           "publishedOn": "2021-07-10T16:39:59.000Z",
           "wordCount": 673,
           "title": "Darknet YOLOv4  を Google Open Images Datasetのデータを使って学習させる with Elixir"
+        },
+        {
+          "id": "https://qiita.com/Toshi_ma/items/fa128b67bc5470a64588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの記事はUnityでゲームを開発していて、かつSymbolブロックチェーンから、例えばアカウントのXYM残高を取得したい時に使う方法を説明します。なお、少し書き換えれば残高以外にもトラ…",
+          "link": "https://qiita.com/Toshi_ma/items/fa128b67bc5470a64588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T14:21:03.000Z",
+          "wordCount": 571,
+          "title": "UnityでSymbolのアカウント残高を取得する"
         },
         {
           "id": "https://qiita.com/yakimeron/items/7c635a6cee4a564ba25e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -540,6 +720,15 @@
           "publishedOn": "2021-07-10T06:40:28.000Z",
           "wordCount": 1967,
           "title": "あなたにもいつ訪れるか分からないClassic ASP地獄を乗り切る「ASPVBSLIB」完成"
+        },
+        {
+          "id": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "JDBCドライバという存在は破壊的だった。\n\nJDBCの登場まではODBCやADOなど、結局はWindows縛りの接続環境から、JDBCで環境依存が極小化された形でDBにつながる。\n\n例えばRubyでm…",
+          "link": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T03:06:10.000Z",
+          "wordCount": 278,
+          "title": "他の言語がJavaにかなわない唯一のポイント"
         },
         {
           "id": "https://qiita.com/kazuyamashi/items/5de942ec25cf891dc7de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -632,6 +821,15 @@
           "title": "Build Opening をみておもったこと (Elixir)"
         },
         {
+          "id": "https://qiita.com/PANDAKO/items/43ce9a4a0b6549dfbeef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年6月25日に GDevelop の作成者である 4ian (Florian Rival) さんが Discord 上で「Ask Me Anything（なんでも聞いて）」というイベントを開…",
+          "link": "https://qiita.com/PANDAKO/items/43ce9a4a0b6549dfbeef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T13:50:49.000Z",
+          "wordCount": 350,
+          "title": "4ian 氏が Google 辞めて GDevelop に全振りする件"
+        },
+        {
           "id": "https://qiita.com/d_m/items/9fb6d78ae644923a7b16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "パチスロを遊技する人の大半がデータサイト等でどの台が出ていたのかをチェックして次回以降遊技する際の参考にしているかと思います。\n\nしかし、テキストベースのみでのチェックでは色々とイメージしにくい点が出…",
@@ -639,6 +837,24 @@
           "publishedOn": "2021-07-09T10:37:40.000Z",
           "wordCount": 1260,
           "title": "パチスロ店でどの台が出ていたのか分かりやすく可視化してみた"
+        },
+        {
+          "id": "https://qiita.com/it_tsumugi/items/d0443e7bb8e23453f5ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近Reactの勉強をしている最中にjavascriptの論理積、論理和を用いて端的にif文みたいなのを書く方法を知った。なぜそうなるのか分からなかったので原理を調べてみたのと、それを理…",
+          "link": "https://qiita.com/it_tsumugi/items/d0443e7bb8e23453f5ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T06:35:56.000Z",
+          "wordCount": 309,
+          "title": "javascriptにおける論理積、論理和を用いて書いた疑似if文を許すべきか否か"
+        },
+        {
+          "id": "https://qiita.com/haihaikazuma/items/aacb2d00c052f00c531b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先日、新入社員の方から次のような相談を受けました。\n\n「エンジニアの方に質問をすると、いつもイライラされてしまって辛いです」\n\n\n\n・・・・・・・・・\n\n確かに、エンジニアに限らず、質問をすること…",
+          "link": "https://qiita.com/haihaikazuma/items/aacb2d00c052f00c531b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T05:06:54.000Z",
+          "wordCount": 321,
+          "title": "なぜかエンジニアをイラっとさせてしまう人の質問"
         },
         {
           "id": "https://qiita.com/ps-ho/items/41427e41351240cf1984?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
