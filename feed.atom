@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T01:02:33.057Z</updated>
+    <updated>2021-07-13T01:05:34.542Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通信違約金 上限1カ月分の方針]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398540?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398540?source=rss"/>
+        <updated>2021-07-12T14:07:35.000Z</updated>
+        <summary type="html"><![CDATA[インターネットなどの通信サービスを解約する際の違約金について、総務省は12日、上限額を「1カ月分のサービス利用料相当額」に制限する方針を示した。解約を防ぐため高額な違約金を求める事業者もいたという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GANで国旗を作る]]></title>
+        <id>https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-12T12:21:03.000Z</updated>
+        <summary type="html"><![CDATA[対象読者：将来国を建設したいが、国旗を考えるのは面倒くさいという人
+
+　他に誰かやっていると思ったら、ちょっと検索した範囲では見つからなかったのでやってみました。国旗をGANで作れないかという実験です…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon サクラレビュー対策本腰]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398524?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398524?source=rss"/>
+        <updated>2021-07-12T09:03:41.000Z</updated>
+        <summary type="html"><![CDATA[5月に入ってから、AmazonにおいてAUKEYをはじめとした多数の中国製品ブランドの公式ストアが突如アカウント封鎖となり、購入できなくなっている。今回Amazonのサクラレビューの対策はかなりの本腰のようだ。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファスト映画 ゲーム実況との差]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398503?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398503?source=rss"/>
+        <updated>2021-07-12T05:51:57.000Z</updated>
+        <summary type="html"><![CDATA[1本の映画を10分程度にまとめた「ファスト映画」。急激に投稿本数が増加し、最近では投稿者が逮捕された。ファスト映画が注目される中で、構造の類似が指摘されているのが「ゲーム実況」。それぞれの共通点と差、歴史について考える。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon 商品詳細が一時見られず]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398495?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398495?source=rss"/>
+        <updated>2021-07-12T04:10:46.000Z</updated>
+        <summary type="html"><![CDATA[12日11時半頃より、Amazonの商品詳細ページが閲覧できないとの報告が相次いだ。12時45分現在、商品詳細ページは正常に表示されている。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30代後半から40代で転職に失敗するエンジニアがやりがちな勘違いとその対策]]></title>
+        <id>hatenablog://entry/26006613785005154</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/12/130000"/>
+        <updated>2021-07-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+30代も半ばを過ぎると、これまで培ってきたスキルや経験で日々の仕事をある程度こなせるようになり、エンジニアといってもチームや組織をマネジメントする役割につく方も多いでしょう。
+そんな中で現状になんとなく閉塞感がある、年次が上がるにつれてやりたいことができなくなってきてつまらない…と感じるようになったり、環境を変えてもっと年収を上げたい・キャリアアップしたいといった理由で転職を考える方もいらっしゃると思います。
+一般的に年齢が上がるにつれ、転職の難度も上がりますが、エンジニアは専門職であり自身のスキルで仕事に就くことができるため年齢に左右されづらい面があります。
+ただ、特に若いうちに転職経験がある方に多いのが、20代前半と同じような気持ちと準備で転職活動に臨んでしまいうまくいかず悩むというものです。
+今回は、採用企業側の声も紹介しながら、30代後半から40代で転職に失敗する人がやりがちな勘違いと、成功させるためにどうすればいいかの対策をお伝えしたいと思います。
+エンジニア採用企業の本音
+採用状況について
+コロナ前後での中途採用の変化
+40代前後の転職でよくある3つの勘違いとその対策
+1．企業側が求める人材を理解できていない
+対策：企業が40代前後の人材に何を期待しているか知る
+2．転職準備にかける時間が圧倒的に足りていない
+対策：時間をかけて勝つための準備をする
+3．選考で年齢相応の実績アピールができていない
+対策：課題解決のプロセスも含め実績として伝える
+まとめ
+エンジニア採用企業の本音
+typeが2021年2月に公開した、企業向けアンケート調査（52社（IT・通信 / インターネット・広告・メディア 業界が対象））の結果から採用状況や企業の本音を見ていきます。
+（参考）【2021年2月】ITエンジニア採用のための最新動向情報！企業の採用状況・求人倍…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新宿「巨大猫」仕掛け人の願い]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6398483?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6398483?source=rss"/>
+        <updated>2021-07-12T02:31:56.000Z</updated>
+        <summary type="html"><![CDATA[新宿東口のビルの上に突如として現れた巨大な猫の3D映像が、SNSなどを通じて大きな話題に。なぜ、このような企画が実現したのか。放映する「クロス新宿ビジョン」運営会社・株式会社ユニカの藤沼良丞さんに聞いた。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Kubernetes入門】ローカル環境にReactアプリをデプロイする]]></title>
+        <id>https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-12T01:33:13.000Z</updated>
+        <summary type="html"><![CDATA[やること
+
+今回は簡単にKubernetes環境が作れる「Minikube」を用いてローカル環境にReactアプリケーションをデプロイし、疎通確認をしていきます。
+また、今回のソースコードはGitH…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonの型を完全に理解するためのtypingモジュール全解説(3.10対応)]]></title>
+        <id>https://qiita.com/nicco_mirai/items/5591c1c48b1422c324c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nicco_mirai/items/5591c1c48b1422c324c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-12T01:14:08.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Pythonでキチンと型アノテーションを書くのであれば一度は読んでおきたいのがtypingライブラリの公式ドキュメントです。
+
+前回の記事でも読んでくださいと(偉そうに)書いたわけですが、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マリオ64に米で1.7億円 最高額]]></title>
         <id>https://news.yahoo.co.jp/pickup/6398471?source=rss</id>
@@ -14,6 +132,70 @@
         <summary type="html"><![CDATA[任天堂の家庭用ゲーム機NINTENDO64用ソフト「スーパーマリオ64」が11日、競売にかけられ、ゲームソフト史上最高額の156万ドル（約1億7200万円）で落札された。ゲームソフトの落札額が100万ドル（約1億1000万円）を超えるのは初めて。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Data Wrangler で ETL をやってみる（RDB のデータを加工してデータマートへ）]]></title>
+        <id>https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T23:42:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+皆さんはアプリケーションデータを加工して分析用データを提供するためのデータパイプラインをどう構築していますか？
+本記事ではその選択肢の一つとして、今イチオシの AWS Data Wran…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析者が知っておくと便利なプロジェクトマネジメントの話]]></title>
+        <id>https://qiita.com/arakawamotohide/items/a9e4712a0ab63e382cda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/arakawamotohide/items/a9e4712a0ab63e382cda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T23:35:59.000Z</updated>
+        <summary type="html"><![CDATA[どうもこんにちは、Qiitaでは はじめまして。私です。普段は分析とかデータとかその辺の仕事をしてる者です。
+
+Qiitaで分析とかプロマネの話をしていいのか悩んでたんですけどなんか大丈夫そうなのでこ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32(M5StickC)でWPSを使うと設定ファイルも必要ないし便利ですよ]]></title>
+        <id>https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T18:26:18.000Z</updated>
+        <summary type="html"><![CDATA[皆さんESP32でWifiを使うときのIDとPASSってソースファイルに直書きしてますか？
+ハードコードが嫌だからSDカードやSPIFFSに保存して再起動の度に読みだしてWiFi.begin(ID,…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[constexprの読み方]]></title>
+        <id>https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T13:56:24.000Z</updated>
+        <summary type="html"><![CDATA[まとめ
+
+コードを読んでいても発音が分かりません。
+発音できないのが気持ち悪いので頑張って調べてみました。
+
+英語のビデオを見る限りは「こんすとえくすぷろ」が圧倒的に多いです。
+これは間違いなさそうで…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate で得られる情報がわからない時は…]]></title>
+        <id>https://qiita.com/yamad365/items/8922474d5aae94937018?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yamad365/items/8922474d5aae94937018?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T13:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate に関して質問される「このトリガーからナニが取れるのかわかりません。」みたいな話題に対する「こういうコトすれば良いんじゃない？」という当方からのアイディアです。
+
+実際にテ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -87,6 +269,21 @@ ESP8266をDeep…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~サイト制作~ (React,Next.js,TailwindCSS)]]></title>
+        <id>https://qiita.com/takahashi-mcd/items/9e1109f63975525f04e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/takahashi-mcd/items/9e1109f63975525f04e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T11:19:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+前回の【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~で開発を始められるところまで環境構築をしていきました。
+
+
+本気でエン…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[誰でも理解できるガウス過程とガウス過程回帰　基礎編]]></title>
         <id>https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -95,6 +292,18 @@ ESP8266をDeep…]]></summary>
 
 ガウス過程回帰は機械学習領域ではかなりメジャーなので、皆様御存知かと思いますが、
 ここで本当に初学者がガウス過程回帰にいきつくような解説と、多次元まで対応したPythonのガウス過程回帰…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イケてないコードのイケてない理由が言語化できなかったときに確認する凝集度という観点]]></title>
+        <id>https://qiita.com/doz13189/items/e3bc5fd7e2c9453f6904?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/doz13189/items/e3bc5fd7e2c9453f6904?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T09:19:23.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+以前、コードレビューをしているときに、イケてないと感じるコードを見たが、そのイケてないコードのイケてない理由が言語化できず、また、その改善方法もわからなかった。それに対してモヤモヤしなが…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -172,6 +381,23 @@ import tkinte…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[本当にあったやばいコード]]></title>
+        <id>https://qiita.com/beyoooooon/items/c356c610388f388779b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/beyoooooon/items/c356c610388f388779b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T05:47:37.000Z</updated>
+        <summary type="html"><![CDATA[初めまして！やばい現場でSEやっています！
+
+本当にあったやばいコードを並べてみました♪
+
+たくさんのグローバル変数
+
+グローバル変数って使う機会そうそうないと思うんですよ。あっても定数だけだとか。
+変数…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本当にあったやばいコード]]></title>
         <id>https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
         <updated>2021-07-11T05:47:37.000Z</updated>
@@ -232,6 +458,16 @@ https://qiita.com/sprout2000/it…]]></summary>
 
 
 https://…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディープラーニングで映像から動かない歩行者を検出するのに苦労した]]></title>
+        <id>https://qiita.com/ComputerVision/items/c57d861cfa149b65a39d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ComputerVision/items/c57d861cfa149b65a39d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-11T01:46:14.000Z</updated>
+        <summary type="html"><![CDATA[「歩行者の行動の可視化ってなに？映像中から歩行者見つけて枠で囲めばいいんじゃないの？」と、考えていた時期が私にもありました。しかし「映像を解析する」という観点で見た場合、それでは足りないとお客さん…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -331,6 +567,29 @@ OS ubu…]]></summary>
         <summary type="html"><![CDATA[宇宙に人工衛星を打ち上げ、インターネットを世界中で利用できるようにする動きが広がっている。世界にはネット環境が整っていない人が30億人以上いるとされ、将来的に新興国や途上国で新規市場を開拓したいIT企業などの競争が激化。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルを端的に理解する]]></title>
+        <id>https://qiita.com/wann/items/de1e66bc4f456fa83cbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/wann/items/de1e66bc4f456fa83cbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-10T13:10:47.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+内容をさっと把握したい時などに使って下さい。
+
+アジャイルとは
+
+一言で、アジャイルとは
+
+ソフトウェアを無駄なく早く届ける開発手法、またはフレームワーク、心構え
+
+箇条書きで、アジャイルとは
+
+
+価値…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -442,6 +701,26 @@ Classic AS…]]></summary>
         <summary type="html"><![CDATA[海外版ファミコンNES用ソフト「ゼルダの伝説」の未開封品が、競売にかけられ、ゲームソフト史上最高額の87万ドル（約9600万円）で落札された。米競売会社ヘリテージ・オークションズが明らかにした。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.jsでGoogle SpreadsheetをHeadlessCMSとして使う]]></title>
+        <id>https://qiita.com/suzuki_sh/items/7de6a93a87fa21e3e773?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/suzuki_sh/items/7de6a93a87fa21e3e773?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-10T04:32:58.000Z</updated>
+        <summary type="html"><![CDATA[下記のようなスプレッドシートを読み込んで、
+
+
+下記のように表示するようなNext.jsアプリを作ってみます。
+
+
+環境
+
+
+ChromeOS Crostini (Linux) Debian 10.10
+Doc…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>

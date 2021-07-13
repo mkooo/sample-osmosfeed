@@ -22,6 +22,51 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398540?source=rss",
+          "author": null,
+          "description": "インターネットなどの通信サービスを解約する際の違約金について、総務省は12日、上限額を「1カ月分のサービス利用料相当額」に制限する方針を示した。解約を防ぐため高額な違約金を求める事業者もいたという。",
+          "link": "https://news.yahoo.co.jp/pickup/6398540?source=rss",
+          "publishedOn": "2021-07-12T14:07:35.000Z",
+          "wordCount": 65,
+          "title": "通信違約金 上限1カ月分の方針"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398524?source=rss",
+          "author": null,
+          "description": "5月に入ってから、AmazonにおいてAUKEYをはじめとした多数の中国製品ブランドの公式ストアが突如アカウント封鎖となり、購入できなくなっている。今回Amazonのサクラレビューの対策はかなりの本腰のようだ。",
+          "link": "https://news.yahoo.co.jp/pickup/6398524?source=rss",
+          "publishedOn": "2021-07-12T09:03:41.000Z",
+          "wordCount": 65,
+          "title": "Amazon サクラレビュー対策本腰"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398503?source=rss",
+          "author": null,
+          "description": "1本の映画を10分程度にまとめた「ファスト映画」。急激に投稿本数が増加し、最近では投稿者が逮捕された。ファスト映画が注目される中で、構造の類似が指摘されているのが「ゲーム実況」。それぞれの共通点と差、歴史について考える。",
+          "link": "https://news.yahoo.co.jp/pickup/6398503?source=rss",
+          "publishedOn": "2021-07-12T05:51:57.000Z",
+          "wordCount": 65,
+          "title": "ファスト映画 ゲーム実況との差"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398495?source=rss",
+          "author": null,
+          "description": "12日11時半頃より、Amazonの商品詳細ページが閲覧できないとの報告が相次いだ。12時45分現在、商品詳細ページは正常に表示されている。",
+          "link": "https://news.yahoo.co.jp/pickup/6398495?source=rss",
+          "publishedOn": "2021-07-12T04:10:46.000Z",
+          "wordCount": 67,
+          "title": "Amazon 商品詳細が一時見られず"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398483?source=rss",
+          "author": null,
+          "description": "新宿東口のビルの上に突如として現れた巨大な猫の3D映像が、SNSなどを通じて大きな話題に。なぜ、このような企画が実現したのか。放映する「クロス新宿ビジョン」運営会社・株式会社ユニカの藤沼良丞さんに聞いた。",
+          "link": "https://news.yahoo.co.jp/pickup/6398483?source=rss",
+          "publishedOn": "2021-07-12T02:31:56.000Z",
+          "wordCount": 64,
+          "title": "新宿「巨大猫」仕掛け人の願い"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398471?source=rss",
           "author": null,
           "description": "任天堂の家庭用ゲーム機NINTENDO64用ソフト「スーパーマリオ64」が11日、競売にかけられ、ゲームソフト史上最高額の156万ドル（約1億7200万円）で落札された。ゲームソフトの落札額が100万ドル（約1億1000万円）を超えるのは初めて。",
@@ -308,6 +353,20 @@
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/26006613785005154",
+          "author": null,
+          "description": "こんにちは。倉内です。\n30代も半ばを過ぎると、これまで培ってきたスキルや経験で日々の仕事をある程度こなせるようになり、エンジニアといってもチームや組織をマネジメントする役割につく方も多いでしょう。\nそんな中で現状になんとなく閉塞感がある、年次が上がるにつれてやりたいことができなくなってきてつまらない…と感じるようになったり、環境を変えてもっと年収を上げたい・キャリアアップしたいといった理由で転職を考える方もいらっしゃると思います。\n一般的に年齢が上がるにつれ、転職の難度も上がりますが、エンジニアは専門職であり自身のスキルで仕事に就くことができるため年齢に左右されづらい面があります。\nただ、特に若いうちに転職経験がある方に多いのが、20代前半と同じような気持ちと準備で転職活動に臨んでしまいうまくいかず悩むというものです。\n今回は、採用企業側の声も紹介しながら、30代後半から40代で転職に失敗する人がやりがちな勘違いと、成功させるためにどうすればいいかの対策をお伝えしたいと思います。\nエンジニア採用企業の本音\n採用状況について\nコロナ前後での中途採用の変化\n40代前後の転職でよくある3つの勘違いとその対策\n1．企業側が求める人材を理解できていない\n対策：企業が40代前後の人材に何を期待しているか知る\n2．転職準備にかける時間が圧倒的に足りていない\n対策：時間をかけて勝つための準備をする\n3．選考で年齢相応の実績アピールができていない\n対策：課題解決のプロセスも含め実績として伝える\nまとめ\nエンジニア採用企業の本音\ntypeが2021年2月に公開した、企業向けアンケート調査（52社（IT・通信 / インターネット・広告・メディア 業界が対象））の結果から採用状況や企業の本音を見ていきます。\n（参考）【2021年2月】ITエンジニア採用のための最新動向情報！企業の採用状況・求人倍…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/12/130000",
+          "publishedOn": "2021-07-12T04:00:00.000Z",
+          "wordCount": 265,
+          "title": "30代後半から40代で転職に失敗するエンジニアがやりがちな勘違いとその対策",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210709/20210709190517.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
           "id": "hatenablog://entry/26006613784111724",
           "author": null,
           "description": "こんにちは。谷口です。\n今の自分の仕事について「不満がある」「この仕事についたことを後悔している」「転職したい」と考えている人は多いでしょう。\n特にエンジニアの場合、スキルのある優秀な方々からも\nエンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌\nインフラエンジニアになったが、本当はもっと開発寄りの仕事がしたい\nのようなご相談をよくお受けします。\nエンジニアが自分にとって満足度の高い仕事を得るにはどうしたらよいのでしょうか。\n優秀なエンジニアだからこそ感じる不満\n例えば、最初にあげた「エンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌」というよくある悩みを抱えている人について考えてみます。\nこうした悩みを抱える方々は、それなりに開発もマネジメントもできる優秀な方々が多くいらっしゃいます。\nプログラミングや開発業務が好きでエンジニアになったけど、数年たって会社からマネジメント業務を求められるようになった。マネジメントもチームにとって必要だからやってはいるしできなくはないけど、好きではない…。自分はやっぱり技術が好きだし開発がしたい…。けどマネジメントしないと会社から評価されないし、開発だけが続けられるキャリアパスもないし…。\n新卒から数年たったエンジニア、それも技術が好きで得意な、優秀なエンジニアならではのお悩みです。\n不満を解消して満足できる仕事を見つけるには\n前述のお悩みを抱えたエンジニアが、不満を解消するには以下のような方法があります。\n今すぐ開発に専念できそうな企業に転職する\n\n会社から求められる仕事内容や評価体制、キャリアパスなどに不満があるのであれば、自分の希望に近しい企業を探して、転職すればすぐにでも不満を解消できるでしょう。\nただ、ここで注意すべきことは以下の二点です。\n得意＝やりたいことではない、働きやすさ…",
@@ -497,6 +556,78 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "対象読者：将来国を建設したいが、国旗を考えるのは面倒くさいという人\n\n　他に誰かやっていると思ったら、ちょっと検索した範囲では見つからなかったのでやってみました。国旗をGANで作れないかという実験です…",
+          "link": "https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T12:21:03.000Z",
+          "wordCount": 948,
+          "title": "GANで国旗を作る"
+        },
+        {
+          "id": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "やること\n\n今回は簡単にKubernetes環境が作れる「Minikube」を用いてローカル環境にReactアプリケーションをデプロイし、疎通確認をしていきます。\nまた、今回のソースコードはGitH…",
+          "link": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T01:33:13.000Z",
+          "wordCount": 1039,
+          "title": "【Kubernetes入門】ローカル環境にReactアプリをデプロイする"
+        },
+        {
+          "id": "https://qiita.com/nicco_mirai/items/5591c1c48b1422c324c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nPythonでキチンと型アノテーションを書くのであれば一度は読んでおきたいのがtypingライブラリの公式ドキュメントです。\n\n前回の記事でも読んでくださいと(偉そうに)書いたわけですが、…",
+          "link": "https://qiita.com/nicco_mirai/items/5591c1c48b1422c324c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T01:14:08.000Z",
+          "wordCount": 1887,
+          "title": "Pythonの型を完全に理解するためのtypingモジュール全解説(3.10対応)"
+        },
+        {
+          "id": "https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n皆さんはアプリケーションデータを加工して分析用データを提供するためのデータパイプラインをどう構築していますか？\n本記事ではその選択肢の一つとして、今イチオシの AWS Data Wran…",
+          "link": "https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T23:42:47.000Z",
+          "wordCount": 558,
+          "title": "AWS Data Wrangler で ETL をやってみる（RDB のデータを加工してデータマートへ）"
+        },
+        {
+          "id": "https://qiita.com/arakawamotohide/items/a9e4712a0ab63e382cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "どうもこんにちは、Qiitaでは はじめまして。私です。普段は分析とかデータとかその辺の仕事をしてる者です。\n\nQiitaで分析とかプロマネの話をしていいのか悩んでたんですけどなんか大丈夫そうなのでこ…",
+          "link": "https://qiita.com/arakawamotohide/items/a9e4712a0ab63e382cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T23:35:59.000Z",
+          "wordCount": 445,
+          "title": "分析者が知っておくと便利なプロジェクトマネジメントの話"
+        },
+        {
+          "id": "https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "皆さんESP32でWifiを使うときのIDとPASSってソースファイルに直書きしてますか？\nハードコードが嫌だからSDカードやSPIFFSに保存して再起動の度に読みだしてWiFi.begin(ID,…",
+          "link": "https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T18:26:18.000Z",
+          "wordCount": 387,
+          "title": "ESP32(M5StickC)でWPSを使うと設定ファイルも必要ないし便利ですよ"
+        },
+        {
+          "id": "https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まとめ\n\nコードを読んでいても発音が分かりません。\n発音できないのが気持ち悪いので頑張って調べてみました。\n\n英語のビデオを見る限りは「こんすとえくすぷろ」が圧倒的に多いです。\nこれは間違いなさそうで…",
+          "link": "https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T13:56:24.000Z",
+          "wordCount": 292,
+          "title": "constexprの読み方"
+        },
+        {
+          "id": "https://qiita.com/yamad365/items/8922474d5aae94937018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Power Automate に関して質問される「このトリガーからナニが取れるのかわかりません。」みたいな話題に対する「こういうコトすれば良いんじゃない？」という当方からのアイディアです。\n\n実際にテ…",
+          "link": "https://qiita.com/yamad365/items/8922474d5aae94937018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T13:36:59.000Z",
+          "wordCount": 374,
+          "title": "Power Automate で得られる情報がわからない時は…"
+        },
+        {
           "id": "https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "概要\n\nFirebase Local Emulator Suiteを使う際にコピペで動かしたいのでそのまとめです。\n\n公式ドキュメント\nFirebase Local Emulator Suite の概要…",
@@ -533,6 +664,15 @@
           "title": "ESP8266のDeepSleepをタクトスイッチひとつで制御したい"
         },
         {
+          "id": "https://qiita.com/takahashi-mcd/items/9e1109f63975525f04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n前回の【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~で開発を始められるところまで環境構築をしていきました。\n\n\n本気でエン…",
+          "link": "https://qiita.com/takahashi-mcd/items/9e1109f63975525f04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T11:19:40.000Z",
+          "wordCount": 1678,
+          "title": "【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~サイト制作~ (React,Next.js,TailwindCSS)"
+        },
+        {
           "id": "https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nガウス過程回帰は機械学習領域ではかなりメジャーなので、皆様御存知かと思いますが、\nここで本当に初学者がガウス過程回帰にいきつくような解説と、多次元まで対応したPythonのガウス過程回帰…",
@@ -540,6 +680,15 @@
           "publishedOn": "2021-07-11T10:19:41.000Z",
           "wordCount": 455,
           "title": "誰でも理解できるガウス過程とガウス過程回帰　基礎編"
+        },
+        {
+          "id": "https://qiita.com/doz13189/items/e3bc5fd7e2c9453f6904?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n以前、コードレビューをしているときに、イケてないと感じるコードを見たが、そのイケてないコードのイケてない理由が言語化できず、また、その改善方法もわからなかった。それに対してモヤモヤしなが…",
+          "link": "https://qiita.com/doz13189/items/e3bc5fd7e2c9453f6904?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T09:19:23.000Z",
+          "wordCount": 1117,
+          "title": "イケてないコードのイケてない理由が言語化できなかったときに確認する凝集度という観点"
         },
         {
           "id": "https://qiita.com/fumifumitaro/items/c613d033ebc94c5e608d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -578,6 +727,15 @@
           "title": "ESP8266の起動時の突入電流を抑え込む方法"
         },
         {
+          "id": "https://qiita.com/beyoooooon/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めまして！やばい現場でSEやっています！\n\n本当にあったやばいコードを並べてみました♪\n\nたくさんのグローバル変数\n\nグローバル変数って使う機会そうそうないと思うんですよ。あっても定数だけだとか。\n変数…",
+          "link": "https://qiita.com/beyoooooon/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T05:47:37.000Z",
+          "wordCount": 297,
+          "title": "本当にあったやばいコード"
+        },
+        {
           "id": "https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "初めまして！やばい現場でSEやっています！\n\n本当にあったやばいコードを並べてみました♪\n\nたくさんのグローバル変数\n\nグローバル変数って使う機会そうそうないと思うんですよ。あっても定数だけだとか。\n変数…",
@@ -612,6 +770,15 @@
           "publishedOn": "2021-07-11T02:35:51.000Z",
           "wordCount": 488,
           "title": "Pythonですぐ消すbotを再現する"
+        },
+        {
+          "id": "https://qiita.com/ComputerVision/items/c57d861cfa149b65a39d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「歩行者の行動の可視化ってなに？映像中から歩行者見つけて枠で囲めばいいんじゃないの？」と、考えていた時期が私にもありました。しかし「映像を解析する」という観点で見た場合、それでは足りないとお客さん…",
+          "link": "https://qiita.com/ComputerVision/items/c57d861cfa149b65a39d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T01:46:14.000Z",
+          "wordCount": 369,
+          "title": "ディープラーニングで映像から動かない歩行者を検出するのに苦労した"
         },
         {
           "id": "https://qiita.com/orimomo/items/f7b2acd12bf8d26d48fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -657,6 +824,15 @@
           "publishedOn": "2021-07-10T14:21:03.000Z",
           "wordCount": 571,
           "title": "UnityでSymbolのアカウント残高を取得する"
+        },
+        {
+          "id": "https://qiita.com/wann/items/de1e66bc4f456fa83cbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n内容をさっと把握したい時などに使って下さい。\n\nアジャイルとは\n\n一言で、アジャイルとは\n\nソフトウェアを無駄なく早く届ける開発手法、またはフレームワーク、心構え\n\n箇条書きで、アジャイルとは\n\n\n価値…",
+          "link": "https://qiita.com/wann/items/de1e66bc4f456fa83cbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T13:10:47.000Z",
+          "wordCount": 339,
+          "title": "アジャイルを端的に理解する"
         },
         {
           "id": "https://qiita.com/yakimeron/items/7c635a6cee4a564ba25e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -720,6 +896,15 @@
           "publishedOn": "2021-07-10T06:40:28.000Z",
           "wordCount": 1967,
           "title": "あなたにもいつ訪れるか分からないClassic ASP地獄を乗り切る「ASPVBSLIB」完成"
+        },
+        {
+          "id": "https://qiita.com/suzuki_sh/items/7de6a93a87fa21e3e773?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "下記のようなスプレッドシートを読み込んで、\n\n\n下記のように表示するようなNext.jsアプリを作ってみます。\n\n\n環境\n\n\nChromeOS Crostini (Linux) Debian 10.10\nDoc…",
+          "link": "https://qiita.com/suzuki_sh/items/7de6a93a87fa21e3e773?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T04:32:58.000Z",
+          "wordCount": 587,
+          "title": "Next.jsでGoogle SpreadsheetをHeadlessCMSとして使う"
         },
         {
           "id": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
