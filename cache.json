@@ -22,6 +22,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398628?source=rss",
+          "author": null,
+          "description": "Googleによる決済サービススタートアップpring（東京都港区）の買収が正式に公表された。Googleは8月下旬までに買収のための株式取得を終え、来年をめどに送金決済事業の自社展開を目指す方針。",
+          "link": "https://news.yahoo.co.jp/pickup/6398628?source=rss",
+          "publishedOn": "2021-07-13T11:31:44.000Z",
+          "wordCount": 65,
+          "title": "Google 送金サービスpring買収"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398619?source=rss",
+          "author": null,
+          "description": "フランスの競争当局は13日、米IT大手Googleが自社サービスで使用する記事の対価支払いに関し、報道機関と誠実に交渉していないなどとして、制裁金5億ユーロ（約650億円）を科すと発表した。",
+          "link": "https://news.yahoo.co.jp/pickup/6398619?source=rss",
+          "publishedOn": "2021-07-13T09:59:01.000Z",
+          "wordCount": 64,
+          "title": "Google 記事使用料巡り仏で制裁"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398540?source=rss",
           "author": null,
           "description": "インターネットなどの通信サービスを解約する際の違約金について、総務省は12日、上限額を「1カ月分のサービス利用料相当額」に制限する方針を示した。解約を防ぐため高額な違約金を求める事業者もいたという。",
@@ -533,20 +551,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613773638060",
-          "author": null,
-          "description": "こんにちは。paizaラーニングでコンテンツ制作をしている学生スタッフの工藤です。\n以前、こちらの記事でソートアルゴリズムの基本について紹介しました。\n今回はその続編として、もっと効率がよく実用的なソートアルゴリズムである「シェルソート」「マージソート」「クイックソート」を学べる練習問題集「効率的なソートアルゴリズムメニュー」を公開しました。\n\nプログラミング問題を解いてソートアルゴリズムについてさらに理解を深めていきましょう！\nなお、この問題集の一部の問題は「素朴なソートアルゴリズムメニュー」の内容を前提としているため、そもそもソートアルゴリズムとは何か？という前提を知りたい方、および「選択ソート」「挿入ソート」「バブルソート」に馴染みのない方は、まずそちらから取り組んでみてください。\nレベルアップ問題集とは\n「効率的なソートアルゴリズムメニュー」は、レベルアップ問題集にて公開しています。\nレベルアップ問題集とは、プログラミング学習における計算ドリルや漢字ドリルのようなものだと思ってください。\nドリルのようにプログラミング問題を解き進めながら、解答例となるコード（一部言語）や解説文も参照できる*1ため分からないことを理解したり、苦手なポイントを克服したりできるように作られています。\npaizaが提供しているスキルチェックとは異なり時間制限がなく、問題文や自分の解答コードを公開することが認められていますので、誰かと協力して取り組むことも可能です。\n\n練習問題集「効率的なソートアルゴリズムメニュー」\n「効率的なソートアルゴリズムメニュー」には、プログラミング問題が全3問用意されています。\nソートとは簡単に言うと、順序づけることができるデータの集まりを、なんらかの基準に従って並べる操作のことです。\nソート処理はとても基本的なアルゴリズムで、いたるところで利用されています。ほんの…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/14/130000",
-          "publishedOn": "2021-06-14T04:00:00.000Z",
-          "wordCount": 507,
-          "title": "効率的な「ソートアルゴリズム」を学ぶ！プログラミング問題集公開",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210609/20210609175246.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -556,6 +560,123 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/ak2ie/items/bb3c79d2f34a6205b15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Twilioオンラインコンテスト2021の6月分に応募するために「PPAPTwilio - パスワードは電話で送ろう」を作りました。\nTwilioのCLI、Studio、Functions、Sync…",
+          "link": "https://qiita.com/ak2ie/items/bb3c79d2f34a6205b15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T13:08:21.000Z",
+          "wordCount": 426,
+          "title": "Twilioを使って電話でパスワードを伝えるシステムを作った"
+        },
+        {
+          "id": "https://qiita.com/bosenohito/items/86c9c467b05aca75c495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n\n\n突然ですがみなさん、最後に海外旅行に行ったのはいつですか？\n多くの方は1年以上海外旅行に行けていないのではないでしょうか？\n\n申し遅れました、Yunoと申します。\n【Twitterアカウン…",
+          "link": "https://qiita.com/bosenohito/items/86c9c467b05aca75c495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T10:36:15.000Z",
+          "wordCount": 364,
+          "title": "【個人開発】海外旅行になかなか行けないので、コロナ禍の渡航難易度を可視化するサービスを作ってみた。"
+        },
+        {
+          "id": "https://qiita.com/Osaifu-Crypto/items/b5fad10cfa242be7c27d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "仮想通貨トレードbotのオープンソースライブラリpybottersを利用して、バックテスト用のデータを保存するスクリプトです。本記事の内容はpybotters開発者のまちゅけんさんのDiscordで…",
+          "link": "https://qiita.com/Osaifu-Crypto/items/b5fad10cfa242be7c27d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T09:10:09.000Z",
+          "wordCount": 524,
+          "title": "pybottersでbybitの約定履歴と板情報をMongodbに保存するスクリプト"
+        },
+        {
+          "id": "https://qiita.com/rkiyose/items/1d9783889a97885b0e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n業務でDjangoで作ったシステムのデータを暗号化してDBで保管するという\nタスクに携わったので、その方法を記事にしたいと思います。\n\nこの記事で触れること\n\n\nModelの値を暗号化してDB…",
+          "link": "https://qiita.com/rkiyose/items/1d9783889a97885b0e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T08:51:34.000Z",
+          "wordCount": 439,
+          "title": "Django でモデルフィールドの値を暗号化してくれる EncryptedField を作成する方法"
+        },
+        {
+          "id": "https://qiita.com/mokichi/items/d46a82d1248cdbe47a2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Phoenix LiveViewをご存じない方へ\n\nWebアプリを開発するにあたって、リッチなUIを実現するためにReactやVue.jsでSPAを実装し、APIをGo等で実装するというように、フロ…",
+          "link": "https://qiita.com/mokichi/items/d46a82d1248cdbe47a2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T08:01:40.000Z",
+          "wordCount": 569,
+          "title": "[Elixir] Phoenix LiveViewのテストを書く"
+        },
+        {
+          "id": "https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先日私がリリースいたしましたUnity向けシェーダー「lilToon」についての話です。\n公開直後ながら既に多くのご支援をいただいており、心より感謝申し上げます。\n今回の記事はlilToon向けの話…",
+          "link": "https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T06:06:50.000Z",
+          "wordCount": 422,
+          "title": "【Unity】lilToonのTipsなど"
+        },
+        {
+          "id": "https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "WordPress でサイト運営しているとデータが溜まってきて、SQLクエリのパフォーマンスが落ちることがありますよね。\n\nそういう時は、RDS の Performance Insights や、My…",
+          "link": "https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T05:12:31.000Z",
+          "wordCount": 412,
+          "title": "[WordPress][MySQL] クエリパフォーマンスが落ちてきたときに設定すると良いインデックス"
+        },
+        {
+          "id": "https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何？\n\nruby の数値の等値 という記事の冒頭に軽い気持ちで書いた C 言語の話が面白かったのでここに記す。\n\n基礎知識\n\nUsual arithmetic conversions\n\nC89 だか…",
+          "link": "https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T02:52:32.000Z",
+          "wordCount": 1338,
+          "title": "浮動小数点数の呪われた世界（x87 と C/C++)"
+        },
+        {
+          "id": "https://qiita.com/kikuzo/items/f632e6b51098cdbd6e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は何？（この項目のみ訳者独自記述）\n\nこの記事は、Nerves公式ドキュメントの「Customizing Your Own Nerves System v1.7.9」の章の日本語訳です。対象…",
+          "link": "https://qiita.com/kikuzo/items/f632e6b51098cdbd6e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T01:26:16.000Z",
+          "wordCount": 850,
+          "title": "Customizing Your Own Nerves System (Nervesをカスタマイズする)"
+        },
+        {
+          "id": "https://qiita.com/ham0215/items/1276853af5c54867ca71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "最近、プロダクトを作って納品して終わりではなく、同じプロダクトを継続して開発していくことが多いと思います。\n私もその一人です。\nSIerとして開発していたときと比較して、継続して開発するようになって…",
+          "link": "https://qiita.com/ham0215/items/1276853af5c54867ca71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T23:59:53.000Z",
+          "wordCount": 329,
+          "title": "SIerだった私が1つのプロダクトを継続開発するようになって意識するようになったこと"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "表題のとおりだが、Wikiについて。\n\nhttps://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD\n\n\nウィキ（Wiki）とは、不特定多数のユーザー…",
+          "link": "https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T21:12:09.000Z",
+          "wordCount": 407,
+          "title": "Wikiとは何なのか、何でないのか - 社内Wiki運営のための参考文献"
+        },
+        {
+          "id": "https://qiita.com/yuki_doi/items/8fd465825ae7dc30a41c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年4月18日(日)に実施された「令和3年度春期 ネットワークスペシャリスト試験(NW試験)」に合格しました！勉強方法や特に勉強になった過去問などを紹介したいと思います。\n\n経歴\n\n\n社会人4年目\n\n\n…",
+          "link": "https://qiita.com/yuki_doi/items/8fd465825ae7dc30a41c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T15:08:05.000Z",
+          "wordCount": 372,
+          "title": "【合格体験記】令和3年度春期 ネットワークスペシャリスト"
+        },
+        {
+          "id": "https://qiita.com/179Bell/items/0c15cb4f8ea3f3b948d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n初学者の個人的なまとめ記事に近く、だいぶ読みづらい点があると思いますがご了承ください。\n\nWebサーバーとWebクライアント\n\nWebページはハイパーテキスト（HTML）というハイパーリンク…",
+          "link": "https://qiita.com/179Bell/items/0c15cb4f8ea3f3b948d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T13:24:10.000Z",
+          "wordCount": 439,
+          "title": "HTTPはステートレス？？セッションとは？？Cookieとは？"
+        },
+        {
           "id": "https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "対象読者：将来国を建設したいが、国旗を考えるのは面倒くさいという人\n\n　他に誰かやっていると思ったら、ちょっと検索した範囲では見つからなかったのでやってみました。国旗をGANで作れないかという実験です…",
@@ -563,6 +684,51 @@
           "publishedOn": "2021-07-12T12:21:03.000Z",
           "wordCount": 948,
           "title": "GANで国旗を作る"
+        },
+        {
+          "id": "https://qiita.com/seiwaman/items/aebc200727a7f03d600a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n現在私はPHPとLaravelを学んでいるのですが、そのLaravelの中で重要となってくるのが\n「MVCモデル」と呼ばれる考え方です。\n\n拙いですが自分の備忘録として他の方の記事などを参…",
+          "link": "https://qiita.com/seiwaman/items/aebc200727a7f03d600a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T12:09:36.000Z",
+          "wordCount": 306,
+          "title": "プログラミング初心者が書いたMVCモデルについて"
+        },
+        {
+          "id": "https://qiita.com/kudota/items/419abc212de4be74fca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PHP8.1からenumが使えるようになります\n\nPHP8.1は2021年11月25日リリース予定です。\n追加される新機能は以下を参考\nhttps://stitcher.io/blog/new-in…",
+          "link": "https://qiita.com/kudota/items/419abc212de4be74fca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T12:00:08.000Z",
+          "wordCount": 386,
+          "title": "PHP8.1でenumが使えるようになる！"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "新潟←ちょっとこれを読んでみてください。\n\n読めましたね。\n\nではちょっと画面から目を離して、niigata←これを漢字で書いてみてください。\n\n8割くらいの人は書けなかったんじゃないかなと思います。\n\nと…",
+          "link": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T11:25:44.000Z",
+          "wordCount": 882,
+          "title": "【PHP8.1】読めるけど書けないプロパティが作れるようになる"
+        },
+        {
+          "id": "https://qiita.com/ikegawa-koshi/items/39c98779ad8696b78816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n株式会社日立製作所 研究開発グループ サービスコンピューティング研究部の池川です。\nBlockchainに関する研究をしており、特にHyperledgerが管理するOSSを使っています。\n\n本記事では、Hyperledger Fabric Private Chaincodeの紹介とサンプルを使った実行例について説明します…",
+          "link": "https://qiita.com/ikegawa-koshi/items/39c98779ad8696b78816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T08:41:41.000Z",
+          "wordCount": 620,
+          "title": "Hyperledger Fabric Private Chaincodeを動かしてみる"
+        },
+        {
+          "id": "https://qiita.com/Sugawara_Miti/items/e716ae41e80f69aabc4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。現在、大学院生で自然言語処理の研究をしています。言語処理100本ノックの問題を解いたので、復習がてら載せていこうと思います。\n\n言語処理100本ノック\n\n第１章：準備運動\n\n00.文字列の逆順\n\n問題：文字列”stressed”の文字を逆に（末尾から先頭に向かって）並べた文字列を得よ…",
+          "link": "https://qiita.com/Sugawara_Miti/items/e716ae41e80f69aabc4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T04:01:55.000Z",
+          "wordCount": 619,
+          "title": "言語処理100本ノック 2020　第１章"
         },
         {
           "id": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
