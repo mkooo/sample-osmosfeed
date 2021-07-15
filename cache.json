@@ -22,6 +22,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398760?source=rss",
+          "author": null,
+          "description": "米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月に提供を開始した機能「Fleet」を、8月3日に終了すると発表した。「Fleetによって新たに会話に参加する人の数は望んだほど増えなかった」ため。",
+          "link": "https://news.yahoo.co.jp/pickup/6398760?source=rss",
+          "publishedOn": "2021-07-14T22:42:43.000Z",
+          "wordCount": 61,
+          "title": "Twitter「Fleet」機能 8/3終了"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398676?source=rss",
+          "author": null,
+          "description": "デジタル端末上で押印可能な電子印鑑。しかし効率的な電子印鑑でも「お辞儀ハンコ」が残っている。シヤチハタ株式会社は「（印影を傾けられる機能の）要望は主に官公庁からだったと聞いています」。",
+          "link": "https://news.yahoo.co.jp/pickup/6398676?source=rss",
+          "publishedOn": "2021-07-14T02:10:19.000Z",
+          "wordCount": 60,
+          "title": "電子でもお辞儀ハンコ 継続の訳"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398628?source=rss",
           "author": null,
           "description": "Googleによる決済サービススタートアップpring（東京都港区）の買収が正式に公表された。Googleは8月下旬までに買収のための株式取得を終え、来年をめどに送金決済事業の自社展開を目指す方針。",
@@ -371,6 +389,20 @@
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/26006613785602789",
+          "author": null,
+          "description": "こんにちは。谷口です。\n未経験や新卒からエンジニアを目指しているみなさん、エンジニアを目指そうと思ったのはなぜですか？\nプログラミングが好きだから\n自分でサービスを作れるようになりたいから\n手に職をつけたいから\n楽して稼げそうだから\n働きやすそうだから\nなどなど…\nエンジニアになるメリットや、なる前に抱いているイメージは人それぞれかと思います。\nそこで今回は、paizaを運営していてエンジニアの方のお話を聞く中でわかった、ITエンジニアという仕事の楽しいところやメリットなどをお伝えします。\nITエンジニアの楽しいところ\n技術やプログラミングなど好きなことで仕事ができる\nこれは、技術やプログラミングが好きであることが前提になりますが。ただ、もうプログラミングやIT技術が身近になってきたり、エンジニアという職業もかなり一般的になってきた中で、「まったくどんな仕事かわからないけどエンジニアを目指す」とか「パソコンが苦手すぎるけどエンジニアになる」という人はあまりいないと思うので…。\n少なくともITやWebの技術やビジネスに多少は興味があるとか、好きとかいう方だと思います。\n自分の手でプログラミングをして動くものが作れる、仕事としては誰かが使ってくれて喜んでくれるもの、あるいは不便や困りごとを解決できるものを作れるというのはすごく手応えがあり、楽しいことです。\n自分の考えを自分で形にできる\n\nその中でも、エンジニアは「自分の手で考えを形にする」ということができます。自分のアイデアを実現したいとか、ものづくりがしたい人にはぴったりでしょう。\nものづくりと一言でいっても、作るものによっては一人で実現できなかったり、時間がかかる場合もあります。エンジニアの場合、PCがあれば自分の手元でアイデアをすぐに実現したり、動かしたできます。組織の中でチーム開発をすれば、より大きなサービスやアプリを…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/14/130000",
+          "publishedOn": "2021-07-14T04:00:00.000Z",
+          "wordCount": 246,
+          "title": "ITエンジニアに転職・就職してよかった！この仕事の楽しいところ",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20180717/20180717152719.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
           "id": "hatenablog://entry/26006613785005154",
           "author": null,
           "description": "こんにちは。倉内です。\n30代も半ばを過ぎると、これまで培ってきたスキルや経験で日々の仕事をある程度こなせるようになり、エンジニアといってもチームや組織をマネジメントする役割につく方も多いでしょう。\nそんな中で現状になんとなく閉塞感がある、年次が上がるにつれてやりたいことができなくなってきてつまらない…と感じるようになったり、環境を変えてもっと年収を上げたい・キャリアアップしたいといった理由で転職を考える方もいらっしゃると思います。\n一般的に年齢が上がるにつれ、転職の難度も上がりますが、エンジニアは専門職であり自身のスキルで仕事に就くことができるため年齢に左右されづらい面があります。\nただ、特に若いうちに転職経験がある方に多いのが、20代前半と同じような気持ちと準備で転職活動に臨んでしまいうまくいかず悩むというものです。\n今回は、採用企業側の声も紹介しながら、30代後半から40代で転職に失敗する人がやりがちな勘違いと、成功させるためにどうすればいいかの対策をお伝えしたいと思います。\nエンジニア採用企業の本音\n採用状況について\nコロナ前後での中途採用の変化\n40代前後の転職でよくある3つの勘違いとその対策\n1．企業側が求める人材を理解できていない\n対策：企業が40代前後の人材に何を期待しているか知る\n2．転職準備にかける時間が圧倒的に足りていない\n対策：時間をかけて勝つための準備をする\n3．選考で年齢相応の実績アピールができていない\n対策：課題解決のプロセスも含め実績として伝える\nまとめ\nエンジニア採用企業の本音\ntypeが2021年2月に公開した、企業向けアンケート調査（52社（IT・通信 / インターネット・広告・メディア 業界が対象））の結果から採用状況や企業の本音を見ていきます。\n（参考）【2021年2月】ITエンジニア採用のための最新動向情報！企業の採用状況・求人倍…",
@@ -560,6 +592,132 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/thmd9726/items/1e75729f94b96f4cc023?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n華麗なるGAN一族のサーベイを行いました。GANの名称・論文URL・概要・ネットワーク構造・結果（生成画像）のフォーマットで記載しています。\n\n初代GAN\n\nhttps://arxiv.or…",
+          "link": "https://qiita.com/thmd9726/items/1e75729f94b96f4cc023?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T14:46:24.000Z",
+          "wordCount": 392,
+          "title": "【論文要約】GAN一族のまとめ"
+        },
+        {
+          "id": "https://qiita.com/x5dwimpejx/items/0e3764b20b1e142fa598?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "想定\nMacにてルータやスイッチのコンソールポートに接続する状況下\n\nシリアルポートを確認\n\nls /dev/tty.usb* \n/dev/tty.usbserial-FT0AHUA2\n\n\n確認したポートに対…",
+          "link": "https://qiita.com/x5dwimpejx/items/0e3764b20b1e142fa598?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T08:40:16.000Z",
+          "wordCount": 336,
+          "title": "コンソール接続"
+        },
+        {
+          "id": "https://qiita.com/tttamaki/items/28f13a1507eb63387901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "内容\n\npytorchで勾配計算をしない方法には\n\n\ntensorの.detach()を使って計算グラフを切る\n\n\nGANのサンプルコードでよく見かける\n\nwith文を使ってtorch.no_grad()で囲…",
+          "link": "https://qiita.com/tttamaki/items/28f13a1507eb63387901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T08:15:40.000Z",
+          "wordCount": 1250,
+          "title": "Pytorchの「.detach()」と「with no_grad():」と「.requires_grad = False」の違い"
+        },
+        {
+          "id": "https://qiita.com/bobrock/items/80edfed8a09229a52d79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Windows10搭載機でPythonによるコーディング及び機械学習を出来る環境作りのメモ\n最近セットアップが多いんで先人の知見まとめ\n(色々なサイトを確認するのが億劫になってきたので…)\n\n本当にあ…",
+          "link": "https://qiita.com/bobrock/items/80edfed8a09229a52d79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T05:43:27.000Z",
+          "wordCount": 536,
+          "title": "Windows機を機械学習出来る様にする"
+        },
+        {
+          "id": "https://qiita.com/imaginaryeducation/items/c9ab32d7ac77ddb54d7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n\n\n今年2021年、プログラミング未経験のアラフォーが一念発起しエンジニアを目指すべく、㈱Aidemy様のAIアプリ開発コースの最終成果物として画像認識アプリを作成した記録を記載していきます。\n…",
+          "link": "https://qiita.com/imaginaryeducation/items/c9ab32d7ac77ddb54d7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T04:33:38.000Z",
+          "wordCount": 1476,
+          "title": "アラフォーが\"ネコ\"のネコ種を判別するAIアプリを作成してみた"
+        },
+        {
+          "id": "https://qiita.com/irico/items/bd97e1afc737f83b395d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "<script> のタグの属性について何がどういう効果か毎度調べている気がしたので、まとめておきます。\n\nasync\n\nJSがレンダリングをブロッキングしないようにつける属性その1です。\nHTMLパース…",
+          "link": "https://qiita.com/irico/items/bd97e1afc737f83b395d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T04:17:28.000Z",
+          "wordCount": 326,
+          "title": "Scriptタグの属性についてまとめ"
+        },
+        {
+          "id": "https://qiita.com/kota-yata/items/7b68b5e616bed29b21ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "以前までChromeのOrigin TrialsにNative File System APIとして実装されていたローカルファイルへアクセスするAPIが、ついにChrome86から標準機能として搭載…",
+          "link": "https://qiita.com/kota-yata/items/7b68b5e616bed29b21ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T03:29:23.000Z",
+          "wordCount": 390,
+          "title": "ブラウザで上書き保存ができるぞぉぉ"
+        },
+        {
+          "id": "https://qiita.com/studio_haneya/items/7e49b616d4972fe1804d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "OpenPyXLとは\n\npythonでエクセルファイル（xlsx, xlsm）を操作するパッケージです\nhttps://openpyxl.readthedocs.io/en/stable/index…",
+          "link": "https://qiita.com/studio_haneya/items/7e49b616d4972fe1804d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T20:29:54.000Z",
+          "wordCount": 1343,
+          "title": "openpyxlでpythonからエクセルファイルを操作する"
+        },
+        {
+          "id": "https://qiita.com/mnthx/items/f0e8f03a00ec568b3811?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GASでLINEのbotを作れると知ったので、GASやjavascに触ってみたくて作った。\n\nやったこと\n\n\nLINEビジネスアカウントを作成、LINEアカウントを開設\nGASでグーグルスプレッドシートと…",
+          "link": "https://qiita.com/mnthx/items/f0e8f03a00ec568b3811?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T15:04:31.000Z",
+          "wordCount": 638,
+          "title": "【LINE bot】GASで家計簿作った"
+        },
+        {
+          "id": "https://qiita.com/takezit/items/19ed9b9ee6d586afc681?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nLINEログイン v2.1を使ったログインとメッセージ送信のPHPサンプルコードです。\n\nコード\n\nこちらに公開しています。\nhttps://github.com/takezi/line-log…",
+          "link": "https://qiita.com/takezit/items/19ed9b9ee6d586afc681?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T15:01:16.000Z",
+          "wordCount": 532,
+          "title": "LINEログイン v2.1を使ったログイン(PKCEも対応)"
+        },
+        {
+          "id": "https://qiita.com/para-yama/items/800cdb1092bf4312c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは、最近になってつみたてNISAを始めた今年2年目の社会人です。つみたてNISAは運用益が非課税、半自動的に積立運用可能、途中で取り崩し可能と様々なメリットがあり、非常に有益な制度です。そん…",
+          "link": "https://qiita.com/para-yama/items/800cdb1092bf4312c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T14:47:58.000Z",
+          "wordCount": 687,
+          "title": "「つみたてNISAは米国インデックスファンド放置で良い」は本当か？"
+        },
+        {
+          "id": "https://qiita.com/hnakano863/items/02cb705181a681bea0d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。現在、私はPythonやらJuliaやらを使ってデータ分析をしているのですが、最近、自分の所属部署にも新入社員が入ってきて、後進の育成をする立場になりました。そこで、「このページにあるや…",
+          "link": "https://qiita.com/hnakano863/items/02cb705181a681bea0d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T14:38:16.000Z",
+          "wordCount": 456,
+          "title": "未経験からデータ分析を仕事にするまでに役に立った教材をまとめていく"
+        },
+        {
+          "id": "https://qiita.com/akase244/items/4832e9d332c276720f0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「LinuCレベル1」の試験範囲に「シェルおよびスクリプト」という章がありまして、その中でシェルスクリプトを実行する場合は以下の構文が利用できます、といった説明があります。\n\n$ . スクリプトファイ…",
+          "link": "https://qiita.com/akase244/items/4832e9d332c276720f0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T14:13:18.000Z",
+          "wordCount": 1083,
+          "title": "「bash」、「source」といったシェルスクリプトの実行方法の違いを紐解いてみる"
+        },
+        {
+          "id": "https://qiita.com/getty104/items/32f8a27d6557559e238e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何\n\nhttps://qiita.com/official-events/d409f91fc8b9b44cefb4\n\nの参加記事です。\n\nエンジニアとして開発をしていく上で、「何を作るか」を考える…",
+          "link": "https://qiita.com/getty104/items/32f8a27d6557559e238e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T13:35:31.000Z",
+          "wordCount": 319,
+          "title": "プロダクトマネジメントを学びたいときに読みたい本一覧"
+        },
+        {
           "id": "https://qiita.com/ak2ie/items/bb3c79d2f34a6205b15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Twilioオンラインコンテスト2021の6月分に応募するために「PPAPTwilio - パスワードは電話で送ろう」を作りました。\nTwilioのCLI、Studio、Functions、Sync…",
@@ -621,6 +779,15 @@
           "publishedOn": "2021-07-13T05:12:31.000Z",
           "wordCount": 412,
           "title": "[WordPress][MySQL] クエリパフォーマンスが落ちてきたときに設定すると良いインデックス"
+        },
+        {
+          "id": "https://qiita.com/uniho/items/88b6f261b0a9165ab425?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "即時関数とは\n\n即時関数について知らない方はググって知識を得てからいかに進んでくださいm(_ _)m\n\n文が書けるとこでは即時関数の出番は減る\n\nJavaScript には、「文(statement)」…",
+          "link": "https://qiita.com/uniho/items/88b6f261b0a9165ab425?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T04:13:16.000Z",
+          "wordCount": 363,
+          "title": "JavaScript の即時関数さんてさ？"
         },
         {
           "id": "https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -749,6 +916,15 @@
           "title": "Pythonの型を完全に理解するためのtypingモジュール全解説(3.10対応)"
         },
         {
+          "id": "https://qiita.com/baby-degu/items/f6f8ab57290d2db3e6fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事は、Richmond Alake氏による「How You Should Read Research Papers According To Andrew Ng (Stanford Deep …",
+          "link": "https://qiita.com/baby-degu/items/f6f8ab57290d2db3e6fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T00:54:16.000Z",
+          "wordCount": 473,
+          "title": "【保存版】アンドリュー・ウン教授に学ぶ論文の読み方（スタンフォード大学の深層学習講義）＋追加情報"
+        },
+        {
           "id": "https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n皆さんはアプリケーションデータを加工して分析用データを提供するためのデータパイプラインをどう構築していますか？\n本記事ではその選択肢の一つとして、今イチオシの AWS Data Wran…",
@@ -765,6 +941,15 @@
           "publishedOn": "2021-07-11T23:35:59.000Z",
           "wordCount": 445,
           "title": "分析者が知っておくと便利なプロジェクトマネジメントの話"
+        },
+        {
+          "id": "https://qiita.com/suzuki0430/items/22cb6b0dcc607afd35dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n2021年7月でエンジニアになって1年経ちました。\n\nエンジニア転職直後に年収が700台から300台まで落ちて、爆速で市場価値をあげなければ！！というモチベーションで一年間いろいろ勉強して…",
+          "link": "https://qiita.com/suzuki0430/items/22cb6b0dcc607afd35dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T23:13:08.000Z",
+          "wordCount": 443,
+          "title": "エンジニア転職して一年経つので自宅学習で使った技術書&Udemyをジャンル別に評価してみた"
         },
         {
           "id": "https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
