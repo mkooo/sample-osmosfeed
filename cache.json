@@ -22,6 +22,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398811?source=rss",
+          "author": null,
+          "description": "ANAグループのロボットベンチャー、アバターインは15日、分身ロボ「newme」を遠隔操作することで離れた場所の観光施設に実際にいるかのような体験ができる世界初の「瞬間移動サービス」を夏休みの期間限定で試験的に実施すると発表した。",
+          "link": "https://news.yahoo.co.jp/pickup/6398811?source=rss",
+          "publishedOn": "2021-07-15T10:09:35.000Z",
+          "wordCount": 64,
+          "title": "分身ロボで「瞬間移動」ANA系"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398779?source=rss",
+          "author": null,
+          "description": "ソフトバンクは、今年3月からスタートしたオンライン専用ブランド「LINEMO」において、月額990円（税込）の新プランを15日より提供すると発表。同プランは3GBまで利用可能で、3GBを超えた場合は最大300Kbpsに速度が低下する。",
+          "link": "https://news.yahoo.co.jp/pickup/6398779?source=rss",
+          "publishedOn": "2021-07-15T02:53:40.000Z",
+          "wordCount": 68,
+          "title": "LINEMO新プラン 3GBで月990円"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398760?source=rss",
           "author": null,
           "description": "米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月に提供を開始した機能「Fleet」を、8月3日に終了すると発表した。「Fleetによって新たに会話に参加する人の数は望んだほど増えなかった」ため。",
@@ -569,20 +587,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613776477198",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回は、普段から使い慣れているGoogleスプレッドシートを高品質なWebサイトに変換できるWebサービスをご紹介します！\nユーザーがやることはセルの値を変更するだけというお手軽さと、Webサイトのレイアウト構成を細かく変更したり上級者向けにJavaScriptやCSSを編集する機能も無料で提供されているのが特徴です。\n手っ取り早くクオリティの高いWebサイトを作成したい人にも最適なので、ぜひ参考にしてみてください！\n【 Siteoly 】\n\n■「Siteoly」の使い方\nそれでは、「Siteoly」をどのように使えばいいのか詳しく見ていきましょう！\nまずはサイトのトップページにアクセスして、画面上部にある【Login】ボタンから無料のユーザー登録をしておきます。\n\n\nGoogleのアイコン部分をクリックしてください。\n\n\nするとアカウント選択画面が表示されるので、利用したいアカウントを連携しましょう。\n\n\n以下のようなダッシュボードが表示されたら準備は完了です！\n\nこの画面からGoogleのスプレッドシートを活用した新規のWebサイトを作成できるようになっています。また、詳細なチュートリアルやドキュメントも充実しているので、最初にざっくりと目を通しておくといいでしょう。\n■スプレッドシートからWebサイトを作ってみよう！\nそれでは「Siteoly」を利用してもっとも基本的なWebサイトを実際に作ってみましょう。\nまずはダッシュボードから【Create new site】ボタンをクリックして新規プロジェクトを作成するところから始めます。\n\n\n高品質なWebサイトのテンプレートがいくつか表示されるので、自分の好きなタイプを1つ選択してみてください。今回はサンプルとして「Book List Template」を選んでみました。\n\nテ…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/16/150000",
-          "publishedOn": "2021-06-16T06:00:00.000Z",
-          "wordCount": 282,
-          "title": "Googleスプレッドシートが高度なWebサイトに大変身するノーコードサービス「Siteoly」を使ってみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210616/20210616110703.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -592,6 +596,96 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/Yuuuuuui/items/607aab3f22bf67468e7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事はUiPathブログ発信チャレンジ2021サマーの15日目の記事です。\n\n※こちらに記載の内容は、某社内環境にて独自に確認したものです。公式な情報ではないことをご了承くださいませ。\nそれでもこ…",
+          "link": "https://qiita.com/Yuuuuuui/items/607aab3f22bf67468e7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T11:31:57.000Z",
+          "wordCount": 293,
+          "title": "シートをコピー (Copy Sheet)アクティビティの謎"
+        },
+        {
+          "id": "https://qiita.com/mk1600/items/6febb3ee6360ab179a66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n社外製の業務システムを運用することになりました\nネットワークを介してデータの通信を行うWebアプリケーションではなく、ローカルPCにDB(MySQL)を用意して接続・利用するスタンドアロ…",
+          "link": "https://qiita.com/mk1600/items/6febb3ee6360ab179a66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T08:35:19.000Z",
+          "wordCount": 672,
+          "title": "Pythonで簡単なGUIアプリケーションを作る"
+        },
+        {
+          "id": "https://qiita.com/ko-suke1016/items/1cffbef0ee1180e3098e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n皆さん、笑って働けていますか？\n\n昨今、組織内のメンタルヘルスの問題は増加の一途を辿っています。\n\n私が前職で労務を担当していた際も改善の糸口が見えず頭を悩ませていました。\nハラスメントを行…",
+          "link": "https://qiita.com/ko-suke1016/items/1cffbef0ee1180e3098e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T07:57:15.000Z",
+          "wordCount": 367,
+          "title": "【個人開発】メンタルヘルス VS メンタルヘルスマネジメント！【IKEMENTAL】作成しました。"
+        },
+        {
+          "id": "https://qiita.com/yama2_0506/items/b51999cd0d9445021ac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n突然ですが、ご自身の声は好きですか？嫌いですか？\nちなみに私自身は後者です。理由は男なのに声が高くて電話でよく女性に間違われるからです笑\nふとそんな話を通っているスクールで話したところ男…",
+          "link": "https://qiita.com/yama2_0506/items/b51999cd0d9445021ac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T04:59:17.000Z",
+          "wordCount": 336,
+          "title": "【個人開発】「自分の声」が嫌いな人ほど使ってほしい！声成分分析サービス『Voice component』を作りました！"
+        },
+        {
+          "id": "https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nvscode にて、見出し (Heading) の内容に基づく目次(TOC, Table Of Contents)の作成方法を紹介します。\n\n目次の作成には、Markdown All in…",
+          "link": "https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T01:24:41.000Z",
+          "wordCount": 418,
+          "title": "【vscode】Markdownにおける目次(TOC)の作成に、Markdown All in Oneが便利だった件"
+        },
+        {
+          "id": "https://qiita.com/h-kawamoto/items/83a83e5ff4df486880b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nみなさん、Wikipediaは利用してますでしょうか？\n私はよく利用させていただいています。\n\nサイトを利用している方なら下記のような、募金を促すお知らせをみたことがありますよね？ ↓↓↓\n\n\n\n募金の有無に関わらず、定期的に表示され邪魔に感じているのではないでしょうか…",
+          "link": "https://qiita.com/h-kawamoto/items/83a83e5ff4df486880b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T00:22:52.000Z",
+          "wordCount": 311,
+          "title": "Wiki(の募金)をぶっ壊す党"
+        },
+        {
+          "id": "https://qiita.com/taka_yayoi/items/cb1fafc96e7337d1fa58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Reproducible Machine Learning with Data Lakehouse - Databricks Blogの翻訳です。\n\n機械学習は、イノベーションの加速、パーソナライゼー…",
+          "link": "https://qiita.com/taka_yayoi/items/cb1fafc96e7337d1fa58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T00:07:27.000Z",
+          "wordCount": 392,
+          "title": "全てを再現可能に：機械学習とデータレイクハウスの出会い"
+        },
+        {
+          "id": "https://qiita.com/yonetty/items/988af593152349ec2800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nJava 8で導入されたStream APIはとても便利なので、筆者もふだんから開発で活用しています。\nところが、Stream APIを使うことで逆に可読性が落ちたり、見通しが悪くなって…",
+          "link": "https://qiita.com/yonetty/items/988af593152349ec2800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T22:58:56.000Z",
+          "wordCount": 726,
+          "title": "Java Stream API を無頓着に使うのはやめよう"
+        },
+        {
+          "id": "https://qiita.com/yama-syu/items/3f532a52655abd0ede56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先月、合格発表のあった\n令和3年度4月試験 応用情報技術者試験に合格しました。\n\n\n\n3度目の挑戦だったのですが、合格できた一番の要因は実践した勉強法だと思います。\n応用情報技術者試験は合格の…",
+          "link": "https://qiita.com/yama-syu/items/3f532a52655abd0ede56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T22:04:37.000Z",
+          "wordCount": 330,
+          "title": "応用情報技術者試験に合格した勉強法"
+        },
+        {
+          "id": "https://qiita.com/kazuki43zoo/items/680572c361dcca1a484c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "リリースノートを見てたらNote記法がサポートされてた！！\n今まで・・・引用記法を流用してNoteっぽいこと記載してたけど、そんなことしなくてよくなる！！\n\n今までの自分\n\n\nNOTE:\n〇〇すると便利で…",
+          "link": "https://qiita.com/kazuki43zoo/items/680572c361dcca1a484c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T16:54:24.000Z",
+          "wordCount": 267,
+          "title": "QiitaでNote記法がサポートされてた"
+        },
+        {
           "id": "https://qiita.com/thmd9726/items/1e75729f94b96f4cc023?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n華麗なるGAN一族のサーベイを行いました。GANの名称・論文URL・概要・ネットワーク構造・結果（生成画像）のフォーマットで記載しています。\n\n初代GAN\n\nhttps://arxiv.or…",
@@ -599,6 +693,42 @@
           "publishedOn": "2021-07-14T14:46:24.000Z",
           "wordCount": 392,
           "title": "【論文要約】GAN一族のまとめ"
+        },
+        {
+          "id": "https://qiita.com/Yuuuuuui/items/1c794475e053e407ecd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事はUiPathブログ発信チャレンジ2021サマーの14日目の記事です。\n\n先日のFriends女子イベントでも話があがったのですが、やっぱり『ThrowとCathとRethrow』の３つの役割…",
+          "link": "https://qiita.com/Yuuuuuui/items/1c794475e053e407ecd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T14:28:49.000Z",
+          "wordCount": 277,
+          "title": "ThrowとCathとRethrowの違い"
+        },
+        {
+          "id": "https://qiita.com/temmaru/items/cb0e5bafe522399163dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\nFirebaseを使うと、バックエンドを構築する手間が省けて楽ちん。\nしかし楽ちんだからといって、大切なことを怠るとと大きな危険が待っている。\n大切なデータが保存されているDBにアクセスする…",
+          "link": "https://qiita.com/temmaru/items/cb0e5bafe522399163dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T12:57:56.000Z",
+          "wordCount": 959,
+          "title": "セットで学ぶ！Firestoreのクエリとルール"
+        },
+        {
+          "id": "https://qiita.com/TetsuakiHamano/items/421746f7c6429ac54282?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は、2021年7月20日にリリース予定のWordPress5.8について、新たに追加された関数、クラス、アクションフック、フィルタ―フックをまとめたものです。\n\n2021年7月14日現在のWo…",
+          "link": "https://qiita.com/TetsuakiHamano/items/421746f7c6429ac54282?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T10:05:46.000Z",
+          "wordCount": 884,
+          "title": "WordPress5.8で追加された関数・クラス・アクション/フィルタ―フックまとめ"
+        },
+        {
+          "id": "https://qiita.com/uzawa-sorich/items/86e331ad6e02fbdeb7f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ログインボタンって、変数名にすると log_in_button かな、 login_button かな？\n\n\n\nlogin_button だね。Google先生、ありがとう。\n\nuser_data の配列作…",
+          "link": "https://qiita.com/uzawa-sorich/items/86e331ad6e02fbdeb7f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T09:58:13.000Z",
+          "wordCount": 411,
+          "title": "log_in_buttonとlogin_button、どちらが正しい？　それ、Ngram Viewerに聞こう"
         },
         {
           "id": "https://qiita.com/x5dwimpejx/items/0e3764b20b1e142fa598?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -626,6 +756,15 @@
           "publishedOn": "2021-07-14T05:43:27.000Z",
           "wordCount": 536,
           "title": "Windows機を機械学習出来る様にする"
+        },
+        {
+          "id": "https://qiita.com/lvn-nishimura/items/9e5f9f731b89c9a03928?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n業務で画像処理機能を作った。\nその際に使ったIntervention Imageというライブラリが非常に優秀だったので、\n今回実装した内容をもとに、使い方について説明していく。\n\nこの記事…",
+          "link": "https://qiita.com/lvn-nishimura/items/9e5f9f731b89c9a03928?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-14T05:13:42.000Z",
+          "wordCount": 600,
+          "title": "Laravel で画像処理するなら、Intervention Imageが超簡単"
         },
         {
           "id": "https://qiita.com/imaginaryeducation/items/c9ab32d7ac77ddb54d7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -662,6 +801,15 @@
           "publishedOn": "2021-07-13T20:29:54.000Z",
           "wordCount": 1343,
           "title": "openpyxlでpythonからエクセルファイルを操作する"
+        },
+        {
+          "id": "https://qiita.com/70ki8suda/items/584581c457b50dc13b1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "世はReact, Vueなどのフロントエンドフレームワーク大航海時代\nどんなライブラリーを使って、どんな方法でCSSを書けばよいのか\n日夜、熱い議論が交わされている今日この頃‥\n\nブラウザ標準だけでコ…",
+          "link": "https://qiita.com/70ki8suda/items/584581c457b50dc13b1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T15:37:53.000Z",
+          "wordCount": 437,
+          "title": "凄いよShadow DOM！ Web標準によるスコープ付きCSSのあるコンポーネント制作術"
         },
         {
           "id": "https://qiita.com/mnthx/items/f0e8f03a00ec568b3811?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1166,6 +1314,15 @@
           "publishedOn": "2021-07-10T16:39:59.000Z",
           "wordCount": 673,
           "title": "Darknet YOLOv4  を Google Open Images Datasetのデータを使って学習させる with Elixir"
+        },
+        {
+          "id": "https://qiita.com/Suzu_Rei/items/294433c8b3318409cfb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n現在、初めての配属先でVBAを使って業務をこなしています。\n学校でも触ったことがなく、全くわからない状態だったので自分自身の備忘録としてこの記事を書こうと思いました。\n\n学んだこと\n\n・メソ…",
+          "link": "https://qiita.com/Suzu_Rei/items/294433c8b3318409cfb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T14:57:07.000Z",
+          "wordCount": 297,
+          "title": "VBAで学んだこと"
         },
         {
           "id": "https://qiita.com/Toshi_ma/items/fa128b67bc5470a64588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
