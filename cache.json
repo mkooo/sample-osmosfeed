@@ -22,6 +22,33 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6398929?source=rss",
+          "author": null,
+          "description": "リモートワークで1年以上PCに接続しっぱなしのスマホの電池が、フタを押し上げるほど膨張して酒蒸しハマグリのような状態になっていたとの投稿があった。KDDIの専門家にバッテリーが膨らんだ原因と対処法を聞いた。",
+          "link": "https://news.yahoo.co.jp/pickup/6398929?source=rss",
+          "publishedOn": "2021-07-16T13:47:20.000Z",
+          "wordCount": 69,
+          "title": "動作確認用のスマホ膨張 原因は"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398898?source=rss",
+          "author": null,
+          "description": "米動画配信大手ネットフリックスが、来年前半にも日本で直営店を出店する計画であることが16日分かった。東京都内で場所の選定を進めており、世界1号店になる可能性がある。",
+          "link": "https://news.yahoo.co.jp/pickup/6398898?source=rss",
+          "publishedOn": "2021-07-16T07:51:10.000Z",
+          "wordCount": 69,
+          "title": "ネトフリ 来年にも日本で直営店"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6398885?source=rss",
+          "author": null,
+          "description": "「ドラゴンクエスト」シリーズの生みの親である堀井雄二氏は、ゲームデザイナーとして35年間、ドラクエの最前線に立ち続けている。ファンに愛されている堀井氏の言葉「人生はロールプレーイング」には、どのような思いが込められているのか。",
+          "link": "https://news.yahoo.co.jp/pickup/6398885?source=rss",
+          "publishedOn": "2021-07-16T05:34:12.000Z",
+          "wordCount": 71,
+          "title": "ドラクエ生みの親 人生はRPG"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6398811?source=rss",
           "author": null,
           "description": "ANAグループのロボットベンチャー、アバターインは15日、分身ロボ「newme」を遠隔操作することで離れた場所の観光施設に実際にいるかのような体験ができる世界初の「瞬間移動サービス」を夏休みの期間限定で試験的に実施すると発表した。",
@@ -407,6 +434,20 @@
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/26006613787026557",
+          "author": null,
+          "description": "こんにちは。谷口です。\n30代〜40代の方から「今後のキャリアについて悩んでいる」「今までの経験を生かして少し違うキャリアに進みたい」といったご相談を受けることがあります。\n中堅〜ベテランと言える年次になってくると、若手の頃と比べて組織内でのポジションや求められる役割が変わったり増えたりするケースも多く、現職の業務内容やキャリアに不満や不安を感じる方が増えてきます。\nそこで今回は、30代〜40代のエンジニアの方に向けて、今後もエンジニアもしくはその周辺領域で仕事を続ける場合のキャリアの選択肢について解説します。\nエンジニアか周辺領域で仕事を続けるキャリアの選択肢は\nエンジニアを続ける\nエンジニアとして仕事を続ける場合、本当にざっくりわけると専門技術に特化したスペシャリストになるか、ビジネスと技術を総合的に見渡して事業の進め方や組織マネジメントについて考える役割になるか（この中でもメインで担当する分野がわかれていたりします）になります。\nもちろん、企業によって求められる内容は異なりますし、役職名も研究開発・シニアエンジニア、CTO・VPoE・PdMなどさまざまで、組織規模によってはひとつのポジションで複数の役割を担うケースもあります。\n転職するにしても現職を続けるにしても、ここで大事なのは役職名よりも\nそのポジションでどんな役割や業務が求められるのか\nそれは今の自分にとってやりたい&成長できる（ちょっと挑戦が必要な）仕事か\nを企業側とすりあわせておくことです。\n関連記事はこちら\npaiza.hatenablog.com\npaiza.hatenablog.com\n\n上流のSIerに転職する\n小規模なN次請け企業から同様のSIerへの転職を目指す場合、数千人規模の大手企業に入社するのは狭き門ですが、元請けもやっているようなより上流に近いSIer（数百人～1000人前後ほどの規模の…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/16/130000",
+          "publishedOn": "2021-07-16T04:00:00.000Z",
+          "wordCount": 249,
+          "title": "30代・40代エンジニアのキャリアパスとは？選択肢と求められる能力を解説",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20191120/20191120112813.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
           "id": "hatenablog://entry/26006613785602789",
           "author": null,
           "description": "こんにちは。谷口です。\n未経験や新卒からエンジニアを目指しているみなさん、エンジニアを目指そうと思ったのはなぜですか？\nプログラミングが好きだから\n自分でサービスを作れるようになりたいから\n手に職をつけたいから\n楽して稼げそうだから\n働きやすそうだから\nなどなど…\nエンジニアになるメリットや、なる前に抱いているイメージは人それぞれかと思います。\nそこで今回は、paizaを運営していてエンジニアの方のお話を聞く中でわかった、ITエンジニアという仕事の楽しいところやメリットなどをお伝えします。\nITエンジニアの楽しいところ\n技術やプログラミングなど好きなことで仕事ができる\nこれは、技術やプログラミングが好きであることが前提になりますが。ただ、もうプログラミングやIT技術が身近になってきたり、エンジニアという職業もかなり一般的になってきた中で、「まったくどんな仕事かわからないけどエンジニアを目指す」とか「パソコンが苦手すぎるけどエンジニアになる」という人はあまりいないと思うので…。\n少なくともITやWebの技術やビジネスに多少は興味があるとか、好きとかいう方だと思います。\n自分の手でプログラミングをして動くものが作れる、仕事としては誰かが使ってくれて喜んでくれるもの、あるいは不便や困りごとを解決できるものを作れるというのはすごく手応えがあり、楽しいことです。\n自分の考えを自分で形にできる\n\nその中でも、エンジニアは「自分の手で考えを形にする」ということができます。自分のアイデアを実現したいとか、ものづくりがしたい人にはぴったりでしょう。\nものづくりと一言でいっても、作るものによっては一人で実現できなかったり、時間がかかる場合もあります。エンジニアの場合、PCがあれば自分の手元でアイデアをすぐに実現したり、動かしたできます。組織の中でチーム開発をすれば、より大きなサービスやアプリを…",
@@ -596,6 +637,105 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/shunkosa/items/6eab319282a64c414d1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "顧客情報を整備することは、CRM の活用において必要不可欠な活動の 1 つです。特に BtoB 企業の場合は、国税庁が指定する法人番号を使用して法人情報を一意に特定することができます。法人番号を含む…",
+          "link": "https://qiita.com/shunkosa/items/6eab319282a64c414d1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T12:42:02.000Z",
+          "wordCount": 538,
+          "title": "Salesforce で法人番号検索して取引先を更新する画面をノーコードで構築する"
+        },
+        {
+          "id": "https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n通常のSNSで胡散臭い人が多いと感じてしまいました\nプログラミングスクールが流行り、エンジニアになって億稼いでます！みたいな感じな・・・\n\nそこで、本当のエンジニア・プログラマしか使えない…",
+          "link": "https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T11:45:53.000Z",
+          "wordCount": 466,
+          "title": "エンジニア・プログラマにしか使えないSNSを作ってみた話"
+        },
+        {
+          "id": "https://qiita.com/sasadai10/items/681393a74c8c415aa492?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。\n令和3年度の春期試験で、応用情報技術者試験に合格することができました。その体験談を記します。\n\n応用情報技術者試験とは？\n\n応用情報技術者試験は、独立行政法人情報処理推進機構（IPA）が展…",
+          "link": "https://qiita.com/sasadai10/items/681393a74c8c415aa492?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T09:15:49.000Z",
+          "wordCount": 356,
+          "title": "応用情報技術者試験に合格した話"
+        },
+        {
+          "id": "https://qiita.com/tak_ham/items/0274aec2243568062064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これはなに\n\n企業のセキュリティをドラクエと比較して、セキュリティの立ち位置をなんとなく理解する。\n(LT向けに作ったネタを文字だけにしているのでわかりにくい感じも)\n\nドラクエをベースに考える\n\n勇者…",
+          "link": "https://qiita.com/tak_ham/items/0274aec2243568062064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T05:12:07.000Z",
+          "wordCount": 292,
+          "title": "勇者と王様と企業のセキュリティ"
+        },
+        {
+          "id": "https://qiita.com/ion-neko/items/fb8f42bbc70c09eb624e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n初めまして r-higaと言います。システムの部署にいますが、普段はwebデザインをメインにフロントコーディングも少し行ってます。\n\n今回はタイトルの通りflex-directionでリス…",
+          "link": "https://qiita.com/ion-neko/items/fb8f42bbc70c09eb624e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T02:02:53.000Z",
+          "wordCount": 297,
+          "title": "Flexboxで特定の要素を下揃えしようとしたらひっかかった話"
+        },
+        {
+          "id": "https://qiita.com/john-rocky/items/88b45e18bd48e3dbc87c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "SwiftUI - MVVM が理解できます\n\n「 MVVM って、よく聞くけど、なんかわかったようなわからないような。。」\n「 流石にそろそろ SwiftUI いじっときたいけど、書く手順とかコー…",
+          "link": "https://qiita.com/john-rocky/items/88b45e18bd48e3dbc87c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T01:47:28.000Z",
+          "wordCount": 888,
+          "title": "もっともシンプルな SwiftUI - MVVM"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/4940ce42ad59ac947c9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxrossを運営している藤原です。\n\nAxross とは、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクの社内起業…",
+          "link": "https://qiita.com/Axross_SBiv/items/4940ce42ad59ac947c9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T23:41:02.000Z",
+          "wordCount": 390,
+          "title": "AI画像認識を活用したレシピ紹介"
+        },
+        {
+          "id": "https://qiita.com/PowerBIxyz/items/2928b6a007a9bfc6e90a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Excel ファイルのうち、可能な限り必要な部分だけ読み込んでいると考えられる。(多分そうなんだろうけど、言質を取るまでのものではない)\n\nファイル形式により動作は異なる\n\nここでいうファイル形式とは、…",
+          "link": "https://qiita.com/PowerBIxyz/items/2928b6a007a9bfc6e90a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T23:18:02.000Z",
+          "wordCount": 553,
+          "title": "Power Query で Excel ファイルを読み込むときに起きていること(File.Contents 関数)"
+        },
+        {
+          "id": "https://qiita.com/y-yanagii/items/2cc81ee33ca132038aca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nずっとパズルゲーム系のアプリを作成してみたくて、ついに作成してみました。\n意外とWeb上での落ち物ゲーの作り方の記事が少ない印象だったので実装ポイントをまとめてみました。（ググり方が悪い…",
+          "link": "https://qiita.com/y-yanagii/items/2cc81ee33ca132038aca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T22:29:48.000Z",
+          "wordCount": 1063,
+          "title": "vue.jsで作る落ち物パズルゲーム"
+        },
+        {
+          "id": "https://qiita.com/y-yanagii/items/6f170a207e03cd20a174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n今回、個人アプリ『BLINK GAMES』を初めてリリースすることができました！\nこのアプリは、自分がK-POPアイドルのBLACKPINKがとにかく好きで、周りのBLACKPINK好き…",
+          "link": "https://qiita.com/y-yanagii/items/6f170a207e03cd20a174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T19:26:03.000Z",
+          "wordCount": 429,
+          "title": "【個人開発】BLACK PINK好きのためのクイズアプリ『BLINK GAMES』を作りました！"
+        },
+        {
+          "id": "https://qiita.com/kei1-dev/items/f17bd92de103c7ec88c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "きっかけ\n\n最近、プリセールスを手伝うことが多く、そのため、アプリアーキテクチャ、インフラ構成図をよく書いています。\nまずExcelで作成して、レビューOKになったものを提案書用にPPTに修正して、…",
+          "link": "https://qiita.com/kei1-dev/items/f17bd92de103c7ec88c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T13:49:14.000Z",
+          "wordCount": 286,
+          "title": "【AWS】Draw.io + VScodeでAWS構成図を書く"
+        },
+        {
           "id": "https://qiita.com/Yuuuuuui/items/607aab3f22bf67468e7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "この記事はUiPathブログ発信チャレンジ2021サマーの15日目の記事です。\n\n※こちらに記載の内容は、某社内環境にて独自に確認したものです。公式な情報ではないことをご了承くださいませ。\nそれでもこ…",
@@ -623,6 +763,15 @@
           "title": "【個人開発】メンタルヘルス VS メンタルヘルスマネジメント！【IKEMENTAL】作成しました。"
         },
         {
+          "id": "https://qiita.com/ryysud/items/e6e0d1701dc27ceec171?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\nTerraform では v0.10 からプラグインベースのアーキテクチャが導入 ^1 されて、terraform init を実行した際に外部レジストリから Provider をインストー…",
+          "link": "https://qiita.com/ryysud/items/e6e0d1701dc27ceec171?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T07:34:33.000Z",
+          "wordCount": 1298,
+          "title": "Terraform v1.0.0 で開発が終了した terraform-bundle の代替手段"
+        },
+        {
           "id": "https://qiita.com/yama2_0506/items/b51999cd0d9445021ac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n突然ですが、ご自身の声は好きですか？嫌いですか？\nちなみに私自身は後者です。理由は男なのに声が高くて電話でよく女性に間違われるからです笑\nふとそんな話を通っているスクールで話したところ男…",
@@ -630,6 +779,15 @@
           "publishedOn": "2021-07-15T04:59:17.000Z",
           "wordCount": 336,
           "title": "【個人開発】「自分の声」が嫌いな人ほど使ってほしい！声成分分析サービス『Voice component』を作りました！"
+        },
+        {
+          "id": "https://qiita.com/bake_ta/items/62902caff54b7de5f568?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "某所で色んなIT分野の新人さんや中途でIT業界目指してる人、入りたての人、を長く見ていて、\n大体悩んでる、誤解している、理解出来ていない、というポイントが同じな印象を受けており。\n\nそれらについて自分…",
+          "link": "https://qiita.com/bake_ta/items/62902caff54b7de5f568?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-15T02:11:14.000Z",
+          "wordCount": 567,
+          "title": "ITエンジニアを目指す貴方へのQ&A"
         },
         {
           "id": "https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -2673,6 +2831,15 @@
           "publishedOn": "2021-06-30T02:03:40.000Z",
           "wordCount": 318,
           "title": "ご紹介：DMM.comPF事業本部です"
+        },
+        {
+          "id": "https://qiita.com/s-yonekura/items/7cdc99ba444cdbd4e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n千葉大学/Nospareの米倉です．今回はカルマンフィルターについて解説していきたいと思います．\n\nカルマンフィルターで何が出来るの？\n\nフィルターとあるように，カルマンフィルターが出来る基…",
+          "link": "https://qiita.com/s-yonekura/items/7cdc99ba444cdbd4e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-06-28T12:55:10.000Z",
+          "wordCount": 691,
+          "title": "カルマンフィルターについて"
         }
       ]
     }
