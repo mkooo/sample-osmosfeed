@@ -22,6 +22,15 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6399099?source=rss",
+          "author": null,
+          "description": "総務省は年度内にも、テレビ局と携帯大手が同じ周波数帯の電波を時間帯に応じて使い分ける新制度の運用を始める方針を固めた。「5G」の普及で、スマートフォンなどの利用拡大が見込まれる中、限りある周波数帯を有効活用するのが狙い。",
+          "link": "https://news.yahoo.co.jp/pickup/6399099?source=rss",
+          "publishedOn": "2021-07-18T23:08:57.000Z",
+          "wordCount": 67,
+          "title": "テレビ局と携帯大手 電波共用へ"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399038?source=rss",
           "author": null,
           "description": "自粛生活で誰かと直接顔を合わせる機会が限られ、ネット上で恋人探しをする人が増えている。合コンや飲み会がなくなった代わりに、若者たちはマッチングアプリでの「恋活」や「オンライン婚活」にシフトする。",
@@ -641,6 +650,105 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/irgaly/items/910815eb21f63b2c157b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Android 10 以上の対象範囲別ストレージ (Scoped Storage) 環境で、メディア領域にある画像一覧を取得します。\n\nアプリ独自の画像選択 UI を実装するときなどは、画像選択 In…",
+          "link": "https://qiita.com/irgaly/items/910815eb21f63b2c157b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T15:16:09.000Z",
+          "wordCount": 542,
+          "title": "Android: アプリ外の画像一覧を取得する (対象範囲別ストレージ対応)"
+        },
+        {
+          "id": "https://qiita.com/motorcontrolman/items/ba2cd0fb200501186194?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n本記事はMATLAB Expo2021 LTでの発表「MATLAB Homeでのモータ制御MBD開発に向けた“脱獄指南書”」の解説をシリーズ化したものの２番目の記事となります。\nシリーズ…",
+          "link": "https://qiita.com/motorcontrolman/items/ba2cd0fb200501186194?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T14:23:32.000Z",
+          "wordCount": 653,
+          "title": "Arduino DueでPWM山同期AD変換を行う"
+        },
+        {
+          "id": "https://qiita.com/Prgckwb/items/21ec6cdbfa7fcf5aa466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まえがき\n\n音楽ストリーミングアプリSpotifyから提供されているSpotify API for Pythonの Spotipyを使って、ユーザの指定したアーティストの人気楽曲をSpotifyから…",
+          "link": "https://qiita.com/Prgckwb/items/21ec6cdbfa7fcf5aa466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T09:52:58.000Z",
+          "wordCount": 951,
+          "title": "PythonのSpotify APIで指定したアーティストの人気曲を取得する"
+        },
+        {
+          "id": "https://qiita.com/uikou/items/3cadb250eaa0681a05c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "皆さんごきげんよう。本記事は、2021 年 7 月 14 日（米国時間）ポストされた Visual Studio 2022 Preview 2 is out! の意訳のようななにかとなります。内容に…",
+          "link": "https://qiita.com/uikou/items/3cadb250eaa0681a05c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T05:21:57.000Z",
+          "wordCount": 519,
+          "title": "Visual Studio 2022 Preview 2 がリリースされました"
+        },
+        {
+          "id": "https://qiita.com/insilicomab/items/a86b8d508687dbd7f712?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ProgateのNode.jsコースではお買い物リストアプリを作るのですが、これと全く同じものをDjangoで作ってみます。\n\nDjangoでのアプリ開発の一連の流れを整理するために記していきます。\n\n…",
+          "link": "https://qiita.com/insilicomab/items/a86b8d508687dbd7f712?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T03:48:08.000Z",
+          "wordCount": 571,
+          "title": "Progateで作ったWebアプリをDjangoで作ってみる！ Part4"
+        },
+        {
+          "id": "https://qiita.com/kumokiri2k/items/8bced982cb39bd496d04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "何歳の時にどれぐらい住宅ローンの残債が？\n\n私は、30歳ちょっと過ぎたぐらいの頃に、ファミリータープのマンションを35年ローンで購入しました。\nよく言われる「持ち家は将来資産になりますが、賃貸は資産…",
+          "link": "https://qiita.com/kumokiri2k/items/8bced982cb39bd496d04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T02:36:55.000Z",
+          "wordCount": 660,
+          "title": "住宅ローンの計算を自分でしてみたい"
+        },
+        {
+          "id": "https://qiita.com/PowerBIxyz/items/805f2df32e3327633c84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "お仕事用オンラインストレージとして使えるので便利なのだ。ただ、Power Query で扱えるデータソースのひとつとしてよく理解しておくべきだ。ついさっきできたのにできなくなった。夕方試したらやっぱ…",
+          "link": "https://qiita.com/PowerBIxyz/items/805f2df32e3327633c84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T00:05:28.000Z",
+          "wordCount": 439,
+          "title": "Power Query で SharePoint Online ドキュメント ライブラリ / OneDrive for Buisiness からファイルを読み込むときに起きていること (SharePoint.Files / SharePoint.Contents 関数)"
+        },
+        {
+          "id": "https://qiita.com/HANACCHI/items/1c6965ca936f4d2231d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "皆もすなるQiitaといふものを、儂もしてみむとてするなり。\n\nと言う訳で、こん＊＊は！はなっち！です。\n\n★★★この記事はUiPathブログ発信チャレンジ2021サマーの6日目の記事です。★★★\n\n今…",
+          "link": "https://qiita.com/HANACCHI/items/1c6965ca936f4d2231d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T23:41:02.000Z",
+          "wordCount": 322,
+          "title": "Before starting UiPath:代入ってなんだ"
+        },
+        {
+          "id": "https://qiita.com/u2dayo/items/0ae64fdedf3535aefe83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ABC210のA,B,C問題を、Python3でなるべく丁寧に解説していきます。\n\nただ解けるだけの方法ではなく、次の3つのポイントを満たす解法を解説することを目指しています。\n\n\nシンプル：余計なことを…",
+          "link": "https://qiita.com/u2dayo/items/0ae64fdedf3535aefe83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T18:14:13.000Z",
+          "wordCount": 799,
+          "title": "【AtCoder解説】PythonでABC210のA,B,C問題を制する！"
+        },
+        {
+          "id": "https://qiita.com/nymwa/items/2f39a34982aa9d71f10d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "やること\n\n英日翻訳器を作ります．\n\nところで，データを頑張って集めていろいろな処理をして，学習するというのを全部自分で作ろうとすると，とても大変です．\nしかも，ニューラルネットを使った機械翻訳システ…",
+          "link": "https://qiita.com/nymwa/items/2f39a34982aa9d71f10d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T16:31:01.000Z",
+          "wordCount": 911,
+          "title": "英日翻訳器を環境構築なしで10分程度で作ってみた"
+        },
+        {
+          "id": "https://qiita.com/miya_gis/items/3dafddb3bb7b496bb382?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの投稿は、RPA ツールの UiPath で、プロジェクトフォルダにある「ドット」付きフォルダについての説明です。\n\nUiPathのコミュニティ「UiPath Friends」が企画する…",
+          "link": "https://qiita.com/miya_gis/items/3dafddb3bb7b496bb382?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T15:05:30.000Z",
+          "wordCount": 364,
+          "title": "【UiPath】プロジェクトフォルダの「ドット付きフォルダ」"
+        },
+        {
           "id": "https://qiita.com/smiler5617/items/7e1cfeee6978c8db99de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n先日Kaggleの言語モデルのコンペに参加し、日本語の前処理の方法も少しメモを残しておこうと思った。（結構前にやったきりあまり触れていなかったので。。。）\nまずは基本的な形態素解析の実装…",
@@ -666,6 +774,15 @@
           "publishedOn": "2021-07-17T13:24:29.000Z",
           "wordCount": 822,
           "title": "Active Record(Ruby)とEcto(Elixir)でmigrateした内容を一致させる"
+        },
+        {
+          "id": "https://qiita.com/HawkClaws/items/6f5a6938318fb7d7983d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nタイトルの通りです\n定義を設定すだけで、CRUDのRESTWebapiを作れるシステムです\n\n似たようなもので、FirebaseのRealtimeDatabaseやFireStoreがあり…",
+          "link": "https://qiita.com/HawkClaws/items/6f5a6938318fb7d7983d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T12:36:32.000Z",
+          "wordCount": 511,
+          "title": "CRUDのWebApi開発は不要！JsonでWebApiを作れるシステムを作った話"
         },
         {
           "id": "https://qiita.com/mh_ti_fu/items/053774b14699c2a17ba5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -695,6 +812,15 @@
           "title": "SharePoint ドキュメントライブラリの5000件問題と対応策について"
         },
         {
+          "id": "https://qiita.com/suzu12/items/b27cc76e96edb623a54f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n便利だけど使うときにいつも調べて使っているコマンドをまとめました。\n\n〇〇したいときどうするんだっけ・・？\nって調べているのでこの記事を書いているときも\nたぶん全部を網羅できていません。笑\n\n比較的しようするコマンドだったり便利だなって思うコマンドだったり…",
+          "link": "https://qiita.com/suzu12/items/b27cc76e96edb623a54f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T09:09:57.000Z",
+          "wordCount": 470,
+          "title": "【Git】結構使うけどいつも調べるGitコマンドまとめ"
+        },
+        {
           "id": "https://qiita.com/beehibiki/items/3ae6ea5e5a011ebcd0b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Google Colaboratoryとは何か\n\nGoogle Colaboratoryとは，環境構築なしでpythonのコードを書いたり，実行したりことができるGoogleのサービスです．\nAna…",
@@ -704,6 +830,15 @@
           "title": "Google Colaboratoryについて"
         },
         {
+          "id": "https://qiita.com/nyappy15th/items/af71589efe07d99f5220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "メモがてらの投稿です。\n\nよく、プログラミング問題を解く時に、x、y座標を使って解くやつありますよね。\n以下みたいな感じで、あーだこーだするやつです。（雑\n\n# #を囲うにはいくつの柵が必要？みたいな問…",
+          "link": "https://qiita.com/nyappy15th/items/af71589efe07d99f5220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T06:20:46.000Z",
+          "wordCount": 635,
+          "title": "x�、y座標使ったプログラミング問題を解いて思ったこと"
+        },
+        {
           "id": "https://qiita.com/kojix2/items/ad9ddf1794df77482615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "タイポフィックスでいいからOSSに貢献したい・・・\n\n先日Go言語で有名なmattnさんの\n\nhttps://twitter.com/mattn_jp/status/14151285251750707…",
@@ -711,6 +846,24 @@
           "publishedOn": "2021-07-17T04:02:14.000Z",
           "wordCount": 376,
           "title": "タイポフィックス！Rubyのオープンソースプロジェクトにお手軽に貢献する方法を考える"
+        },
+        {
+          "id": "https://qiita.com/pp_zumipy/items/6b4232e4828e7adc1f2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "普段、業務でNordicが提供するnRF52系のマイコンを使用したFW開発に携わる事があるのですが、その多くをNonOS上で制御しています。\n\nその中で、NonOS開発特有の難しさなどから脱却したいと…",
+          "link": "https://qiita.com/pp_zumipy/items/6b4232e4828e7adc1f2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T03:28:57.000Z",
+          "wordCount": 2830,
+          "title": "FreeRTOSポーティングで学んだ事について"
+        },
+        {
+          "id": "https://qiita.com/masakichi_eng/items/b9948f7d14de793dc014?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "業務でプルダウンと文字入力から検索機能を実装する機会があり調べながら実装したので備忘録として。\n\nここではユーザーが都道府県やカテゴリを選択してニュースを投稿するという前提で進める。\n\n都道府県とカテ…",
+          "link": "https://qiita.com/masakichi_eng/items/b9948f7d14de793dc014?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T01:27:11.000Z",
+          "wordCount": 900,
+          "title": "Laravelで都道府県やカテゴリなどのプルダウンと文字入力から検索機能を実装する"
         },
         {
           "id": "https://qiita.com/minoden_osaka/items/2646d39d7949429c8ea4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -747,6 +900,24 @@
           "publishedOn": "2021-07-16T19:39:03.000Z",
           "wordCount": 761,
           "title": "全部 public じゃなんでダメなの？"
+        },
+        {
+          "id": "https://qiita.com/kihara-takahiro/items/703c1863248659ad518b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "このページは？\n\n最近、新入社員の人たちが基本情報の勉強をしていたので、自分でもパラパラと基本情報の本を読んでみたのですが、初学者にこの説明をしても難しすぎるのでは？？と感じたため厳密ではないと怒ら…",
+          "link": "https://qiita.com/kihara-takahiro/items/703c1863248659ad518b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T15:02:10.000Z",
+          "wordCount": 346,
+          "title": "正規化についてまとめてみた"
+        },
+        {
+          "id": "https://qiita.com/shibuya01055/items/f3c413ed54d422fc2b98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GitKrakenとは\n\ngitの管理をGUIで見やすく操作するためのツールです。\n2021年7月現在、publicなリポジトリは0円、privateになると有料です。\nhttps://www.gi…",
+          "link": "https://qiita.com/shibuya01055/items/f3c413ed54d422fc2b98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T14:59:43.000Z",
+          "wordCount": 468,
+          "title": "エイリアスと無料GUIツールで脱GitKraken"
         },
         {
           "id": "https://qiita.com/shunkosa/items/6eab319282a64c414d1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

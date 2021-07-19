@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T01:06:10.515Z</updated>
+    <updated>2021-07-19T01:04:28.277Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テレビ局と携帯大手 電波共用へ]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399099?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399099?source=rss"/>
+        <updated>2021-07-18T23:08:57.000Z</updated>
+        <summary type="html"><![CDATA[総務省は年度内にも、テレビ局と携帯大手が同じ周波数帯の電波を時間帯に応じて使い分ける新制度の運用を始める方針を固めた。「5G」の普及で、スマートフォンなどの利用拡大が見込まれる中、限りある周波数帯を有効活用するのが狙い。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android: アプリ外の画像一覧を取得する (対象範囲別ストレージ対応)]]></title>
+        <id>https://qiita.com/irgaly/items/910815eb21f63b2c157b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/irgaly/items/910815eb21f63b2c157b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T15:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Android 10 以上の対象範囲別ストレージ (Scoped Storage) 環境で、メディア領域にある画像一覧を取得します。
+
+アプリ独自の画像選択 UI を実装するときなどは、画像選択 In…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino DueでPWM山同期AD変換を行う]]></title>
+        <id>https://qiita.com/motorcontrolman/items/ba2cd0fb200501186194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/motorcontrolman/items/ba2cd0fb200501186194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T14:23:32.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+本記事はMATLAB Expo2021 LTでの発表「MATLAB Homeでのモータ制御MBD開発に向けた“脱獄指南書”」の解説をシリーズ化したものの２番目の記事となります。
+シリーズ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonのSpotify APIで指定したアーティストの人気曲を取得する]]></title>
+        <id>https://qiita.com/Prgckwb/items/21ec6cdbfa7fcf5aa466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Prgckwb/items/21ec6cdbfa7fcf5aa466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T09:52:58.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+
+音楽ストリーミングアプリSpotifyから提供されているSpotify API for Pythonの Spotipyを使って、ユーザの指定したアーティストの人気楽曲をSpotifyから…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2022 Preview 2 がリリースされました]]></title>
+        <id>https://qiita.com/uikou/items/3cadb250eaa0681a05c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/uikou/items/3cadb250eaa0681a05c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T05:21:57.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。本記事は、2021 年 7 月 14 日（米国時間）ポストされた Visual Studio 2022 Preview 2 is out! の意訳のようななにかとなります。内容に…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progateで作ったWebアプリをDjangoで作ってみる！ Part4]]></title>
+        <id>https://qiita.com/insilicomab/items/a86b8d508687dbd7f712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/insilicomab/items/a86b8d508687dbd7f712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T03:48:08.000Z</updated>
+        <summary type="html"><![CDATA[ProgateのNode.jsコースではお買い物リストアプリを作るのですが、これと全く同じものをDjangoで作ってみます。
+
+Djangoでのアプリ開発の一連の流れを整理するために記していきます。
+
+…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住宅ローンの計算を自分でしてみたい]]></title>
+        <id>https://qiita.com/kumokiri2k/items/8bced982cb39bd496d04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kumokiri2k/items/8bced982cb39bd496d04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T02:36:55.000Z</updated>
+        <summary type="html"><![CDATA[何歳の時にどれぐらい住宅ローンの残債が？
+
+私は、30歳ちょっと過ぎたぐらいの頃に、ファミリータープのマンションを35年ローンで購入しました。
+よく言われる「持ち家は将来資産になりますが、賃貸は資産…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コロナ禍の恋愛 アプリにシフト]]></title>
         <id>https://news.yahoo.co.jp/pickup/6399038?source=rss</id>
@@ -14,6 +98,76 @@
         <summary type="html"><![CDATA[自粛生活で誰かと直接顔を合わせる機会が限られ、ネット上で恋人探しをする人が増えている。合コンや飲み会がなくなった代わりに、若者たちはマッチングアプリでの「恋活」や「オンライン婚活」にシフトする。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Query で SharePoint Online ドキュメント ライブラリ / OneDrive for Buisiness からファイルを読み込むときに起きていること (SharePoint.Files / SharePoint.Contents 関数)]]></title>
+        <id>https://qiita.com/PowerBIxyz/items/805f2df32e3327633c84?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/PowerBIxyz/items/805f2df32e3327633c84?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-18T00:05:28.000Z</updated>
+        <summary type="html"><![CDATA[お仕事用オンラインストレージとして使えるので便利なのだ。ただ、Power Query で扱えるデータソースのひとつとしてよく理解しておくべきだ。ついさっきできたのにできなくなった。夕方試したらやっぱ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before starting UiPath:代入ってなんだ]]></title>
+        <id>https://qiita.com/HANACCHI/items/1c6965ca936f4d2231d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/HANACCHI/items/1c6965ca936f4d2231d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T23:41:02.000Z</updated>
+        <summary type="html"><![CDATA[皆もすなるQiitaといふものを、儂もしてみむとてするなり。
+
+と言う訳で、こん＊＊は！はなっち！です。
+
+★★★この記事はUiPathブログ発信チャレンジ2021サマーの6日目の記事です。★★★
+
+今…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AtCoder解説】PythonでABC210のA,B,C問題を制する！]]></title>
+        <id>https://qiita.com/u2dayo/items/0ae64fdedf3535aefe83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/u2dayo/items/0ae64fdedf3535aefe83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T18:14:13.000Z</updated>
+        <summary type="html"><![CDATA[ABC210のA,B,C問題を、Python3でなるべく丁寧に解説していきます。
+
+ただ解けるだけの方法ではなく、次の3つのポイントを満たす解法を解説することを目指しています。
+
+
+シンプル：余計なことを…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英日翻訳器を環境構築なしで10分程度で作ってみた]]></title>
+        <id>https://qiita.com/nymwa/items/2f39a34982aa9d71f10d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nymwa/items/2f39a34982aa9d71f10d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T16:31:01.000Z</updated>
+        <summary type="html"><![CDATA[やること
+
+英日翻訳器を作ります．
+
+ところで，データを頑張って集めていろいろな処理をして，学習するというのを全部自分で作ろうとすると，とても大変です．
+しかも，ニューラルネットを使った機械翻訳システ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UiPath】プロジェクトフォルダの「ドット付きフォルダ」]]></title>
+        <id>https://qiita.com/miya_gis/items/3dafddb3bb7b496bb382?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/miya_gis/items/3dafddb3bb7b496bb382?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T15:05:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+この投稿は、RPA ツールの UiPath で、プロジェクトフォルダにある「ドット」付きフォルダについての説明です。
+
+UiPathのコミュニティ「UiPath Friends」が企画する…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +214,21 @@ Active Record(Ruby)でmigrateした内容とぴったり同じものをEcto(Elix
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRUDのWebApi開発は不要！JsonでWebApiを作れるシステムを作った話]]></title>
+        <id>https://qiita.com/HawkClaws/items/6f5a6938318fb7d7983d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/HawkClaws/items/6f5a6938318fb7d7983d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T12:36:32.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+タイトルの通りです
+定義を設定すだけで、CRUDのRESTWebapiを作れるシステムです
+
+似たようなもので、FirebaseのRealtimeDatabaseやFireStoreがあり…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【UiPath】正規表現ビルダーの使い方と「一致する文字列を取得(Matches)」を使用した文字列の抽出方法]]></title>
         <id>https://qiita.com/mh_ti_fu/items/053774b14699c2a17ba5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/mh_ti_fu/items/053774b14699c2a17ba5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -99,6 +268,24 @@ SharePoint の リスト については、モダンサイトにすれば5000件
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Git】結構使うけどいつも調べるGitコマンドまとめ]]></title>
+        <id>https://qiita.com/suzu12/items/b27cc76e96edb623a54f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/suzu12/items/b27cc76e96edb623a54f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T09:09:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+便利だけど使うときにいつも調べて使っているコマンドをまとめました。
+
+〇〇したいときどうするんだっけ・・？
+って調べているのでこの記事を書いているときも
+たぶん全部を網羅できていません。笑
+
+比較的しようするコマンドだったり便利だなって思うコマンドだったり…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Colaboratoryについて]]></title>
         <id>https://qiita.com/beehibiki/items/3ae6ea5e5a011ebcd0b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/beehibiki/items/3ae6ea5e5a011ebcd0b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -107,6 +294,21 @@ SharePoint の リスト については、モダンサイトにすれば5000件
 
 Google Colaboratoryとは，環境構築なしでpythonのコードを書いたり，実行したりことができるGoogleのサービスです．
 Ana…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x�、y座標使ったプログラミング問題を解いて思ったこと]]></title>
+        <id>https://qiita.com/nyappy15th/items/af71589efe07d99f5220?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nyappy15th/items/af71589efe07d99f5220?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T06:20:46.000Z</updated>
+        <summary type="html"><![CDATA[メモがてらの投稿です。
+
+よく、プログラミング問題を解く時に、x、y座標を使って解くやつありますよね。
+以下みたいな感じで、あーだこーだするやつです。（雑
+
+# #を囲うにはいくつの柵が必要？みたいな問…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -121,6 +323,32 @@ Ana…]]></summary>
 先日Go言語で有名なmattnさんの
 
 https://twitter.com/mattn_jp/status/14151285251750707…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeRTOSポーティングで学んだ事について]]></title>
+        <id>https://qiita.com/pp_zumipy/items/6b4232e4828e7adc1f2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/pp_zumipy/items/6b4232e4828e7adc1f2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T03:28:57.000Z</updated>
+        <summary type="html"><![CDATA[普段、業務でNordicが提供するnRF52系のマイコンを使用したFW開発に携わる事があるのですが、その多くをNonOS上で制御しています。
+
+その中で、NonOS開発特有の難しさなどから脱却したいと…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravelで都道府県やカテゴリなどのプルダウンと文字入力から検索機能を実装する]]></title>
+        <id>https://qiita.com/masakichi_eng/items/b9948f7d14de793dc014?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/masakichi_eng/items/b9948f7d14de793dc014?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-17T01:27:11.000Z</updated>
+        <summary type="html"><![CDATA[業務でプルダウンと文字入力から検索機能を実装する機会があり調べながら実装したので備忘録として。
+
+ここではユーザーが都道府県やカテゴリを選択してニュースを投稿するという前提で進める。
+
+都道府県とカテ…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -186,6 +414,32 @@ Azu…]]></summary>
 Java など、オブジェクト指向言語に触れたとき困惑するものの一つが アクセス修飾子 だと思います。
 なんでこんなもん必要なんだ って気持ちのせいで、一向に身につかない...
 全部 pu…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正規化についてまとめてみた]]></title>
+        <id>https://qiita.com/kihara-takahiro/items/703c1863248659ad518b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kihara-takahiro/items/703c1863248659ad518b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-16T15:02:10.000Z</updated>
+        <summary type="html"><![CDATA[このページは？
+
+最近、新入社員の人たちが基本情報の勉強をしていたので、自分でもパラパラと基本情報の本を読んでみたのですが、初学者にこの説明をしても難しすぎるのでは？？と感じたため厳密ではないと怒ら…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エイリアスと無料GUIツールで脱GitKraken]]></title>
+        <id>https://qiita.com/shibuya01055/items/f3c413ed54d422fc2b98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/shibuya01055/items/f3c413ed54d422fc2b98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-16T14:59:43.000Z</updated>
+        <summary type="html"><![CDATA[GitKrakenとは
+
+gitの管理をGUIで見やすく操作するためのツールです。
+2021年7月現在、publicなリポジトリは0円、privateになると有料です。
+https://www.gi…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
