@@ -22,6 +22,33 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6399185?source=rss",
+          "author": null,
+          "description": "米バイデン政権は19日、中国政府が米国などへのサイバー攻撃に関わっているとして非難する声明を発表。米政権高官は「さらなる行動を排除しない」として、強い措置をとる姿勢を示した。日本などの同盟国もサイバー攻撃を非難した。",
+          "link": "https://news.yahoo.co.jp/pickup/6399185?source=rss",
+          "publishedOn": "2021-07-19T23:18:41.000Z",
+          "wordCount": 64,
+          "title": "「中国がサイバー攻撃」米欧日"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399142?source=rss",
+          "author": null,
+          "description": "任天堂は、先日発表された新型Nintendo Switch（有機ELモデル）に関して「現行機よりも収益性が高まる」とした報道を否定。また現在、有機ELモデルのほかに新たなモデルは計画していないと明言した。",
+          "link": "https://news.yahoo.co.jp/pickup/6399142?source=rss",
+          "publishedOn": "2021-07-19T07:48:57.000Z",
+          "wordCount": 68,
+          "title": "任天堂 Switch巡る一部報道否定"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399136?source=rss",
+          "author": null,
+          "description": "米ズーム・ビデオ・コミュニケーションズは18日、米クラウドサービス会社ファイブ9を買収することで合意したと発表した。約147億ドル（約1兆6160億円）相当の全額株式の買収となる。",
+          "link": "https://news.yahoo.co.jp/pickup/6399136?source=rss",
+          "publishedOn": "2021-07-19T06:38:28.000Z",
+          "wordCount": 66,
+          "title": "米Zoom 1.6兆円で米企業を買収"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399099?source=rss",
           "author": null,
           "description": "総務省は年度内にも、テレビ局と携帯大手が同じ周波数帯の電波を時間帯に応じて使い分ける新制度の運用を始める方針を固めた。「5G」の普及で、スマートフォンなどの利用拡大が見込まれる中、限りある周波数帯を有効活用するのが狙い。",
@@ -461,6 +488,20 @@
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/26006613787051641",
+          "author": null,
+          "description": "paizaが運営するエンジニア組織や文化づくりの情報を提供するWebメディア「Tech Team Journal」では、成長したいエンジニアを応援するための企画として、皆さんの「エンジニアのバイブル」を募集します！\nあなたがこれまでにお読みになった書籍の中で、「自分のキャリアに最も影響を与えた1冊」「エンジニアとしてのバイブルだと思っている1冊」を教えてください。\nエンジニアのキャリアについての書籍はもちろん、リーダーや社会人として、自分のキャリアや考え方に影響を与えている本であればどんなものでもOKです。なお、技術系の書籍については同じアンケート内で別項目として募集しておりますので、そちらへお書きください。\nご推薦いただいた書籍のうち、一部を8月中旬にTech Team Journalにて発表いたします。\nまた、アンケートにお答えいただいた方の中から、抽選で5名様に1,000円分のAmazonギフト券をプレゼント！\nさらにハッシュタグ「#エンジニアのバイブル」をつけてこの記事をTwitterにシェアしてくれた方の中から抽選で10名様にも500円分のAmazonギフト券をプレゼントします。\n募集内容：「エンジニアのバイブル」・「自分のキャリアに最も影響を与えた」書籍\n応募フォームからご入力ください\n応募フォームの詳細案内も合わせてご確認ください。\ndocs.google.com\n皆さんからのたくさんのご応募をお待ちしています！！\nTech Team Journalって？\n\nTech Team Journalでは、「事業をドライブするテックチーム」をテーマに、VPoEやCTOのインタビュー、エンジニア採用や組織づくりに関するコラムなどを順次公開しています。\nエンジニアインタビュー\nCTOをはじめエンジニア組織をリードするエンジニアへのインタビューを多数掲載中。組織づくりで大切にしていることや、これからのエンジニアに求められることなどリアルな言葉で語っていただいています。\nttj.paiza.jp\nttj.paiza.jp\nCTO対談：Teck Career Talk\n第一線でご活躍されているエンジニア組織のリーダーをお招きして、対談形式でこれまでのキャリア、組織のリーダーとして大切にしていること、組織課題などを語っていただきます。ナビゲーターは元DMM.comCTOで、現在は株式会社デジタルハーツでCTOを務める城倉和孝氏です。\nttj.paiza.jp\nコラム\nUUUM社 元CTOの尾藤正人氏にエンジニア採用や組織づくりの悩みに答えていただく「TTJお悩み相談室」を絶賛更新中です。お悩みも募集中！\nttj.paiza.jp\n「VPoEってどんな役割？」「インフラエンジニアの採用ってどうすればいい？」など気になるテーマの記事を公開しています。\nttj.paiza.jp\nttj.paiza.jp",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/19/120000",
+          "publishedOn": "2021-07-19T03:00:00.000Z",
+          "wordCount": 246,
+          "title": "「みんなに薦めたい『エンジニアのバイブル』」を募集します！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210715/20210715150925.png",
+            "type": "image/png",
+            "length": "0"
+          }
+        },
+        {
           "id": "hatenablog://entry/26006613787026557",
           "author": null,
           "description": "こんにちは。谷口です。\n30代〜40代の方から「今後のキャリアについて悩んでいる」「今までの経験を生かして少し違うキャリアに進みたい」といったご相談を受けることがあります。\n中堅〜ベテランと言える年次になってくると、若手の頃と比べて組織内でのポジションや求められる役割が変わったり増えたりするケースも多く、現職の業務内容やキャリアに不満や不安を感じる方が増えてきます。\nそこで今回は、30代〜40代のエンジニアの方に向けて、今後もエンジニアもしくはその周辺領域で仕事を続ける場合のキャリアの選択肢について解説します。\nエンジニアか周辺領域で仕事を続けるキャリアの選択肢は\nエンジニアを続ける\nエンジニアとして仕事を続ける場合、本当にざっくりわけると専門技術に特化したスペシャリストになるか、ビジネスと技術を総合的に見渡して事業の進め方や組織マネジメントについて考える役割になるか（この中でもメインで担当する分野がわかれていたりします）になります。\nもちろん、企業によって求められる内容は異なりますし、役職名も研究開発・シニアエンジニア、CTO・VPoE・PdMなどさまざまで、組織規模によってはひとつのポジションで複数の役割を担うケースもあります。\n転職するにしても現職を続けるにしても、ここで大事なのは役職名よりも\nそのポジションでどんな役割や業務が求められるのか\nそれは今の自分にとってやりたい&成長できる（ちょっと挑戦が必要な）仕事か\nを企業側とすりあわせておくことです。\n関連記事はこちら\npaiza.hatenablog.com\npaiza.hatenablog.com\n\n上流のSIerに転職する\n小規模なN次請け企業から同様のSIerへの転職を目指す場合、数千人規模の大手企業に入社するのは狭き門ですが、元請けもやっているようなより上流に近いSIer（数百人～1000人前後ほどの規模の…",
@@ -650,6 +691,114 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/3110123/items/545f26f626eccb9af835?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nコンビニにある食べものでペアリング、「おつまみこ」をリリースしました！\n\n新型コロナウイルスの影響で思うように外食ができない。\nそれならばと自宅でお酒を楽しんでいる方も多いのではないでしょ…",
+          "link": "https://qiita.com/3110123/items/545f26f626eccb9af835?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T11:41:26.000Z",
+          "wordCount": 383,
+          "title": "【個人開発】おつまみ選びに困っている方向けアプリ「おつまみこ」をリリースしました！"
+        },
+        {
+          "id": "https://qiita.com/nobu_kyutech/items/049971f8b82cc9a055e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\n秘密鍵を有するウォレットから任意のアドレスへモザイク(xym)の送金プログラムです\n\n\n注意 : 秘密鍵は絶対に公開しないでください\n\n全コードはGithubにて公開中\n\n\n本記事は「04_mosai…",
+          "link": "https://qiita.com/nobu_kyutech/items/049971f8b82cc9a055e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T11:08:00.000Z",
+          "wordCount": 698,
+          "title": "[Symbol] Pythonでxymを送金する"
+        },
+        {
+          "id": "https://qiita.com/yuujioka/items/31d3df566aca5ce7bed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n筆者は元々Gitに対して苦手意識があり、更にターミナル操作がとても苦手でした。\nしかし一度CUIベースでGit操作する事でGitHubでのversion管理について理解を深め、苦手意識を…",
+          "link": "https://qiita.com/yuujioka/items/31d3df566aca5ce7bed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T10:40:19.000Z",
+          "wordCount": 379,
+          "title": "4Stepで変わる!!劇的にGitHub操作ができるようになったTips"
+        },
+        {
+          "id": "https://qiita.com/kkmmttdd/items/50bf399e2cc9b5b1d8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ユースケースとしては、\n\n\nとにかく早く実装をしたい\nJWTのデコードを実装したくない\n複数のバックエンドで認証をしたくない\n\n\nなどのケースが当てはまるのではないか、と思います。\n\nやり方\n\nAWS上のリソー…",
+          "link": "https://qiita.com/kkmmttdd/items/50bf399e2cc9b5b1d8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T05:36:10.000Z",
+          "wordCount": 345,
+          "title": "Cognitoが発行したJWTを使ってAPI GatewayのAuthorizerで認証をし、Lambdaで認証情報を受取る"
+        },
+        {
+          "id": "https://qiita.com/KH_MOON/items/22e0913782e984f6fd26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは。(株) 日立製作所の Lumada Data Science Lab. の文景厚（むん）です。\n\nみなさまは「データサイエンティスト」が企業の中でどんな仕事をしているのかご存じ…",
+          "link": "https://qiita.com/KH_MOON/items/22e0913782e984f6fd26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T05:03:55.000Z",
+          "wordCount": 345,
+          "title": "データサイエンティストの仕事～日立のデータサイエンティストに聞いてみた！"
+        },
+        {
+          "id": "https://qiita.com/miya_gis/items/1e689d90836c95605bfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの投稿は、RPA ツールの UiPath の実装例についての説明です。\n※ 個人的に書き方を忘れてしまうことがあるので「備忘録」として投稿します。\n\nUiPathのコミュニティ「UiPa…",
+          "link": "https://qiita.com/miya_gis/items/1e689d90836c95605bfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T00:22:35.000Z",
+          "wordCount": 359,
+          "title": "【UiPath】InvokeCodeアクティビティで関数を定義する"
+        },
+        {
+          "id": "https://qiita.com/kawano_fumihiko/items/50a1fe6274dde705acf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先週に「仕事ではじめる機械学習 第2版」を読みました。「帯」の「機械学習でいい感じにしてくれ」と上司に言われたらのイメージとはかなり異なる(あくまで私の感想)ような気もしますが、機械学習…",
+          "link": "https://qiita.com/kawano_fumihiko/items/50a1fe6274dde705acf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T23:07:58.000Z",
+          "wordCount": 5020,
+          "title": "ディープインパクト産駒の早熟性を検証(スレイピング含む&テスト大盛)してみる。"
+        },
+        {
+          "id": "https://qiita.com/xrxoxcxox/items/baa1ce69bf997db4b8a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何\n\n\n私自身はデザイナーですが、周りのエンジニアでデザインに興味を持っている人が多いように感じています\nデザイナー観点で今まで勧めたうち、反応の良かった本をまとめた記事です\nまた、下記のイベン…",
+          "link": "https://qiita.com/xrxoxcxox/items/baa1ce69bf997db4b8a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T23:03:20.000Z",
+          "wordCount": 454,
+          "title": "デザインの勉強をしたいエンジニアにおすすめの本10選"
+        },
+        {
+          "id": "https://qiita.com/ko1nksm/items/262c98cce879ba11dac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "シェルスクリプトで高い移植性と生産性を両立させるシリーズ\n\n\n\nはじめに\n\nmacOS で開発したシェルスクリプトが本番環境の Linux で動かなかったという経験はないでしょうか？シリーズの第一弾で P…",
+          "link": "https://qiita.com/ko1nksm/items/262c98cce879ba11dac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T23:00:25.000Z",
+          "wordCount": 2313,
+          "title": "シェルスクリプトの互換性と生産性の問題を解決する高度なプログラミング技術 〜1万行のコードをメンテしつづけるのに必要なもの〜"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/c42048a0f1ac48cff9d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "オンラインコースでも動画でもプログラミングを学べるこの時代、敢えて「本」を読むことは、エンジニアにとって大事なのか？について。\n\nhttps://blog.davidsalomon.dev/are-p…",
+          "link": "https://qiita.com/e99h2121/items/c42048a0f1ac48cff9d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T21:12:01.000Z",
+          "wordCount": 323,
+          "title": "エンジニアはどこまで本を読めばよいのか - 良質なインプットと勉強のススメ"
+        },
+        {
+          "id": "https://qiita.com/Takazudo/items/f87c8401009728d85157?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "第1話: We will selective\n第2話: We will specialize\n第3話: No estimates\n第4話: Pricing input/output\n\n\n\n\n「先輩さん」\n…",
+          "link": "https://qiita.com/Takazudo/items/f87c8401009728d85157?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T18:51:39.000Z",
+          "wordCount": 498,
+          "title": "俺の見積もりがこんなに安いわけがない: 第4話 Pricing input/output"
+        },
+        {
+          "id": "https://qiita.com/togucchi/items/e203311d0287fe883855?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nレンズフレアは太陽，ライトなど強い発光を表現するのに非常に有効な手法です．\n今回はUnityのUniversal Render Pipelineを使って簡易的なレンズフレアの実装を行います．\n\n↓ こんな感じのものを作りま…",
+          "link": "https://qiita.com/togucchi/items/e203311d0287fe883855?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T18:03:57.000Z",
+          "wordCount": 470,
+          "title": "【Unity/URP】深度テクスチャを使って簡単にレンズフレアを実装する"
+        },
+        {
           "id": "https://qiita.com/irgaly/items/910815eb21f63b2c157b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Android 10 以上の対象範囲別ストレージ (Scoped Storage) 環境で、メディア領域にある画像一覧を取得します。\n\nアプリ独自の画像選択 UI を実装するときなどは、画像選択 In…",
@@ -668,6 +817,15 @@
           "title": "Arduino DueでPWM山同期AD変換を行う"
         },
         {
+          "id": "https://qiita.com/xx_mana/items/89d9dac362311190e8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n\nAutify で Salesforce を動かしてみよう、と思い記事にしてみます。\nTIPSなども記載できれば、と考えています。\n\n\n今回のチャレンジ\n\n\nSalesforce に Visual…",
+          "link": "https://qiita.com/xx_mana/items/89d9dac362311190e8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T10:16:36.000Z",
+          "wordCount": 650,
+          "title": "Autify で Salesforce を動かしてみよう～ vol.7 Visualforce / Apex"
+        },
+        {
           "id": "https://qiita.com/Prgckwb/items/21ec6cdbfa7fcf5aa466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "まえがき\n\n音楽ストリーミングアプリSpotifyから提供されているSpotify API for Pythonの Spotipyを使って、ユーザの指定したアーティストの人気楽曲をSpotifyから…",
@@ -675,6 +833,15 @@
           "publishedOn": "2021-07-18T09:52:58.000Z",
           "wordCount": 951,
           "title": "PythonのSpotify APIで指定したアーティストの人気曲を取得する"
+        },
+        {
+          "id": "https://qiita.com/bathtimefish/items/724e5f653d896214ea99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nLINEにはリッチメニューという機能があり、LINE公式アカウント等のBotのUXを向上させるための重要な機能です。具体的にはLINE対話画面の下部にBot提供者が定義したカスタムメニュ…",
+          "link": "https://qiita.com/bathtimefish/items/724e5f653d896214ea99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T09:41:27.000Z",
+          "wordCount": 448,
+          "title": "[LINE Bot 開発入門] Messaging APIを使ってチャネルにリッチメニューを登録してみる"
         },
         {
           "id": "https://qiita.com/uikou/items/3cadb250eaa0681a05c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -756,6 +923,15 @@
           "publishedOn": "2021-07-17T14:55:42.000Z",
           "wordCount": 777,
           "title": "Windowsで形態素解析（MeCab & Janome）"
+        },
+        {
+          "id": "https://qiita.com/aike@github/items/77b3eccc6861de09513a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nDTMのソフトウェアに組み込まれているプログラミング言語について実際に使ってみて調べてみる企画です。\n\n最近のDTMソフトウェアには、テキストのプログラミング言語で操作できる機能が搭載され…",
+          "link": "https://qiita.com/aike@github/items/77b3eccc6861de09513a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-17T13:45:02.000Z",
+          "wordCount": 314,
+          "title": "DTMプログラミング言語探訪"
         },
         {
           "id": "https://qiita.com/mnishiguchi/items/9ea0a55cdbaf13c00576?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -891,6 +1067,15 @@
           "publishedOn": "2021-07-16T22:49:27.000Z",
           "wordCount": 1355,
           "title": "AlphaFold (ver.2) インストール"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/50b43f6f4f087c40f4f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/official-events/be8c5ab5a9ddf90055cd\n\nにあやかり、ちょっとした息抜きを。\n\n時間を溶かす素敵なサイト\n\n1. 顔画像生成技術\n\n8 …",
+          "link": "https://qiita.com/e99h2121/items/50b43f6f4f087c40f4f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-16T21:13:38.000Z",
+          "wordCount": 298,
+          "title": "時間を溶かす素敵なサイトとすごい技術コレクション"
         },
         {
           "id": "https://qiita.com/GleamingCake/items/2b325d189a166ca4f88e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1395,6 +1580,15 @@
           "publishedOn": "2021-07-13T06:06:50.000Z",
           "wordCount": 422,
           "title": "【Unity】lilToonのTipsなど"
+        },
+        {
+          "id": "https://qiita.com/sugulu_Ogawa_ISID/items/f228a8fef14bd1a13a1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事では、AzureおよびMicrosoftのFundamentals資格の勉強方法（の一例）を紹介します。\n\n本記事の対象は、AZ-900、DP-900、AI-900、PL-900、SC-900、…",
+          "link": "https://qiita.com/sugulu_Ogawa_ISID/items/f228a8fef14bd1a13a1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T05:22:47.000Z",
+          "wordCount": 719,
+          "title": "Azure & MS Fundamentals資格の勉強方法 | AZ-900、DP-900、AI-900、PL-900、SC-900"
         },
         {
           "id": "https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
