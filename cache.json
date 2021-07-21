@@ -22,6 +22,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6399287?source=rss",
+          "author": null,
+          "description": "米動画配信大手ネットフリックスは20日、6月末の世界の有料会員数が2億918万人となり、3月末から154万人増加したと発表。今後は会員獲得増へゲーム事業を強化する考えを明らかにした。",
+          "link": "https://news.yahoo.co.jp/pickup/6399287?source=rss",
+          "publishedOn": "2021-07-21T00:20:35.000Z",
+          "wordCount": 63,
+          "title": "ネトフリ ゲーム事業を強化へ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399217?source=rss",
+          "author": null,
+          "description": "トレンドマイクロは、五輪の映像を配信するNHKや民放テレビ局の偽サイトが複数出現し、アクセスすると「ブラウザ通知スパム」に誘導される恐れがあるとして注意。ブラウザ通知スパムは、ユーザーをサイバー犯罪サイトなどに誘導する手法。",
+          "link": "https://news.yahoo.co.jp/pickup/6399217?source=rss",
+          "publishedOn": "2021-07-20T04:29:31.000Z",
+          "wordCount": 66,
+          "title": "東京五輪 TV局の偽サイト注意"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399185?source=rss",
           "author": null,
           "description": "米バイデン政権は19日、中国政府が米国などへのサイバー攻撃に関わっているとして非難する声明を発表。米政権高官は「さらなる行動を排除しない」として、強い措置をとる姿勢を示した。日本などの同盟国もサイバー攻撃を非難した。",
@@ -668,20 +686,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613777010943",
-          "author": null,
-          "description": "こんにちは。倉内です。\nプログラミング学習を始めたばかりの方が最初に難しいと感じるポイントが「リスト（配列）」ではないでしょうか。\nなんとなく分かったつもりでいざデータをリストで扱おうとすると、処理がうまく書けなかったり思い通りの動きをさせられなかったり…もちろん検索すればサンプルコード等はたくさん出てきますが、基本的な概念をしっかり理解しておけば応用も利きますし、この先の学習もスムーズに取り組めます。\nそこで今回は、paizaラーニングで無料公開中の動画講座「Python3入門編」と解答例つき練習問題集を利用して、プログラミング初学者の方にリストを基本から解説したいと思います！\nまた、ただいま指定のプログラミング問題に挑戦すると、抽選でAmazonギフト券がもらえるキャンペーンも実施中です。リスト処理をマスターしてぜひチャレンジしてみてください！キャンペーン詳細はこちら\n\n前置き：利用教材について\nリストとは何かを学ぼう\nリストの概念\nリストの具体例\nリストのつかいどころ\nリストの基本操作を学ぼう\nリストの作成・要素の取り出し\nリストの要素を更新する\nループ処理でリストを操作する\n多次元リストを理解しよう\n2次元リスト\n3次元リスト\nリストを使って問題を解いてみよう\n全ての要素の和（Dランク相当）\n魔法陣（Bランク相当）\nまとめ\n前置き：利用教材について\npaizaラーニングは、Webブラウザとインターネット環境があればどなたでもご利用いただけます。\n動画はプロの声優さんによる解説つきで、学習した内容をすぐ演習課題で復習できるのが特徴です。\n\n練習問題として利用するのは、さまざまな難易度・内容のプログラミング問題を集めた「レベルアップ問題集」です。\n問題を解いたあとコードをテストするための全入力ケースが閲覧でき、一部問題は解答コード・解説もついています*1。\n以降はサンプ…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/21/130000",
-          "publishedOn": "2021-06-21T04:00:00.000Z",
-          "wordCount": 357,
-          "title": "Pythonのリストをマスターする！基礎から多次元リストまで徹底解説",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210618/20210618011415.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -691,6 +695,123 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/Kiri8128/items/b2c30691942b2220b509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "添え字ガチャはお得意ですか？\n\n私は苦手です。得意な方はこの記事のありがたみがあまりないかもしれません ^ari。\n\nこの記事は？\n\n添え字ガチャを回避するためのテクを紹介します。\n実装・考え方の工夫と…",
+          "link": "https://qiita.com/Kiri8128/items/b2c30691942b2220b509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T16:38:49.000Z",
+          "wordCount": 1551,
+          "title": "添え字ガチャから逃げる一般的なテク"
+        },
+        {
+          "id": "https://qiita.com/jun1s/items/4ec151b1c2562f6b0f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「[JS]なぜawaitはasync関数の中にしか書けないのか」の記事の補足というか、おまけ記事です。\n\n鶏と卵\n\n多くの人は、「awaitを使いたい」がまず先にあると思います。\n\nconst data …",
+          "link": "https://qiita.com/jun1s/items/4ec151b1c2562f6b0f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T10:15:36.000Z",
+          "wordCount": 416,
+          "title": "鶏(async)と卵(await)、どちらが先か？"
+        },
+        {
+          "id": "https://qiita.com/_Kohei_/items/381737d0e03e24ab0f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "自己紹介\n\n普段私は、\n一番得意な機械学習(深層学習)をしたり、\nPython/Django でWebアプリを開発したり、\nTypeScript/Vue or React でフロントエンドの開発をし…",
+          "link": "https://qiita.com/_Kohei_/items/381737d0e03e24ab0f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T09:32:43.000Z",
+          "wordCount": 508,
+          "title": "Pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる"
+        },
+        {
+          "id": "https://qiita.com/s_oshima/items/6c688e3a67abbf6114e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "駆け出しのエンジニアが学んだことや苦労したことをつらつらと書いていきます。\n本記事は個人的な見解であり、筆者の所属するいかなる団体にも関係ございません。\n環境：Windows10\nVScodeターミ…",
+          "link": "https://qiita.com/s_oshima/items/6c688e3a67abbf6114e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T07:09:45.000Z",
+          "wordCount": 511,
+          "title": "VScodeをGitLabと連携する"
+        },
+        {
+          "id": "https://qiita.com/suin/items/daa162d3c673a8cbe03f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この投稿では、Next.jsとAnt Designでページネーションできるテーブルを実装する方法を説明します。使用する言語はTypeScriptです。\n\nできあがりの様子は次の動画のようになります:\n\n\n\n…",
+          "link": "https://qiita.com/suin/items/daa162d3c673a8cbe03f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T03:14:17.000Z",
+          "wordCount": 434,
+          "title": "Next.js + Ant Designでページネーションできるテーブルを実装する方法"
+        },
+        {
+          "id": "https://qiita.com/y_itoh/items/9e75cea0c8b91f67729d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "統計学で一番よく利用される連続型確率分布「正規分布」の基本的な事項をまとめます\n\n1. 正規分布の公式\n\n$$f(x) = \\frac{1}{\\sqrt{2\\pi \\sigma}} \\exp \\left…",
+          "link": "https://qiita.com/y_itoh/items/9e75cea0c8b91f67729d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T22:42:08.000Z",
+          "wordCount": 1714,
+          "title": "1. Pythonで学ぶ統計学　2-3. 正規分布の基本"
+        },
+        {
+          "id": "https://qiita.com/masato_makino/items/656f4fbb1595cbcdc23d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先に結論だけ\n\npackage.jsonにfilesフィールドを指定すると、node_modulesに保存されるファイルサイズが減ります。\n\nはじめに\n\nこの記事は、npmのpackage.jsonに指…",
+          "link": "https://qiita.com/masato_makino/items/656f4fbb1595cbcdc23d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T22:40:06.000Z",
+          "wordCount": 378,
+          "title": "package.jsonにfilesを書かないあなたは、誰かを少しだけ不幸にしています"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/f63b926c51df00a20b5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "抜き出す\n\nPython\n\nimport requests\nimport json\n\nurl1 = 'https://ja.wikipedia.org/w/api.php?action=parse&pa…",
+          "link": "https://qiita.com/e99h2121/items/f63b926c51df00a20b5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T21:19:07.000Z",
+          "wordCount": 641,
+          "title": "WikipediaやMediawikiからデータを抜き出す、加工する"
+        },
+        {
+          "id": "https://qiita.com/zakuroishikuro/items/2eaa5e65a214f9b089db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "なんでそんなことしたいの？\n\n某サイトをスクレイピングするとき必要だった。\n\nevalがアレなのはさんざん言われてるから隔離したい。\neval() を使わないでください! - JavaScript |…",
+          "link": "https://qiita.com/zakuroishikuro/items/2eaa5e65a214f9b089db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T21:02:33.000Z",
+          "wordCount": 708,
+          "title": "Denoで安全にevalしたい (Web Worker)"
+        },
+        {
+          "id": "https://qiita.com/unticrice/items/ba9c989818c9ebdfe9a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "何があったか\n\nhttps://bookmark.hatenastaff.com/entry/yahoo_comment_api\n\nはてなブックマークは、コメント表示改善の一環として、Yahoo! J…",
+          "link": "https://qiita.com/unticrice/items/ba9c989818c9ebdfe9a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T18:28:48.000Z",
+          "wordCount": 612,
+          "title": "はてなブックマークの破滅的人気コメントを表示する"
+        },
+        {
+          "id": "https://qiita.com/yagirihara/items/839ddcbcb901a260f021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "いま、新規サービスを開発するにあたり、Terraformを利用しています。\nTerraformは便利ですが、なかなかハマりどころも多いですね。\n\nCloud KMSのKeyを扱う際に\"Instance…",
+          "link": "https://qiita.com/yagirihara/items/839ddcbcb901a260f021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T17:06:14.000Z",
+          "wordCount": 579,
+          "title": "Terraformでの\"Instance cannot be destroyed\"に対処する"
+        },
+        {
+          "id": "https://qiita.com/ala_ping/items/116641e1b20b5e9810e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\nご時世的にも余興なしで結婚式と披露宴をやろうと思っていましたが、妻から「招待状をLINE bot使ってやる記事を読んだ。うちもこれにしよう」と提案をもらったので、ついでにLINE botを使…",
+          "link": "https://qiita.com/ala_ping/items/116641e1b20b5e9810e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T15:11:05.000Z",
+          "wordCount": 594,
+          "title": "結婚式のフォトギャラリーをLINE bot + Firebaseで作った話"
+        },
+        {
+          "id": "https://qiita.com/myabu/items/89797cddfa7225ff2b5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nDockerの本番環境で秘密情報を使う際に、環境変数を使うことは推奨されてません。\n秘密情報を扱うには、コンテナオーケストレーションのsecret supportを使うことが推奨されてます。…",
+          "link": "https://qiita.com/myabu/items/89797cddfa7225ff2b5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T12:25:13.000Z",
+          "wordCount": 458,
+          "title": "Docker Composeの環境変数ではなくsecretsで秘密情報を扱う"
+        },
+        {
           "id": "https://qiita.com/3110123/items/545f26f626eccb9af835?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nコンビニにある食べものでペアリング、「おつまみこ」をリリースしました！\n\n新型コロナウイルスの影響で思うように外食ができない。\nそれならばと自宅でお酒を楽しんでいる方も多いのではないでしょ…",
@@ -698,6 +819,15 @@
           "publishedOn": "2021-07-19T11:41:26.000Z",
           "wordCount": 383,
           "title": "【個人開発】おつまみ選びに困っている方向けアプリ「おつまみこ」をリリースしました！"
+        },
+        {
+          "id": "https://qiita.com/jun1s/items/ecf6965398e00b246249?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先に結論\n\n\nawaitが使われている関数はジェネレータとして内部的に変換され、非同期処理になる。\nその為、async関数である必要がある。\nコンパイラから見ても、asyncが付いていることで効率的に…",
+          "link": "https://qiita.com/jun1s/items/ecf6965398e00b246249?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T11:40:05.000Z",
+          "wordCount": 745,
+          "title": "[JS]なぜawaitはasync関数の中にしか書けないのか"
         },
         {
           "id": "https://qiita.com/nobu_kyutech/items/049971f8b82cc9a055e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -709,6 +839,15 @@
           "title": "[Symbol] Pythonでxymを送金する"
         },
         {
+          "id": "https://qiita.com/rana_kualu/items/db6e93beca61ce9eeea7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "クラス定数は上書き可能です。\n\nclass FOO{\n    public const HOGE = 1;\n}\n\nclass BAR extends FOO{\n    public const HOGE = 2;\n}\n\n…",
+          "link": "https://qiita.com/rana_kualu/items/db6e93beca61ce9eeea7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T11:07:22.000Z",
+          "wordCount": 514,
+          "title": "【PHP8.1】finalクラス定数が作れるようになる"
+        },
+        {
           "id": "https://qiita.com/yuujioka/items/31d3df566aca5ce7bed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n筆者は元々Gitに対して苦手意識があり、更にターミナル操作がとても苦手でした。\nしかし一度CUIベースでGit操作する事でGitHubでのversion管理について理解を深め、苦手意識を…",
@@ -716,6 +855,33 @@
           "publishedOn": "2021-07-19T10:40:19.000Z",
           "wordCount": 379,
           "title": "4Stepで変わる!!劇的にGitHub操作ができるようになったTips"
+        },
+        {
+          "id": "https://qiita.com/kubotak/items/7ea8076372636d0773bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "VueRouterでページ遷移に処理をフックする際に利用するbeforeEachで一回だけしか実行しない処理を登録するにはどうしたら良いでしょう？\n答えは簡単で、beforeEachで関数を登録する…",
+          "link": "https://qiita.com/kubotak/items/7ea8076372636d0773bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T09:45:10.000Z",
+          "wordCount": 267,
+          "title": "[Vue]一度だけしか実行しないbeforeEachを登録する[Nuxt]"
+        },
+        {
+          "id": "https://qiita.com/Esfahan/items/25d74247778c87454634?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nLINEが配布しているサンプルコードのline-bot-sdk-javaを使って、Spring bootでLINE Botを作る手順。このサンプルコードは、LINE Botを作る上で必要なコ…",
+          "link": "https://qiita.com/Esfahan/items/25d74247778c87454634?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T07:14:40.000Z",
+          "wordCount": 443,
+          "title": "Spring bootでLINE Botを作る"
+        },
+        {
+          "id": "https://qiita.com/Yamine1San/items/22435561c5eda7f74c13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n次の一連の動作後の詳細ページから、ブラウザバックをした時に、スクロールで表示させた目的の明細が表示領域にある状態にしたい。\n\n\nデータ一覧をAjaxでページングする\n目的のデータまでスクロールする…",
+          "link": "https://qiita.com/Yamine1San/items/22435561c5eda7f74c13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T06:57:00.000Z",
+          "wordCount": 748,
+          "title": "Ajaxでページングした一覧ページから詳細ページへ遷移後にブラウザバックで一覧に戻っても、GETで一覧に戻っても、POSTで一覧に戻っても、F5でリロードしてもクリックした明細が画面内に表示されるサンプル"
         },
         {
           "id": "https://qiita.com/kkmmttdd/items/50bf399e2cc9b5b1d8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -770,6 +936,15 @@
           "publishedOn": "2021-07-18T23:00:25.000Z",
           "wordCount": 2313,
           "title": "シェルスクリプトの互換性と生産性の問題を解決する高度なプログラミング技術 〜1万行のコードをメンテしつづけるのに必要なもの〜"
+        },
+        {
+          "id": "https://qiita.com/baby-degu/items/c0a3784dc5285185484a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事は、Trevor Indrek Lasn氏による「Need Inspiration? Here Are 5 Challenging App Ideas You Can Start Buildi…",
+          "link": "https://qiita.com/baby-degu/items/c0a3784dc5285185484a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T21:17:56.000Z",
+          "wordCount": 391,
+          "title": "インスピレーションが湧かない人へ。今日から作れる挑戦しがいのあるアプリのアイディア5選"
         },
         {
           "id": "https://qiita.com/e99h2121/items/c42048a0f1ac48cff9d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -842,6 +1017,15 @@
           "publishedOn": "2021-07-18T09:41:27.000Z",
           "wordCount": 448,
           "title": "[LINE Bot 開発入門] Messaging APIを使ってチャネルにリッチメニューを登録してみる"
+        },
+        {
+          "id": "https://qiita.com/paprika-mah/items/da62594ef00c75af775f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nAWSは公式資料が充実しておりすごく便利な一方、サイトが大量にあり、用途に応じてどこを見れば良いか分からないという人の為に、私が普段利用しているサイトをまとめてみました。   \n\n基本的に公式サイト…",
+          "link": "https://qiita.com/paprika-mah/items/da62594ef00c75af775f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-18T05:55:12.000Z",
+          "wordCount": 367,
+          "title": "【AWS】各種公式サイトをまとめてみた"
         },
         {
           "id": "https://qiita.com/uikou/items/3cadb250eaa0681a05c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
