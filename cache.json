@@ -22,6 +22,33 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6399375?source=rss",
+          "author": null,
+          "description": "五輪チケット購入者らのIDとパスワードとみられるデータがネット上に流出していたことがわかった。東京大会に関連した機密文書とみられる情報も見つかり、ネット上の流出データの収集・分析をする企業は「数百件漏れている可能性がある」。",
+          "link": "https://news.yahoo.co.jp/pickup/6399375?source=rss",
+          "publishedOn": "2021-07-21T15:15:45.000Z",
+          "wordCount": 60,
+          "title": "五輪関係の情報、数百件流出か"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399367?source=rss",
+          "author": null,
+          "description": "国内の固定通信で利用されるインターネットのデータ通信量が、コロナ禍前の2年前と比べて約2倍になった。総務省の推計でわかった。テレワークの普及や動画配信サービスの利用増が影響しているとみられる。",
+          "link": "https://news.yahoo.co.jp/pickup/6399367?source=rss",
+          "publishedOn": "2021-07-21T14:02:01.000Z",
+          "wordCount": 62,
+          "title": "コロナ禍 ネット通信量が2倍に"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399319?source=rss",
+          "author": null,
+          "description": "YouTubeは米国時間7月20日、ファンが応援したいクリエイターに送金する新たな手段となる「Super Thanks」を、日本を含む68の国と地域で開始した。Super Thanksではアップロード済みの動画を視聴しながらクリエイターに送金できる。",
+          "link": "https://news.yahoo.co.jp/pickup/6399319?source=rss",
+          "publishedOn": "2021-07-21T08:03:13.000Z",
+          "wordCount": 66,
+          "title": "YouTube 通常動画に投げ銭機能"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399287?source=rss",
           "author": null,
           "description": "米動画配信大手ネットフリックスは20日、6月末の世界の有料会員数が2億918万人となり、3月末から154万人増加したと発表。今後は会員獲得増へゲーム事業を強化する考えを明らかにした。",
@@ -506,6 +533,34 @@
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/26006613787463853",
+          "author": null,
+          "description": "こんにちは。倉内です。\npaizaではスキルチェックや動画学習講座といったプログラミング学習コンテンツを提供していますが、ゲーム感覚で楽しみながら学べるPOH（Paiza Online Hackathon）などエンタメコンテンツもご用意しています。\n\nPOHで出題される問題は、初心者の方も楽しめる簡単な問題からアルゴリズムを駆使して解答するような上級者向けのものまでさまざまです。\nそこで今回は、7月28日に公開を控えたSTEINS;GATE（シュタインズ・ゲート）とのコラボに備えて、連休中に楽しくプログラミング学習ができる方法をお伝えします。\n解説や解答コード例を掲載した記事も合わせて紹介しますので、ぜひご自身のレベルに合わせて活用してみてください！\nなお、難易度のpaizaランクというのはスキルチェックのランクを示しています。S・A・B・C・D・Eの6段階でSがもっとも難易度が高い問題です。スキルチェックについて詳しくはこちら\n\nエンジニアが死滅した世界\n問題紹介と解答コード例・解説\nCランク問題\nBランク問題\nAランク問題\nロジックサマナー\n問題紹介と解答コード例・解説\nBランク問題\nSランク問題\nプログラミングで彼女をつくる\n問題紹介と解答コード例・解説\nBランク問題・Aランク問題\n推しと学べるプログラミング\nまとめ\nエンジニアが死滅した世界\n\n難易度：★★★／想定paizaランク：A～E\n通称『ぼっち』は、エンジニアだけが感染する致死性の「Eウイルス」が蔓延し、地球上すべてのエンジニアが死滅した中で、あなたがアンドロイドのRINと一緒に文明社会を取り戻すというストーリーになっています。\n廃墟と化したマップに点在するプログラミング問題を解くことで、アイテムやRINの着せ替え衣装をゲットできます。\n\n問題紹介と解答コード例・解説\nCランク問題\nPythonの解答コード例…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/22/100000",
+          "publishedOn": "2021-07-22T01:00:00.000Z",
+          "wordCount": 259,
+          "title": "連休中に無料ゲームで楽しくプログラミング学習！【STEINS;GATEコラボ公開直前】",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210716/20210716204032.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
+          "id": "hatenablog://entry/26006613788991603",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、ブラウザ上からNode.jsやPythonをプログラミング可能なクラウドエディタを提供する無料のWebサービスをご紹介します。\nサーバレスでバックエンドを開発できるうえ、シンプルなエディタから即座にエンドポイントを作って公開もできる便利なサービスとなっています。\n手軽にサーバ側の処理を構築したい場合やFaaSのように使いたい方にも最適なのでぜひ参考にしてみてください！\n【 Napkin 】\n\n■「Napkin」の使い方\nそれでは、「Napkin」をどのように使えばいいのか詳しく見ていきましょう。\nまず最初にサイトのトップページから【Sign Up】ボタンをクリックして無料のユーザー登録を済ませておきます。\n\n\n登録方法はいくつかありますが、今回はもっとも簡単なGitHubアカウントを利用してみます。\n\n確認用のウィンドウが表示されるので承認をしておけばOKです。\n\n初回のみ「ユーザー名」を設定する画面が表示されるので、好きな名前を入力して【Start】ボタンをクリックします。\n\n\n最終的に以下のような「ダッシュボード」が表示されたら準備は完了です！\n\nこの画面から新規のプロジェクトを作成・管理できるようになっています。また、チュートリアルや詳細なドキュメントなどのリンクも提供されているので、最初に一読しておくといいでしょう。\n■「Napkin」のコードエディタを使ってみよう！\nそれではさっそくですが「Napkin」が提供するコードエディタを利用してみましょう。\nまずは「ダッシュボード」から【+ New Function】ボタンをクリックしてください。\n\n\n初期設定画面が表示されるので、今回は「Node.js」を選択してから好きな名称を入力します。\n\n\n「Napkin」のコードエディタが表示されました。\n\nこのエディタでは…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/21/130000",
+          "publishedOn": "2021-07-21T04:00:00.000Z",
+          "wordCount": 366,
+          "title": "ブラウザ上からNode.jsやPythonでバックエンドを無料で開発可能な「Napkin」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210721/20210721105204.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
+        {
           "id": "hatenablog://entry/26006613787051641",
           "author": null,
           "description": "paizaが運営するエンジニア組織や文化づくりの情報を提供するWebメディア「Tech Team Journal」では、成長したいエンジニアを応援するための企画として、皆さんの「エンジニアのバイブル」を募集します！\nあなたがこれまでにお読みになった書籍の中で、「自分のキャリアに最も影響を与えた1冊」「エンジニアとしてのバイブルだと思っている1冊」を教えてください。\nエンジニアのキャリアについての書籍はもちろん、リーダーや社会人として、自分のキャリアや考え方に影響を与えている本であればどんなものでもOKです。なお、技術系の書籍については同じアンケート内で別項目として募集しておりますので、そちらへお書きください。\nご推薦いただいた書籍のうち、一部を8月中旬にTech Team Journalにて発表いたします。\nまた、アンケートにお答えいただいた方の中から、抽選で5名様に1,000円分のAmazonギフト券をプレゼント！\nさらにハッシュタグ「#エンジニアのバイブル」をつけてこの記事をTwitterにシェアしてくれた方の中から抽選で10名様にも500円分のAmazonギフト券をプレゼントします。\n募集内容：「エンジニアのバイブル」・「自分のキャリアに最も影響を与えた」書籍\n応募フォームからご入力ください\n応募フォームの詳細案内も合わせてご確認ください。\ndocs.google.com\n皆さんからのたくさんのご応募をお待ちしています！！\nTech Team Journalって？\n\nTech Team Journalでは、「事業をドライブするテックチーム」をテーマに、VPoEやCTOのインタビュー、エンジニア採用や組織づくりに関するコラムなどを順次公開しています。\nエンジニアインタビュー\nCTOをはじめエンジニア組織をリードするエンジニアへのインタビューを多数掲載中。組織づくりで大切にしていることや、これからのエンジニアに求められることなどリアルな言葉で語っていただいています。\nttj.paiza.jp\nttj.paiza.jp\nCTO対談：Teck Career Talk\n第一線でご活躍されているエンジニア組織のリーダーをお招きして、対談形式でこれまでのキャリア、組織のリーダーとして大切にしていること、組織課題などを語っていただきます。ナビゲーターは元DMM.comCTOで、現在は株式会社デジタルハーツでCTOを務める城倉和孝氏です。\nttj.paiza.jp\nコラム\nUUUM社 元CTOの尾藤正人氏にエンジニア採用や組織づくりの悩みに答えていただく「TTJお悩み相談室」を絶賛更新中です。お悩みも募集中！\nttj.paiza.jp\n「VPoEってどんな役割？」「インフラエンジニアの採用ってどうすればいい？」など気になるテーマの記事を公開しています。\nttj.paiza.jp\nttj.paiza.jp",
@@ -695,6 +750,60 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/kai-utsunomiya/items/55bff354aaa15c4a58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。今回は値の受け渡しを伴う、特定のタイミングでの画面遷移についてまとめてみようと思います。\n\n画面遷移先に値を渡す処理、あるいは画面遷移元に値を渡す処理についてはたくさんの既存記事がありまし…",
+          "link": "https://qiita.com/kai-utsunomiya/items/55bff354aaa15c4a58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T04:43:46.000Z",
+          "wordCount": 670,
+          "title": "swiftで画面遷移先に値を渡す＆画面遷移元に値を渡す"
+        },
+        {
+          "id": "https://qiita.com/taka_yayoi/items/ad7b119d995fb178e2de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "What Is Feature Engineering and How to Apply/Scale It for Machine Learning - The Databricks Blogの翻訳…",
+          "link": "https://qiita.com/taka_yayoi/items/ad7b119d995fb178e2de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T04:02:19.000Z",
+          "wordCount": 820,
+          "title": "大規模特徴量エンジニアリング"
+        },
+        {
+          "id": "https://qiita.com/jnchito/items/fb4ed2238ee3404b4403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに：順番に意味のある配列を定義するのは避けよう\n\nプログラミング初心者向けの簡単なTipsです。\n\n何か複数のデータをまとめてひとつの変数に保持したい場合には配列が使えます。\nしかし「複数のデー…",
+          "link": "https://qiita.com/jnchito/items/fb4ed2238ee3404b4403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T03:07:28.000Z",
+          "wordCount": 499,
+          "title": "【初心者向け】順番に意味がある配列はハッシュに置き換えよう"
+        },
+        {
+          "id": "https://qiita.com/coe/items/851803001413cc0c88aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "例えば、\n\n<ul>\n  <li>ベーグル</li>\n  <li>バゲット\n    <ul>\n      <li>パリジャン</li>\n      <li>バタール</li>\n    </ul>\n  </li>\n</ul>\n\n\nのようなHTMLを、\n\nul.…",
+          "link": "https://qiita.com/coe/items/851803001413cc0c88aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T02:49:26.000Z",
+          "wordCount": 608,
+          "title": "SwiftUIっぽくHTMLを作成するライブラリを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/EGJ-Kaz_Okada/items/e789e0a9cb8cf22cd8ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAnimGraphにおける各ノードのON/OFFをノードのAlphaで制御している方はそれなりに多いかと思います。\n\n\nこの方法は非常に簡単で便利なのですが、Alphaに0, 1で値を渡すと…",
+          "link": "https://qiita.com/EGJ-Kaz_Okada/items/e789e0a9cb8cf22cd8ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T02:41:34.000Z",
+          "wordCount": 319,
+          "title": "[UE4] [UE5] AnimNodeのAlpha Scale Bias Clampを使って滑らかなブレンド処理を簡単実装しよう！"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/f84da8503d847cdf973a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1319407.html\n\nという記事を以前見かけたが、幸か不幸か弊社内のイチ界隈でかつて…",
+          "link": "https://qiita.com/e99h2121/items/f84da8503d847cdf973a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T21:11:11.000Z",
+          "wordCount": 314,
+          "title": "叙勲、国宝級、まだある、古のフリーソフトたち"
+        },
+        {
           "id": "https://qiita.com/Kiri8128/items/b2c30691942b2220b509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "添え字ガチャはお得意ですか？\n\n私は苦手です。得意な方はこの記事のありがたみがあまりないかもしれません ^ari。\n\nこの記事は？\n\n添え字ガチャを回避するためのテクを紹介します。\n実装・考え方の工夫と…",
@@ -702,6 +811,42 @@
           "publishedOn": "2021-07-20T16:38:49.000Z",
           "wordCount": 1551,
           "title": "添え字ガチャから逃げる一般的なテク"
+        },
+        {
+          "id": "https://qiita.com/Nmatician/items/7d989973e498210bac0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\n知見が共有されないからLaTeX文書やSATySFi文書をGoogle DriveなんかでPDFだけ投げるのまじでやめろ\n手軽さも考えるとGitHubで丸ごと公開しちゃうのがおすすめ\nそのと…",
+          "link": "https://qiita.com/Nmatician/items/7d989973e498210bac0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T16:09:38.000Z",
+          "wordCount": 384,
+          "title": "お前らいい加減PDFだけ共有するのはやめろ"
+        },
+        {
+          "id": "https://qiita.com/codemountains/items/f40a2c983116b1b810ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "VSCodeで前回開いていたフォルダを開かせない\n\n今回の目的は「VSCodeをまっさらな状態で起動できるようにする」です。\n\nこの設定は好みが別れると思いますが、\n個人的には前回開いていたフォルダを…",
+          "link": "https://qiita.com/codemountains/items/f40a2c983116b1b810ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T13:26:02.000Z",
+          "wordCount": 358,
+          "title": "VSCodeで前回開いていたフォルダを開かせない"
+        },
+        {
+          "id": "https://qiita.com/NAO1998/items/300f4f18df2ec9b082ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "備忘録ついでに書いておきます。\n\n無料で簡単にJSONを返してくれるAPIを作りたかったので、GAS（Google Apps Script）を利用してみました。全体的な流れとしては、weblioの英和…",
+          "link": "https://qiita.com/NAO1998/items/300f4f18df2ec9b082ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T11:04:48.000Z",
+          "wordCount": 395,
+          "title": "GASでお手軽なAPIを作ってJSで叩いてみる"
+        },
+        {
+          "id": "https://qiita.com/pocokhc/items/add4948aa0ff858218f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初心者ながらKaggleに挑戦した時のコードを備忘録として残しておきます。\n\n1.データ\n\nimport\n\n全体的に使うライブラリです。\n各項目で使うライブラリはそちら側でimportを記載しています。\n\n…",
+          "link": "https://qiita.com/pocokhc/items/add4948aa0ff858218f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T10:49:56.000Z",
+          "wordCount": 4558,
+          "title": "Kaggleで書いたコードの備忘録～データ分析で使った手法一通り～（可視化、データ加工、検証、特徴量抽出、モデル、AutoML等）"
         },
         {
           "id": "https://qiita.com/jun1s/items/4ec151b1c2562f6b0f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -713,6 +858,15 @@
           "title": "鶏(async)と卵(await)、どちらが先か？"
         },
         {
+          "id": "https://qiita.com/northprint/items/980371a8dfb6457876d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "目次\n\n\nAmazon Location Service とは\n住所検索\n経路検索\n逆ジオコーディング\n地図の日本語化について\nサンプルサイト\nおまけ\n\n\n1. Amazon Location Servi…",
+          "link": "https://qiita.com/northprint/items/980371a8dfb6457876d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T09:49:24.000Z",
+          "wordCount": 373,
+          "title": "Amazon Location Service はじめました"
+        },
+        {
           "id": "https://qiita.com/_Kohei_/items/381737d0e03e24ab0f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "自己紹介\n\n普段私は、\n一番得意な機械学習(深層学習)をしたり、\nPython/Django でWebアプリを開発したり、\nTypeScript/Vue or React でフロントエンドの開発をし…",
@@ -720,6 +874,15 @@
           "publishedOn": "2021-07-20T09:32:43.000Z",
           "wordCount": 508,
           "title": "Pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる"
+        },
+        {
+          "id": "https://qiita.com/j-kume/items/6e1d54c00577d05a6c73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nCybozu User Festival のエバ枠で登壇させていただきまして、グラフについての説明をさせていただきました。\n\nその中で、もうちょっと詳しく説明欲しいってことだったので、まず…",
+          "link": "https://qiita.com/j-kume/items/6e1d54c00577d05a6c73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T08:03:13.000Z",
+          "wordCount": 292,
+          "title": "kintoneの一覧画面をダッシュボード的にしてしまう"
         },
         {
           "id": "https://qiita.com/s_oshima/items/6c688e3a67abbf6114e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -855,6 +1018,15 @@
           "publishedOn": "2021-07-19T10:40:19.000Z",
           "wordCount": 379,
           "title": "4Stepで変わる!!劇的にGitHub操作ができるようになったTips"
+        },
+        {
+          "id": "https://qiita.com/jh1vxw/items/aa4530e84049bd80a1c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nPowerDNSを用いて、物理的、地理的に冗長化された権威DNSサーバの構築例を紹介します。本稿では「さくらのクラウド」上に構築していますが、同等の構成をとれる環境では同じ設定が可能かと…",
+          "link": "https://qiita.com/jh1vxw/items/aa4530e84049bd80a1c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-19T10:01:53.000Z",
+          "wordCount": 1073,
+          "title": "PowerDNSを用いて冗長化された権威DNSサーバを構築する(さくらのクラウド編)"
         },
         {
           "id": "https://qiita.com/kubotak/items/7ea8076372636d0773bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
