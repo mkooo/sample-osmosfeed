@@ -2,10 +2,187 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T01:06:07.605Z</updated>
+    <updated>2021-07-23T01:05:15.952Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DNS障害 Akamai「復旧済み」]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399457?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399457?source=rss"/>
+        <updated>2021-07-22T17:27:58.000Z</updated>
+        <summary type="html"><![CDATA[日本時間23日午前1時頃より、多くのWebサーバーでDNSエラーが発生している。米Akamaiが「Edge DNS」サービスの障害をアナウンスしていたが、修正プログラムの実施によりサービスが通常通り再開されたという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSiv3D(Windows)で自前のウィンドウプロシージャを使用する]]></title>
+        <id>https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T14:01:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+OpenSiv3Dでウィンドウプロシージャを使用したい場面にであったのですが
+裏で呼ばれているウィンドウプロシージャは隠蔽されていて、ユーザーコード側で触れないので
+このあたりの対処法を…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数GPUで学習するときのDP(Data Parallel)とDDP(Distributed Data Parallel)の違い]]></title>
+        <id>https://qiita.com/fam_taro/items/df6061b589c3ccf86089?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/fam_taro/items/df6061b589c3ccf86089?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T13:08:45.000Z</updated>
+        <summary type="html"><![CDATA[PyTorch とかで複数GPUを使って学習する場合に DP と DDP って何が違うのか毎回調べてたのでまとめました。
+
+本記事は下記記事やドキュメントをさらに噛み砕いたものとなっています。
+特に一…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker で entrypoint.sh がうまく動かなかった件]]></title>
+        <id>https://qiita.com/hoto17296/items/76dab0bf0dfa63751ec4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hoto17296/items/76dab0bf0dfa63751ec4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T10:56:11.000Z</updated>
+        <summary type="html"><![CDATA[しょーもないことでハマってしまったのでお焚き上げ。
+
+ハマったこと
+
+FROM debian
+
+ADD entrypoint.sh /
+RUN chmod +x /entrypoint.sh
+
+ENTRYP…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Query でテーブルを集計したいが遅かった。それには理由がある。だから、できることを考える。]]></title>
+        <id>https://qiita.com/PowerBIxyz/items/ca87e0b6482450338e9f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/PowerBIxyz/items/ca87e0b6482450338e9f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T09:15:14.000Z</updated>
+        <summary type="html"><![CDATA[集計する前やその後に必要な処理があったりするわけで、Power Query で集計処理をしなければならないこともあるいうことだ。なら、可能な限り集計処理も素早く終えるような工夫が必要だ。
+
+Excel…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織委 情報流出問題巡り説明]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399425?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399425?source=rss"/>
+        <updated>2021-07-22T09:04:11.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれてネット上に流出していた件で大会組織委は、「組織委システムからの流出でないことを確認しております」と説明。被害が確認されているのは約10人という。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19の陽性者数とbar_chart_race 備忘録]]></title>
+        <id>https://qiita.com/Ihmon/items/d19d26b01703cfe623bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Ihmon/items/d19d26b01703cfe623bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T07:45:33.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+以前もブログでも使用したKaggleの国内陽性者数統計値を使用して、今回はbar_chart_raceで表示してみる。
+
+
+実施時期: 2021年7月
+OS: Ubuntu20.04LTS
+Py…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グラビア⇒グ〇ビア、みたいにpythonで禁止ワード/NGワードを置換/隠す]]></title>
+        <id>https://qiita.com/eg_i_eg/items/f102c9f7533188ce780a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/eg_i_eg/items/f102c9f7533188ce780a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T06:37:46.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+タイトルの通り、禁止ワードを置換する方法を説明します。
+
+例えば、
+グラビア⇒グ〇ビア
+のように、NGワード2文字目を置換します。
+
+NGワードの準備
+
+NGワードをかき集めたNG_word.…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROS2でUnity上のTurtleBot3を動かそう！]]></title>
+        <id>https://qiita.com/kanetugu2018/items/26170fab17c74635ea91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kanetugu2018/items/26170fab17c74635ea91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T04:22:19.000Z</updated>
+        <summary type="html"><![CDATA[UnityがROS2対応した！
+
+先週(7/12)，UnityのROS対応用の github が大型アップデートがありました～．
+
+https://github.com/Unity-Technolog…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Cython】C++並みに速いAtCoderのPython高速化]]></title>
+        <id>https://qiita.com/Chippppp/items/d20303f79342cb9c2423?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Chippppp/items/d20303f79342cb9c2423?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T03:19:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Pythonは競技プログラミングでは遅くていじられがちですが、高速化手段が豊富なため決して競プロでは不利ではありません。
+
+そのうち、Cythonは最も競プロ向きな高速化方法だと思います。
+
+あまり普及していませんが、コンテスト中に役立つことが多い上に、C++に移行する場合もC++の入門になるのでぜひ習得しましょう…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロから作るDeep Learning② word2vecコードで謎だった場所（その2）]]></title>
+        <id>https://qiita.com/lukapla/items/4af2f460a7ace9e564a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/lukapla/items/4af2f460a7ace9e564a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T03:04:53.000Z</updated>
+        <summary type="html"><![CDATA[謎だった場所
+
+class CBOWの最後のW_in自体がword2vecで作成される単語の分散表現であるために、学習が進むごとに変化する値のはずだが、最後にいきなりself.word_vecsに代入…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIMロック原則禁止 与える影響]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399394?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399394?source=rss"/>
+        <updated>2021-07-22T02:35:31.000Z</updated>
+        <summary type="html"><![CDATA[総務省は現在進めている有識者会議で、SIMロックを原則禁止とする方針を打ち出している。そもそもなぜSIMロックが存在し、問題視されてきたのか。SIMロックが原則禁止となることで、市場にはどのような影響が出るのだろうか。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubhouse 入会時の招待制終了]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399396?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399396?source=rss"/>
+        <updated>2021-07-22T02:04:25.000Z</updated>
+        <summary type="html"><![CDATA[ソーシャル音声プラットフォームの「Clubhouse」を運営する米Alpha Explorationは21日（現地時間）、これまでClubhouseへの入会に必要だった招待制を終了すると発表した。順番待ちの約1000万人が段階的に入会できる見込み。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[連休中に無料ゲームで楽しくプログラミング学習！【STEINS;GATEコラボ公開直前】]]></title>
         <id>hatenablog://entry/26006613787463853</id>
@@ -47,6 +224,56 @@ Pythonの解答コード例…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS Certified Solutions Architect - Professional合格体験記]]></title>
+        <id>https://qiita.com/kosuke_doi/items/0229ae98ddeb271b69ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kosuke_doi/items/0229ae98ddeb271b69ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T23:47:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ARIの新卒2年目土井と申します。
+2021年7月21日にAWS Certified Solutions Architect - Professionalを受験し合格したので簡単に体験記を…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mkdocs-git-revision-date-plugin で MkDocs のページに更新日を表示する]]></title>
+        <id>https://qiita.com/hitsumabushi845/items/b4af60766a8852b08964?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hitsumabushi845/items/b4af60766a8852b08964?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T21:51:06.000Z</updated>
+        <summary type="html"><![CDATA[MkDocs は Python のプラグインを利用することで様々な拡張ができます。
+この記事では、mkdocs-git-revision-date-plugin を使って、Git のコミット日をドキ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu20.04にPostgreSQL & PostGISのインストール]]></title>
+        <id>https://qiita.com/smiler5617/items/753c2483331d4285c1c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/smiler5617/items/753c2483331d4285c1c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T17:39:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+QGISのqwc2を使ったWeb公開を色々と試しているのだが、ローカルで作成したQGISプロジェクトをサーバーにアップロードさせる際、サーバー自体はGCP上に構築しているため、プロジェク…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニア夫婦が自分たちの結婚式用にプロフィールサイトとウェブアプリを作った話]]></title>
+        <id>https://qiita.com/danishi/items/6f0f2b3052bb1a841d11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/danishi/items/6f0f2b3052bb1a841d11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T15:50:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+私事ですが今年の6/27に結婚式を挙げました。
+
+私も奥さんもエンジニアなので何か二人らしいおもてなしができないかと思い、よくある席次表プロフィール代わりのプロフィールサイトと披露宴のレク…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[五輪関係の情報、数百件流出か]]></title>
         <id>https://news.yahoo.co.jp/pickup/6399375?source=rss</id>
         <link href="https://news.yahoo.co.jp/pickup/6399375?source=rss"/>
@@ -57,6 +284,18 @@ Pythonの解答コード例…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Postman で「エンジニア・プログラマにしか使えないSNS」をビジュアライズすると楽しかった話]]></title>
+        <id>https://qiita.com/mimonelu/items/95fe497f910082c85809?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/mimonelu/items/95fe497f910082c85809?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T14:53:37.000Z</updated>
+        <summary type="html"><![CDATA[@HawkClaws さんの エンジニア・プログラマにしか使えないSNS （ versatileapi ）の API を Postman から使ってみました。
+
+実は Postman に触るのは初め…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コロナ禍 ネット通信量が2倍に]]></title>
         <id>https://news.yahoo.co.jp/pickup/6399367?source=rss</id>
         <link href="https://news.yahoo.co.jp/pickup/6399367?source=rss"/>
@@ -64,6 +303,78 @@ Pythonの解答コード例…]]></summary>
         <summary type="html"><![CDATA[国内の固定通信で利用されるインターネットのデータ通信量が、コロナ禍前の2年前と比べて約2倍になった。総務省の推計でわかった。テレワークの普及や動画配信サービスの利用増が影響しているとみられる。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route53を使ってACM+CloudFront+S3で構築した SorryページへDNSフェイルオーバーを設定する。]]></title>
+        <id>https://qiita.com/takasho9321/items/18f2d1acd6294af3fc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/takasho9321/items/18f2d1acd6294af3fc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T13:24:31.000Z</updated>
+        <summary type="html"><![CDATA[今回はACM+CloudFront+S3で構築したSorryページにRoute53を使ってDNSフェイルオーバーを設定する手順を説明します。
+
+前提条件
+
+
+Windows10を使用。
+PCはDELLを使…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新卒１年目がAWS認定SAAに１ヵ月で一発合格した話]]></title>
+        <id>https://qiita.com/Mikoto_Hashimoto/items/3125577b6edd66929041?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Mikoto_Hashimoto/items/3125577b6edd66929041?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T12:30:20.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+
+この度AWS認定ソリューションアーキテクトアソシエイトに１ヵ月の勉強期間で一発合格することができました！
+スコアは795点でした。（800点は行きたかった。。。）
+
+私はこの春から新卒でI…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia言語の実行環境をお手軽に構築する]]></title>
+        <id>https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T09:46:08.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+
+良い良いと噂のJuliaの実行環境を作ってみました
+最速で動作環境を作るということを目標に、Dockerを使って超お手軽に実行環境を構築します（最適化とかはまだ何も考えてない）
+まだ環境を作…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真から人間の３Ｄモデルを出力できたら、イラストに活用できるよねという話。- SMPL -]]></title>
+        <id>https://qiita.com/akaiteto/items/b5c8c3d5eb5ca3849c5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/akaiteto/items/b5c8c3d5eb5ca3849c5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T08:51:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+近頃、人間の姿勢推定に興味をもっています。
+姿勢推定というと個人的にはカメラの姿勢推定を連想します。
+しかしそうではなく、ここで言う姿勢推定とは
+写真などの何かしらの媒体から、人の姿勢を…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヒカキンのフェイク動画作ってみた]]></title>
+        <id>https://qiita.com/omuram/items/e540e319c235746c7e04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/omuram/items/e540e319c235746c7e04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-21T08:43:59.000Z</updated>
+        <summary type="html"><![CDATA[DeepFake関連の研究に興味があり現状どれくらいの動画が作れるのか気になったので、研究の一環として簡単なフェイク動画を作ってみました。
+細かい手作業の編集や面倒なアノテーションは一切やらずにほぼ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -370,6 +681,35 @@ Cybozu User Festival のエバ枠で登壇させていただきまして、グ�
 本記事は個人的な見解であり、筆者の所属するいかなる団体にも関係ございません。
 環境：Windows10
 VScodeターミ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pyATSを触るためにCMLでtestbedファイルを用意してみた]]></title>
+        <id>https://qiita.com/HMASAYUKI/items/6f3a98893ee7710ddcb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/HMASAYUKI/items/6f3a98893ee7710ddcb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-20T06:24:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+pyATSとはCiscoが無償で提供しているマルチベンダー対応のテストフレームワークです。
+pyATSでCMLに建てた機器にConnectするまでを触ってみました。
+testbedファイ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityで音ゲーを作った！！(アルゴリズムとソース付き)]]></title>
+        <id>https://qiita.com/tsg4gf/items/64ca86bfe8d7c13739f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tsg4gf/items/64ca86bfe8d7c13739f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-20T05:02:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+音ゲーを作ろうとした時に調べても具体的なソースコードやアルゴリズムに関する記事が無かったので、自己解決した方法を載せます。
+分からないことがあったり、間違いがあればコメントお願いします。
+
+手…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -5780,57 +6120,6 @@ ITエンジニア系は昨年1月と比べると7.0ポイントも増加して�
 特にIT業界・ITエンジニアに魅力を感じる人…]]></summary>
         <author>
             <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USBに挿すだけ！Linuxで動く「M5Stack UnitV2」AIカメラの実力を試してみた！]]></title>
-        <id>hatenablog://entry/26006613779044652</id>
-        <link href="https://paiza.hatenablog.com/entry/2021/06/23/150000"/>
-        <updated>2021-06-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
-今回は、親指サイズの超小型ボディにLinuxを搭載し、さらにAI開発エディタやカメラなども詰め込んだ強力なカメラモジュールをご紹介します。
-手持ちのパソコンにあるUSBに挿すだけですぐに起動し、専用の開発エディタを使ってAIカメラを試したりトレーニングをしたりなどが簡単にできるのが特徴です。
-さらに顔認識、オブジェクト分類、トラッキング、カラー検出…など10種類以上の機能がすぐに利用できるうえ、Jupyter Notebookでモジュールを制御できるので便利です。
-AIを活用したい人やIoT開発に興味がある人も含めて、ぜひ参考にしてみてください！
-■「M5Stack UnitV2 AI カメラ」とは
-モニターやセンサー類などが全部入りの小型マイコンモジュール「M5Stack」シリーズで知られる中国のスタートアップ企業をご存知でしょうか。
-同社が新しく2021年に発売したのが今回ご紹介する「M5Stack UnitV2」と呼ばれるAIカメラモジュールです。非常に小さな本体なのにAI開発に必要なツールをぎっしり詰め込んでいるのが印象的です。
-
-パッケージを開けてみると、本体とは別にスタンドパーツ、microSDカード(16GB)、USBケーブルなどが同梱されています。
-
-とりあえず使ってみたいという方であれば、別途なにかを買い足さなくてもすぐに使えるので便利でしょう。
-
-本体の大まかな構成は以下のようになります。
-
-この小さなボディにマイクやGrove互換コネクタまで搭載されているのは助かります。
-
-現時点ですぐに試せるAIカメラの機能としては次のようなものがあります。
-対象物の認識＆カスタムトレーニング
-顔認識＆検出、トレーニングによる顔認識
-対象物の自動トラッキング
-形状認識＆マッチング＆面積の自動計算
-カラー検出＆トラッキング…]]></summary>
-        <author>
-            <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
-
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>

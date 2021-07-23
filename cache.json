@@ -4,23 +4,49 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 370,
-          "title": "v1.11.0"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Yahoo!ニュース・トピックス - IT",
       "feedUrl": "https://news.yahoo.co.jp/rss/topics/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399457?source=rss",
+          "author": null,
+          "description": "日本時間23日午前1時頃より、多くのWebサーバーでDNSエラーが発生している。米Akamaiが「Edge DNS」サービスの障害をアナウンスしていたが、修正プログラムの実施によりサービスが通常通り再開されたという。",
+          "link": "https://news.yahoo.co.jp/pickup/6399457?source=rss",
+          "publishedOn": "2021-07-22T17:27:58.000Z",
+          "wordCount": 71,
+          "title": "DNS障害 Akamai「復旧済み」"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399425?source=rss",
+          "author": null,
+          "description": "東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれてネット上に流出していた件で大会組織委は、「組織委システムからの流出でないことを確認しております」と説明。被害が確認されているのは約10人という。",
+          "link": "https://news.yahoo.co.jp/pickup/6399425?source=rss",
+          "publishedOn": "2021-07-22T09:04:11.000Z",
+          "wordCount": 68,
+          "title": "組織委 情報流出問題巡り説明"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399394?source=rss",
+          "author": null,
+          "description": "総務省は現在進めている有識者会議で、SIMロックを原則禁止とする方針を打ち出している。そもそもなぜSIMロックが存在し、問題視されてきたのか。SIMロックが原則禁止となることで、市場にはどのような影響が出るのだろうか。",
+          "link": "https://news.yahoo.co.jp/pickup/6399394?source=rss",
+          "publishedOn": "2021-07-22T02:35:31.000Z",
+          "wordCount": 69,
+          "title": "SIMロック原則禁止 与える影響"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399396?source=rss",
+          "author": null,
+          "description": "ソーシャル音声プラットフォームの「Clubhouse」を運営する米Alpha Explorationは21日（現地時間）、これまでClubhouseへの入会に必要だった招待制を終了すると発表した。順番待ちの約1000万人が段階的に入会できる見込み。",
+          "link": "https://news.yahoo.co.jp/pickup/6399396?source=rss",
+          "publishedOn": "2021-07-22T02:04:25.000Z",
+          "wordCount": 69,
+          "title": "Clubhouse 入会時の招待制終了"
+        },
         {
           "id": "https://news.yahoo.co.jp/pickup/6399375?source=rss",
           "author": null,
@@ -727,20 +753,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613779044652",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回は、親指サイズの超小型ボディにLinuxを搭載し、さらにAI開発エディタやカメラなども詰め込んだ強力なカメラモジュールをご紹介します。\n手持ちのパソコンにあるUSBに挿すだけですぐに起動し、専用の開発エディタを使ってAIカメラを試したりトレーニングをしたりなどが簡単にできるのが特徴です。\nさらに顔認識、オブジェクト分類、トラッキング、カラー検出…など10種類以上の機能がすぐに利用できるうえ、Jupyter Notebookでモジュールを制御できるので便利です。\nAIを活用したい人やIoT開発に興味がある人も含めて、ぜひ参考にしてみてください！\n■「M5Stack UnitV2 AI カメラ」とは\nモニターやセンサー類などが全部入りの小型マイコンモジュール「M5Stack」シリーズで知られる中国のスタートアップ企業をご存知でしょうか。\n同社が新しく2021年に発売したのが今回ご紹介する「M5Stack UnitV2」と呼ばれるAIカメラモジュールです。非常に小さな本体なのにAI開発に必要なツールをぎっしり詰め込んでいるのが印象的です。\n\nパッケージを開けてみると、本体とは別にスタンドパーツ、microSDカード(16GB)、USBケーブルなどが同梱されています。\n\nとりあえず使ってみたいという方であれば、別途なにかを買い足さなくてもすぐに使えるので便利でしょう。\n\n本体の大まかな構成は以下のようになります。\n\nこの小さなボディにマイクやGrove互換コネクタまで搭載されているのは助かります。\n\n現時点ですぐに試せるAIカメラの機能としては次のようなものがあります。\n対象物の認識＆カスタムトレーニング\n顔認識＆検出、トレーニングによる顔認識\n対象物の自動トラッキング\n形状認識＆マッチング＆面積の自動計算\nカラー検出＆トラッキング…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/23/150000",
-          "publishedOn": "2021-06-23T06:00:00.000Z",
-          "wordCount": 308,
-          "title": "USBに挿すだけ！Linuxで動く「M5Stack UnitV2」AIカメラの実力を試してみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210623/20210623131339.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -749,6 +761,177 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nOpenSiv3Dでウィンドウプロシージャを使用したい場面にであったのですが\n裏で呼ばれているウィンドウプロシージャは隠蔽されていて、ユーザーコード側で触れないので\nこのあたりの対処法を…",
+          "link": "https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T14:01:37.000Z",
+          "wordCount": 571,
+          "title": "OpenSiv3D(Windows)で自前のウィンドウプロシージャを使用する"
+        },
+        {
+          "id": "https://qiita.com/fam_taro/items/df6061b589c3ccf86089?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PyTorch とかで複数GPUを使って学習する場合に DP と DDP って何が違うのか毎回調べてたのでまとめました。\n\n本記事は下記記事やドキュメントをさらに噛み砕いたものとなっています。\n特に一…",
+          "link": "https://qiita.com/fam_taro/items/df6061b589c3ccf86089?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T13:08:45.000Z",
+          "wordCount": 599,
+          "title": "複数GPUで学習するときのDP(Data Parallel)とDDP(Distributed Data Parallel)の違い"
+        },
+        {
+          "id": "https://qiita.com/hoto17296/items/76dab0bf0dfa63751ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "しょーもないことでハマってしまったのでお焚き上げ。\n\nハマったこと\n\nFROM debian\n\nADD entrypoint.sh /\nRUN chmod +x /entrypoint.sh\n\nENTRYP…",
+          "link": "https://qiita.com/hoto17296/items/76dab0bf0dfa63751ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T10:56:11.000Z",
+          "wordCount": 422,
+          "title": "Docker で entrypoint.sh がうまく動かなかった件"
+        },
+        {
+          "id": "https://qiita.com/PowerBIxyz/items/ca87e0b6482450338e9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "集計する前やその後に必要な処理があったりするわけで、Power Query で集計処理をしなければならないこともあるいうことだ。なら、可能な限り集計処理も素早く終えるような工夫が必要だ。\n\nExcel…",
+          "link": "https://qiita.com/PowerBIxyz/items/ca87e0b6482450338e9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T09:15:14.000Z",
+          "wordCount": 610,
+          "title": "Power Query でテーブルを集計したいが遅かった。それには理由がある。だから、できることを考える。"
+        },
+        {
+          "id": "https://qiita.com/Ihmon/items/d19d26b01703cfe623bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n以前もブログでも使用したKaggleの国内陽性者数統計値を使用して、今回はbar_chart_raceで表示してみる。\n\n\n実施時期: 2021年7月\nOS: Ubuntu20.04LTS\nPy…",
+          "link": "https://qiita.com/Ihmon/items/d19d26b01703cfe623bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T07:45:33.000Z",
+          "wordCount": 552,
+          "title": "Covid-19の陽性者数とbar_chart_race 備忘録"
+        },
+        {
+          "id": "https://qiita.com/eg_i_eg/items/f102c9f7533188ce780a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nタイトルの通り、禁止ワードを置換する方法を説明します。\n\n例えば、\nグラビア⇒グ〇ビア\nのように、NGワード2文字目を置換します。\n\nNGワードの準備\n\nNGワードをかき集めたNG_word.…",
+          "link": "https://qiita.com/eg_i_eg/items/f102c9f7533188ce780a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T06:37:46.000Z",
+          "wordCount": 371,
+          "title": "グラビア⇒グ〇ビア、みたいにpythonで禁止ワード/NGワードを置換/隠す"
+        },
+        {
+          "id": "https://qiita.com/kanetugu2018/items/26170fab17c74635ea91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "UnityがROS2対応した！\n\n先週(7/12)，UnityのROS対応用の github が大型アップデートがありました～．\n\nhttps://github.com/Unity-Technolog…",
+          "link": "https://qiita.com/kanetugu2018/items/26170fab17c74635ea91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T04:22:19.000Z",
+          "wordCount": 627,
+          "title": "ROS2でUnity上のTurtleBot3を動かそう！"
+        },
+        {
+          "id": "https://qiita.com/Chippppp/items/d20303f79342cb9c2423?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nPythonは競技プログラミングでは遅くていじられがちですが、高速化手段が豊富なため決して競プロでは不利ではありません。\n\nそのうち、Cythonは最も競プロ向きな高速化方法だと思います。\n\nあまり普及していませんが、コンテスト中に役立つことが多い上に、C++に移行する場合もC++の入門になるのでぜひ習得しましょう…",
+          "link": "https://qiita.com/Chippppp/items/d20303f79342cb9c2423?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T03:19:06.000Z",
+          "wordCount": 925,
+          "title": "【Cython】C++並みに速いAtCoderのPython高速化"
+        },
+        {
+          "id": "https://qiita.com/lukapla/items/4af2f460a7ace9e564a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "謎だった場所\n\nclass CBOWの最後のW_in自体がword2vecで作成される単語の分散表現であるために、学習が進むごとに変化する値のはずだが、最後にいきなりself.word_vecsに代入…",
+          "link": "https://qiita.com/lukapla/items/4af2f460a7ace9e564a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T03:04:53.000Z",
+          "wordCount": 453,
+          "title": "ゼロから作るDeep Learning② word2vecコードで謎だった場所（その2）"
+        },
+        {
+          "id": "https://qiita.com/kosuke_doi/items/0229ae98ddeb271b69ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nARIの新卒2年目土井と申します。\n2021年7月21日にAWS Certified Solutions Architect - Professionalを受験し合格したので簡単に体験記を…",
+          "link": "https://qiita.com/kosuke_doi/items/0229ae98ddeb271b69ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T23:47:03.000Z",
+          "wordCount": 382,
+          "title": "AWS Certified Solutions Architect - Professional合格体験記"
+        },
+        {
+          "id": "https://qiita.com/hitsumabushi845/items/b4af60766a8852b08964?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "MkDocs は Python のプラグインを利用することで様々な拡張ができます。\nこの記事では、mkdocs-git-revision-date-plugin を使って、Git のコミット日をドキ…",
+          "link": "https://qiita.com/hitsumabushi845/items/b4af60766a8852b08964?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T21:51:06.000Z",
+          "wordCount": 446,
+          "title": "mkdocs-git-revision-date-plugin で MkDocs のページに更新日を表示する"
+        },
+        {
+          "id": "https://qiita.com/smiler5617/items/753c2483331d4285c1c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nQGISのqwc2を使ったWeb公開を色々と試しているのだが、ローカルで作成したQGISプロジェクトをサーバーにアップロードさせる際、サーバー自体はGCP上に構築しているため、プロジェク…",
+          "link": "https://qiita.com/smiler5617/items/753c2483331d4285c1c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T17:39:56.000Z",
+          "wordCount": 932,
+          "title": "Ubuntu20.04にPostgreSQL & PostGISのインストール"
+        },
+        {
+          "id": "https://qiita.com/danishi/items/6f0f2b3052bb1a841d11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n私事ですが今年の6/27に結婚式を挙げました。\n\n私も奥さんもエンジニアなので何か二人らしいおもてなしができないかと思い、よくある席次表プロフィール代わりのプロフィールサイトと披露宴のレク…",
+          "link": "https://qiita.com/danishi/items/6f0f2b3052bb1a841d11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T15:50:13.000Z",
+          "wordCount": 399,
+          "title": "エンジニア夫婦が自分たちの結婚式用にプロフィールサイトとウェブアプリを作った話"
+        },
+        {
+          "id": "https://qiita.com/mimonelu/items/95fe497f910082c85809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "@HawkClaws さんの エンジニア・プログラマにしか使えないSNS （ versatileapi ）の API を Postman から使ってみました。\n\n実は Postman に触るのは初め…",
+          "link": "https://qiita.com/mimonelu/items/95fe497f910082c85809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T14:53:37.000Z",
+          "wordCount": 462,
+          "title": "Postman で「エンジニア・プログラマにしか使えないSNS」をビジュアライズすると楽しかった話"
+        },
+        {
+          "id": "https://qiita.com/takasho9321/items/18f2d1acd6294af3fc77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今回はACM+CloudFront+S3で構築したSorryページにRoute53を使ってDNSフェイルオーバーを設定する手順を説明します。\n\n前提条件\n\n\nWindows10を使用。\nPCはDELLを使…",
+          "link": "https://qiita.com/takasho9321/items/18f2d1acd6294af3fc77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T13:24:31.000Z",
+          "wordCount": 457,
+          "title": "Route53を使ってACM+CloudFront+S3で構築した SorryページへDNSフェイルオーバーを設定する。"
+        },
+        {
+          "id": "https://qiita.com/Mikoto_Hashimoto/items/3125577b6edd66929041?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まえがき\n\nこの度AWS認定ソリューションアーキテクトアソシエイトに１ヵ月の勉強期間で一発合格することができました！\nスコアは795点でした。（800点は行きたかった。。。）\n\n私はこの春から新卒でI…",
+          "link": "https://qiita.com/Mikoto_Hashimoto/items/3125577b6edd66929041?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T12:30:20.000Z",
+          "wordCount": 327,
+          "title": "新卒１年目がAWS認定SAAに１ヵ月で一発合格した話"
+        },
+        {
+          "id": "https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\n良い良いと噂のJuliaの実行環境を作ってみました\n最速で動作環境を作るということを目標に、Dockerを使って超お手軽に実行環境を構築します（最適化とかはまだ何も考えてない）\nまだ環境を作…",
+          "link": "https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T09:46:08.000Z",
+          "wordCount": 359,
+          "title": "Julia言語の実行環境をお手軽に構築する"
+        },
+        {
+          "id": "https://qiita.com/akaiteto/items/b5c8c3d5eb5ca3849c5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n近頃、人間の姿勢推定に興味をもっています。\n姿勢推定というと個人的にはカメラの姿勢推定を連想します。\nしかしそうではなく、ここで言う姿勢推定とは\n写真などの何かしらの媒体から、人の姿勢を…",
+          "link": "https://qiita.com/akaiteto/items/b5c8c3d5eb5ca3849c5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T08:51:36.000Z",
+          "wordCount": 413,
+          "title": "写真から人間の３Ｄモデルを出力できたら、イラストに活用できるよねという話。- SMPL -"
+        },
+        {
+          "id": "https://qiita.com/omuram/items/e540e319c235746c7e04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "DeepFake関連の研究に興味があり現状どれくらいの動画が作れるのか気になったので、研究の一環として簡単なフェイク動画を作ってみました。\n細かい手作業の編集や面倒なアノテーションは一切やらずにほぼ…",
+          "link": "https://qiita.com/omuram/items/e540e319c235746c7e04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T08:43:59.000Z",
+          "wordCount": 467,
+          "title": "ヒカキンのフェイク動画作ってみた"
+        },
         {
           "id": "https://qiita.com/kai-utsunomiya/items/55bff354aaa15c4a58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -892,6 +1075,24 @@
           "publishedOn": "2021-07-20T07:09:45.000Z",
           "wordCount": 511,
           "title": "VScodeをGitLabと連携する"
+        },
+        {
+          "id": "https://qiita.com/HMASAYUKI/items/6f3a98893ee7710ddcb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\npyATSとはCiscoが無償で提供しているマルチベンダー対応のテストフレームワークです。\npyATSでCMLに建てた機器にConnectするまでを触ってみました。\ntestbedファイ…",
+          "link": "https://qiita.com/HMASAYUKI/items/6f3a98893ee7710ddcb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T06:24:50.000Z",
+          "wordCount": 759,
+          "title": "pyATSを触るためにCMLでtestbedファイルを用意してみた"
+        },
+        {
+          "id": "https://qiita.com/tsg4gf/items/64ca86bfe8d7c13739f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n音ゲーを作ろうとした時に調べても具体的なソースコードやアルゴリズムに関する記事が無かったので、自己解決した方法を載せます。\n分からないことがあったり、間違いがあればコメントお願いします。\n\n手…",
+          "link": "https://qiita.com/tsg4gf/items/64ca86bfe8d7c13739f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-20T05:02:30.000Z",
+          "wordCount": 760,
+          "title": "Unityで音ゲーを作った！！(アルゴリズムとソース付き)"
         },
         {
           "id": "https://qiita.com/suin/items/daa162d3c673a8cbe03f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
