@@ -12,6 +12,42 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6399563?source=rss",
+          "author": null,
+          "description": "東京五輪の開会式が23日、無観客の新国立競技場で開催された。国内のSNS上で話題を集めたのは「選手入場のBGMにドラクエなどのゲーム音楽使用」、「ピクトグラム紹介の抱腹パントマイム」、「夜空を飾った1824個のドローン」など。",
+          "link": "https://news.yahoo.co.jp/pickup/6399563?source=rss",
+          "publishedOn": "2021-07-24T00:34:55.000Z",
+          "wordCount": 75,
+          "title": "開会式の話題で沸騰 ネット賛否"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399560?source=rss",
+          "author": null,
+          "description": "JOCは日本選手団の行動ルールで、開会式の入場行進時のスマートフォンやカメラの使用を禁じた。だが実際は多くの選手がスマホを手に楽しげに記念撮影したり、視線を下に落としたりしながら歩いた。",
+          "link": "https://news.yahoo.co.jp/pickup/6399560?source=rss",
+          "publishedOn": "2021-07-23T23:35:02.000Z",
+          "wordCount": 69,
+          "title": "開会式スマホNG日本選手守らず"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399538?source=rss",
+          "author": null,
+          "description": "東京五輪の開会式が23日、国立競技場で行われ、各国の選手たちが入場。その模様に日本中が沸くなか、国名を記したプラカードのデザインにも注目が集まった。SNS上では「漫画の吹き出しみたい」「なんかシュール。でも好きw」などの声。",
+          "link": "https://news.yahoo.co.jp/pickup/6399538?source=rss",
+          "publishedOn": "2021-07-23T13:21:09.000Z",
+          "wordCount": 69,
+          "title": "各国のプラカードにネット反響"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399495?source=rss",
+          "author": null,
+          "description": "米ツイッターの4－6月（第2四半期）決算は、売上高がアナリスト予想を上回った。第2四半期の売上高は前年同期比74%増の11億9000万ドル。",
+          "link": "https://news.yahoo.co.jp/pickup/6399495?source=rss",
+          "publishedOn": "2021-07-23T05:47:01.000Z",
+          "wordCount": 68,
+          "title": "Twitter売上高 4-6月は74%増"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399457?source=rss",
           "author": null,
           "description": "日本時間23日午前1時頃より、多くのWebサーバーでDNSエラーが発生している。米Akamaiが「Edge DNS」サービスの障害をアナウンスしていたが、修正プログラムの実施によりサービスが通常通り再開されたという。",
@@ -762,6 +798,159 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/nisshan_/items/88c60049e31a82f6e366?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "MagikEye\n\n\n\n先日国内発売されたMagikEye ILT開発キット（DK-ILT001）を入手したので、動かすまでの手順をメモとして共有します。\n\n環境\n\n\n\nなぜMagikeye？\n\n\n小さいので、ロボ…",
+          "link": "https://qiita.com/nisshan_/items/88c60049e31a82f6e366?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T13:44:23.000Z",
+          "wordCount": 434,
+          "title": "MagikEyeをROS1で動かすまで"
+        },
+        {
+          "id": "https://qiita.com/yasu-graz/items/2fd1da10d3cd372ff64b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこちらはスッキリわかるSQL入門をまとめた記事となります。\n今回は「テーブルの作成」についてです。\nプログラミング初学者向けの内容となっていますので、お気づきの点があれば、コメントの方を…",
+          "link": "https://qiita.com/yasu-graz/items/2fd1da10d3cd372ff64b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T12:17:41.000Z",
+          "wordCount": 615,
+          "title": "[SQL]SQL入門　- テーブルの作成 -"
+        },
+        {
+          "id": "https://qiita.com/akihiro-cmd/items/5c702789cac62dbcd39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nSQLの勉強会の発表が今回で最後になります。\n今回は書籍の「さまざまな支援機能」についてまとめます。\nこの章ではデータベースをより早く、便利に、安全に使うためにそのような機能があるのか学…",
+          "link": "https://qiita.com/akihiro-cmd/items/5c702789cac62dbcd39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T12:04:34.000Z",
+          "wordCount": 475,
+          "title": "SQLのまとめ③(インデックスについて)"
+        },
+        {
+          "id": "https://qiita.com/yamad365/items/3c63ce41b4c93267389f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事はコミュニティで質問するときのコツやマインドセットを当方の意見として紹介したものです。ここに書かれていることは「こころがけ」「ヒント」「助言」にすぎません。法律のようにこれを守る必要もありま…",
+          "link": "https://qiita.com/yamad365/items/3c63ce41b4c93267389f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T09:39:47.000Z",
+          "wordCount": 473,
+          "title": "コミュニティ等で質問する際に覚えておいてほしいこと"
+        },
+        {
+          "id": "https://qiita.com/kin292929/items/92aa0f6f5e1fbca553ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今朝起きたらブラックリスト追加通知がきてた\n\n(-ω-).。ｽﾔｧ\n\nΣ(oωo) {ﾋﾟﾛﾝｯ}\n\n(-ω-) {　なんや・・・普段なることがないラインに通知がきとる・・・　）\n\n(’ω’)！！ {　「…",
+          "link": "https://qiita.com/kin292929/items/92aa0f6f5e1fbca553ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T06:41:56.000Z",
+          "wordCount": 644,
+          "title": "サイト攻撃されてたけど、対策しててよかった話"
+        },
+        {
+          "id": "https://qiita.com/Eternal_door/items/7c076f81035432ddd451?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Progateを一通り終えたら次はpaizaだ！\n\nそんな声を聞いたのでやり始めた去年の夏。\nDランクですら回答がままならないのに凹んでた学習中の私。\n色々躓きまくったが、ロジック力やデバック力やグ…",
+          "link": "https://qiita.com/Eternal_door/items/7c076f81035432ddd451?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T06:02:21.000Z",
+          "wordCount": 603,
+          "title": "paizaで個人的にお世話になった記法【Python編】"
+        },
+        {
+          "id": "https://qiita.com/irgaly/items/d1194a4f72a835e79653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "デバッグ用署名とリリース用署名を生成するコマンドまとめ。\n\nkeytool バージョン\n\nkeytool は JDK のバージョンに依存します。\nこの記事では AdoptOpenJDK 16.0.1 で…",
+          "link": "https://qiita.com/irgaly/items/d1194a4f72a835e79653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T05:47:54.000Z",
+          "wordCount": 532,
+          "title": "Android: Debug Keystore と Release Keystore をコマンドから生成する"
+        },
+        {
+          "id": "https://qiita.com/slave/items/5e06bc8c8eb2b766c0e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "書きかけです。時間ないので、駄文を撒き散らしていきます。\n\nPythonには大変お世話になっております。\n\nPythonは科学計算が得意で、データ解析もできる。独りな孤独な人間なので、Pythonはなく…",
+          "link": "https://qiita.com/slave/items/5e06bc8c8eb2b766c0e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T02:52:56.000Z",
+          "wordCount": 348,
+          "title": "Pythonの高速化技術。JavaScript,C++にも負けてない"
+        },
+        {
+          "id": "https://qiita.com/179Bell/items/720ad30544bda64ff521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nLinuxについて学んだのでLinuxについての基礎的なことをまとめました。\n\nLinuxとは\n\nOSの一種で1991年にリーナス・トーバルズ氏により有料であったUnixをベースに開発された。\n有料であったUnixと違い無料で使用できオープンソースであったため広く普及した…",
+          "link": "https://qiita.com/179Bell/items/720ad30544bda64ff521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T01:45:02.000Z",
+          "wordCount": 834,
+          "title": "初学者がLinuxを学んだのでアウトプットする"
+        },
+        {
+          "id": "https://qiita.com/quryu/items/710b786673918046366a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めに\n\n以下のチュートリアルをやってみました。ElastiCache はセッションデータの保持や、DB 処理の高速化など資格勉強でよく見かけますので、実際に使ってみたいとずっと思っていました。El…",
+          "link": "https://qiita.com/quryu/items/710b786673918046366a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-23T01:09:20.000Z",
+          "wordCount": 508,
+          "title": "AWS ElastiCache for Redis オンラインアプリケーション用の高速セッションストアを構築するチュートリアルをやってみた"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/e3a97eef46cbef67eb7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxrossを運営している藤原です。\n\nAxross とは、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクと社内起業…",
+          "link": "https://qiita.com/Axross_SBiv/items/e3a97eef46cbef67eb7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T23:21:54.000Z",
+          "wordCount": 319,
+          "title": "自然言語処理技術を活用したレシピの紹介"
+        },
+        {
+          "id": "https://qiita.com/C_HERO/items/c5cfbdbb269efb72fb8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GitLabのマージリクエスト機能でコードレビューを行う方法の覚え書きです。\nプロジェクト用に考えたものを汎用化してみました。\n\nオプション\n\nまず、マージリクエストのオプションについて。\nマージリクエ…",
+          "link": "https://qiita.com/C_HERO/items/c5cfbdbb269efb72fb8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T23:21:43.000Z",
+          "wordCount": 484,
+          "title": "GitLabのマージリクエスト機能でコードレビューする"
+        },
+        {
+          "id": "https://qiita.com/tomoto335/items/263b23d9ba156de12857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "M5StickCの内蔵マイクを使って騒音計を作るのはなかなか難しい。マイクからの入力を既知の単位、例えばdB(デシベル)に変換する方法が自明ではなく、実際に実装してみたというサンプルもあまり見ない。…",
+          "link": "https://qiita.com/tomoto335/items/263b23d9ba156de12857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T22:26:02.000Z",
+          "wordCount": 388,
+          "title": "M5StickCでdB(デシベル)表示の騒音計を作る"
+        },
+        {
+          "id": "https://qiita.com/quryu/items/fae0bd49a0bd0a106ee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めに\n\n以下のチュートリアルをやってみました。Amplify と CodeCommit の連携、CodeCommit を使用した開発、Cognito を使ったオーソライザー、Lambda プロキシ…",
+          "link": "https://qiita.com/quryu/items/fae0bd49a0bd0a106ee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T20:52:57.000Z",
+          "wordCount": 683,
+          "title": "AWS Amplify サーバーレスウェブアプリケーションを構築するチュートリアルをやってみた"
+        },
+        {
+          "id": "https://qiita.com/akase244/items/b5700f465512d020d873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「LinuCレベル1」の試験勉強をしていると、bashの設定ファイルの読み込み順序について、以下のような表で説明されていました。\n\n\n\nこの読み込み順序のルールについてはなんとなく知ってはいたんですが。。。\n…",
+          "link": "https://qiita.com/akase244/items/b5700f465512d020d873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T17:51:30.000Z",
+          "wordCount": 967,
+          "title": "Linuxサーバログイン時の/etc/bashrc、/etc/profile、~/.bashrc、~/.bash_profile等の読み込み順序が気になったので調べてみた"
+        },
+        {
+          "id": "https://qiita.com/kazupaka/items/8a501f6c2f648c10583b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nプログラミングに関する簡単な問題集です。\n\n世の中にはプログラミング言語の解説本や、テクニック集など、スキルを高めるのに有用なリソースが豊富にあります。\nただし、プログラミング学習において次の…",
+          "link": "https://qiita.com/kazupaka/items/8a501f6c2f648c10583b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T15:39:35.000Z",
+          "wordCount": 624,
+          "title": "プログラミングスキル向上のための問題集(レベル判定付き!）"
+        },
+        {
+          "id": "https://qiita.com/moritoru/items/c6fc303bf9925de0a3a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの6月からAWSが提供するAmazon Location Serviceが正式版になってグローバル規模でリリースされています。\nこれによって、Googleマップ以外の地図サービスの選択…",
+          "link": "https://qiita.com/moritoru/items/c6fc303bf9925de0a3a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T15:31:16.000Z",
+          "wordCount": 355,
+          "title": "Amazon Location Serviceのマップスタイルを日本対応にする"
+        },
+        {
           "id": "https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nOpenSiv3Dでウィンドウプロシージャを使用したい場面にであったのですが\n裏で呼ばれているウィンドウプロシージャは隠蔽されていて、ユーザーコード側で触れないので\nこのあたりの対処法を…",
@@ -778,6 +967,24 @@
           "publishedOn": "2021-07-22T13:08:45.000Z",
           "wordCount": 599,
           "title": "複数GPUで学習するときのDP(Data Parallel)とDDP(Distributed Data Parallel)の違い"
+        },
+        {
+          "id": "https://qiita.com/pic18f14k50/items/aa297bd845c256589847?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "iOS+Metal+コンピュートシェーダー で配列を処理する際のGPU上の処理の実行単位を調べてました。GPUでは並列で処理を行うため、どういった単位で処理を進めるのか、を本記事では説明します。\n\n…",
+          "link": "https://qiita.com/pic18f14k50/items/aa297bd845c256589847?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T11:46:28.000Z",
+          "wordCount": 1548,
+          "title": "iOS でのGPUプログラムの並列処理の単位"
+        },
+        {
+          "id": "https://qiita.com/keiji_dl/items/45a5775a361151f9189d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n2014年にGoodfellowらによって提案されたGenerative Adversarial Networks（GAN）は、コンピュータビジョンにおける画像生成の領域に革命をもたらし…",
+          "link": "https://qiita.com/keiji_dl/items/45a5775a361151f9189d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T11:21:33.000Z",
+          "wordCount": 681,
+          "title": "PytorchでGANを実装してみた。"
         },
         {
           "id": "https://qiita.com/hoto17296/items/76dab0bf0dfa63751ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -843,6 +1050,15 @@
           "title": "ゼロから作るDeep Learning② word2vecコードで謎だった場所（その2）"
         },
         {
+          "id": "https://qiita.com/kihara-takahiro/items/6716edd198a535c97f34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は？\n\nLaravelのルーティングはweb.phpを使うのが一般的ですが、LaravelCollective/annotationsを使うことでflaskやSpring Bootのようにメ…",
+          "link": "https://qiita.com/kihara-takahiro/items/6716edd198a535c97f34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T00:55:24.000Z",
+          "wordCount": 523,
+          "title": "Laravelのルーティングでアノテーションを使う方法"
+        },
+        {
           "id": "https://qiita.com/kosuke_doi/items/0229ae98ddeb271b69ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nARIの新卒2年目土井と申します。\n2021年7月21日にAWS Certified Solutions Architect - Professionalを受験し合格したので簡単に体験記を…",
@@ -906,6 +1122,15 @@
           "title": "新卒１年目がAWS認定SAAに１ヵ月で一発合格した話"
         },
         {
+          "id": "https://qiita.com/ykawakubo/items/16fd0c08ee4f6e21e653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n千葉大学・株式会社Nospareの川久保です．\n今回は，回帰モデルのうち，目的変数が連続変数ではなく，カウントだったり二値変数だったりする場合のモデルを含んだ一般化線形モデル（Gener…",
+          "link": "https://qiita.com/ykawakubo/items/16fd0c08ee4f6e21e653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T10:51:04.000Z",
+          "wordCount": 684,
+          "title": "一般化線形モデルと一般化線形混合モデル"
+        },
+        {
           "id": "https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "概要\n\n\n良い良いと噂のJuliaの実行環境を作ってみました\n最速で動作環境を作るということを目標に、Dockerを使って超お手軽に実行環境を構築します（最適化とかはまだ何も考えてない）\nまだ環境を作…",
@@ -931,6 +1156,15 @@
           "publishedOn": "2021-07-21T08:43:59.000Z",
           "wordCount": 467,
           "title": "ヒカキンのフェイク動画作ってみた"
+        },
+        {
+          "id": "https://qiita.com/azumagoro/items/a3b7b52f87c1b68b43e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nUnityのButtonは標準で複数ボタンの同時押しや連打の制御がないため、自前で実装する必要があります。\n\nUniRxを使うと（同じボタンの）連打に関しては記事が見つかりましたが、複数ボ…",
+          "link": "https://qiita.com/azumagoro/items/a3b7b52f87c1b68b43e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-21T06:03:01.000Z",
+          "wordCount": 472,
+          "title": "Unity/UniRx - 複数ボタンの同時押し/連打制御"
         },
         {
           "id": "https://qiita.com/kai-utsunomiya/items/55bff354aaa15c4a58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
