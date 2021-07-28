@@ -2,10 +2,207 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T01:06:39.506Z</updated>
+    <updated>2021-07-28T01:07:57.501Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[好評? NHKの五輪ロボット実況]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399943?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399943?source=rss"/>
+        <updated>2021-07-27T23:25:05.000Z</updated>
+        <summary type="html"><![CDATA[NHKは東京五輪のインターネット配信で、一部の競技で自動音声を用いた「ロボット実況」を行っている。27日は、卓球男子・張本智和（木下グループ）の試合などでロボット実況が使われた。ユーザーの好意的な反応も。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 四半期で最高益2兆円]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399935?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399935?source=rss"/>
+        <updated>2021-07-27T21:40:40.000Z</updated>
+        <summary type="html"><![CDATA[米グーグルの持ち株会社アルファベットが27日発表した2021年4～6月期決算は、純利益が前年同期と比べ2.7倍の185億2500万ドル（約2兆円）となり、四半期ベースで過去最高を更新した。顧客が広告支出を拡大したことが業績押し上げに寄与した。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J-Quants入賞者プレゼン 質問回答]]></title>
+        <id>https://qiita.com/blog_UKI/items/1e329bd684f06db50ca7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/blog_UKI/items/1e329bd684f06db50ca7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T15:36:19.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+UKIです。
+7月19日に開催されたJ-Quantsデータ分析コンペティション表彰式での入賞者プレゼンにて頂いた質問に回答します。
+
+質疑応答にて回答済みの質問一覧
+
+
+XGBRを使われた理由…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify GraphQLでRDSを使用する]]></title>
+        <id>https://qiita.com/pikanji/items/054d640cfe163be86f85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/pikanji/items/054d640cfe163be86f85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T14:44:40.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+やりたいこと概要：GraphQLでRDSのデータを取得できる環境をAmplifyで作成する。
+
+JS app -> GraphQL -> Lambda (JS) -> RDS proxy ->…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラスカルお祝い投稿 制作の裏側]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399911?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399911?source=rss"/>
+        <updated>2021-07-27T12:30:50.000Z</updated>
+        <summary type="html"><![CDATA[五輪スケートボードで、金メダルを獲得した西矢椛と銅メダルの中山楓奈がインタビューで「あらいぐまラスカル」の話をしていた。同作品のアニメ制作会社が素早く反応し、お祝いツイート。他の仕事を脇に置いて2時間ほどで制作したという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商用量子コンピューター 初設置]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399908?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399908?source=rss"/>
+        <updated>2021-07-27T12:05:06.000Z</updated>
+        <summary type="html"><![CDATA[東京大とIBMは27日、商用で日本初となる量子コンピューターをかわさき新産業創造センター（川崎市）に設置し、運用を始めたと発表した。IBMが開発した「量子ゲート」型と呼ばれる汎用（はんよう）タイプで、東大が運用の権利を持つ。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル 基地局整備に遅れ]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399894?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399894?source=rss"/>
+        <updated>2021-07-27T09:32:27.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは27日、世界的な半導体不足の影響で、携帯電話の基地局整備が遅れるとの見通しを明らかにした。自社回線の人口カバー率が96%となる時期を、これまで公表していた「今年夏ごろ」から「年内」へ修正した。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonでAtCoderをやるときの個人的チートシート]]></title>
+        <id>https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T04:29:38.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+タイトルの通り、PythonでAtCoderをやるときのメモです。個人的というか自分用というかそんな感じなので、ミスがあったりもっと良い書き方があったりするかもしれません。随時更新していく…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ルーティングを知ってネットワーク初心者から脱却しよう！]]></title>
+        <id>https://qiita.com/siberiannhasuki_iijima/items/36502ce387795ad284df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/siberiannhasuki_iijima/items/36502ce387795ad284df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T04:26:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ネットワーク初心者を脱却するために、ルーティングを覚えておけば、
+ある程度通信の流れについていけるかなと思いました。
+前回の記事は要点をまとめましたが、今回はもう少し突っ込んで丁寧にルー…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CheckedTextViewを知り、ListViewを知る]]></title>
+        <id>https://qiita.com/satona-oinuma/items/b033ffcc346dc167f749?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/satona-oinuma/items/b033ffcc346dc167f749?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T04:17:04.000Z</updated>
+        <summary type="html"><![CDATA[CheckedTextViewをご存知でしょうか。
+私は先日、Android Studioの予測機能で存在を知りました。
+ということで、この機会にCheckedTextViewを使えるようになりたい…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【論文解説:python実装】t-SNEの改良版！q-SNE]]></title>
+        <id>https://qiita.com/mathlive/items/7cc6a17cb0b46f6eb1ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/mathlive/items/7cc6a17cb0b46f6eb1ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T04:13:32.000Z</updated>
+        <summary type="html"><![CDATA[2021/7/27　投稿
+
+0. この記事の対象者
+
+
+python, sklearnをある程度扱える人
+次元削減手法q-SNEについて知りたい人
+q-SNEを使ってみたい人
+
+
+1. はじめに
+
+この記事では…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Jetpack Compose】Githubリポジトリを一覧表示するサンプルアプリ作った]]></title>
+        <id>https://qiita.com/yasukotelin/items/f14def46e25e8c3f9888?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yasukotelin/items/f14def46e25e8c3f9888?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T03:23:06.000Z</updated>
+        <summary type="html"><![CDATA[About
+
+もうすぐRelease版が出るJetpack Composeでサンプルアプリを作ったので、色々知見を書いていこうと思います！
+本当はちゃんと整理された記事を書こうと思ったのですが、色々…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スケボー解説 めちゃめちゃ緊張]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6399850?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6399850?source=rss"/>
+        <updated>2021-07-27T02:25:28.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪スケートボード男女ストリートで、プロスケートボーダー瀬尻稜の飾らない解説が、SNS上で「わかりやすい」「愛着を感じる」などと話題に。本人にスケートボードへの思いを聞いた。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DockerでPython3 - 実務編]]></title>
+        <id>https://qiita.com/e99h2121/items/3e7ffc6a25881b5e3d43?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/3e7ffc6a25881b5e3d43?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-26T21:09:41.000Z</updated>
+        <summary type="html"><![CDATA[ひとしきり、最低限の手順です。
+
+準備
+
+Docker for windows desktop等 (記事末尾参照)
+
+├ Readme.md
+├ Dockerfile
+├ docker-compose.y…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最初から強いやつの特徴]]></title>
+        <id>https://qiita.com/zamis/items/703bfcea027a70c1cec6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/zamis/items/703bfcea027a70c1cec6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-26T19:39:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+どんな仕事でも強い人は存在する。
+でも最初から強い人は珍しい。
+これは、web 業界に身を置いてみて、信じられないくらいムキムキになっていった人たちを見てきた私が送る こうしたら強くなれ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金祝福 でも「ラスカル」違い?]]></title>
         <id>https://news.yahoo.co.jp/pickup/6399820?source=rss</id>
@@ -50,6 +247,36 @@
 内容はアプリケーション開発で、ネットワーク系もやるような企業様です。
 
 今回は、技術系とは違って、「完全未…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jupyter Notebookを一瞬で記事にできて誰でも収益化できるサービス作ってみた]]></title>
+        <id>https://qiita.com/Taiki92777/items/f408846297526addba4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Taiki92777/items/f408846297526addba4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-26T11:23:08.000Z</updated>
+        <summary type="html"><![CDATA[https://notebox.jp
+
+はじめに
+
+あらゆるサイエンス領域で使われているJupyter Notebookですが、誰でもシェアできるサービスはGithub / Colab・Kaggleしか…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React + Electron製の絵コンテエディタアプリ「Mizutama Conte」を支える技術]]></title>
+        <id>https://qiita.com/minorin22/items/04c0ca64274cc5741ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/minorin22/items/04c0ca64274cc5741ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-26T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[リポジトリ
+
+https://github.com/studio-mizutama/MizutamaConte
+
+Web版
+
+https://studio-mizutama.github.io/Mizu…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -203,6 +430,21 @@ https://recoiljs.org/docs/intr…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSSを書くときは、プロパティや値の意味が自然になるものを選ぼう]]></title>
+        <id>https://qiita.com/xrxoxcxox/items/02e9f86a754aa705d2ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/xrxoxcxox/items/02e9f86a754aa705d2ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-25T21:36:11.000Z</updated>
+        <summary type="html"><![CDATA[これは何
+
+
+CSSでは同じUIを表現するにしてもたくさんの書き方があります
+最終的な見た目は同じになるとしても、プロパティや値の意味が不自然なものを選ぶと後から困りがち……
+自然な書き方の例をいくつ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[開発者が考える職務経歴書テンプレート markdown版]]></title>
         <id>https://qiita.com/e99h2121/items/a3763dc9fd3a4e530684?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/e99h2121/items/a3763dc9fd3a4e530684?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -275,6 +517,22 @@ https://github.com/ffi/ffi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【個人開発】食品催事イベント投稿サイト「Saizy」を作りました！]]></title>
+        <id>https://qiita.com/yozakura/items/05ec1ee444bdb15ae3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yozakura/items/05ec1ee444bdb15ae3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-25T11:48:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+転職活動とプログラミングの勉強のため、
+食品催事イベント専用の投稿サイト「Saizy」を作りました！
+
+名前は催事（さいじ）から取って、Saizy（サイジー）です！
+ネーミングセンスがなく…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hiltを自習したときのメモ]]></title>
         <id>https://qiita.com/Nunocky/items/ad22c45f56d54e14b499?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/Nunocky/items/ad22c45f56d54e14b499?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -298,6 +556,19 @@ Dependency Injectionを使う…]]></summary>
 試験を受けるまで
 
 友人と一緒に取ろうとして半年以上前から言…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railsプロジェクトのデータベースの構造のER図をPlantUMLで自動的に吐き出せるようにしてみた]]></title>
+        <id>https://qiita.com/taptappun/items/e0d146ccbd23887113bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/taptappun/items/e0d146ccbd23887113bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-25T07:15:11.000Z</updated>
+        <summary type="html"><![CDATA[モチベーション
+
+QiitaでもPlantUMLを表示できるようになってきたので、いよいよPlantUMLが民主化されてきました。
+そこで「データベースの情報を基に自動的にER図作ってくれたらいいの…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -375,6 +646,32 @@ UiPathのコミュニティ「UiPath Friends」が企画する「UiPathブログ
         <summary type="html"><![CDATA[本家サイトを参考に、alexaのスキルをvisual studio code(以下vscode)でデバッグ実行するまで環境構築していきます。(言語はpythonです)
 
 下図のようにブレークポイントで…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Framework でじゃんけんのLINEbot を作る]]></title>
+        <id>https://qiita.com/kouji0705/items/252b8790dfeb148a13c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kouji0705/items/252b8790dfeb148a13c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-24T22:55:17.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+Line bot上でじゃんけんをできるようにしました。早い話が下記動画です。
+
+
+アジェンダ
+
+
+実装
+リッチメニューの作成
+デプロイ・実行
+備考
+
+
+1. 実装
+
+~/develop/study/lin…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -7211,61 +7508,6 @@ paizaラーニング」では、未経験者でもブラウザさえあれば、
 そしてpaizaでは、Webサービス開発企業などで求められるコーディング力や、テストケースを想定する力などが問われるプログラミングスキルチェック問題も提供しています。
 スキルチェックに挑戦した人は、その結果によってS・A・B・C・D・Eの6段階のランクを取得できます。必要なスキルランクを取得すれば、書類選考なしで企業の求人に応募することも可能です。「自分のプログラミングスキルを客観的に知りたい」「スキルを使って転職したい」という方は、ぜひチャレンジしてみてください。
 詳しくはこちら]]></summary>
-        <author>
-            <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルマンフィルターについて]]></title>
-        <id>https://qiita.com/s-yonekura/items/7cdc99ba444cdbd4e880?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/s-yonekura/items/7cdc99ba444cdbd4e880?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-06-28T12:55:10.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-千葉大学/Nospareの米倉です．今回はカルマンフィルターについて解説していきたいと思います．
-
-カルマンフィルターで何が出来るの？
-
-フィルターとあるように，カルマンフィルターが出来る基…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リモート時代のオンボーディング、事例3選＆成功のポイント]]></title>
-        <id>hatenablog://entry/26006613779504703</id>
-        <link href="https://paiza.hatenablog.com/entry/2021/06/28/130000"/>
-        <updated>2021-06-28T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。倉内です。
-以前、中途入社した社員がいち早く組織になじみ、成果を出すために企業側は「オンボーディング」で受け入れる必要があるとお伝えしたことがあります。
-paiza.hatenablog.com
-昨今入社時からリモート勤務というのも珍しくないと思いますが、オフィスでの受け入れと異なり課題を感じている企業も多いのではないでしょうか。
-また、エンジニアはリモートワークとの相性がよい職種とは言え、転職直後にリモートで働く経験がある人はまだそう多くはなく、不安を感じている人がほとんどです。
-そこで今回は、リモート環境下で社員を受け入れる際に企業はどんなことに気をつけるべきか、そして企業の成功事例を見ながら具体的な取り組みについても考えたいと思います。
-リモート時代だからこそ重視したいオンボーディング
-オンボーディングをする意味
-エンジニアは実際リモートワークをどう感じているか
-アンケート回答者の属性
-リモートワークの満足度
-リモートワークの不満・不便なこと
-リモート下での具体的なオンボーディング事例
-押さえておきたい4つの基本事項
-1. 適したツールを利用する
-2. 暗黙のルールをなくし見える化する
-3. 意図的なコミュニケーション機会を設ける
-4. 適切な期待値やゴール、評価制度を設定する
-他社事例
-Visionalグループ
-NTT Communications
-LAPRAS
-まとめ
-リモート時代だからこそ重視したいオンボーディング
-オンボーディングをする意味
-オンボーディングとは、簡単に言うと「新卒・中途で採用した新入社員が帰属意識を持ち、組織の一員として早期に成果を出せるようサポートする仕組みのこと」です。
-導入するメリットは大きく以下の3つがあります。
-新しいメンバーを短期間で戦力化する
-既存社員を巻き込んだ取組みのため組織の一体感・結束力を高める
-早期退職を防…]]></summary>
         <author>
             <name>paiza開発日誌</name>
         </author>

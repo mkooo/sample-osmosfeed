@@ -12,6 +12,60 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6399943?source=rss",
+          "author": null,
+          "description": "NHKは東京五輪のインターネット配信で、一部の競技で自動音声を用いた「ロボット実況」を行っている。27日は、卓球男子・張本智和（木下グループ）の試合などでロボット実況が使われた。ユーザーの好意的な反応も。",
+          "link": "https://news.yahoo.co.jp/pickup/6399943?source=rss",
+          "publishedOn": "2021-07-27T23:25:05.000Z",
+          "wordCount": 73,
+          "title": "好評? NHKの五輪ロボット実況"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399935?source=rss",
+          "author": null,
+          "description": "米グーグルの持ち株会社アルファベットが27日発表した2021年4～6月期決算は、純利益が前年同期と比べ2.7倍の185億2500万ドル（約2兆円）となり、四半期ベースで過去最高を更新した。顧客が広告支出を拡大したことが業績押し上げに寄与した。",
+          "link": "https://news.yahoo.co.jp/pickup/6399935?source=rss",
+          "publishedOn": "2021-07-27T21:40:40.000Z",
+          "wordCount": 66,
+          "title": "Google 四半期で最高益2兆円"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399911?source=rss",
+          "author": null,
+          "description": "五輪スケートボードで、金メダルを獲得した西矢椛と銅メダルの中山楓奈がインタビューで「あらいぐまラスカル」の話をしていた。同作品のアニメ制作会社が素早く反応し、お祝いツイート。他の仕事を脇に置いて2時間ほどで制作したという。",
+          "link": "https://news.yahoo.co.jp/pickup/6399911?source=rss",
+          "publishedOn": "2021-07-27T12:30:50.000Z",
+          "wordCount": 72,
+          "title": "ラスカルお祝い投稿 制作の裏側"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399908?source=rss",
+          "author": null,
+          "description": "東京大とIBMは27日、商用で日本初となる量子コンピューターをかわさき新産業創造センター（川崎市）に設置し、運用を始めたと発表した。IBMが開発した「量子ゲート」型と呼ばれる汎用（はんよう）タイプで、東大が運用の権利を持つ。",
+          "link": "https://news.yahoo.co.jp/pickup/6399908?source=rss",
+          "publishedOn": "2021-07-27T12:05:06.000Z",
+          "wordCount": 72,
+          "title": "商用量子コンピューター 初設置"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399894?source=rss",
+          "author": null,
+          "description": "楽天モバイルは27日、世界的な半導体不足の影響で、携帯電話の基地局整備が遅れるとの見通しを明らかにした。自社回線の人口カバー率が96%となる時期を、これまで公表していた「今年夏ごろ」から「年内」へ修正した。",
+          "link": "https://news.yahoo.co.jp/pickup/6399894?source=rss",
+          "publishedOn": "2021-07-27T09:32:27.000Z",
+          "wordCount": 70,
+          "title": "楽天モバイル 基地局整備に遅れ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6399850?source=rss",
+          "author": null,
+          "description": "東京五輪スケートボード男女ストリートで、プロスケートボーダー瀬尻稜の飾らない解説が、SNS上で「わかりやすい」「愛着を感じる」などと話題に。本人にスケートボードへの思いを聞いた。",
+          "link": "https://news.yahoo.co.jp/pickup/6399850?source=rss",
+          "publishedOn": "2021-07-27T02:25:28.000Z",
+          "wordCount": 70,
+          "title": "スケボー解説 めちゃめちゃ緊張"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399820?source=rss",
           "author": null,
           "description": "スケートボード女子ストリートで金メダルを獲得した西矢椛が競技後のインタビューで、中山楓奈と「ラスカルの話をしていました」と答え話題に。「あらいぐまラスカル」がメダル獲得を祝福したが、ヒップホップ歌手のことではという指摘も。",
@@ -847,20 +901,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613779504703",
-          "author": null,
-          "description": "こんにちは。倉内です。\n以前、中途入社した社員がいち早く組織になじみ、成果を出すために企業側は「オンボーディング」で受け入れる必要があるとお伝えしたことがあります。\npaiza.hatenablog.com\n昨今入社時からリモート勤務というのも珍しくないと思いますが、オフィスでの受け入れと異なり課題を感じている企業も多いのではないでしょうか。\nまた、エンジニアはリモートワークとの相性がよい職種とは言え、転職直後にリモートで働く経験がある人はまだそう多くはなく、不安を感じている人がほとんどです。\nそこで今回は、リモート環境下で社員を受け入れる際に企業はどんなことに気をつけるべきか、そして企業の成功事例を見ながら具体的な取り組みについても考えたいと思います。\nリモート時代だからこそ重視したいオンボーディング\nオンボーディングをする意味\nエンジニアは実際リモートワークをどう感じているか\nアンケート回答者の属性\nリモートワークの満足度\nリモートワークの不満・不便なこと\nリモート下での具体的なオンボーディング事例\n押さえておきたい4つの基本事項\n1. 適したツールを利用する\n2. 暗黙のルールをなくし見える化する\n3. 意図的なコミュニケーション機会を設ける\n4. 適切な期待値やゴール、評価制度を設定する\n他社事例\nVisionalグループ\nNTT Communications\nLAPRAS\nまとめ\nリモート時代だからこそ重視したいオンボーディング\nオンボーディングをする意味\nオンボーディングとは、簡単に言うと「新卒・中途で採用した新入社員が帰属意識を持ち、組織の一員として早期に成果を出せるようサポートする仕組みのこと」です。\n導入するメリットは大きく以下の3つがあります。\n新しいメンバーを短期間で戦力化する\n既存社員を巻き込んだ取組みのため組織の一体感・結束力を高める\n早期退職を防…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/28/130000",
-          "publishedOn": "2021-06-28T04:00:00.000Z",
-          "wordCount": 289,
-          "title": "リモート時代のオンボーディング、事例3選＆成功のポイント",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210624/20210624174045.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -870,6 +910,87 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/blog_UKI/items/1e329bd684f06db50ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nUKIです。\n7月19日に開催されたJ-Quantsデータ分析コンペティション表彰式での入賞者プレゼンにて頂いた質問に回答します。\n\n質疑応答にて回答済みの質問一覧\n\n\nXGBRを使われた理由…",
+          "link": "https://qiita.com/blog_UKI/items/1e329bd684f06db50ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T15:36:19.000Z",
+          "wordCount": 304,
+          "title": "J-Quants入賞者プレゼン 質問回答"
+        },
+        {
+          "id": "https://qiita.com/pikanji/items/054d640cfe163be86f85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nやりたいこと概要：GraphQLでRDSのデータを取得できる環境をAmplifyで作成する。\n\nJS app -> GraphQL -> Lambda (JS) -> RDS proxy ->…",
+          "link": "https://qiita.com/pikanji/items/054d640cfe163be86f85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T14:44:40.000Z",
+          "wordCount": 1512,
+          "title": "Amplify GraphQLでRDSを使用する"
+        },
+        {
+          "id": "https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nタイトルの通り、PythonでAtCoderをやるときのメモです。個人的というか自分用というかそんな感じなので、ミスがあったりもっと良い書き方があったりするかもしれません。随時更新していく…",
+          "link": "https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T04:29:38.000Z",
+          "wordCount": 663,
+          "title": "PythonでAtCoderをやるときの個人的チートシート"
+        },
+        {
+          "id": "https://qiita.com/siberiannhasuki_iijima/items/36502ce387795ad284df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nネットワーク初心者を脱却するために、ルーティングを覚えておけば、\nある程度通信の流れについていけるかなと思いました。\n前回の記事は要点をまとめましたが、今回はもう少し突っ込んで丁寧にルー…",
+          "link": "https://qiita.com/siberiannhasuki_iijima/items/36502ce387795ad284df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T04:26:00.000Z",
+          "wordCount": 322,
+          "title": "ルーティングを知ってネットワーク初心者から脱却しよう！"
+        },
+        {
+          "id": "https://qiita.com/satona-oinuma/items/b033ffcc346dc167f749?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "CheckedTextViewをご存知でしょうか。\n私は先日、Android Studioの予測機能で存在を知りました。\nということで、この機会にCheckedTextViewを使えるようになりたい…",
+          "link": "https://qiita.com/satona-oinuma/items/b033ffcc346dc167f749?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T04:17:04.000Z",
+          "wordCount": 543,
+          "title": "CheckedTextViewを知り、ListViewを知る"
+        },
+        {
+          "id": "https://qiita.com/mathlive/items/7cc6a17cb0b46f6eb1ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021/7/27　投稿\n\n0. この記事の対象者\n\n\npython, sklearnをある程度扱える人\n次元削減手法q-SNEについて知りたい人\nq-SNEを使ってみたい人\n\n\n1. はじめに\n\nこの記事では…",
+          "link": "https://qiita.com/mathlive/items/7cc6a17cb0b46f6eb1ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T04:13:32.000Z",
+          "wordCount": 428,
+          "title": "【論文解説:python実装】t-SNEの改良版！q-SNE"
+        },
+        {
+          "id": "https://qiita.com/yasukotelin/items/f14def46e25e8c3f9888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "About\n\nもうすぐRelease版が出るJetpack Composeでサンプルアプリを作ったので、色々知見を書いていこうと思います！\n本当はちゃんと整理された記事を書こうと思ったのですが、色々…",
+          "link": "https://qiita.com/yasukotelin/items/f14def46e25e8c3f9888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T03:23:06.000Z",
+          "wordCount": 804,
+          "title": "【Jetpack Compose】Githubリポジトリを一覧表示するサンプルアプリ作った"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/3e7ffc6a25881b5e3d43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ひとしきり、最低限の手順です。\n\n準備\n\nDocker for windows desktop等 (記事末尾参照)\n\n├ Readme.md\n├ Dockerfile\n├ docker-compose.y…",
+          "link": "https://qiita.com/e99h2121/items/3e7ffc6a25881b5e3d43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-26T21:09:41.000Z",
+          "wordCount": 421,
+          "title": "DockerでPython3 - 実務編"
+        },
+        {
+          "id": "https://qiita.com/zamis/items/703bfcea027a70c1cec6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nどんな仕事でも強い人は存在する。\nでも最初から強い人は珍しい。\nこれは、web 業界に身を置いてみて、信じられないくらいムキムキになっていった人たちを見てきた私が送る こうしたら強くなれ…",
+          "link": "https://qiita.com/zamis/items/703bfcea027a70c1cec6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-26T19:39:34.000Z",
+          "wordCount": 396,
+          "title": "最初から強いやつの特徴"
+        },
+        {
           "id": "https://qiita.com/Marny/items/1919186f5db36bb6394f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nども。僕です。\n\n僕は21年卒のエンジニアなのですが、先月に内定先が決まりました。\n\n内容はアプリケーション開発で、ネットワーク系もやるような企業様です。\n\n今回は、技術系とは違って、「完全未…",
@@ -877,6 +998,24 @@
           "publishedOn": "2021-07-26T13:39:39.000Z",
           "wordCount": 344,
           "title": "コロナ禍からプログラミングをして内定までこぎつけた高専生のお話"
+        },
+        {
+          "id": "https://qiita.com/Taiki92777/items/f408846297526addba4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://notebox.jp\n\nはじめに\n\nあらゆるサイエンス領域で使われているJupyter Notebookですが、誰でもシェアできるサービスはGithub / Colab・Kaggleしか…",
+          "link": "https://qiita.com/Taiki92777/items/f408846297526addba4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-26T11:23:08.000Z",
+          "wordCount": 282,
+          "title": "Jupyter Notebookを一瞬で記事にできて誰でも収益化できるサービス作ってみた"
+        },
+        {
+          "id": "https://qiita.com/minorin22/items/04c0ca64274cc5741ddb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "リポジトリ\n\nhttps://github.com/studio-mizutama/MizutamaConte\n\nWeb版\n\nhttps://studio-mizutama.github.io/Mizu…",
+          "link": "https://qiita.com/minorin22/items/04c0ca64274cc5741ddb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-26T11:17:00.000Z",
+          "wordCount": 763,
+          "title": "React + Electron製の絵コンテエディタアプリ「Mizutama Conte」を支える技術"
         },
         {
           "id": "https://qiita.com/rana_kualu/items/a6601b49e0591eb42200?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -942,6 +1081,15 @@
           "title": "朝飯前に学べる！便利なPythonのヒント100選【前編】"
         },
         {
+          "id": "https://qiita.com/xrxoxcxox/items/02e9f86a754aa705d2ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何\n\n\nCSSでは同じUIを表現するにしてもたくさんの書き方があります\n最終的な見た目は同じになるとしても、プロパティや値の意味が不自然なものを選ぶと後から困りがち……\n自然な書き方の例をいくつ…",
+          "link": "https://qiita.com/xrxoxcxox/items/02e9f86a754aa705d2ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-25T21:36:11.000Z",
+          "wordCount": 326,
+          "title": "CSSを書くときは、プロパティや値の意味が自然になるものを選ぼう"
+        },
+        {
           "id": "https://qiita.com/e99h2121/items/a3763dc9fd3a4e530684?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "概要\n\nhttps://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4\n\nなんてものを以前書いたが、同じくMarkdownで自分自身の経歴書を書いてみると、…",
@@ -987,6 +1135,15 @@
           "title": "PyInstallerによるPythonスクリプトのexe化とエラー対処方法まとめ"
         },
         {
+          "id": "https://qiita.com/yozakura/items/05ec1ee444bdb15ae3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n転職活動とプログラミングの勉強のため、\n食品催事イベント専用の投稿サイト「Saizy」を作りました！\n\n名前は催事（さいじ）から取って、Saizy（サイジー）です！\nネーミングセンスがなく…",
+          "link": "https://qiita.com/yozakura/items/05ec1ee444bdb15ae3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-25T11:48:48.000Z",
+          "wordCount": 302,
+          "title": "【個人開発】食品催事イベント投稿サイト「Saizy」を作りました！"
+        },
+        {
           "id": "https://qiita.com/Nunocky/items/ad22c45f56d54e14b499?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "プロジェクトでの Hiltの採用にあたり、 Daggerで全く理解できてなかった DIについて自習したときのメモ。\n\n間違いがあったら指摘してください。\n\nDependency Injectionを使う…",
@@ -1003,6 +1160,15 @@
           "publishedOn": "2021-07-25T08:48:28.000Z",
           "wordCount": 328,
           "title": "AWS認定 ソリューションアーキテクト プロフェッショナル 合格記録"
+        },
+        {
+          "id": "https://qiita.com/taptappun/items/e0d146ccbd23887113bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "モチベーション\n\nQiitaでもPlantUMLを表示できるようになってきたので、いよいよPlantUMLが民主化されてきました。\nそこで「データベースの情報を基に自動的にER図作ってくれたらいいの…",
+          "link": "https://qiita.com/taptappun/items/e0d146ccbd23887113bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-25T07:15:11.000Z",
+          "wordCount": 577,
+          "title": "Railsプロジェクトのデータベースの構造のER図をPlantUMLで自動的に吐き出せるようにしてみた"
         },
         {
           "id": "https://qiita.com/MDevelopper/items/3b1342fa6dbab51803a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1057,6 +1223,15 @@
           "publishedOn": "2021-07-25T01:31:31.000Z",
           "wordCount": 653,
           "title": "alexaスキルをvisual studio codeでデバッグする"
+        },
+        {
+          "id": "https://qiita.com/kouji0705/items/252b8790dfeb148a13c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nLine bot上でじゃんけんをできるようにしました。早い話が下記動画です。\n\n\nアジェンダ\n\n\n実装\nリッチメニューの作成\nデプロイ・実行\n備考\n\n\n1. 実装\n\n~/develop/study/lin…",
+          "link": "https://qiita.com/kouji0705/items/252b8790dfeb148a13c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-24T22:55:17.000Z",
+          "wordCount": 679,
+          "title": "Serverless Framework でじゃんけんのLINEbot を作る"
         },
         {
           "id": "https://qiita.com/e99h2121/items/5eefe618e97ba0e6df70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -4675,15 +4850,6 @@
           "publishedOn": "2021-06-30T02:03:40.000Z",
           "wordCount": 318,
           "title": "ご紹介：DMM.comPF事業本部です"
-        },
-        {
-          "id": "https://qiita.com/s-yonekura/items/7cdc99ba444cdbd4e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n千葉大学/Nospareの米倉です．今回はカルマンフィルターについて解説していきたいと思います．\n\nカルマンフィルターで何が出来るの？\n\nフィルターとあるように，カルマンフィルターが出来る基…",
-          "link": "https://qiita.com/s-yonekura/items/7cdc99ba444cdbd4e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-06-28T12:55:10.000Z",
-          "wordCount": 691,
-          "title": "カルマンフィルターについて"
         }
       ]
     }
