@@ -12,6 +12,60 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6400064?source=rss",
+          "author": null,
+          "description": "東京五輪で快進撃が続く日本勢だが、選手のSNSアカウントには、応援や賛辞以外に、一方的に誹謗（ひぼう）中傷する内容も国内外から書き込まれている。過去には中傷が深刻な事態を招いたケースもあり、対策は急務との指摘。",
+          "link": "https://news.yahoo.co.jp/pickup/6400064?source=rss",
+          "publishedOn": "2021-07-29T00:59:14.000Z",
+          "wordCount": 66,
+          "title": "五輪日本選手へSNS中傷相次ぐ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400053?source=rss",
+          "author": null,
+          "description": "台湾の政府要人ら100人余りのLINEアカウントがハッキング攻撃に遭ったと一部メディアで報道された。当局は28日、LINEが正式に被害を訴え出たと発表し、捜査に乗り出す方針を明らかに。",
+          "link": "https://news.yahoo.co.jp/pickup/6400053?source=rss",
+          "publishedOn": "2021-07-29T00:15:32.000Z",
+          "wordCount": 61,
+          "title": "台湾要人のLINEにサイバー攻撃"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400059?source=rss",
+          "author": null,
+          "description": "ソニー・インタラクティブエンタテインメントは、PlayStation 5（PS5）の全世界累計実売台数が1000万台を超えたと発表した。PlayStationシリーズの中でこれまで最速だったPS4を超え、シリーズ史上最速となった。",
+          "link": "https://news.yahoo.co.jp/pickup/6400059?source=rss",
+          "publishedOn": "2021-07-29T00:12:44.000Z",
+          "wordCount": 66,
+          "title": "PS5世界販売1000万台 歴代最速"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400058?source=rss",
+          "author": null,
+          "description": "米Facebookは28日、売上高の伸びが第3および第4四半期に「著しく鈍化する」との見通しを示した。同社は最近の米Appleによるプライバシー規約変更がターゲティング広告に影響し、第3四半期の広告収入に影を落とすと予想した。",
+          "link": "https://news.yahoo.co.jp/pickup/6400058?source=rss",
+          "publishedOn": "2021-07-28T23:39:10.000Z",
+          "wordCount": 66,
+          "title": "Apple規約変更 FB広告収入に影"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400033?source=rss",
+          "author": null,
+          "description": "中止や反対の声もある中で始まった東京五輪。五輪関連ツイートを解析すると、開幕直前までは「中止」などネガティブな言葉が大きく表示されたが、開会式を機に一変。全身全霊で挑むアスリートたちをたたえる言葉が増えている。",
+          "link": "https://news.yahoo.co.jp/pickup/6400033?source=rss",
+          "publishedOn": "2021-07-28T12:42:46.000Z",
+          "wordCount": 64,
+          "title": "五輪ツイート 開会式を機に一変"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400031?source=rss",
+          "author": null,
+          "description": "東京五輪・野球のイスラエル代表選手が、動画共有サイト「TikTok」に、選手村の段ボールベッドを破壊する動画を投稿した。動画は広く拡散し、SNSでは「やりすぎ」「恥ずかしくないのかな」と批判も。",
+          "link": "https://news.yahoo.co.jp/pickup/6400031?source=rss",
+          "publishedOn": "2021-07-28T12:41:00.000Z",
+          "wordCount": 65,
+          "title": "選手村ベッドを破壊 動画に批判"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6399943?source=rss",
           "author": null,
           "description": "NHKは東京五輪のインターネット配信で、一部の競技で自動音声を用いた「ロボット実況」を行っている。27日は、卓球男子・張本智和（木下グループ）の試合などでロボット実況が使われた。ユーザーの好意的な反応も。",
@@ -721,6 +775,20 @@
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/26006613791064268",
+          "author": null,
+          "description": "「STEINS;GATE（シュタインズ・ゲート）」とpaizaがコラボしたプログラミングゲーム「電脳言語のオルダーソンループ」が公開されました！\n詳しくはこちら\nSTEINS;GATE 電脳言語のオルダーソンループ\n\n「STEINS;GATE」とpaizaのコラボ「電脳言語のオルダーソンループ」とは？\n「電脳言語のオルダーソンループ」は、プログラミング問題を解いて物語を進めるアドベンチャーゲームです。\n問題はITエンジニア経験者（中・上級者）向けで、アルゴリズムの構築などさまざまなプログラミングミッションを用意しています。Java、Python、PHP、Rubyなど24種類の開発言語に対応しており、好きな言語を使って挑戦できます。\n【ストーリー】\n「オペレーション・ダンテ」、始動。\n未来ガジェット研究所の存在理由、それは世界の支配構造を覆すこと。\n本作は、「STEINS;GATE」ゲーム・アニメ版のシナリオに携わる安本了氏がゲーム内ストーリーを担当。ここだけのオリジナルストーリーを楽しむことができます。\n【遊び方】\nプロローグ再生後、マイページからシナリオを選択してストーリーを進行させましょう。シナリオ解放数が増えるほど、ストーリー達成率が上がります。\n\n メインストーリーへの挑戦以外に「うーぱ」コレクションミッションも。\nマイページからシナリオを選択すると、ストーリー情報画面が表示されます。「ストーリーを再生」ボタンを押すと、表示されているタイトルのストーリーが再生された後、プログラミング問題挑戦ページへ移動します。\n\nプログラミング問題の解答結果によって、その後のストーリーが変わります。\n\nここだけのオリジナルストーリーを楽しもう！\n\n\nリリースを記念してプレゼントが当たるダブルキャンペーン開催！\n「電脳言語のオルダーソンループ」のリリースを記念して、参加者にプレゼントが当たるダブルキャンペーンを実施します。\n※実施期間：2021年7月28日（水）～2021年8月25日（水）\nキャンペーン1\n期間中にゲーム内の「Tweet」ボタンからハッシュタグ「#paizaシュタゲ」を付けてツイートするだけ。抽選で1名様に1万円分、50名様に500円分のAmazonギフト券をプレゼントします。\n\n\nキャンペーン2\n期間内にすべてのゲーム内ミッションをクリアすると、オリジナルマイクロファイバークロスを抽選で50名様にプレゼントします。\n\n\nSTEINS;GATEとは\n2009年10月15日に科学アドベンチャーシリーズの第2弾として発売されたゲーム。秋葉原を舞台に描かれた、科学的な考察に基づくタイムリープを主軸にした濃密なストーリーや、宮野真守さんをはじめとする豪華声優陣の起用でも話題を集め、続編ゲームの発売、テレビアニメ化、劇場アニメ化、舞台化など、さまざまなメディアミックス展開をしています。\nsteinsgate.jp\n\n\n\n\npaizaラーニング」では、未経験者でもブラウザさえあれば、今すぐプログラミングの基礎が動画で学べるレッスンを多数公開しております。\n詳しくはこちら\n\nそしてpaizaでは、Webサービス開発企業などで求められるコーディング力や、テストケースを想定する力などが問われるプログラミングスキルチェック問題も提供しています。\nスキルチェックに挑戦した人は、その結果によってS・A・B・C・D・Eの6段階のランクを取得できます。必要なスキルランクを取得すれば、書類選考なしで企業の求人に応募することも可能です。「自分のプログラミングスキルを客観的に知りたい」「スキルを使って転職したい」という方は、ぜひチャレンジしてみてください。\n詳しくはこちら",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/28/140000",
+          "publishedOn": "2021-07-28T05:00:00.000Z",
+          "wordCount": 232,
+          "title": "STEINS;GATE×paizaプログラミングゲーム「電脳言語のオルダーソンループ」公開",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210727/20210727143545.png",
+            "type": "image/png",
+            "length": "0"
+          }
+        },
+        {
           "id": "hatenablog://entry/26006613789846914",
           "author": null,
           "description": "こんにちは。倉内です。\nITエンジニアへの転職を考えている方の中には、連休中にプログラミングの学習に取り組んだ方も多いのではないでしょうか。\npaizaラーニングのようにブラウザ上で動画講座を見るものから、スライドや書籍を読んで学ぶものまでさまざまな学習方法がありますが、実際にコードはあまり書いていないという方もお見かけします。\nもちろんきちんとアウトプットするためにまずはインプットが必要というのも分かります。ただ、初心者こそ作法に則ったきれいなコードを書くより「動くコード」を意識してたくさん書く練習をしてほしいんです。\nそこで今回は、なぜ自らコードを書くことが大切なのかをお伝えするとともに、アウトプットをたくさんするためのおすすめ学習コンテンツも合わせてご紹介します。\nなぜ「きれいに書く」ことにとらわれてしまうのか？\nプログラミングには、命名規則だったり、改行位置やインデントなどのフォーマットだったり…コードを書くお作法があることを知っている方も多いと思います。\n以前当ブログでも「エンジニアになるならコーディング規約というものを知っておこう」とお伝えしました。\nまた、2012年発売にもかかわらず、いまだにエンジニアのバイブルとして挙げられることが多い書籍『リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック』を読んだことがある、もしくは読もうと思っている方もいるかもしれません。\nたしかに、\n他の人や半年後・1年後の自分が見ても分かりやすいコードを書く\n保守性や品質を高めるために作法に則ってコードを書く\nといったことはとても大切です。業務でチーム開発をするとなったらなおさらです。\nそのため勉強をし始めたばかりの方は「まだきれいなコードを書けないから…」「コーディングの作法を知らないから…」と書くことをためらいます。\nもしくは本来は実現したい機能があって…",
@@ -887,20 +955,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613781224086",
-          "author": null,
-          "description": "このたび、不朽の名作「シュタインズゲート」とpaizaのコラボが開催決定しました。\n岡部たちの新たな野望を達成する手段は「プログラミング」。秋葉原に、そして世界に革命を起こせ！2021年7月28日、数々の世界線を超えてきた岡部たちに、新たなオペレーションが始まる！\n7/28の開催に向けて、ただいまティザーページにて事前登録受付中です。\n事前登録はこちら\n\n\n待ってる間にプログラミング学習できるコンテンツ\nプログラミングが動画で学べるpaizaラーニング\n\npaizaラーニングは、動画レッスンを見ながらプログラミングの基本を学び、ブラウザ上で演習問題を解くことでスキルが身につくプログラミング学習サービスです。\nPython、Java、C言語、PHP、Ruby、SQLなど人気言語の入門編から、RailsやLaravel、DjangoなどのWebフレームワークを使ってアプリ開発ができる講座など、プログラミング初心者・未経験者でも楽しくやさしく学べる内容となっています。\n動画講座は、未経験から始められる各プログラミング言語の入門編から\n\n各言語のWebアプリケーションフレームワークなどを使って、実際に簡単なWebサービスを作ってみることができる実践的なWeb開発入門編\n\nなどを公開しています。\npaizaラーニングについて詳しくはこちら\n\n\nコードクロニクル\n対応言語：Python、Java、PHP、Ruby、C#、C、C++、JavaScript、Kotlin\n\nコードクロニクル』は、「プログラミング＝魔法」というファンタジー世界で、簡単なプログラミング問題を解きながら進めていく学習ゲームです。\n豊かな自然に恵まれ、さまざまな種族が共存する穏やかな王国「パイザ」。魔法使いのお姫様エレナが17歳になった時、父王から「古より伝わりし王家秘伝の魔導書をその手におさめよ」と試練が与えられる。魔法で守られた王国「パイザ」から下界に降り立ち、人々を助けたり子どもたちに魔法を教えたりしながら進む一行、エレナと仲間たちの冒険のゆくえは……？\n\n\nコードガールこれくしょん\n対応言語：Python、Java、PHP、Ruby、C、C++、C#、JavaScript\n\n『コードガールこれくしょん』は、プログラミング問題を解いて「コードガール」を集めながらストーリーを進めていくプログラミング学習コンテンツです。\n\nゲーム内では、クエスト報酬やログインボーナスなどとして手に入るコインやダイヤを使ってさまざまなコードガールが収集できます。このコードガールは、クエストを有利に進められるスキルが使えたり、これくしょんとしてマイページに飾ったりすることができます。\nノーマルモードとハードモード（※現在Pythonのみ対応）があり、初心者でも少しずつプログラミングの練習ができます。\n\nほかにも、paizaの学習ゲームコンテンツをこちらでご紹介しています。興味のある方はぜひチャレンジしてみてください！\n\n\n\n\n\npaizaラーニング」では、未経験者でもブラウザさえあれば、今すぐプログラミングの基礎が動画で学べるレッスンを多数公開しております。\n詳しくはこちら\n\nそしてpaizaでは、Webサービス開発企業などで求められるコーディング力や、テストケースを想定する力などが問われるプログラミングスキルチェック問題も提供しています。\nスキルチェックに挑戦した人は、その結果によってS・A・B・C・D・Eの6段階のランクを取得できます。必要なスキルランクを取得すれば、書類選考なしで企業の求人に応募することも可能です。「自分のプログラミングスキルを客観的に知りたい」「スキルを使って転職したい」という方は、ぜひチャレンジしてみてください。\n詳しくはこちら",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/29/150000",
-          "publishedOn": "2021-06-29T06:00:00.000Z",
-          "wordCount": 237,
-          "title": "paiza×シュタインズ・ゲートコラボ決定！事前登録受付中",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210629/20210629132417.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
@@ -909,6 +963,96 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/eiji-noguchi/items/c19c1e125eaa87c3616b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "目的\n\nanacondaの仮想環境内でtesseractとPyOCRを使い、画像から文字を認識できるようにします。\n今回は画像の文字を認識し、ターミナルへ出力できるところまでの行います。\n\nこんな感じ↓…",
+          "link": "https://qiita.com/eiji-noguchi/items/c19c1e125eaa87c3616b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T09:28:42.000Z",
+          "wordCount": 477,
+          "title": "PythonとOCRエンジンで画像から文字を認識する"
+        },
+        {
+          "id": "https://qiita.com/irgaly/items/0ce450dd77bd54fb560a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Android 10 から、対象範囲別ストレージ (Scoped Storage) が導入され、アプリ固有のストレージと、アプリ外部のストレージが厳密に区別され扱われるようになりました。\n\nアプリ外部…",
+          "link": "https://qiita.com/irgaly/items/0ce450dd77bd54fb560a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T07:29:38.000Z",
+          "wordCount": 469,
+          "title": "Android: Android 10 からの対象範囲別ストレージ (Scoped Storage) とメディアファイルアクセスのまとめ"
+        },
+        {
+          "id": "https://qiita.com/kanon_ayuayu/items/552a60ca226c8ad9564b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "かなり遅くなってしまいましたが、2021年5月10日に開催された「【LIFF/ミニアプリ】LINE×AWS×PayPayでテーブルオーダーを作ってみよう！ハンズオン」の参加レポートです。\nhttps…",
+          "link": "https://qiita.com/kanon_ayuayu/items/552a60ca226c8ad9564b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T06:51:38.000Z",
+          "wordCount": 289,
+          "title": "【LIFF/ミニアプリ】LINE×AWS×PayPayでテーブルオーダーを作ってみよう！ハンズオン参加レポート"
+        },
+        {
+          "id": "https://qiita.com/CYonezawa/items/42f2bdc643c81e4735b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021 年 7 月 20 日に 10.4.2 Sydney Community Edition が満を持してリリース\n10.3 の Community Edition から何年待ったことやら\nリリ…",
+          "link": "https://qiita.com/CYonezawa/items/42f2bdc643c81e4735b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T04:57:14.000Z",
+          "wordCount": 550,
+          "title": "Delphi 10.4.2 Community Editionをインストール"
+        },
+        {
+          "id": "https://qiita.com/tak_ham/items/d106c686f5c742ecb95f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これはなに\n\nネットワーク周りで今まで出会った愉快な事象を、供養代わりに(書ける範囲で)まとめたもの。\n\nネットワークループ\n\n人は片方が接続されていないLANケーブルと空きポートがあるととりあえず接続…",
+          "link": "https://qiita.com/tak_ham/items/d106c686f5c742ecb95f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T02:08:56.000Z",
+          "wordCount": 317,
+          "title": "情シスと愉快なネットワークたち"
+        },
+        {
+          "id": "https://qiita.com/tanaka_soichiro/items/56c02ad53bc0babe62ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは、(株)日立製作所Lumada Data Science Lab.の田中と申します。\n\n早速ですが、電流や振動、温度、圧力などのセンサデータから異常を検知したり、異常の予兆を検知…",
+          "link": "https://qiita.com/tanaka_soichiro/items/56c02ad53bc0babe62ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T01:25:15.000Z",
+          "wordCount": 780,
+          "title": "単変量時系列データへのDMDの適用と結果の見方"
+        },
+        {
+          "id": "https://qiita.com/ichikawa7ss/items/2d5c5c70b5035b6c6fff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "結論\n\nEmbeddedFrameworkによってターゲットを分けているプロジェクトで\nカスタムフォントを使用する場合には\nメインターゲットにフォントファイルを入れなければいけません。\n\nメイン以外の…",
+          "link": "https://qiita.com/ichikawa7ss/items/2d5c5c70b5035b6c6fff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T00:46:05.000Z",
+          "wordCount": 350,
+          "title": "カスタムフォントはメインターゲットに入れないと反映されない"
+        },
+        {
+          "id": "https://qiita.com/cv_carnavi/items/3a767238297c79462e51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "【deep-learning系 アーキテクチャ作図に役立つリポジトリ3選】\n\nパワポや論文でリッチなアーキテクチャ図を載せたい方必見のGitHubリポジトリを3つご紹介します。\n良い面だけではなく使…",
+          "link": "https://qiita.com/cv_carnavi/items/3a767238297c79462e51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T23:50:58.000Z",
+          "wordCount": 284,
+          "title": "【deep-learning系 アーキテクチャ作図に役立つリポジトリ3選】"
+        },
+        {
+          "id": "https://qiita.com/aike@github/items/0d478e47de44a570dd8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1. はじめに\n\nDTMプログラミング言語探訪をまとめるにあたり、現代的なサンプラーソフトにどういう需要や要件があるのか説明した方がよさそうなので書いてみます。\n\n2. 音楽における「サンプリング」\n\n…",
+          "link": "https://qiita.com/aike@github/items/0d478e47de44a570dd8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T16:18:13.000Z",
+          "wordCount": 377,
+          "title": "バーチャル楽器を支える技術 - DTMプログラミング言語探訪番外編"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/a92b14834792a10798e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "シェーダーをいつかちゃんと勉強しなきゃと思ってる間に、UnityのアプデでSRPが出た！とか描画に関する大きな進歩があったみたいで、これはいよいよ後回しにしてると追いつけなくなるぞと思い、話題の H…",
+          "link": "https://qiita.com/flankids/items/a92b14834792a10798e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T15:57:43.000Z",
+          "wordCount": 701,
+          "title": "[Unity]URPで始める！シェーダー入門"
+        },
         {
           "id": "https://qiita.com/blog_UKI/items/1e329bd684f06db50ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -926,6 +1070,33 @@
           "publishedOn": "2021-07-27T14:44:40.000Z",
           "wordCount": 1512,
           "title": "Amplify GraphQLでRDSを使用する"
+        },
+        {
+          "id": "https://qiita.com/ko1nksm/items/4a1932963c69448a138f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "あ．．．ありのまま 今　起こった事を話すぜ！\n\n「おれは　cat の方が grep \".\" よりも速いことを示すために、両方の出力を \n/dev/null に捨てたら grep の方だけ処理速度が異常に…",
+          "link": "https://qiita.com/ko1nksm/items/4a1932963c69448a138f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T11:03:34.000Z",
+          "wordCount": 1339,
+          "title": "GNU grep は /dev/null に出力すると、処理速度が異常に速くなる件について"
+        },
+        {
+          "id": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "WebAssembly(WASM) は JavaScript より計算処理が速いという話題がしばしば聞かれます。\n\nでは、単純な数値計算ではないけれど、JavaScript で時間がかかる処理を移植す…",
+          "link": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T10:11:46.000Z",
+          "wordCount": 966,
+          "title": "WebAssembly で画像のリサイズ処理をやってみたら JavaScript + Canvas API より遅かった話"
+        },
+        {
+          "id": "https://qiita.com/kyosuke_hashimoto/items/d2e8fbcf5f851a1bb8a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初版: 2021年7月27日\n著者: 橋本恭佑, 河野泰隆、株式会社 日立製作所\n\nはじめに\n\nAI技術への注目の高まりに伴い、機械学習技術をビジネスへ適用するニーズが増えています。\nビジネスに機械学習…",
+          "link": "https://qiita.com/kyosuke_hashimoto/items/d2e8fbcf5f851a1bb8a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T09:13:38.000Z",
+          "wordCount": 775,
+          "title": "AWSを活用した機械学習モデルの継続的な運用改善"
         },
         {
           "id": "https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
