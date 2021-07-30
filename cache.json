@@ -12,6 +12,51 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6400171?source=rss",
+          "author": null,
+          "description": "東京五輪・体操男子の個人総合で金メダルを獲得した橋本大輝が、自身のツイッターで、SNSでのひぼう中傷を受けていることについて言及。「称賛する人が増えひぼう中傷とみられる行為を行う人が少なくなることを願っています」と呼びかけた。",
+          "link": "https://news.yahoo.co.jp/pickup/6400171?source=rss",
+          "publishedOn": "2021-07-29T23:23:54.000Z",
+          "wordCount": 71,
+          "title": "体操橋本 採点巡る中傷に思い"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400166?source=rss",
+          "author": null,
+          "description": "東京五輪の中継映像の乱れが発生している。民放関係者は「これだけアクシデントが多いのは珍しい。人為的なミスではなく、おそらく衛星の信号トラブル」「歴史的な瞬間が乱れた映像で残ってしまう可能性もないとは言い切れません」。",
+          "link": "https://news.yahoo.co.jp/pickup/6400166?source=rss",
+          "publishedOn": "2021-07-29T21:45:11.000Z",
+          "wordCount": 71,
+          "title": "五輪で映像に乱れ 関係者は困惑"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400162?source=rss",
+          "author": null,
+          "description": "東京五輪の体操女子個人総合決勝で5位に入った村上茉愛。アスリートのSNSなどへの誹謗（ひぼう）中傷コメントの書き込みについて問われ、「ありました。すごく残念というか、悲しかった」と涙を流しながら話した。",
+          "link": "https://news.yahoo.co.jp/pickup/6400162?source=rss",
+          "publishedOn": "2021-07-29T15:36:13.000Z",
+          "wordCount": 74,
+          "title": "体操村上SNS中傷経験 大粒の涙"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400152?source=rss",
+          "author": null,
+          "description": "東京五輪イスラエル野球代表選手が選手村の部屋の段ボール製ベッドを破壊する動画を投稿した問題で、イスラエルのオリンピック委員会は、投稿した本人が謝罪する動画を公開した。選手らがベッドに乗ってジャンプする様子が映されていた。",
+          "link": "https://news.yahoo.co.jp/pickup/6400152?source=rss",
+          "publishedOn": "2021-07-29T13:43:38.000Z",
+          "wordCount": 71,
+          "title": "ベッド破壊 イスラエル選手謝罪"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400093?source=rss",
+          "author": null,
+          "description": "開幕前とは一転し盛り上がりを見せている東京五輪。しかし、五輪やスポーツに関心のない層からは冷めた声も。ツイッター上には＃オリハラなどのハッシュタグも登場。積極的な開催反対派というよりは、単に興味がない人が多いとみられる。",
+          "link": "https://news.yahoo.co.jp/pickup/6400093?source=rss",
+          "publishedOn": "2021-07-29T07:00:24.000Z",
+          "wordCount": 66,
+          "title": "オリハラ?熱狂よそに冷めた声も"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6400064?source=rss",
           "author": null,
           "description": "東京五輪で快進撃が続く日本勢だが、選手のSNSアカウントには、応援や賛辞以外に、一方的に誹謗（ひぼう）中傷する内容も国内外から書き込まれている。過去には中傷が深刻な事態を招いたケースもあり、対策は急務との指摘。",
@@ -748,24 +793,6 @@
           "publishedOn": "2021-07-01T05:15:53.000Z",
           "wordCount": 62,
           "title": "電話リレーサービス 運用始まる"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6397448?source=rss",
-          "author": null,
-          "description": "日本郵政は30日、経営戦略の軸とする「デジタル郵便局」構想の実現を担う新会社を7月1日付で設立すると発表した。郵便や銀行、保険といった各種サービスを一体で提供するアプリの開発などを進める予定。",
-          "link": "https://news.yahoo.co.jp/pickup/6397448?source=rss",
-          "publishedOn": "2021-06-30T11:33:17.000Z",
-          "wordCount": 64,
-          "title": "日本郵政 デジタル化で新会社"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6397416?source=rss",
-          "author": null,
-          "description": "文科省は、教職課程で学生が小中高校の教員免許を取得する際、ICTを活用した教育に関する科目の履修を義務付けることを決めた。小中学校では児童生徒に1人1台の端末配布が進んでおり、教員のICTを活用した指導力の向上が急務となっている。",
-          "link": "https://news.yahoo.co.jp/pickup/6397416?source=rss",
-          "publishedOn": "2021-06-30T05:24:10.000Z",
-          "wordCount": 64,
-          "title": "教職課程ICT科目必修へ 文科省"
         }
       ]
     },
@@ -774,6 +801,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613791369830",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、万能なドキュメントサービスとして人気の「Notion」を、さらにパワーアップさせて別の用途に活用できるWebサービスを厳選してご紹介します！\nすべて無料で利用できる（もしくは無料プランありの）サービスであり、機能的に優れていて誰でも扱える簡単な操作のものを厳選しました。\n現状のNotionだけでは足りない機能を多く搭載できるサービスばかりなので、ご興味ある方はぜひ参考にしてみてください！\nちなみに、Notionについてまだよく知らないという方は以下の記事で詳細を解説しているので合わせて確認しておくことをオススメします。\npaiza.hatenablog.com\n■Notionをメルマガ配信システムに変えるサービス！\n【 NoCodeLetters 】\n\nNotionで作成したテーブルをメルマガ（ニュースレター）のコンテンツ管理用データベースとして使えるサービスが「NoCodeLetters」です。\nこのサービス1つで、メルマガ登録ページの構築、コンテンツ作成＆登録、ユーザーの管理、メール配信の制御などがノーコードで実現できるようになるのが大きな特徴でしょう。\n\n使い方も簡単で、公式に提供されているNotionテンプレートを自分のアカウントに複製して内容を編集するだけで基本的なデータベースが完成します。\n\nメールのコンテンツ自体は普通にNotionでドキュメントを作成するのと同じ要領で作っていけます。\n\nまた、メルマガに登録してもらうための公開用ページの作成エディタも提供されており、ダッシュボードから手軽に構築できるのは便利です。\n\nNotionであらかじめ複数のコンテンツを作成しておき、どのコンテンツを配信するかは自分で自由に制御可能です。\n将来的には「Gumroad」「stripe」などを利用して、課金機能を搭載した有…",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/29/130000",
+          "publishedOn": "2021-07-29T04:00:00.000Z",
+          "wordCount": 322,
+          "title": "超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210728/20210728105658.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613791064268",
           "author": null,
@@ -941,20 +982,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613781574564",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回は、Webデザインに活用できるモーションデザインをブラウザ上のエディタから誰でも簡単に作れるWebサービスをご紹介します。\n手軽に高度なアニメーションを実現できる機能が豊富に提供されており、簡単なものならマウスで数回クリックするだけで完成してしまいます。無料で書き出しにも対応しており、記事後半ではFigmaとの連携方法についても解説しています。\nWebのアニメーションにご興味ある方はぜひ参考にしてみてください！\n【 Jitter 】\n\n■「Jitter」の使い方\nそれでは、「Jitter」をどのように使えばいいのか詳しく見ていきましょう！\nまずはサイトのトップページから【Try it now】ボタンをクリックして無料のユーザー登録を済ませておきます。\n\n\nメールアドレスや名前などを入力するだけなので簡単です。\n\n登録したメールアドレス宛にログイン用のリンクが送付されるのでクリックしましょう。\n\nすると自分専用のダッシュボード画面が表示されます。\n\nこれで準備は完了です！\n公式チュートリアルも公開されているので、最初にいくつかチェックしておくといいでしょう。\n■「Jitter」の機能紹介\nまず最初に「Jitter」のWebエディタがどのような機能を提供しているのかについて、基本的な部分をピックアップして解説しておきます。\n新規のプロジェクトを作成するにはダッシュボード画面から「New file」ボタンをクリックします。\n\n\nモーションデザインを作成するための編集エディタが表示されます。\n\n\nこのエディタはざっくり言うと、3つの画面に分かれています。\n\nそれぞれの画面は以下のような役割があります。\n【レイヤー】キャンバス上に配置したオブジェクトのリスト\n【キャンバス】デザインを作成するメイン画面\n【プロパティ】オブジェクトの設定…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/30/160000",
-          "publishedOn": "2021-06-30T07:00:00.000Z",
-          "wordCount": 274,
-          "title": "高度なモーションデザインを無料で作成できるWebエディタ「Jitter」を使ってみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210630/20210630121216.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -964,6 +991,123 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/ko1nksm/items/6b61b0e687d206be9cb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nBourne シェルは今では殆ど使われなくなった古いシェルの名前です。現在の主流は POSIX シェルです。POSIX シェルというのは、そういう名前のシェルがあるのではなく POSIX…",
+          "link": "https://qiita.com/ko1nksm/items/6b61b0e687d206be9cb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T12:57:06.000Z",
+          "wordCount": 923,
+          "title": "BourneシェルとBourneシェル系(≒POSIXシェル)の違いについて"
+        },
+        {
+          "id": "https://qiita.com/yuujioka/items/10f889fccb61b27213bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n今回は初めてUnitTestを学びたい、試してみたい方向けの内容となっています。\nよってUnitTestとは直接関係ない用語に対しても、できる限り疑問に思われそうな内容にも触れています。…",
+          "link": "https://qiita.com/yuujioka/items/10f889fccb61b27213bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T11:05:28.000Z",
+          "wordCount": 530,
+          "title": "[iOS]試して学ぶUnitTest[XCTest]"
+        },
+        {
+          "id": "https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは、Barry（ばりゅー）と申します。\nいきなりですが言わせてください。\nこのサービスは今読んでいるあなたのために作ったサービスです！\n\nはじめに\n\nリモートワークが当たり前になった今、みなさんはどんなデスクで作業してますか…",
+          "link": "https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T07:30:26.000Z",
+          "wordCount": 348,
+          "title": "【個人開発】リモートワーク時代なので、デスク周りに特化した写真投稿サービスを作りました"
+        },
+        {
+          "id": "https://qiita.com/miya_gis/items/b4054664b22ac016af90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの投稿は、RPAツール「UiPath」で 2021年6月にリリースされた、バージョン「21.6」について、「個人的に」 まとめたものです。\n\n沢山あるので、前編後編に分けて紹介します。今…",
+          "link": "https://qiita.com/miya_gis/items/b4054664b22ac016af90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T05:14:04.000Z",
+          "wordCount": 401,
+          "title": "【UiPath】バージョン「21.6」リリースまとめ（前編）"
+        },
+        {
+          "id": "https://qiita.com/tora_kouno/items/d230f904a2b768ccb319?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "実装を進めていく中で日付の差分を取得する処理に遭遇することがあるかと思います。\nJava 8以前ではCalendarクラスやDateクラスの基準日時からのミリ秒を取得し、差分を見るというやり方が主流…",
+          "link": "https://qiita.com/tora_kouno/items/d230f904a2b768ccb319?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T03:36:25.000Z",
+          "wordCount": 458,
+          "title": "Javaの日付の差分処理はDurationを使おう！！"
+        },
+        {
+          "id": "https://qiita.com/torayamadajp/items/9a32e7ac3ad0bc3dd188?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Ansibleのタグを使い始めた際に、継承について知らずにその動作に戸惑ったことがあったのでメモを残しておきます。\n今回の記事ではAnsibleのコマンドについては説明していないので、ある程度Ans…",
+          "link": "https://qiita.com/torayamadajp/items/9a32e7ac3ad0bc3dd188?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T03:24:05.000Z",
+          "wordCount": 665,
+          "title": "Ansibleのタグの継承について"
+        },
+        {
+          "id": "https://qiita.com/tomoi/items/41642c98ec883d59c6fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "おまだれ\n\n元N高のtomoiです\nN高が元々自由な学校で時間があり、個人でゲームを作っていました(プライバシーポリシーを放置していたら消えましたが、、、)\nそのためプログラムもなんとなくかけるレベ…",
+          "link": "https://qiita.com/tomoi/items/41642c98ec883d59c6fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T01:29:22.000Z",
+          "wordCount": 303,
+          "title": "専門学校でゲームを作る辛さ"
+        },
+        {
+          "id": "https://qiita.com/Hayate-Leo/items/46e5318e4f1195326f9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ジェネレーターのメリット\n\n\nメモリを節約できる（処理速度向上）\nコードを短くできる\n\n\nリストの各要素に対する処理\n\nリストの各要素に対して処理を実行し，新しいリストを返すような場合を考えます．\n\ndef …",
+          "link": "https://qiita.com/Hayate-Leo/items/46e5318e4f1195326f9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T01:20:48.000Z",
+          "wordCount": 351,
+          "title": "Pythonでリストではなくジェネレーターを使う"
+        },
+        {
+          "id": "https://qiita.com/kokohei39/items/b679b0e4fbe6e58c05ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n　この記事は、Pythonから外部サービス(Twitter,YouTube,ブラウザ)を利用して、Discordで動くボットを作成することを目指したものです。\n　すでにPythonでDi…",
+          "link": "https://qiita.com/kokohei39/items/b679b0e4fbe6e58c05ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-29T00:22:11.000Z",
+          "wordCount": 667,
+          "title": "Pythonで外部サービス(Discord,Twitter,YouTube,ブラウザ,Heroku)に触ってボットを作る"
+        },
+        {
+          "id": "https://qiita.com/Jun_8_8_8/items/19e636e0f1301320ef32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "私は普段phpを書いており、最近はVue.js, Nuxt.jsも触っているのですが、\n動かすことのできるコードは書けています。\nVue, Nuxt を触る前まではES5しか書いたことがなく、\nほぼ…",
+          "link": "https://qiita.com/Jun_8_8_8/items/19e636e0f1301320ef32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T23:57:50.000Z",
+          "wordCount": 366,
+          "title": "[JavaScript] import, exportについて"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/aaf85bdc62c884dd9c93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Wireshark。\n\n\nWireshark\n\nダウンロード\n\nhttps://www.wireshark.org/#download\n\nざっくり\n\nhttp://raven.air-nifty.com/nig…",
+          "link": "https://qiita.com/e99h2121/items/aaf85bdc62c884dd9c93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T21:14:56.000Z",
+          "wordCount": 289,
+          "title": "Wiresharkでパケットトレースの収集と解析"
+        },
+        {
+          "id": "https://qiita.com/ka215/items/7810ec9121cd5fd415ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ネイティブJavaScriptで日時を取り扱う場合、ビルトインされているDateオブジェクトを使うことになるのだが、このDateオブジェクトは取り扱いにクセが多く、直感的に日時を操作できない点でも…",
+          "link": "https://qiita.com/ka215/items/7810ec9121cd5fd415ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T13:57:39.000Z",
+          "wordCount": 1595,
+          "title": "JavaScriptの日時ライブラリを比較してみた"
+        },
+        {
+          "id": "https://qiita.com/hirokizaka46/items/bae17ef6f2e3d690bb4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nことし、グーグルが新しいJavaScriptライブラリ Transmatをリリースしました。現時点GithubStar数からみると、まだ多く知られないよう。\nTransmatはJavaS…",
+          "link": "https://qiita.com/hirokizaka46/items/bae17ef6f2e3d690bb4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T13:40:00.000Z",
+          "wordCount": 492,
+          "title": "ドラッグ&ドロップでデータ転送jsライブラリgoogle/transmat"
+        },
+        {
           "id": "https://qiita.com/eiji-noguchi/items/c19c1e125eaa87c3616b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "目的\n\nanacondaの仮想環境内でtesseractとPyOCRを使い、画像から文字を認識できるようにします。\n今回は画像の文字を認識し、ターミナルへ出力できるところまでの行います。\n\nこんな感じ↓…",
@@ -971,6 +1115,15 @@
           "publishedOn": "2021-07-28T09:28:42.000Z",
           "wordCount": 477,
           "title": "PythonとOCRエンジンで画像から文字を認識する"
+        },
+        {
+          "id": "https://qiita.com/ryo___eng/items/92a1dc915f32cc18d47b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先日、ようやく東京の自社開発企業様から\n内定をいただきまいて、転職活動を終えることができました。\n\nなので、自分の振り返りも含めて\n転職活動に関してまとめたいと思います。\n\nこの記事は、以下…",
+          "link": "https://qiita.com/ryo___eng/items/92a1dc915f32cc18d47b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-28T08:30:44.000Z",
+          "wordCount": 498,
+          "title": "【未経験】2ヶ月間の転職活動を振り返る"
         },
         {
           "id": "https://qiita.com/irgaly/items/0ce450dd77bd54fb560a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1097,6 +1250,15 @@
           "publishedOn": "2021-07-27T09:13:38.000Z",
           "wordCount": 775,
           "title": "AWSを活用した機械学習モデルの継続的な運用改善"
+        },
+        {
+          "id": "https://qiita.com/bobrock/items/e2a678ef4137a6cdc151?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GitHubを触り始めた超初心者のメモ\nめっちゃ触ってる人には蛇足メモ\n\n本当はMacとかLinuxでやるべきかと思うが、残念ながらwindowsなのでごめんなさい。\n\nMac及びLinuxについては虎…",
+          "link": "https://qiita.com/bobrock/items/e2a678ef4137a6cdc151?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-27T07:10:53.000Z",
+          "wordCount": 627,
+          "title": "GitHubって難しいよね"
         },
         {
           "id": "https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1871,6 +2033,15 @@
           "publishedOn": "2021-07-22T07:45:33.000Z",
           "wordCount": 552,
           "title": "Covid-19の陽性者数とbar_chart_race 備忘録"
+        },
+        {
+          "id": "https://qiita.com/HarumaroJP/items/cf9034bcf7f5e73d2b5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まえがき\n\n私が現在関わっている最大64人対戦のFPSでネットワークエンジンとしてPUN2を採用していました。\nしかし、64人対戦という大規模なFPSゲームにおいてPhotonでは仕様上限界があり、…",
+          "link": "https://qiita.com/HarumaroJP/items/cf9034bcf7f5e73d2b5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-22T07:35:20.000Z",
+          "wordCount": 312,
+          "title": "【Strix】 PhotonからStrix Cloudに移行してみた ～概要編～"
         },
         {
           "id": "https://qiita.com/chiba1sonny/items/9a16fbb3e8136e3f983c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5012,15 +5183,6 @@
           "publishedOn": "2021-06-30T23:16:57.000Z",
           "wordCount": 1136,
           "title": "SQL練習問題六講"
-        },
-        {
-          "id": "https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめまして。DMM.com PF（プラットフォーム事業本部）公式のQiitaをはじめました！今回は、簡単にDMM.comのプラットフォーム事業について、とどのような記事を公開していくかのご紹介をし…",
-          "link": "https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-06-30T02:03:40.000Z",
-          "wordCount": 318,
-          "title": "ご紹介：DMM.comPF事業本部です"
         }
       ]
     }

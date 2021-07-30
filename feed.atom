@@ -2,10 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T01:02:57.223Z</updated>
+    <updated>2021-07-30T01:07:01.017Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[体操橋本 採点巡る中傷に思い]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400171?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400171?source=rss"/>
+        <updated>2021-07-29T23:23:54.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・体操男子の個人総合で金メダルを獲得した橋本大輝が、自身のツイッターで、SNSでのひぼう中傷を受けていることについて言及。「称賛する人が増えひぼう中傷とみられる行為を行う人が少なくなることを願っています」と呼びかけた。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪で映像に乱れ 関係者は困惑]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400166?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400166?source=rss"/>
+        <updated>2021-07-29T21:45:11.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の中継映像の乱れが発生している。民放関係者は「これだけアクシデントが多いのは珍しい。人為的なミスではなく、おそらく衛星の信号トラブル」「歴史的な瞬間が乱れた映像で残ってしまう可能性もないとは言い切れません」。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体操村上SNS中傷経験 大粒の涙]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400162?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400162?source=rss"/>
+        <updated>2021-07-29T15:36:13.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の体操女子個人総合決勝で5位に入った村上茉愛。アスリートのSNSなどへの誹謗（ひぼう）中傷コメントの書き込みについて問われ、「ありました。すごく残念というか、悲しかった」と涙を流しながら話した。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベッド破壊 イスラエル選手謝罪]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400152?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400152?source=rss"/>
+        <updated>2021-07-29T13:43:38.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪イスラエル野球代表選手が選手村の部屋の段ボール製ベッドを破壊する動画を投稿した問題で、イスラエルのオリンピック委員会は、投稿した本人が謝罪する動画を公開した。選手らがベッドに乗ってジャンプする様子が映されていた。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BourneシェルとBourneシェル系(≒POSIXシェル)の違いについて]]></title>
+        <id>https://qiita.com/ko1nksm/items/6b61b0e687d206be9cb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ko1nksm/items/6b61b0e687d206be9cb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T12:57:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Bourne シェルは今では殆ど使われなくなった古いシェルの名前です。現在の主流は POSIX シェルです。POSIX シェルというのは、そういう名前のシェルがあるのではなく POSIX…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iOS]試して学ぶUnitTest[XCTest]]]></title>
+        <id>https://qiita.com/yuujioka/items/10f889fccb61b27213bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yuujioka/items/10f889fccb61b27213bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T11:05:28.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+今回は初めてUnitTestを学びたい、試してみたい方向けの内容となっています。
+よってUnitTestとは直接関係ない用語に対しても、できる限り疑問に思われそうな内容にも触れています。…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【個人開発】リモートワーク時代なので、デスク周りに特化した写真投稿サービスを作りました]]></title>
+        <id>https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T07:30:26.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Barry（ばりゅー）と申します。
+いきなりですが言わせてください。
+このサービスは今読んでいるあなたのために作ったサービスです！
+
+はじめに
+
+リモートワークが当たり前になった今、みなさんはどんなデスクで作業してますか…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリハラ?熱狂よそに冷めた声も]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400093?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400093?source=rss"/>
+        <updated>2021-07-29T07:00:24.000Z</updated>
+        <summary type="html"><![CDATA[開幕前とは一転し盛り上がりを見せている東京五輪。しかし、五輪やスポーツに関心のない層からは冷めた声も。ツイッター上には＃オリハラなどのハッシュタグも登場。積極的な開催反対派というよりは、単に興味がない人が多いとみられる。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UiPath】バージョン「21.6」リリースまとめ（前編）]]></title>
+        <id>https://qiita.com/miya_gis/items/b4054664b22ac016af90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/miya_gis/items/b4054664b22ac016af90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T05:14:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+この投稿は、RPAツール「UiPath」で 2021年6月にリリースされた、バージョン「21.6」について、「個人的に」 まとめたものです。
+
+沢山あるので、前編後編に分けて紹介します。今…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！]]></title>
+        <id>hatenablog://entry/26006613791369830</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/29/130000"/>
+        <updated>2021-07-29T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
+今回は、万能なドキュメントサービスとして人気の「Notion」を、さらにパワーアップさせて別の用途に活用できるWebサービスを厳選してご紹介します！
+すべて無料で利用できる（もしくは無料プランありの）サービスであり、機能的に優れていて誰でも扱える簡単な操作のものを厳選しました。
+現状のNotionだけでは足りない機能を多く搭載できるサービスばかりなので、ご興味ある方はぜひ参考にしてみてください！
+ちなみに、Notionについてまだよく知らないという方は以下の記事で詳細を解説しているので合わせて確認しておくことをオススメします。
+paiza.hatenablog.com
+■Notionをメルマガ配信システムに変えるサービス！
+【 NoCodeLetters 】
+
+Notionで作成したテーブルをメルマガ（ニュースレター）のコンテンツ管理用データベースとして使えるサービスが「NoCodeLetters」です。
+このサービス1つで、メルマガ登録ページの構築、コンテンツ作成＆登録、ユーザーの管理、メール配信の制御などがノーコードで実現できるようになるのが大きな特徴でしょう。
+
+使い方も簡単で、公式に提供されているNotionテンプレートを自分のアカウントに複製して内容を編集するだけで基本的なデータベースが完成します。
+
+メールのコンテンツ自体は普通にNotionでドキュメントを作成するのと同じ要領で作っていけます。
+
+また、メルマガに登録してもらうための公開用ページの作成エディタも提供されており、ダッシュボードから手軽に構築できるのは便利です。
+
+Notionであらかじめ複数のコンテンツを作成しておき、どのコンテンツを配信するかは自分で自由に制御可能です。
+将来的には「Gumroad」「stripe」などを利用して、課金機能を搭載した有…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javaの日付の差分処理はDurationを使おう！！]]></title>
+        <id>https://qiita.com/tora_kouno/items/d230f904a2b768ccb319?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tora_kouno/items/d230f904a2b768ccb319?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T03:36:25.000Z</updated>
+        <summary type="html"><![CDATA[実装を進めていく中で日付の差分を取得する処理に遭遇することがあるかと思います。
+Java 8以前ではCalendarクラスやDateクラスの基準日時からのミリ秒を取得し、差分を見るというやり方が主流…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ansibleのタグの継承について]]></title>
+        <id>https://qiita.com/torayamadajp/items/9a32e7ac3ad0bc3dd188?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/torayamadajp/items/9a32e7ac3ad0bc3dd188?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T03:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Ansibleのタグを使い始めた際に、継承について知らずにその動作に戸惑ったことがあったのでメモを残しておきます。
+今回の記事ではAnsibleのコマンドについては説明していないので、ある程度Ans…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[専門学校でゲームを作る辛さ]]></title>
+        <id>https://qiita.com/tomoi/items/41642c98ec883d59c6fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tomoi/items/41642c98ec883d59c6fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T01:29:22.000Z</updated>
+        <summary type="html"><![CDATA[おまだれ
+
+元N高のtomoiです
+N高が元々自由な学校で時間があり、個人でゲームを作っていました(プライバシーポリシーを放置していたら消えましたが、、、)
+そのためプログラムもなんとなくかけるレベ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonでリストではなくジェネレーターを使う]]></title>
+        <id>https://qiita.com/Hayate-Leo/items/46e5318e4f1195326f9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Hayate-Leo/items/46e5318e4f1195326f9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T01:20:48.000Z</updated>
+        <summary type="html"><![CDATA[ジェネレーターのメリット
+
+
+メモリを節約できる（処理速度向上）
+コードを短くできる
+
+
+リストの各要素に対する処理
+
+リストの各要素に対して処理を実行し，新しいリストを返すような場合を考えます．
+
+def …]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪日本選手へSNS中傷相次ぐ]]></title>
         <id>https://news.yahoo.co.jp/pickup/6400064?source=rss</id>
@@ -14,6 +205,19 @@
         <summary type="html"><![CDATA[東京五輪で快進撃が続く日本勢だが、選手のSNSアカウントには、応援や賛辞以外に、一方的に誹謗（ひぼう）中傷する内容も国内外から書き込まれている。過去には中傷が深刻な事態を招いたケースもあり、対策は急務との指摘。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonで外部サービス(Discord,Twitter,YouTube,ブラウザ,Heroku)に触ってボットを作る]]></title>
+        <id>https://qiita.com/kokohei39/items/b679b0e4fbe6e58c05ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kokohei39/items/b679b0e4fbe6e58c05ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-29T00:22:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+　この記事は、Pythonから外部サービス(Twitter,YouTube,ブラウザ)を利用して、Discordで動くボットを作成することを目指したものです。
+　すでにPythonでDi…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +241,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[JavaScript] import, exportについて]]></title>
+        <id>https://qiita.com/Jun_8_8_8/items/19e636e0f1301320ef32?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Jun_8_8_8/items/19e636e0f1301320ef32?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-28T23:57:50.000Z</updated>
+        <summary type="html"><![CDATA[私は普段phpを書いており、最近はVue.js, Nuxt.jsも触っているのですが、
+動かすことのできるコードは書けています。
+Vue, Nuxt を触る前まではES5しか書いたことがなく、
+ほぼ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple規約変更 FB広告収入に影]]></title>
         <id>https://news.yahoo.co.jp/pickup/6400058?source=rss</id>
         <link href="https://news.yahoo.co.jp/pickup/6400058?source=rss"/>
@@ -44,6 +261,50 @@
         <summary type="html"><![CDATA[米Facebookは28日、売上高の伸びが第3および第4四半期に「著しく鈍化する」との見通しを示した。同社は最近の米Appleによるプライバシー規約変更がターゲティング広告に影響し、第3四半期の広告収入に影を落とすと予想した。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wiresharkでパケットトレースの収集と解析]]></title>
+        <id>https://qiita.com/e99h2121/items/aaf85bdc62c884dd9c93?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/aaf85bdc62c884dd9c93?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-28T21:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Wireshark。
+
+
+Wireshark
+
+ダウンロード
+
+https://www.wireshark.org/#download
+
+ざっくり
+
+http://raven.air-nifty.com/nig…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScriptの日時ライブラリを比較してみた]]></title>
+        <id>https://qiita.com/ka215/items/7810ec9121cd5fd415ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ka215/items/7810ec9121cd5fd415ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-28T13:57:39.000Z</updated>
+        <summary type="html"><![CDATA[ネイティブJavaScriptで日時を取り扱う場合、ビルトインされているDateオブジェクトを使うことになるのだが、このDateオブジェクトは取り扱いにクセが多く、直感的に日時を操作できない点でも…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドラッグ&ドロップでデータ転送jsライブラリgoogle/transmat]]></title>
+        <id>https://qiita.com/hirokizaka46/items/bae17ef6f2e3d690bb4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hirokizaka46/items/bae17ef6f2e3d690bb4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-28T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ことし、グーグルが新しいJavaScriptライブラリ Transmatをリリースしました。現時点GithubStar数からみると、まだ多く知られないよう。
+TransmatはJavaS…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +338,24 @@ anacondaの仮想環境内でtesseractとPyOCRを使い、画像から文字を�
 今回は画像の文字を認識し、ターミナルへ出力できるところまでの行います。
 
 こんな感じ↓…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【未経験】2ヶ月間の転職活動を振り返る]]></title>
+        <id>https://qiita.com/ryo___eng/items/92a1dc915f32cc18d47b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ryo___eng/items/92a1dc915f32cc18d47b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-28T08:30:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+先日、ようやく東京の自社開発企業様から
+内定をいただきまいて、転職活動を終えることができました。
+
+なので、自分の振り返りも含めて
+転職活動に関してまとめたいと思います。
+
+この記事は、以下…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -375,6 +654,21 @@ JS app -> GraphQL -> Lambda (JS) -> RDS proxy ->…]]></summary>
 
 AI技術への注目の高まりに伴い、機械学習技術をビジネスへ適用するニーズが増えています。
 ビジネスに機械学習…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHubって難しいよね]]></title>
+        <id>https://qiita.com/bobrock/items/e2a678ef4137a6cdc151?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/bobrock/items/e2a678ef4137a6cdc151?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-27T07:10:53.000Z</updated>
+        <summary type="html"><![CDATA[GitHubを触り始めた超初心者のメモ
+めっちゃ触ってる人には蛇足メモ
+
+本当はMacとかLinuxでやるべきかと思うが、残念ながらwindowsなのでごめんなさい。
+
+Mac及びLinuxについては虎…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -1778,6 +2072,19 @@ Excel…]]></summary>
 実施時期: 2021年7月
 OS: Ubuntu20.04LTS
 Py…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Strix】 PhotonからStrix Cloudに移行してみた ～概要編～]]></title>
+        <id>https://qiita.com/HarumaroJP/items/cf9034bcf7f5e73d2b5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/HarumaroJP/items/cf9034bcf7f5e73d2b5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-22T07:35:20.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+
+私が現在関わっている最大64人対戦のFPSでネットワークエンジンとしてPUN2を採用していました。
+しかし、64人対戦という大規模なFPSゲームにおいてPhotonでは仕様上限界があり、…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -7672,78 +7979,6 @@ Azure Virtual Machines の RTT 測定には、Azure Datacenter 内のネット�
 
 未経験からプログラマとして今の会社に入社して、研修で初めて教えてもらったのがSQLでした。
 初めてプログラミングに触れるので不安もありましたが、いざやってみると意外にも簡単で拍子抜けしたこ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本郵政 デジタル化で新会社]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6397448?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6397448?source=rss"/>
-        <updated>2021-06-30T11:33:17.000Z</updated>
-        <summary type="html"><![CDATA[日本郵政は30日、経営戦略の軸とする「デジタル郵便局」構想の実現を担う新会社を7月1日付で設立すると発表した。郵便や銀行、保険といった各種サービスを一体で提供するアプリの開発などを進める予定。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高度なモーションデザインを無料で作成できるWebエディタ「Jitter」を使ってみた！]]></title>
-        <id>hatenablog://entry/26006613781574564</id>
-        <link href="https://paiza.hatenablog.com/entry/2021/06/30/160000"/>
-        <updated>2021-06-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
-今回は、Webデザインに活用できるモーションデザインをブラウザ上のエディタから誰でも簡単に作れるWebサービスをご紹介します。
-手軽に高度なアニメーションを実現できる機能が豊富に提供されており、簡単なものならマウスで数回クリックするだけで完成してしまいます。無料で書き出しにも対応しており、記事後半ではFigmaとの連携方法についても解説しています。
-Webのアニメーションにご興味ある方はぜひ参考にしてみてください！
-【 Jitter 】
-
-■「Jitter」の使い方
-それでは、「Jitter」をどのように使えばいいのか詳しく見ていきましょう！
-まずはサイトのトップページから【Try it now】ボタンをクリックして無料のユーザー登録を済ませておきます。
-
-
-メールアドレスや名前などを入力するだけなので簡単です。
-
-登録したメールアドレス宛にログイン用のリンクが送付されるのでクリックしましょう。
-
-すると自分専用のダッシュボード画面が表示されます。
-
-これで準備は完了です！
-公式チュートリアルも公開されているので、最初にいくつかチェックしておくといいでしょう。
-■「Jitter」の機能紹介
-まず最初に「Jitter」のWebエディタがどのような機能を提供しているのかについて、基本的な部分をピックアップして解説しておきます。
-新規のプロジェクトを作成するにはダッシュボード画面から「New file」ボタンをクリックします。
-
-
-モーションデザインを作成するための編集エディタが表示されます。
-
-
-このエディタはざっくり言うと、3つの画面に分かれています。
-
-それぞれの画面は以下のような役割があります。
-【レイヤー】キャンバス上に配置したオブジェクトのリスト
-【キャンバス】デザインを作成するメイン画面
-【プロパティ】オブジェクトの設定…]]></summary>
-        <author>
-            <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教職課程ICT科目必修へ 文科省]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6397416?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6397416?source=rss"/>
-        <updated>2021-06-30T05:24:10.000Z</updated>
-        <summary type="html"><![CDATA[文科省は、教職課程で学生が小中高校の教員免許を取得する際、ICTを活用した教育に関する科目の履修を義務付けることを決めた。小中学校では児童生徒に1人1台の端末配布が進んでおり、教員のICTを活用した指導力の向上が急務となっている。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ご紹介：DMM.comPF事業本部です]]></title>
-        <id>https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-06-30T02:03:40.000Z</updated>
-        <summary type="html"><![CDATA[はじめまして。DMM.com PF（プラットフォーム事業本部）公式のQiitaをはじめました！今回は、簡単にDMM.comのプラットフォーム事業について、とどのような記事を公開していくかのご紹介をし…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
