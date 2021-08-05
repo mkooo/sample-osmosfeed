@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T01:04:34.148Z</updated>
+    <updated>2021-08-05T01:05:15.901Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楽天、5G技術を独企業に提供へ]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400733?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400733?source=rss"/>
+        <updated>2021-08-04T22:59:28.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループは4日、自社で開発した「通信ネットワークの完全仮想化」と呼ばれる5G関連技術を、ドイツの通信会社1&1に提供すると発表した。契約額は公表していないが、総額で2000億円超とみられる。同技術が欧州で採用されるのは初めて。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COCOA意味は? 県トーンダウン]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400710?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400710?source=rss"/>
+        <updated>2021-08-04T12:39:58.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナ対策の接触確認アプリ「COCOA」を巡り、「意味がないならアプリを削除したい」という声。福井県では、アプリ通知によって検査に至ったケースはわずかで、陽性が判明した事例は「ほぼゼロ」。県もトーンダウンしているという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国で日本選手SNS中傷続く訳]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400708?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400708?source=rss"/>
+        <updated>2021-08-04T12:22:19.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染対策と並び、SNSの誹謗（ひぼう）中傷が東京オリンピックの大きな問題になっている。特に卓球の水谷選手らは中国のSNSでトレンド入りするほど誹謗中傷の対象となっており、何が起きているのか。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UniRx】ReactivePropertyでクールダウン実装]]></title>
+        <id>https://qiita.com/Sumatch/items/d4b05ae9a6f9af978cbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Sumatch/items/d4b05ae9a6f9af978cbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T09:34:18.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ここで言うクールダウンとは、よくアクションゲームにあるスキル再発動可能になるまでの時間のことを指します。
+
+実装したいもの
+
+
+プレイヤーが矢を撃つスキルがある
+矢を撃つスキル使用後は5秒間の…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポートフォリオとして、絵本読み聞かせ記録のWebアプリを作成しました。【Laravel / Docker / AWS / CircleCI】]]></title>
+        <id>https://qiita.com/ryamate/items/c3b4f63f8d94ab090bf8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ryamate/items/c3b4f63f8d94ab090bf8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+記事の目的
+
+ポートフォリオとして作成したWebアプリケーションの紹介記事です。
+
+主な使用技術は、言語/フレームワークはPHP/Laravel、開発環境はDocker、本番環境はAWS（E…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂とコロプラ 和解成立]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400680?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400680?source=rss"/>
+        <updated>2021-08-04T07:57:58.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は4日、コロプラのゲームアプリ「白猫プロジェクト」に関する特許権侵害訴訟について、和解することに合意したと発表。コロプラが任天堂に対して本件訴訟の和解金33億円を支払い、任天堂が同訴訟の訴えを取り下げる。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReplitのクラウドIDEがゲーム開発環境に大変身する「Kaboom editor」を使ってみた！]]></title>
+        <id>hatenablog://entry/26006613793633472</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/08/04/150000"/>
+        <updated>2021-08-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
+今回は、ブラウザ1つで多言語に対応したプログラミング環境を提供する「Replit」と、JavaScriptで手軽に2Dゲームを開発できるライブラリ「KaBoom.js」がコラボしたゲーム開発環境をご紹介します！
+誰でもブラウザからアクセスすれば無料ですぐに使えるうえ、面倒な初期設定なども自動化されているので初心者から上級者まで幅広く活用できるサービスとなっています。
+ゲーム開発にご興味ある方は、ぜひ参考にしてみてください！
+なお、JavaScriptの基本は、paizaラーニングの「JavaScript体験編」や「JavaScript入門編」で学ぶことができます。
+【 Kaboom editor 】
+
+■「Kaboom editor」の使い方
+それでは「KaBoom editor」をどのように使えばいいのか詳しく見ていきましょう！
+まずは開発環境となる「Replit」にアクセスします。まだユーザー登録を済ませていない方は以下の記事で詳細を解説しているので参考にしてみてください。
+paiza.hatenablog.com
+
+「Replit」のダッシュボード画面が表示されたら、新規プロジェクトの作成をおこないます。
+選択リストから「Kaboom (beta)」を選び、プロジェクト名を入力して「Create repl」ボタンをクリックしてください。
+
+
+たったこれだけの操作ですが、「KaBoom.js」を利用したゲーム開発環境が完成です！
+
+見た目は通常の「Replit」が提供するコードエディタのようですが、細かい部分でゲーム開発に役立つ機能がいくつか搭載されているのが特徴です。
+■「Kaboom editor」の特徴的な機能について
+ゲーム開発を始める前に、「Kaboom editor」が提供する便利な機能についてご紹介しておきます…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAP Download Managerの使い方]]></title>
+        <id>https://qiita.com/Shinya_K/items/4be34cb193072f40f9f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Shinya_K/items/4be34cb193072f40f9f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T04:55:07.000Z</updated>
+        <summary type="html"><![CDATA[SAP Download Managerとは
+
+SAPの各種インストールメディア等のダウンロードツールです。
+インストールメディアはブラウザでダウンロードすることも可能ですが、場合によってはダウンロ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android: dexOptions.preDexLibraries オプションは削除しよう]]></title>
+        <id>https://qiita.com/irgaly/items/41d2f11e45e350092c8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/irgaly/items/41d2f11e45e350092c8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T04:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Android Gradle Plugin 7.0.0 から、dexOptions が Deprecated になりました。
+
+
+Using dexOptions is obsolete.
+
+
+Androi…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁 問われる「本気度」]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6400658?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6400658?source=rss"/>
+        <updated>2021-08-04T03:51:00.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉政権が看板政策として掲げる、デジタル改革。その旗振り役となるデジタル庁が2021年9月1日に発足する。デジタル庁が果たす役割とは何か。ポイントをイラストでまとめ、解説する。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefoxが<input type="datetime-local">非対応...BootstrapのTempus Dominusも複雑...ではどうする？]]></title>
+        <id>https://qiita.com/kakudaisuke/items/eed523e3bac5e9569546?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kakudaisuke/items/eed523e3bac5e9569546?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T02:53:06.000Z</updated>
+        <summary type="html"><![CDATA[困り果てていたこと
+
+Railsアプリで、ユーザーが日付と時間を、決まったフォーマットで入力できるフォームが欲しい！
+
+ただそれだけのことでした。
+Railsには、datetime_fieldというヘ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ　IDってなんだ？？]]></title>
+        <id>https://qiita.com/jun_inoue/items/7f5da4e2d669ad97c770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/jun_inoue/items/7f5da4e2d669ad97c770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T01:28:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS案件の中で「AZ ID」なるものが出てきたので、なんぞやといろいろ調べてみました。
+
+1.アベイラビリティーゾーン（AZ）とは
+
+「AZってなんだっけ？」という方以外は、この項目を飛ばしてください…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たった数行のコードで作成できる iOS 15 の新たな SwiftUI の機能]]></title>
+        <id>https://qiita.com/MaShunzhe/items/5fff09fdef7310170bf9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/MaShunzhe/items/5fff09fdef7310170bf9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-04T00:43:18.000Z</updated>
+        <summary type="html"><![CDATA[タスクを優先順位付きで作成し、タスクを実行し、タスクをキャンセルします。
+ユーザーが「集中モード」をオンにしたかどうかを把握する
+位置情報ボタン
+(SwiftUI) SwiftUIを利用してリモー…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge Request (Pull Request) の書き方]]></title>
+        <id>https://qiita.com/autotaker1984/items/9ccb10ea0e3999c8b9a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/autotaker1984/items/9ccb10ea0e3999c8b9a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T22:58:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+チーム開発をする場合、Merge Request（MR）あるいはPull Requestを書いてコードレビューを行うことが多いでしょう。コードレビューに慣れていない場合、MRに何を書けば…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAPIとはこういうものだよ、をざっくり意識合わせするための材料]]></title>
+        <id>https://qiita.com/e99h2121/items/75cb438bcafc457a2fa1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/75cb438bcafc457a2fa1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T21:07:34.000Z</updated>
+        <summary type="html"><![CDATA[「WebAPI」といった時に各自の経験や知識、慣れ、不慣れによって認識にブレが出るなあと思い、ざっくりこの辺を皆で見てイメージ統一すると良いのではないかなと思った材料。
+このページに「WebAPIと…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[個人開発]プログラマーなら気になっちゃうWebサービスを作ってみた。]]></title>
         <id>https://qiita.com/fact11824/items/6672b190a175f17d5112?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -20,11 +228,92 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RPGでボスを倒しながらGitを学べば魔王も倒せる Fork(Gitクライアント) commit branch merge]]></title>
+        <id>https://qiita.com/dwl/items/8914d6dda3fe8901d489?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/dwl/items/8914d6dda3fe8901d489?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T12:29:12.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+
+macOS BigSur 11.4
+Fork Ver 2.7
+
+
+この記事で解説するのは以下の三つ
+
+・commit コミット（保存）
+・branch ブランチ (分岐)
+・merge マージ (…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[それでもFreeBSDを使い続けるわけ]]></title>
         <id>https://qiita.com/yamori813/items/431e55df1f93bc3f24c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/yamori813/items/431e55df1f93bc3f24c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
         <updated>2021-08-03T12:09:14.000Z</updated>
         <summary type="html"><![CDATA[力武さんが「さよなら、愛しのFreeBSD」というコラムを書かれていたが、こちらはなかなかFreeBSDから離れられない。というのは最初に触ったのがBSDであまり物覚えがよくないので、他のものを覚え…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discordでラジオを流して友達とリモートラジオ体操しよう！(AM6:30)]]></title>
+        <id>https://qiita.com/_xac/items/0544c968ffefeaf1071c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/_xac/items/0544c968ffefeaf1071c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T11:47:01.000Z</updated>
+        <summary type="html"><![CDATA[初投稿です！
+よろしくお願い致します。
+
+概要
+
+リモートラジオ体操集会で健康な夏を過ごそう！
+
+
+Pythonを用いてボイスチャンネルでラジオ(.m3u8)を再生するためのDiscord botを作る
+G…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＜Ansible＞「win_command」モジュールで文字化けしたときの対処方法]]></title>
+        <id>https://qiita.com/fumiya-konno/items/002a19e239c9bcf6ce92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/fumiya-konno/items/002a19e239c9bcf6ce92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T10:32:49.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+以前、Ansibleのwin_commandモジュールでコマンドを実行した際、出力結果が文字化けしてしまうということがありました。
+その際にansible 2.10.xのwin_comm…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify でDeveloper Preview 中のGeoを試す]]></title>
+        <id>https://qiita.com/Nekoya3/items/c370febb6ac952ea41f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Nekoya3/items/c370febb6ac952ea41f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T09:40:31.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+
+先日？3日前？Amplify GeoのDeveloper Previewが開始されたので試す記事です。
+
+現在 Amplify Geo はDeveloper Preview中であり正式リ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP初心者とお仕事した時に用意したコーディングルールのテンプレ]]></title>
+        <id>https://qiita.com/namizatork/items/79b0a8002575bc74dfd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/namizatork/items/79b0a8002575bc74dfd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-03T09:00:35.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+プロジェクトによって色々なコーディングルールがあると思うけど、
+PHP初めて触る人に PSR に準拠してね！ってだけじゃちょっと難しい時もある。
+ただ1から説明するのはめんどくさい...そう…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -181,6 +470,29 @@ Discord使っていて通知の面だったり、LINEのほうが日常的に使
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[朝飯前に学べる！便利なPythonのヒント100選【後編】]]></title>
+        <id>https://qiita.com/baby-degu/items/532bea7be058c35f61a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/baby-degu/items/532bea7be058c35f61a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-02T10:51:56.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、Fatos Morina氏による「100 Helpful Python Tips You Can Learn Before Finishing Your Morning Coffee」（2…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaps SREチームで社内GameDayを実施しました]]></title>
+        <id>https://qiita.com/psyashes/items/d44db8337c9000b86126?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/psyashes/items/d44db8337c9000b86126?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-02T09:48:57.000Z</updated>
+        <summary type="html"><![CDATA[GameDayとは
+
+起源はAWSが毎年行っているAWS re:inventの中で開催される行事の1つです。
+チームを組んでクラウド・アプリケーションを襲う謎の障害や悪意のある攻撃に対処し、トラブル…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[非エンジニアにseleniumでスクレイピングをやってもらうまでの軌跡（準備編）]]></title>
         <id>https://qiita.com/harada-s/items/9eb680748ca050b2a0e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/harada-s/items/9eb680748ca050b2a0e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -234,6 +546,21 @@ Swift…]]></summary>
         <summary type="html"><![CDATA[初めに
 
 　この記事を書こうと思ったのは、専門学校で同じような事をパワポで発表したからです。どうせなら、もっと分かり易くした上で、記事にしてしまおうと思い書きました。題名でGPUに詳しそうな感じをか…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lambdaで添付ファイル付きメールを送る]]></title>
+        <id>https://qiita.com/wdmmm/items/11ec72d2f2287e31e771?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/wdmmm/items/11ec72d2f2287e31e771?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-02T05:13:22.000Z</updated>
+        <summary type="html"><![CDATA[LambdaでNodemailerを使う機会があったのでメモを残します
+
+Nodemailerとは
+
+Node.jsで簡単にメールを送ることができるモジュールです。
+公式 https://nodemai…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -8025,178 +8352,6 @@ VR空間で操作したアバターをAR空間に表示するという一見単�
         <summary type="html"><![CDATA[任天堂はゲーム機「Nintendo Switch」の新型機として有機ELモデルを発表した。10月8日に発売する。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？]]></title>
-        <id>https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T11:37:37.000Z</updated>
-        <summary type="html"><![CDATA[TL; NR
-
-PyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)
-なのに日…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オプショナルチェイニングのドキュメント見て、jsの関数ってオブジェクトだったわと再認識した]]></title>
-        <id>https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T09:06:29.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-こんにちは。皆さん、箱アイス買いますか？夏になるとパッケージの裏がはがきになってて、懸賞応募できるようになっているアイスとかありますよね！私は毎年あずきバー食べて送ってます、筆者です
-
-(…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~]]></title>
-        <id>https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T07:37:45.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-普通、試験ってスキルアップしてから受けるものですよね？
-進めていくとスキルアップできる試験が存在するのを知っていますか？
-
-そんな型破りな試験が存在するのです。
-
-【無料公開】fwywd 採…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊藤詩織さんを中傷 賠償命令]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6397950?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6397950?source=rss"/>
-        <updated>2021-07-06T04:59:32.000Z</updated>
-        <summary type="html"><![CDATA[ツイッターに虚偽の投稿をされて名誉を傷つけられたとして、ジャーナリストの伊藤詩織さんが、元東京大大学院特任准教授に110万円の損害賠償を求めた訴訟の判決で、東京地裁（藤沢裕介裁判長）は6日、33万円の支払いを命じた。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「死の青い画面」Win11では黒?]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6397949?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6397949?source=rss"/>
-        <updated>2021-07-06T04:45:53.000Z</updated>
-        <summary type="html"><![CDATA[「死のブルースクリーン」（BSOD）は「Windows」の世界でよく知られており、何らかの重大な問題があることを示す警告として長く用いられている。しかし「Windows 11」では、BSODという頭字語のBがblackへと変わっているという。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windowsのスクリーンショットの使い分け]]></title>
-        <id>https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T04:37:39.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-初めまして、ARIの2年目土井と申します。
-弊社のOrganizationsからスクリーンショットに関する記事
-
-https://qiita.com/noji505/items/59eb89…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[１００万円失いながらハッキングを乗り越え誰でも１分で切り抜きを作れるサービスを公開するまでの失敗と学び]]></title>
-        <id>https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T03:06:05.000Z</updated>
-        <summary type="html"><![CDATA[先日、誰でも最短1分でYouTubeの切り抜きを作れるウェブサービスを公開しました。
-
-私はプログラミングの勉強を始めて1年半の初学者ですが、個人開発でサービスを公開するまでに、数多くの失敗と苦労をし…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AWS】AWS CDK初心者のわたしが開発を始めるにあたり参考になったサイトまとめ（ちょこっとハンズオン有）]]></title>
-        <id>https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T00:16:33.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-先日AWS CDKを初めて触ってみたのですが、使ってみて想像していたより便利だったのと、AWSの勉強を始めて年月が浅い方向けに解説がされているようなサイトやブログがあまり多くないように感…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AWS初心者】AWSソリューションアーキテクトアソシエイト資格勉強で得た知識でサーバー構築をする]]></title>
-        <id>https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-05T23:50:44.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-今年4月からAWSソリューションアーキテクトアソシエイトの勉強を始めました。
-知識の定着には手を動かすのが良いと思い、AWSのサービスを幾つか使ってサーバー構築を行いました。
-
-アソシエイ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[githubに間違って機密データを上げてしまった時の対処]]></title>
-        <id>https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-05T23:22:40.000Z</updated>
-        <summary type="html"><![CDATA[GitHubにAPIのキーが書かれたファイルを上げてしまったので、対処の流れを書き残しておきます。
-　BFGを使用する方法とfilter-branchを使用する方法があるのですが、今回は後者をやっ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者向け】AWS-SAA勉強を始まる前に確認しておくと役に立つかも知れない基本用語チェックリスト]]></title>
-        <id>https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-05T22:57:32.000Z</updated>
-        <summary type="html"><![CDATA[勉強方法が完全に間違っていた
-
-私は今年２月末、AWS-SAAに合格しました。勉強期間は約３ヶ月で、最初の２ヶ月は勉強内容がとても難しく、なかなか進むことができませんでした。SAA受験書にある内容を…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2021年7月執筆】Twitterでのsearch APIの制約について]]></title>
-        <id>https://qiita.com/komugi_papa/items/8abde502fedd0a1e9c56?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/komugi_papa/items/8abde502fedd0a1e9c56?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-05T21:01:21.000Z</updated>
-        <summary type="html"><![CDATA[私事ではありますが、2020年5月にコーギーという中型犬をお迎えし、楽しく日々を過ごしています。
-
-
-
-「コーギーについて、TwitterAPIで根掘り葉掘り分析してやる！」
-
-と意気込んでいましたが、Tw…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ANGEL Dojo】なぜ入社3年未満のWebエンジニアがAWSを学ぶのか]]></title>
-        <id>https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-05T14:03:36.000Z</updated>
-        <summary type="html"><![CDATA[1.はじめに
-
-皆さん、こんにちは。
-新卒入社2年目の Web エンジニアです。
-
-この度、AWS が主催する疑似プロジェクト「ANGEL DOJO」に参加する機会をいただいたので、なぜインフラでもな…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
 </feed>

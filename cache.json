@@ -12,6 +12,51 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6400733?source=rss",
+          "author": null,
+          "description": "楽天グループは4日、自社で開発した「通信ネットワークの完全仮想化」と呼ばれる5G関連技術を、ドイツの通信会社1&1に提供すると発表した。契約額は公表していないが、総額で2000億円超とみられる。同技術が欧州で採用されるのは初めて。",
+          "link": "https://news.yahoo.co.jp/pickup/6400733?source=rss",
+          "publishedOn": "2021-08-04T22:59:28.000Z",
+          "wordCount": 60,
+          "title": "楽天、5G技術を独企業に提供へ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400710?source=rss",
+          "author": null,
+          "description": "新型コロナ対策の接触確認アプリ「COCOA」を巡り、「意味がないならアプリを削除したい」という声。福井県では、アプリ通知によって検査に至ったケースはわずかで、陽性が判明した事例は「ほぼゼロ」。県もトーンダウンしているという。",
+          "link": "https://news.yahoo.co.jp/pickup/6400710?source=rss",
+          "publishedOn": "2021-08-04T12:39:58.000Z",
+          "wordCount": 65,
+          "title": "COCOA意味は? 県トーンダウン"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400708?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスの感染対策と並び、SNSの誹謗（ひぼう）中傷が東京オリンピックの大きな問題になっている。特に卓球の水谷選手らは中国のSNSでトレンド入りするほど誹謗中傷の対象となっており、何が起きているのか。",
+          "link": "https://news.yahoo.co.jp/pickup/6400708?source=rss",
+          "publishedOn": "2021-08-04T12:22:19.000Z",
+          "wordCount": 63,
+          "title": "中国で日本選手SNS中傷続く訳"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400680?source=rss",
+          "author": null,
+          "description": "任天堂は4日、コロプラのゲームアプリ「白猫プロジェクト」に関する特許権侵害訴訟について、和解することに合意したと発表。コロプラが任天堂に対して本件訴訟の和解金33億円を支払い、任天堂が同訴訟の訴えを取り下げる。",
+          "link": "https://news.yahoo.co.jp/pickup/6400680?source=rss",
+          "publishedOn": "2021-08-04T07:57:58.000Z",
+          "wordCount": 60,
+          "title": "任天堂とコロプラ 和解成立"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6400658?source=rss",
+          "author": null,
+          "description": "菅義偉政権が看板政策として掲げる、デジタル改革。その旗振り役となるデジタル庁が2021年9月1日に発足する。デジタル庁が果たす役割とは何か。ポイントをイラストでまとめ、解説する。",
+          "link": "https://news.yahoo.co.jp/pickup/6400658?source=rss",
+          "publishedOn": "2021-08-04T03:51:00.000Z",
+          "wordCount": 63,
+          "title": "デジタル庁 問われる「本気度」"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6400579?source=rss",
           "author": null,
           "description": "OKIは、AI（人工知能）が表情や視線から顧客の興味関心を推定して、おすすめ商品をレコメンドする「提案型注文システム」の実証実験をサブウェイ渋谷桜丘店（東京都渋谷区）で実施する。「迷って決められない」という悩みの解消を狙う。",
@@ -811,24 +856,6 @@
           "publishedOn": "2021-07-06T13:51:46.000Z",
           "wordCount": 63,
           "title": "新型Switch発表 10月8日に発売"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6397950?source=rss",
-          "author": null,
-          "description": "ツイッターに虚偽の投稿をされて名誉を傷つけられたとして、ジャーナリストの伊藤詩織さんが、元東京大大学院特任准教授に110万円の損害賠償を求めた訴訟の判決で、東京地裁（藤沢裕介裁判長）は6日、33万円の支払いを命じた。",
-          "link": "https://news.yahoo.co.jp/pickup/6397950?source=rss",
-          "publishedOn": "2021-07-06T04:59:32.000Z",
-          "wordCount": 61,
-          "title": "伊藤詩織さんを中傷 賠償命令"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6397949?source=rss",
-          "author": null,
-          "description": "「死のブルースクリーン」（BSOD）は「Windows」の世界でよく知られており、何らかの重大な問題があることを示す警告として長く用いられている。しかし「Windows 11」では、BSODという頭字語のBがblackへと変わっているという。",
-          "link": "https://news.yahoo.co.jp/pickup/6397949?source=rss",
-          "publishedOn": "2021-07-06T04:45:53.000Z",
-          "wordCount": 71,
-          "title": "「死の青い画面」Win11では黒?"
         }
       ]
     },
@@ -837,6 +864,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613793633472",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、ブラウザ1つで多言語に対応したプログラミング環境を提供する「Replit」と、JavaScriptで手軽に2Dゲームを開発できるライブラリ「KaBoom.js」がコラボしたゲーム開発環境をご紹介します！\n誰でもブラウザからアクセスすれば無料ですぐに使えるうえ、面倒な初期設定なども自動化されているので初心者から上級者まで幅広く活用できるサービスとなっています。\nゲーム開発にご興味ある方は、ぜひ参考にしてみてください！\nなお、JavaScriptの基本は、paizaラーニングの「JavaScript体験編」や「JavaScript入門編」で学ぶことができます。\n【 Kaboom editor 】\n\n■「Kaboom editor」の使い方\nそれでは「KaBoom editor」をどのように使えばいいのか詳しく見ていきましょう！\nまずは開発環境となる「Replit」にアクセスします。まだユーザー登録を済ませていない方は以下の記事で詳細を解説しているので参考にしてみてください。\npaiza.hatenablog.com\n\n「Replit」のダッシュボード画面が表示されたら、新規プロジェクトの作成をおこないます。\n選択リストから「Kaboom (beta)」を選び、プロジェクト名を入力して「Create repl」ボタンをクリックしてください。\n\n\nたったこれだけの操作ですが、「KaBoom.js」を利用したゲーム開発環境が完成です！\n\n見た目は通常の「Replit」が提供するコードエディタのようですが、細かい部分でゲーム開発に役立つ機能がいくつか搭載されているのが特徴です。\n■「Kaboom editor」の特徴的な機能について\nゲーム開発を始める前に、「Kaboom editor」が提供する便利な機能についてご紹介しておきます…",
+          "link": "https://paiza.hatenablog.com/entry/2021/08/04/150000",
+          "publishedOn": "2021-08-04T06:00:00.000Z",
+          "wordCount": 427,
+          "title": "ReplitのクラウドIDEがゲーム開発環境に大変身する「Kaboom editor」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210804/20210804113909.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613792068981",
           "author": null,
@@ -1027,6 +1068,87 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/Sumatch/items/d4b05ae9a6f9af978cbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nここで言うクールダウンとは、よくアクションゲームにあるスキル再発動可能になるまでの時間のことを指します。\n\n実装したいもの\n\n\nプレイヤーが矢を撃つスキルがある\n矢を撃つスキル使用後は5秒間の…",
+          "link": "https://qiita.com/Sumatch/items/d4b05ae9a6f9af978cbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T09:34:18.000Z",
+          "wordCount": 545,
+          "title": "【UniRx】ReactivePropertyでクールダウン実装"
+        },
+        {
+          "id": "https://qiita.com/ryamate/items/c3b4f63f8d94ab090bf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n記事の目的\n\nポートフォリオとして作成したWebアプリケーションの紹介記事です。\n\n主な使用技術は、言語/フレームワークはPHP/Laravel、開発環境はDocker、本番環境はAWS（E…",
+          "link": "https://qiita.com/ryamate/items/c3b4f63f8d94ab090bf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T08:52:00.000Z",
+          "wordCount": 589,
+          "title": "ポートフォリオとして、絵本読み聞かせ記録のWebアプリを作成しました。【Laravel / Docker / AWS / CircleCI】"
+        },
+        {
+          "id": "https://qiita.com/Shinya_K/items/4be34cb193072f40f9f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "SAP Download Managerとは\n\nSAPの各種インストールメディア等のダウンロードツールです。\nインストールメディアはブラウザでダウンロードすることも可能ですが、場合によってはダウンロ…",
+          "link": "https://qiita.com/Shinya_K/items/4be34cb193072f40f9f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T04:55:07.000Z",
+          "wordCount": 277,
+          "title": "SAP Download Managerの使い方"
+        },
+        {
+          "id": "https://qiita.com/irgaly/items/41d2f11e45e350092c8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Android Gradle Plugin 7.0.0 から、dexOptions が Deprecated になりました。\n\n\nUsing dexOptions is obsolete.\n\n\nAndroi…",
+          "link": "https://qiita.com/irgaly/items/41d2f11e45e350092c8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T04:46:03.000Z",
+          "wordCount": 264,
+          "title": "Android: dexOptions.preDexLibraries オプションは削除しよう"
+        },
+        {
+          "id": "https://qiita.com/kakudaisuke/items/eed523e3bac5e9569546?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "困り果てていたこと\n\nRailsアプリで、ユーザーが日付と時間を、決まったフォーマットで入力できるフォームが欲しい！\n\nただそれだけのことでした。\nRailsには、datetime_fieldというヘ…",
+          "link": "https://qiita.com/kakudaisuke/items/eed523e3bac5e9569546?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T02:53:06.000Z",
+          "wordCount": 361,
+          "title": "Firefoxが<input type=\"datetime-local\">非対応...BootstrapのTempus Dominusも複雑...ではどうする？"
+        },
+        {
+          "id": "https://qiita.com/jun_inoue/items/7f5da4e2d669ad97c770?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "AWS案件の中で「AZ ID」なるものが出てきたので、なんぞやといろいろ調べてみました。\n\n1.アベイラビリティーゾーン（AZ）とは\n\n「AZってなんだっけ？」という方以外は、この項目を飛ばしてください…",
+          "link": "https://qiita.com/jun_inoue/items/7f5da4e2d669ad97c770?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T01:28:15.000Z",
+          "wordCount": 310,
+          "title": "AZ　IDってなんだ？？"
+        },
+        {
+          "id": "https://qiita.com/MaShunzhe/items/5fff09fdef7310170bf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "タスクを優先順位付きで作成し、タスクを実行し、タスクをキャンセルします。\nユーザーが「集中モード」をオンにしたかどうかを把握する\n位置情報ボタン\n(SwiftUI) SwiftUIを利用してリモー…",
+          "link": "https://qiita.com/MaShunzhe/items/5fff09fdef7310170bf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T00:43:18.000Z",
+          "wordCount": 712,
+          "title": "たった数行のコードで作成できる iOS 15 の新たな SwiftUI の機能"
+        },
+        {
+          "id": "https://qiita.com/autotaker1984/items/9ccb10ea0e3999c8b9a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nチーム開発をする場合、Merge Request（MR）あるいはPull Requestを書いてコードレビューを行うことが多いでしょう。コードレビューに慣れていない場合、MRに何を書けば…",
+          "link": "https://qiita.com/autotaker1984/items/9ccb10ea0e3999c8b9a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T22:58:01.000Z",
+          "wordCount": 369,
+          "title": "Merge Request (Pull Request) の書き方"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/75cb438bcafc457a2fa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「WebAPI」といった時に各自の経験や知識、慣れ、不慣れによって認識にブレが出るなあと思い、ざっくりこの辺を皆で見てイメージ統一すると良いのではないかなと思った材料。\nこのページに「WebAPIと…",
+          "link": "https://qiita.com/e99h2121/items/75cb438bcafc457a2fa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T21:07:34.000Z",
+          "wordCount": 226,
+          "title": "WebAPIとはこういうものだよ、をざっくり意識合わせするための材料"
+        },
+        {
           "id": "https://qiita.com/fact11824/items/6672b190a175f17d5112?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "まえがき\n\nこんにちは、北海道札幌市で活動しているWebエンジニアチーム「fact」です。\n弊チームは2020/5より活動開始したチームです。現在エンジニア歴１〜２年のメンバーが2名で活動しています…",
@@ -1036,6 +1158,15 @@
           "title": "[個人開発]プログラマーなら気になっちゃうWebサービスを作ってみた。"
         },
         {
+          "id": "https://qiita.com/dwl/items/8914d6dda3fe8901d489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\nmacOS BigSur 11.4\nFork Ver 2.7\n\n\nこの記事で解説するのは以下の三つ\n\n・commit コミット（保存）\n・branch ブランチ (分岐)\n・merge マージ (…",
+          "link": "https://qiita.com/dwl/items/8914d6dda3fe8901d489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T12:29:12.000Z",
+          "wordCount": 385,
+          "title": "RPGでボスを倒しながらGitを学べば魔王も倒せる Fork(Gitクライアント) commit branch merge"
+        },
+        {
           "id": "https://qiita.com/yamori813/items/431e55df1f93bc3f24c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "力武さんが「さよなら、愛しのFreeBSD」というコラムを書かれていたが、こちらはなかなかFreeBSDから離れられない。というのは最初に触ったのがBSDであまり物覚えがよくないので、他のものを覚え…",
@@ -1043,6 +1174,42 @@
           "publishedOn": "2021-08-03T12:09:14.000Z",
           "wordCount": 264,
           "title": "それでもFreeBSDを使い続けるわけ"
+        },
+        {
+          "id": "https://qiita.com/_xac/items/0544c968ffefeaf1071c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初投稿です！\nよろしくお願い致します。\n\n概要\n\nリモートラジオ体操集会で健康な夏を過ごそう！\n\n\nPythonを用いてボイスチャンネルでラジオ(.m3u8)を再生するためのDiscord botを作る\nG…",
+          "link": "https://qiita.com/_xac/items/0544c968ffefeaf1071c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T11:47:01.000Z",
+          "wordCount": 538,
+          "title": "Discordでラジオを流して友達とリモートラジオ体操しよう！(AM6:30)"
+        },
+        {
+          "id": "https://qiita.com/fumiya-konno/items/002a19e239c9bcf6ce92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n以前、Ansibleのwin_commandモジュールでコマンドを実行した際、出力結果が文字化けしてしまうということがありました。\nその際にansible 2.10.xのwin_comm…",
+          "link": "https://qiita.com/fumiya-konno/items/002a19e239c9bcf6ce92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T10:32:49.000Z",
+          "wordCount": 673,
+          "title": "＜Ansible＞「win_command」モジュールで文字化けしたときの対処方法"
+        },
+        {
+          "id": "https://qiita.com/Nekoya3/items/c370febb6ac952ea41f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL;DR\n\n先日？3日前？Amplify GeoのDeveloper Previewが開始されたので試す記事です。\n\n現在 Amplify Geo はDeveloper Preview中であり正式リ…",
+          "link": "https://qiita.com/Nekoya3/items/c370febb6ac952ea41f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T09:40:31.000Z",
+          "wordCount": 1282,
+          "title": "Amplify でDeveloper Preview 中のGeoを試す"
+        },
+        {
+          "id": "https://qiita.com/namizatork/items/79b0a8002575bc74dfd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nプロジェクトによって色々なコーディングルールがあると思うけど、\nPHP初めて触る人に PSR に準拠してね！ってだけじゃちょっと難しい時もある。\nただ1から説明するのはめんどくさい...そう…",
+          "link": "https://qiita.com/namizatork/items/79b0a8002575bc74dfd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-03T09:00:35.000Z",
+          "wordCount": 655,
+          "title": "PHP初心者とお仕事した時に用意したコーディングルールのテンプレ"
         },
         {
           "id": "https://qiita.com/soukun1988/items/6a09a3bf3fa5b8eb0002?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1126,6 +1293,24 @@
           "title": "Firefox OSの軌跡"
         },
         {
+          "id": "https://qiita.com/baby-degu/items/532bea7be058c35f61a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事は、Fatos Morina氏による「100 Helpful Python Tips You Can Learn Before Finishing Your Morning Coffee」（2…",
+          "link": "https://qiita.com/baby-degu/items/532bea7be058c35f61a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-02T10:51:56.000Z",
+          "wordCount": 2015,
+          "title": "朝飯前に学べる！便利なPythonのヒント100選【後編】"
+        },
+        {
+          "id": "https://qiita.com/psyashes/items/d44db8337c9000b86126?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GameDayとは\n\n起源はAWSが毎年行っているAWS re:inventの中で開催される行事の1つです。\nチームを組んでクラウド・アプリケーションを襲う謎の障害や悪意のある攻撃に対処し、トラブル…",
+          "link": "https://qiita.com/psyashes/items/d44db8337c9000b86126?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-02T09:48:57.000Z",
+          "wordCount": 299,
+          "title": "Metaps SREチームで社内GameDayを実施しました"
+        },
+        {
           "id": "https://qiita.com/harada-s/items/9eb680748ca050b2a0e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n非エンジニアの方（プログラム一切勉強したことない＆GUIしか触ったことないようなレベル）にpythonでスクレイピングが出来るように色々教えた流れをまとめた個人的備忘録です。今後他の人に…",
@@ -1151,6 +1336,15 @@
           "publishedOn": "2021-08-02T07:30:43.000Z",
           "wordCount": 489,
           "title": "GPUでIFを使うな！？"
+        },
+        {
+          "id": "https://qiita.com/wdmmm/items/11ec72d2f2287e31e771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "LambdaでNodemailerを使う機会があったのでメモを残します\n\nNodemailerとは\n\nNode.jsで簡単にメールを送ることができるモジュールです。\n公式 https://nodemai…",
+          "link": "https://qiita.com/wdmmm/items/11ec72d2f2287e31e771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-02T05:13:22.000Z",
+          "wordCount": 353,
+          "title": "Lambdaで添付ファイル付きメールを送る"
         },
         {
           "id": "https://qiita.com/Idenon/items/fab1b778d9a98654b1f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5228,105 +5422,6 @@
           "publishedOn": "2021-07-06T15:31:53.000Z",
           "wordCount": 553,
           "title": "【UE4】完全に独立したカスタムクラッシュレポーターを実装する"
-        },
-        {
-          "id": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "TL; NR\n\nPyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)\nなのに日…",
-          "link": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T11:37:37.000Z",
-          "wordCount": 538,
-          "title": "「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？"
-        },
-        {
-          "id": "https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこんにちは。皆さん、箱アイス買いますか？夏になるとパッケージの裏がはがきになってて、懸賞応募できるようになっているアイスとかありますよね！私は毎年あずきバー食べて送ってます、筆者です\n\n(…",
-          "link": "https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T09:06:29.000Z",
-          "wordCount": 321,
-          "title": "オプショナルチェイニングのドキュメント見て、jsの関数ってオブジェクトだったわと再認識した"
-        },
-        {
-          "id": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n普通、試験ってスキルアップしてから受けるものですよね？\n進めていくとスキルアップできる試験が存在するのを知っていますか？\n\nそんな型破りな試験が存在するのです。\n\n【無料公開】fwywd 採…",
-          "link": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T07:37:45.000Z",
-          "wordCount": 876,
-          "title": "【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~"
-        },
-        {
-          "id": "https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n初めまして、ARIの2年目土井と申します。\n弊社のOrganizationsからスクリーンショットに関する記事\n\nhttps://qiita.com/noji505/items/59eb89…",
-          "link": "https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T04:37:39.000Z",
-          "wordCount": 312,
-          "title": "Windowsのスクリーンショットの使い分け"
-        },
-        {
-          "id": "https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "先日、誰でも最短1分でYouTubeの切り抜きを作れるウェブサービスを公開しました。\n\n私はプログラミングの勉強を始めて1年半の初学者ですが、個人開発でサービスを公開するまでに、数多くの失敗と苦労をし…",
-          "link": "https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T03:06:05.000Z",
-          "wordCount": 398,
-          "title": "１００万円失いながらハッキングを乗り越え誰でも１分で切り抜きを作れるサービスを公開するまでの失敗と学び"
-        },
-        {
-          "id": "https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n先日AWS CDKを初めて触ってみたのですが、使ってみて想像していたより便利だったのと、AWSの勉強を始めて年月が浅い方向けに解説がされているようなサイトやブログがあまり多くないように感…",
-          "link": "https://qiita.com/risa_someya/items/8d87853c00c02fbb8bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T00:16:33.000Z",
-          "wordCount": 830,
-          "title": "【AWS】AWS CDK初心者のわたしが開発を始めるにあたり参考になったサイトまとめ（ちょこっとハンズオン有）"
-        },
-        {
-          "id": "https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n今年4月からAWSソリューションアーキテクトアソシエイトの勉強を始めました。\n知識の定着には手を動かすのが良いと思い、AWSのサービスを幾つか使ってサーバー構築を行いました。\n\nアソシエイ…",
-          "link": "https://qiita.com/kokohei39/items/6e6ffb795c43ce14243b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-05T23:50:44.000Z",
-          "wordCount": 828,
-          "title": "【AWS初心者】AWSソリューションアーキテクトアソシエイト資格勉強で得た知識でサーバー構築をする"
-        },
-        {
-          "id": "https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "GitHubにAPIのキーが書かれたファイルを上げてしまったので、対処の流れを書き残しておきます。\n　BFGを使用する方法とfilter-branchを使用する方法があるのですが、今回は後者をやっ…",
-          "link": "https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-05T23:22:40.000Z",
-          "wordCount": 450,
-          "title": "githubに間違って機密データを上げてしまった時の対処"
-        },
-        {
-          "id": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "勉強方法が完全に間違っていた\n\n私は今年２月末、AWS-SAAに合格しました。勉強期間は約３ヶ月で、最初の２ヶ月は勉強内容がとても難しく、なかなか進むことができませんでした。SAA受験書にある内容を…",
-          "link": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-05T22:57:32.000Z",
-          "wordCount": 354,
-          "title": "【初心者向け】AWS-SAA勉強を始まる前に確認しておくと役に立つかも知れない基本用語チェックリスト"
-        },
-        {
-          "id": "https://qiita.com/komugi_papa/items/8abde502fedd0a1e9c56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "私事ではありますが、2020年5月にコーギーという中型犬をお迎えし、楽しく日々を過ごしています。\n\n\n\n「コーギーについて、TwitterAPIで根掘り葉掘り分析してやる！」\n\nと意気込んでいましたが、Tw…",
-          "link": "https://qiita.com/komugi_papa/items/8abde502fedd0a1e9c56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-05T21:01:21.000Z",
-          "wordCount": 479,
-          "title": "【2021年7月執筆】Twitterでのsearch APIの制約について"
-        },
-        {
-          "id": "https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1.はじめに\n\n皆さん、こんにちは。\n新卒入社2年目の Web エンジニアです。\n\nこの度、AWS が主催する疑似プロジェクト「ANGEL DOJO」に参加する機会をいただいたので、なぜインフラでもな…",
-          "link": "https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-05T14:03:36.000Z",
-          "wordCount": 466,
-          "title": "【ANGEL Dojo】なぜ入社3年未満のWebエンジニアがAWSを学ぶのか"
         }
       ]
     }
