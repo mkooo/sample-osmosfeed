@@ -12,6 +12,15 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6400935?source=rss",
+          "author": null,
+          "description": "東京五輪の女子マラソンを生中継している日本テレビ系の解説を務める増田明美さんが7日、レース中にツイッターのトレンドワード入り。増田さんは、選手の秘話を存分に伝える「細かすぎる解説」で知られる。",
+          "link": "https://news.yahoo.co.jp/pickup/6400935?source=rss",
+          "publishedOn": "2021-08-06T23:45:11.000Z",
+          "wordCount": 65,
+          "title": "増田明美氏 解説中トレンド入り"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6400763?source=rss",
           "author": null,
           "description": "政府は来月1日に発足するデジタル庁の人事について、事務方トップの「デジタル監」に実業家の伊藤穰一氏を起用する方向で最終調整に入った。政府関係者は「国際的な知見や経験が期待されている」としている。",
@@ -793,51 +802,6 @@
           "publishedOn": "2021-07-09T06:34:15.000Z",
           "wordCount": 61,
           "title": "物議のネットさい銭 一時停止"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398174?source=rss",
-          "author": null,
-          "description": "米グーグルが、日本で送金アプリを運営する新興企業「pring（プリン）」を買収することが8日、分かった。グーグルは、資金移動業者として登録しているプリンを買収し、日本で個人間の送金サービスに本格参入する意向とみられる。",
-          "link": "https://news.yahoo.co.jp/pickup/6398174?source=rss",
-          "publishedOn": "2021-07-08T12:54:05.000Z",
-          "wordCount": 70,
-          "title": "Google 日本で送金本格参入へ"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398163?source=rss",
-          "author": null,
-          "description": "米国の37州・特別区の司法長官は7日、グーグルがアンドロイドを搭載したスマートフォン向けアプリストアの独占的地位を維持するために競合を買収するなどし、反トラスト法（独占禁止法）違反したとして連邦地裁に提訴した。",
-          "link": "https://news.yahoo.co.jp/pickup/6398163?source=rss",
-          "publishedOn": "2021-07-08T10:23:38.000Z",
-          "wordCount": 68,
-          "title": "独禁法違反 米複数州Google提訴"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398157?source=rss",
-          "author": null,
-          "description": "現在のスマートフォンは、ほとんどがバッテリー内蔵で、交換できない。スマートフォンからPCまで、バッテリー交換できない形に変わってからもう10年以上が経過している。なぜ交換できなくなったのか、そこには複数の理由があるという。",
-          "link": "https://news.yahoo.co.jp/pickup/6398157?source=rss",
-          "publishedOn": "2021-07-08T09:19:03.000Z",
-          "wordCount": 68,
-          "title": "なぜ スマホ電池交換できぬ理由"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398151?source=rss",
-          "author": null,
-          "description": "7月9日公開予定の映画「100日間生きたワニ」を巡り、映画レビューサイトで荒らし行為が横行している。「金と時間の無駄」「超駄作」などのひぼう中傷のほか、全く関係のないストーリーをつづった「ネタレビュー」のような投稿も多いという。",
-          "link": "https://news.yahoo.co.jp/pickup/6398151?source=rss",
-          "publishedOn": "2021-07-08T08:34:47.000Z",
-          "wordCount": 65,
-          "title": "100ワニ映画に「荒らし」横行"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398088?source=rss",
-          "author": null,
-          "description": "中国の規制当局は7日、独占禁止法に違反したとして中国インターネット通販最大手のアリババ集団などに罰金を科す決定を出したと発表した。アリババ集団などが関わった22案件について、それぞれ50万元（約850万円）の罰金を科した。",
-          "link": "https://news.yahoo.co.jp/pickup/6398088?source=rss",
-          "publishedOn": "2021-07-07T13:39:49.000Z",
-          "wordCount": 56,
-          "title": "中国当局 滴滴やアリババに罰金"
         }
       ]
     },
@@ -846,6 +810,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613792109401",
+          "author": null,
+          "description": "こんにちは。倉内です。\nPythonはAI・機械学習だけでなく、Webサービスの開発やスマホアプリの開発など広く採用されており、「ITエンジニアがもっとも学びたい言語」（ITmedia掲載）では下位を大きく離して1位を獲得しています。\nシンプルで基本文法を理解しやすいと言われているため、学んでみたいと思っている方も多いと思いますが、中にはプログラミング自体に初めて挑戦するという方もいらっしゃるでしょう。\nただどのように勉強したらよいのか、たくさんある学習教材の中からどれを選ぶといいのかなど、初心者の方にはなかなか難しいと思います。\nそこで今回は、ゼロからPythonの基本を学ぶためのおすすめの勉強法や教材をまとめて紹介します！\n初心者向けPython学習法5選\n学習サイトで実際にプログラミングしながら学ぶ\nこんな人に特におすすめ\nおすすめ学習サイト\n独学の定番・書籍で学ぶ\nこんな人に特におすすめ\nおすすめ書籍\nスマホアプリで隙間時間に学ぶ\nこんな人に特におすすめ\nおすすめ学習アプリ\nスクールで期限を決めて目標達成を目指す\nこんな人に特におすすめ\nプログラミングスクール検索サイト\n勉強会で学びと仲間を得る\nこんな人に特におすすめ\nIT勉強会検索サイト\nまとめ\n初心者向けPython学習法5選\n学習サイトで実際にプログラミングしながら学ぶ\n無料～安価な料金で基本から応用までしっかり学ぶことができる学習サイトがたくさんあります。プログラミングの勉強にこれを利用しない手はありません。\nインターネット環境があればブラウザでコードを書いて実行できるサイトも多く、初心者が挫折しがちな環境構築をせずにプログラミング学習をスタートできます。\nこんな人に特におすすめ\n学習コースを利用して基礎文法から体系立ててPythonを学びたい\n知識をインプットするだけでなく同時にアウトプットもしたい\nPC…",
+          "link": "https://paiza.hatenablog.com/entry/2021/08/06/130000",
+          "publishedOn": "2021-08-06T04:00:00.000Z",
+          "wordCount": 332,
+          "title": "ゼロからPythonの基本を学ぶには？初心者におすすめの勉強法＆教材まとめ",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210730/20210730190628.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613793633472",
           "author": null,
@@ -1036,6 +1014,105 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/omini/items/7713844a297ce77cd3d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PhoneixでBootstrap Iconsを使う\n\nliveviewやlivecomponentでアイコンを使いたくなったのですが、\n\nhexに登録されているライブラリがあまり使いやすくなかったた…",
+          "link": "https://qiita.com/omini/items/7713844a297ce77cd3d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T10:18:57.000Z",
+          "wordCount": 296,
+          "title": "Elixir Phoenix でのbootstrap iconの使い方"
+        },
+        {
+          "id": "https://qiita.com/takuya_0301/items/c6e40166c37b8436698c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nふとしたきかっけでKubeflowを触る機会があったので、OKEにインストールしてみました。\nせっかくなので、インストール手順をまとめてみようと思います。\n\nKubeflowとは\n\nKube…",
+          "link": "https://qiita.com/takuya_0301/items/c6e40166c37b8436698c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T07:48:49.000Z",
+          "wordCount": 549,
+          "title": "Oracle Container Engine for Kubernetes(OKE)にKubeflowをインストールしてみる"
+        },
+        {
+          "id": "https://qiita.com/swift_bird/items/784ee5e3ff2a06e0ed11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ライフサイクルとは\n\nライフサイクルとは、人間でいうと誕生してから死ぬまでのこと\nこの記事の文脈では、画面が誕生してから消滅するまでのことです！\n\nStatelessWidgetのライフサイクル\n\nab…",
+          "link": "https://qiita.com/swift_bird/items/784ee5e3ff2a06e0ed11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T05:42:19.000Z",
+          "wordCount": 422,
+          "title": "Flutterライフサイクルについて理解する"
+        },
+        {
+          "id": "https://qiita.com/jamojisan/items/0a663f58832c4c2e8fb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは！データサイエンティストのじゃむです。\n本日は、時系列データで使用する移動平均と移動分散を逐次的に求めるアルゴリズムの紹介です。\n\n問題設定\n\n長さTの時系列データX=(X_t)_{t=1,・…",
+          "link": "https://qiita.com/jamojisan/items/0a663f58832c4c2e8fb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T05:01:30.000Z",
+          "wordCount": 386,
+          "title": "移動平均・分散を逐次的に算出するアルゴリズム"
+        },
+        {
+          "id": "https://qiita.com/kazu-gor/items/e7d933aaac46ac9aa563?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n競艇のルール，予想の仕方など私自身何もその辺の知識がないことをご了承ください．\n\nそれらすべてをデータ分析，機械学習に任せることによって知識のない人間でも利益をプラスにできるのではないか，…",
+          "link": "https://qiita.com/kazu-gor/items/e7d933aaac46ac9aa563?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T04:28:41.000Z",
+          "wordCount": 519,
+          "title": "競艇はスタート位置で決まるんじゃね？"
+        },
+        {
+          "id": "https://qiita.com/Ladicle/items/fbf416a9a07538ee05b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nKubernetes v1.22がリリースされました \n\n今回のAPI周りの変更では、Ingressを始めとしていくつかのBeta APIが削除されています(アップグレード時にはご注意くださ…",
+          "link": "https://qiita.com/Ladicle/items/fbf416a9a07538ee05b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T04:09:45.000Z",
+          "wordCount": 426,
+          "title": "Kubernetes 1.22: SIG-API Machineryの変更内容"
+        },
+        {
+          "id": "https://qiita.com/StoneRIeverKS/items/80c805676ed4dc5f8de4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n　調査観察データの統計科学に記載の傾向スコアを使った因果効果の推定手法とpythonコードをまとめました。本記事では最初に傾向スコアの定義をして、次に共変量調整の方法を記載します。共変量…",
+          "link": "https://qiita.com/StoneRIeverKS/items/80c805676ed4dc5f8de4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T02:19:39.000Z",
+          "wordCount": 1297,
+          "title": "傾向スコアを使った因果効果の推定方法"
+        },
+        {
+          "id": "https://qiita.com/guglilac/items/028ba8e156e5c74f650a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nClick Through Rate (CTR)の予測タスクにDeep Learningが用いられるようになって久しいです。\n\n例えばこちらの記事を見てみると、2018年ごろにはDeep …",
+          "link": "https://qiita.com/guglilac/items/028ba8e156e5c74f650a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-06T00:09:36.000Z",
+          "wordCount": 636,
+          "title": "CTR予測ライブラリDeepCTRの主要モデル全解説(2021)"
+        },
+        {
+          "id": "https://qiita.com/kn339264/items/5f0112ad89d980e2227d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事はRailsチュートリアルの目次に沿って、PhoenixでWebアプリケーションを作ってみよう、という試みです。\n（Phoenixは関数型プログラミング言語Elixirで記述されたWebフレ…",
+          "link": "https://qiita.com/kn339264/items/5f0112ad89d980e2227d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-05T17:30:18.000Z",
+          "wordCount": 627,
+          "title": "Railsチュートリアルの内容をPhoenixでやってみよう〜第1章 ゼロからデプロイまで"
+        },
+        {
+          "id": "https://qiita.com/ryupy/items/621c27e849befa6502d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n高校生という生き物はいつだって欲望に忠実である。\n「星が見たい！」と言い出したのはいつ頃だったか。\nよーしわかった。プラネタリウムを作ろう。\n\n目標\n\n高校生が可能な範囲内でそれなりに良いも…",
+          "link": "https://qiita.com/ryupy/items/621c27e849befa6502d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-05T15:28:48.000Z",
+          "wordCount": 505,
+          "title": "pythonとBlenderで完全自作プラネタリウムを作る"
+        },
+        {
+          "id": "https://qiita.com/Kyome/items/b51d3c78d44e44a94921?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "BetterSnapToolやMagnetのようなmacOS用のウィンドウ配置マネージャーツールを再現してみました。現在の最前面のウィンドウを右半分に配置したり、左３分の１に配置したり、最大限広げて…",
+          "link": "https://qiita.com/Kyome/items/b51d3c78d44e44a94921?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-05T14:38:14.000Z",
+          "wordCount": 391,
+          "title": "Macでウィンドウをいい感じに配置するツール再現してみた。"
+        },
+        {
           "id": "https://qiita.com/shu421/items/ed255c1ad846c92ba448?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "こんにちは。shu421という名前でkaggleに参加しています。初めに伝えておきますが、この記事は独断と偏見の塊です。あくまで私の考えにすぎないので、一つの意見として頭の片隅にでも置いていただけた…",
@@ -1045,6 +1122,15 @@
           "title": "Titanic終了後の壁"
         },
         {
+          "id": "https://qiita.com/GoshBird/items/90ceaf29068d888aad64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n私はPythonで実験データなどの操作を行っています。現在機械学習とかでも活発に使われている言語なので特に特記することもないかと思います。ライブラリが豊富であり、記述が簡単で精度さえ注意…",
+          "link": "https://qiita.com/GoshBird/items/90ceaf29068d888aad64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-05T13:11:22.000Z",
+          "wordCount": 490,
+          "title": "Pythonで論文用のグラフ作った話"
+        },
+        {
           "id": "https://qiita.com/makoto-ogata@github/items/324b781957d9bb4055b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n私は実務でReactはおろかVanilla JSすら書いたことありません（JSXは書いたことある）\njQueryチョットデキル、くらいのレベル感です。\n今回作ったアプリケーションも、強い…",
@@ -1052,6 +1138,15 @@
           "publishedOn": "2021-08-05T13:05:34.000Z",
           "wordCount": 614,
           "title": "マークアップエンジニアがReactを使って簡単なアプリケーションを作った話"
+        },
+        {
+          "id": "https://qiita.com/yuki5664/items/51030b6e4ee94792853d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まず結論\n\n学習教材は、以下の3つのみ！\n\nudemy\n\n\nこれだけでOK！ AWS 認定ソリューションアーキテクト – アソシエイト試験突破講座（SAA-C02試験対応版）\n【SAA-C02版】AWS …",
+          "link": "https://qiita.com/yuki5664/items/51030b6e4ee94792853d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-05T10:13:04.000Z",
+          "wordCount": 294,
+          "title": "なにをやってAWS認定ソリューションアーキテクト-アソシエイト-に合格したか"
         },
         {
           "id": "https://qiita.com/gokkozemisei/items/eb9533a4a7748728a9e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1115,6 +1210,15 @@
           "publishedOn": "2021-08-05T01:25:57.000Z",
           "wordCount": 329,
           "title": "Github Codespacesでブラウザ上に自宅と同期したVSCode環境が構築できた（今なら無料）"
+        },
+        {
+          "id": "https://qiita.com/class2glass/items/85a433c25baac19e36bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n以前、AWS EC2のインスタンスにAWS CLIをインストールし、使用できるようにしていました。 \nしかしこれでは常にインスタンスが一つ必要になってしまいますし、AWSの利用料金も発生し…",
+          "link": "https://qiita.com/class2glass/items/85a433c25baac19e36bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-05T00:43:56.000Z",
+          "wordCount": 475,
+          "title": "AWS CLIをコンテナから使えるようにする"
         },
         {
           "id": "https://qiita.com/Axross_SBiv/items/e7c490656eff54c61d8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1223,6 +1327,15 @@
           "publishedOn": "2021-08-04T04:10:22.000Z",
           "wordCount": 351,
           "title": "データレイクハウスへの進化"
+        },
+        {
+          "id": "https://qiita.com/Yuki_Oshima/items/515d415dc663e285a64e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL;DR\n\n\nNotion APIとNext.jsを使って、Notionに書いた日記をWebサイトにレンダリングした\nNotionをヘッドレスCMSとして活用可能\n-> 各デバイスのアプリから投稿/…",
+          "link": "https://qiita.com/Yuki_Oshima/items/515d415dc663e285a64e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-04T03:06:30.000Z",
+          "wordCount": 678,
+          "title": "Notion APIとNext.jsで日記サイトを作った"
         },
         {
           "id": "https://qiita.com/kakudaisuke/items/eed523e3bac5e9569546?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5273,150 +5386,6 @@
           "publishedOn": "2021-07-08T13:34:37.000Z",
           "wordCount": 490,
           "title": "Slackにバイク川崎バイクを導入する【Python/Slackbot/Mecab】"
-        },
-        {
-          "id": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこの投稿は、RPAツール「UiPath」の 製品歴史を振り返ってみる 記事です。\n\nRPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiPathブログ発信…",
-          "link": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T10:27:36.000Z",
-          "wordCount": 568,
-          "title": "【UiPath】過去の製品バージョンを振り返る（2016-2021）"
-        },
-        {
-          "id": "https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "サブ業務チームのスクラムマスターのススメでデイリーレトロスペクティブはじめました。\n同期的に集まらずMiroのボードに各自Keep&Problemを書き出すようにしているんですが、\n忘れそうな自分と…",
-          "link": "https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T10:20:05.000Z",
-          "wordCount": 329,
-          "title": "Power AutomateでTeamsの特定のスレッドに定期リマインダーを送る"
-        },
-        {
-          "id": "https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nESP32をArduinoIDEで開発していると妙にコンパイルが遅い気がします。AVRに比べれば機能が多いのでコンパイルに時間がかかるのはわかるのですが、１度ビルドし直すだけでも長いプロ…",
-          "link": "https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T09:13:27.000Z",
-          "wordCount": 355,
-          "title": "Arduino IDE でESP32のコンパイル時間を短縮する方法"
-        },
-        {
-          "id": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n2021年にOpenAIによって公開された、テキストを画像に変換する「DALL-E」についてまとめました。\n\n生成した画像\n\n「バレリーナの衣装を着て、犬の散歩をする赤ちゃん大根」の画像です…",
-          "link": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T09:02:05.000Z",
-          "wordCount": 317,
-          "title": "テキストから画像を生成する：Zero-Shot Text-to-Image Generation [Ramesh+, 2021]"
-        },
-        {
-          "id": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n先人に作ってもらったデータ変換用のPythonスクリプトを部署内で使用していたのだが、Python環境のないメンバーに展開するためにexe化することにした。 \nひとまずPyinstalle…",
-          "link": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T07:41:26.000Z",
-          "wordCount": 432,
-          "title": "Pythonスクリプトのexe化"
-        },
-        {
-          "id": "https://qiita.com/thmd9726/items/9ea9ef1161c537c432ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nPyCharmでDjangoアプリを作成することには次のような利点があります。\n\n\nDjango関連のコマンド入力を削減できる\nデバッグがしやすい\n\n\n今回は、Djangoサーバの起動と簡単なW…",
-          "link": "https://qiita.com/thmd9726/items/9ea9ef1161c537c432ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T03:54:52.000Z",
-          "wordCount": 361,
-          "title": "PyCharmとDjangoでサクッとWebアプリの作成"
-        },
-        {
-          "id": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "以下の記事を読みました。\n\nCookieのPath属性は本当に安全性に寄与しないのか\n\n結論として以下となっています。\n\n\n結論。Path属性は特殊な状況下ではある程度安全性に寄与する\nPath属性は、これ…",
-          "link": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T03:45:40.000Z",
-          "wordCount": 358,
-          "title": "Re: CookieのPath属性は本当に安全性に寄与しないのか"
-        },
-        {
-          "id": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Applying Natural Language Processing to Healthcare Text at Scale - The Databricks Blogの翻訳です。\n\n\nこの記事はJ…",
-          "link": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T02:22:22.000Z",
-          "wordCount": 388,
-          "title": "ヘルスケアにおける大規模テキストデータへの自然言語処理の適用"
-        },
-        {
-          "id": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "iOSアプリをApp Storeではなく、Webサービスなどからベータ版のアプリを配信する方法を Ad hoc 配信といいます。\nAd hoc配信はiOSアプリ開発の黎明期から行われておりますが、…",
-          "link": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T01:49:09.000Z",
-          "wordCount": 873,
-          "title": "Ad hoc配信をやめてTestFlightで配信する"
-        },
-        {
-          "id": "https://qiita.com/EGJ-Ken_Kuwano/items/1c13f6ded4174c7fbddf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1. 課題\n\n　本記事では「Widgetとリソースを切り離す方法」を説明しており、この記事を読むと\"Widgetを使用してUIを構築する際の問題とその解消方法\"が理解できるようになります。\n　Wid…",
-          "link": "https://qiita.com/EGJ-Ken_Kuwano/items/1c13f6ded4174c7fbddf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T01:44:47.000Z",
-          "wordCount": 325,
-          "title": "[UE4] Widgetとリソースを切り離す方法"
-        },
-        {
-          "id": "https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "html2canvas\n\nVue.js + TypeScriptの構成で画面キャプチャ取りたいな〜と思っていたら良さそうなライブラリを見つけました。\nこれを使って一応要求は満たせし、せっかくなので実装…",
-          "link": "https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T00:40:38.000Z",
-          "wordCount": 551,
-          "title": "html2canvasを使ってVue.jsで画面キャプチャを取る（おまけ付き）"
-        },
-        {
-          "id": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "前回: https://qiita.com/Takazudo/items/59a1f44ecdc01e95604f\n\n「先輩さん」\n『はい、後輩ちゃん』\n「前話してた1,000万の見積もりの話なんです…",
-          "link": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-07T17:03:36.000Z",
-          "wordCount": 447,
-          "title": "俺の見積もりがこんなに安いわけがない: 第2話 We will specialize"
-        },
-        {
-          "id": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
-          "link": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-07T16:00:31.000Z",
-          "wordCount": 340,
-          "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
-        },
-        {
-          "id": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "前回の記事でコメントいただいたので。\n\nこんな感じになる。\n前回はランダムでルーン文字に置換しただけだったけど、今回のは頑張ればちゃんと読める。\n\n\n\n前回の記事のものを改造していきます。\n\nhttps://…",
-          "link": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-07T15:39:25.000Z",
-          "wordCount": 903,
-          "title": "一般サイトがハンター専用サイトになるChrome拡張を作る"
-        },
-        {
-          "id": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Newポケモンスナップ、いろんなフィルタがあって現代の写真遊びに則ったカメラゲームらしさがあって凄く素敵ですね。\n\n　\n\nいろんなフィルタがある中、シルエットフィルタはゲームらしいフィルタで意外と他のゲ…",
-          "link": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-07T15:33:51.000Z",
-          "wordCount": 719,
-          "title": "[Unity]カメラに映る画面をおしゃれにシルエット化する"
-        },
-        {
-          "id": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n僕は現在ITスタートアップでソフトウェアエンジニアとして働いています。プログラミングの学習歴はおおよそ2年です。\n先日、最新の技術記事が自動配信されるSlackアプリ「Winkie(ウィ…",
-          "link": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-07T13:50:52.000Z",
-          "wordCount": 352,
-          "title": "文系エンジニア未経験がアプリケーションを作れるようになるまで"
         }
       ]
     }
