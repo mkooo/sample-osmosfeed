@@ -12,6 +12,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6401103?source=rss",
+          "author": null,
+          "description": "新型コロナウイルス禍でデジタル社会が加速する中、高速大容量の5Gを特定の場所に導入する「ローカル5G」が、注目を集めている。とりわけ企業や自治体の関心は高く、7月26日時点で少なくとも50の企業・団体が免許を取得。",
+          "link": "https://news.yahoo.co.jp/pickup/6401103?source=rss",
+          "publishedOn": "2021-08-08T13:59:03.000Z",
+          "wordCount": 66,
+          "title": "ローカル5G 企業や自治体参入増"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6401059?source=rss",
+          "author": null,
+          "description": "ポケモンから新ジャンルのゲーム「ポケモンユナイト」が登場。ポケモンで初となるMOBAと呼ばれるジャンルのゲームだ。念頭にあるのは、欧米や韓国、中国などに広がる巨大市場だという。",
+          "link": "https://news.yahoo.co.jp/pickup/6401059?source=rss",
+          "publishedOn": "2021-08-08T07:02:38.000Z",
+          "wordCount": 64,
+          "title": "ポケモン 新作で狙う巨大市場"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6400993?source=rss",
           "author": null,
           "description": "東京五輪に出場した卓球の水谷隼に、Twitter上で心無いダイレクトメッセージが寄せられたと本人が明らかにした。選手への中傷が相次いでいるとして問題になっている今回の五輪だが、実際にそのような投稿はどれくらい増えたのか。",
@@ -775,24 +793,6 @@
           "publishedOn": "2021-07-10T13:56:03.000Z",
           "wordCount": 68,
           "title": "衛星で埋める ネット空白地帯"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398334?source=rss",
-          "author": null,
-          "description": "海外版ファミコンNES用ソフト「ゼルダの伝説」の未開封品が、競売にかけられ、ゲームソフト史上最高額の87万ドル（約9600万円）で落札された。米競売会社ヘリテージ・オークションズが明らかにした。",
-          "link": "https://news.yahoo.co.jp/pickup/6398334?source=rss",
-          "publishedOn": "2021-07-10T05:06:29.000Z",
-          "wordCount": 70,
-          "title": "ゼルダの伝説 米競売で9600万円"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398274?source=rss",
-          "author": null,
-          "description": "教育現場に1人1台のタブレットやパソコンを配布する「GIGAスクール構想」が本格的に始まった。一方で、急速なデジタル化に対し、慎重さを求める研究者もいる。デジタル教科書の導入で、生徒・児童の理解度にどのような変化があるのか。",
-          "link": "https://news.yahoo.co.jp/pickup/6398274?source=rss",
-          "publishedOn": "2021-07-09T13:57:32.000Z",
-          "wordCount": 66,
-          "title": "記憶に影響?電子教材で失うもの"
         }
       ]
     },
@@ -991,6 +991,186 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/smiler5617/items/66eb929bd6bac7737615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n普段何かお試しで作りたい時は、主にGCPにVMインスタンスを立てて、そこで色々といじってみる事が多かったため、本格的に色々なクラウドサービスを試したことはなく、AWSもほとんど使ったこと…",
+          "link": "https://qiita.com/smiler5617/items/66eb929bd6bac7737615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T14:59:57.000Z",
+          "wordCount": 404,
+          "title": "AWSのLambdaを使ってS3間のファイルコピーを試してみた。"
+        },
+        {
+          "id": "https://qiita.com/gonsee/items/2016b9cdebf1e81c1da5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nSwiftUIはこれまでのiOSアプリにおけるUI実装上の課題を解消する新技術として登場し、徐々にプロダクションでも利用されて来ていると思います。しかしまだ、UIKitでできていたことが…",
+          "link": "https://qiita.com/gonsee/items/2016b9cdebf1e81c1da5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T14:17:59.000Z",
+          "wordCount": 1138,
+          "title": "モダンCollectionViewとSwiftUIのハイブリッドを実現する"
+        },
+        {
+          "id": "https://qiita.com/taogura-biz/items/e8ae112b39afb7cfba61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n株式会社hokanにて代理店様の導入をお手伝いしています。既存のシステムからhokanへ大切なデータを移行することがメインのタスクとなっています。\nその中で氏名が姓名や住所が一つのカラム…",
+          "link": "https://qiita.com/taogura-biz/items/e8ae112b39afb7cfba61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T13:19:19.000Z",
+          "wordCount": 330,
+          "title": "MeCabを使って姓名の分かち書きを試してみる"
+        },
+        {
+          "id": "https://qiita.com/yuta-proto-biz/items/b27ce48596a995ac7058?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "なんのためのもの？\n\nお店に入る時に検温器はありますが、マスク「してる」「していない」を判定するものは無いですよね。\nピクトグラムのような張り紙にお願いが書かれていることはよく見かけます。\n例の感染…",
+          "link": "https://qiita.com/yuta-proto-biz/items/b27ce48596a995ac7058?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T12:59:50.000Z",
+          "wordCount": 293,
+          "title": "入口に設置しよう！たのしいマスク判定機"
+        },
+        {
+          "id": "https://qiita.com/ponnufu/items/de2dc1bed02b18ad160c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nApp Engine、GKE、GCE上で動作するWebアプリケーションに対して、脆弱性を検知するためのスキャンを実行できるツール。開始URLを指定することで、その中に存在する全てのリンクの…",
+          "link": "https://qiita.com/ponnufu/items/de2dc1bed02b18ad160c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T12:05:20.000Z",
+          "wordCount": 320,
+          "title": "Web Security Scanner"
+        },
+        {
+          "id": "https://qiita.com/nabenabe0928/items/dee2be1dff04c60b98b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "コード\n\n一応，その他のPackage等ありますが，簡易クラスなら自分でも作成可能なのでメモ書きします．\nちなみにPackageの一つは colorama です．\nColor codeはANSIに則…",
+          "link": "https://qiita.com/nabenabe0928/items/dee2be1dff04c60b98b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T09:55:39.000Z",
+          "wordCount": 588,
+          "title": "[メモ] Pythonで色付きprintを行うクラスを作成"
+        },
+        {
+          "id": "https://qiita.com/yamadashy/items/1c2c5d9fc766939a1851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nそのChrome拡張、Firefox や Edge などで出したいと思ったことはありませんか。\n\nしかし、いざやるとなると調べることも多く面倒臭いです。\n\nそこで本記事は「ブラウザ拡張の開発…",
+          "link": "https://qiita.com/yamadashy/items/1c2c5d9fc766939a1851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T07:27:32.000Z",
+          "wordCount": 1029,
+          "title": "【まとめ】クロスブラウザなブラウザ拡張を開発・審査・公開するまで【Chrome拡張】"
+        },
+        {
+          "id": "https://qiita.com/orihikarumakan/items/f4512a4cd22ab810887f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは！ 閲覧頂きありがとうございます。\n\n今回Java、JSP、Servletを使って、ポートフォリオを制作しました。\n制作していく中で学んだこと、苦労したこと、ポートフォリオについ…",
+          "link": "https://qiita.com/orihikarumakan/items/f4512a4cd22ab810887f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T06:30:34.000Z",
+          "wordCount": 495,
+          "title": "Java JSP,Servletを使ったポートフォリオ制作"
+        },
+        {
+          "id": "https://qiita.com/jnchito/items/a97f24bab103bfe3ab5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nrefile gemを使っているRailsアプリケーションをHerokuにデプロイすると、以下のようなエラー画面（\"We're sorry, but something went wro…",
+          "link": "https://qiita.com/jnchito/items/a97f24bab103bfe3ab5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T05:59:25.000Z",
+          "wordCount": 350,
+          "title": "【2021年版】Herokuデプロイ時に \"Refile.secret_key was not set\" というエラーが出た場合の対処方法"
+        },
+        {
+          "id": "https://qiita.com/ponnufu/items/563773af782ab567f564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nGoogle Cloudの認定資格であるProfessional Security Engineerを受験するにあたって、Google Cloudのセキュリティ系のプロダクトを理解するた…",
+          "link": "https://qiita.com/ponnufu/items/563773af782ab567f564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T05:17:02.000Z",
+          "wordCount": 334,
+          "title": "Security Command Center"
+        },
+        {
+          "id": "https://qiita.com/kaizen_nagoya/items/82c7939f442cbd5fce37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今まで買ってよかった技術書を紹介しよう！\nhttps://qiita.com/official-events/d409f91fc8b9b44cefb4\n参加記事です。\n\n毎年、新人、学生にお勧めしてい…",
+          "link": "https://qiita.com/kaizen_nagoya/items/82c7939f442cbd5fce37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T03:36:11.000Z",
+          "wordCount": 297,
+          "title": "Code Complete：goto論争の終焉"
+        },
+        {
+          "id": "https://qiita.com/okinakamasayoshi/items/bbaaac9d58d68f2ce693?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "荷物抱えて毎日ビルの『1階～6階』２往復・・・\n\n　黒〇ヤ〇トの話ではなく、私の勤めるスーパーのパートさんの日常です。\n　6階には無人店舗があり、1階から補充に上がると、6階で持参商品以外の品切れ発…",
+          "link": "https://qiita.com/okinakamasayoshi/items/bbaaac9d58d68f2ce693?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T01:40:58.000Z",
+          "wordCount": 243,
+          "title": "業務50%カット!!『品切れとお天気調べて来ますAI』作ってみた!!"
+        },
+        {
+          "id": "https://qiita.com/syoukera/items/90e3d7c95aaa5593f353?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nTouchDesignerのCPlusPlus OPにはsetupParametersというメンバ関数を用いて，任意の変数をオペレータのプロパティに表示して実行時に変更することができる．…",
+          "link": "https://qiita.com/syoukera/items/90e3d7c95aaa5593f353?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T01:22:14.000Z",
+          "wordCount": 316,
+          "title": "\"Assertion failed!\" error while using CPlusPlus OP in TouchDesigner"
+        },
+        {
+          "id": "https://qiita.com/tmurakam99/items/b27d1055f7c881a03ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "各種 Kubernetes ディストリビューションの、オンプレミス向けデプロイモデル・アーキテクチャを比較してみました。概ね、私がデプロイを試してみたもの中心です。\nなお各ディストリビューションはク…",
+          "link": "https://qiita.com/tmurakam99/items/b27d1055f7c881a03ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T01:20:55.000Z",
+          "wordCount": 530,
+          "title": "オンプレミス Kubernetes デプロイモデル比較"
+        },
+        {
+          "id": "https://qiita.com/leq1341/items/ed71c8f5696b48960c77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの記事は chillSAP 夏の自由研究2021 の記事として執筆しています。\n\nSAP界隈はここのところ猫も杓子もBTP。SCPをサボタージュしたところ、時代をひとつ飛び越えた感すらあ…",
+          "link": "https://qiita.com/leq1341/items/ed71c8f5696b48960c77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T00:43:40.000Z",
+          "wordCount": 564,
+          "title": "[SAP] ベーシス勢がSAP BTPを触りはじめてみた"
+        },
+        {
+          "id": "https://qiita.com/yufuworks/items/a3febd386a3c4762698f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Elixirの勉強会 エリジョ に参加してきました。\n\n・・・ジョではないですけど。（アバター美少女もいました）\nhttps://elijo.connpass.com/event/218301/\n\n使…",
+          "link": "https://qiita.com/yufuworks/items/a3febd386a3c4762698f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T17:52:35.000Z",
+          "wordCount": 363,
+          "title": "Elixirのif文ワンライナー"
+        },
+        {
+          "id": "https://qiita.com/OKsaiyowa/items/16ee37256173344b7b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nEnumを毎回定義するのがめんどうなシチュエーションがありました。\n例えば、事前にInspectorで登録しておいたマテリアル、あるいはResourcesからロードの中から\n1つ選ぶよう…",
+          "link": "https://qiita.com/OKsaiyowa/items/16ee37256173344b7b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T17:13:32.000Z",
+          "wordCount": 521,
+          "title": "【Unity(C#)】文字列リストをEnumっぽく使うエディタ拡張"
+        },
+        {
+          "id": "https://qiita.com/GalaxyNeko/items/d126d96e86615f298009?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんな感じのやつを実装したい\n\nyoutubeでどうがを読み込んでいる際に下記のようなロード状態になると思います。\nこのロード状態を表すMaterialUIのスケルトンを今回は実装していきます。\n\n\n\n実装例\n…",
+          "link": "https://qiita.com/GalaxyNeko/items/d126d96e86615f298009?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T16:02:45.000Z",
+          "wordCount": 245,
+          "title": "【React】Youtubeのロード中に表示されるスケルトンを実装したい【MaterialUI】"
+        },
+        {
+          "id": "https://qiita.com/derasado/items/ed8b22881c8bc1f28c21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nWebエンジニアへ転職を目指し、自分が独学で実際にポートフォリオが完成したのでその紹介と作成した背景や\n苦労した点、学習からポートフォリオ完成までの道筋などを共有しようと思いますので、こ…",
+          "link": "https://qiita.com/derasado/items/ed8b22881c8bc1f28c21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T15:39:19.000Z",
+          "wordCount": 646,
+          "title": "【独学ポートフォリオ録🔰】完成までの半年間と作成背景【Laravel・Docker・AWS】"
+        },
+        {
+          "id": "https://qiita.com/north_redwing/items/1e153139125d37829d2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "内容\n\n機械学習をやっていて、再現性に困ることは多々ありますね（？）。\n論文や自身の実験の再現はもちろんのこと、実装のチェックをする際にも有効です。\n今回はPyTorchの再現性に関して、PyTor…",
+          "link": "https://qiita.com/north_redwing/items/1e153139125d37829d2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T12:38:44.000Z",
+          "wordCount": 1201,
+          "title": "PyTorchの再現性に関して"
+        },
+        {
           "id": "https://qiita.com/torifukukaiou/items/dfe1577004f36b8b77d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "https://qiita.com/official-events/846e19ec9af76ca9c940\n\nはじめに\n\n\nElixir楽しんでいますか\nこの記事は、「SORACOMを使ったIoTにチャ…",
@@ -1018,6 +1198,15 @@
           "title": "『プログラミングElixir』を買って、読んで、Qiitaに記事を書いていたら、ラズパイ4をもらったり、自分が書いた原稿が雑誌に載ったり、机をもらったり、YouTubeに出してもらえたりしました"
         },
         {
+          "id": "https://qiita.com/loftkun/items/2fbeddc9449eb5d85dfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Slidevとは \n\nSlidevはエンジニア向けプレゼンテーションツールです。\nMarkdownで記述した文書から美しいスライドを生成できます。\n\n\n\n公式デモ とそのソースとなるMarkdown もご参…",
+          "link": "https://qiita.com/loftkun/items/2fbeddc9449eb5d85dfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T08:19:12.000Z",
+          "wordCount": 866,
+          "title": "Slidevを導入してMarkdownで美しいスライドを書こう"
+        },
+        {
           "id": "https://qiita.com/ngymn/items/aac533411374dad4cc2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nやはり、プログラミングをする上でもマインドセットは大切だと思います。\n\nここでのゴールは 『より早く、より質の良いコーディングをする』こととします。\n\n原則\n\nまず検討するべきことは上から順に\n\n\nコーディングをしない…",
@@ -1043,6 +1232,15 @@
           "publishedOn": "2021-08-07T06:40:25.000Z",
           "wordCount": 2780,
           "title": "これからのエンジニアが身につけるべき基礎知識・アルゴリズム／Julia入門編"
+        },
+        {
+          "id": "https://qiita.com/Ooooooomin_365/items/e74ff48b3f9bb716d734?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nMicrosoftの公式解説書『プログラミング ASP.NET Core』を読んで強く型指定を行った上でビューにデータを渡す方法を知ったので備忘録としてまとめたいと思います。\n\n今までVi…",
+          "link": "https://qiita.com/Ooooooomin_365/items/e74ff48b3f9bb716d734?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-07T06:07:18.000Z",
+          "wordCount": 324,
+          "title": "強く型指定されたViewModelをビューに渡す"
         },
         {
           "id": "https://qiita.com/koei_miwa/items/dc8bf7f4496b844fc3d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5219,186 +5417,6 @@
           "publishedOn": "2021-07-10T13:10:47.000Z",
           "wordCount": 339,
           "title": "アジャイルを端的に理解する"
-        },
-        {
-          "id": "https://qiita.com/yakimeron/items/7c635a6cee4a564ba25e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n業務で「2つのテクスチャをブレンドするシェーダー」と「クロマキー合成を行うシェーダー」を合成したシェーダーを作ることになり、そこで学んだことを書いておく。\n\n\n【Unity】2つのテクスチャを合…",
-          "link": "https://qiita.com/yakimeron/items/7c635a6cee4a564ba25e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T11:19:52.000Z",
-          "wordCount": 544,
-          "title": "Unity Shader (HLSL) の書き方を基礎の基礎レベルで学んだ"
-        },
-        {
-          "id": "https://qiita.com/kihara-takahiro/items/db8fd9c621ad14ba20a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "この記事は？\n\nPythonを使って画像の収集をしました。\n本記事では画像の収集を行ったソースコードを紹介します。\n\n作成したもの\n\nディレクトリ構成\n\n|\n|- main.py (実行用のpythonフ…",
-          "link": "https://qiita.com/kihara-takahiro/items/db8fd9c621ad14ba20a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T10:08:37.000Z",
-          "wordCount": 541,
-          "title": "Pythonで画像収集やってみた"
-        },
-        {
-          "id": "https://qiita.com/zamis/items/abea48e1fdb16a3bf6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nweb 業界に参入して 約 1 年が経過した。\n凡人が 1 年間真面目に勉強 & 開発して経験してきたことについて、思いつく限りで書いていこうと思う。\n本記事のターゲットは Web 業界…",
-          "link": "https://qiita.com/zamis/items/abea48e1fdb16a3bf6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T09:01:55.000Z",
-          "wordCount": 623,
-          "title": "Web 業界に参入して 1 年経ったけど、なにしてきたん？"
-        },
-        {
-          "id": "https://qiita.com/sasao3/items/0ced917da7c8d957d00f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n僕の友人は、毎朝寿司打というタイピングゲームに取り組み日々タイピングスキルを磨いております。\n\nそんな友人と話しているとき、「寿司打のデータ集計したらわかりやすいけど、自分でやるのはめんど…",
-          "link": "https://qiita.com/sasao3/items/0ced917da7c8d957d00f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T08:20:59.000Z",
-          "wordCount": 693,
-          "title": "友達の寿司打ツイートからスコアを集計したい！"
-        },
-        {
-          "id": "https://qiita.com/naiveprince0507/items/c26ce485ee214b7aff52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "日常業務を省力化を図っております。\n一か月前に、「月初エクセル集計処理を完全自動化し、100人日掛かっていた作業を一秒で処理した話。【完成版】を書きました。→https://qiita.com/na…",
-          "link": "https://qiita.com/naiveprince0507/items/c26ce485ee214b7aff52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T08:03:07.000Z",
-          "wordCount": 421,
-          "title": "ファイルごとに異なるPWでzip暗号化する作業の省人化。３人日掛かっていた作業を１秒で処理した話。【完成版】"
-        },
-        {
-          "id": "https://qiita.com/suzuki0430/items/06755312a7757b940e69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nECSとECRを触れるようになったので、今回はCodeCommit, CodeBuild, CodePipelineを使って、AWSサービスのみでCI/CDパイプラインを構築してみました。\n…",
-          "link": "https://qiita.com/suzuki0430/items/06755312a7757b940e69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T07:21:23.000Z",
-          "wordCount": 602,
-          "title": "【AWS】ECS構築の基礎 −CI/CD編 (CodeCommit/CodeBuild/CodePipeline)−"
-        },
-        {
-          "id": "https://qiita.com/jun1s/items/117a05b7264a2e647d1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "時代に完全に逆行する、Classic ASP(VBScript)用のライブラリが仕上がりました！\n\nhttps://github.com/jun1sfukui/aspvbslib\n\nClassic AS…",
-          "link": "https://qiita.com/jun1s/items/117a05b7264a2e647d1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T06:40:28.000Z",
-          "wordCount": 1967,
-          "title": "あなたにもいつ訪れるか分からないClassic ASP地獄を乗り切る「ASPVBSLIB」完成"
-        },
-        {
-          "id": "https://qiita.com/suzuki_sh/items/7de6a93a87fa21e3e773?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "下記のようなスプレッドシートを読み込んで、\n\n\n下記のように表示するようなNext.jsアプリを作ってみます。\n\n\n環境\n\n\nChromeOS Crostini (Linux) Debian 10.10\nDoc…",
-          "link": "https://qiita.com/suzuki_sh/items/7de6a93a87fa21e3e773?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T04:32:58.000Z",
-          "wordCount": 587,
-          "title": "Next.jsでGoogle SpreadsheetをHeadlessCMSとして使う"
-        },
-        {
-          "id": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "JDBCドライバという存在は破壊的だった。\n\nJDBCの登場まではODBCやADOなど、結局はWindows縛りの接続環境から、JDBCで環境依存が極小化された形でDBにつながる。\n\n例えばRubyでm…",
-          "link": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T03:06:10.000Z",
-          "wordCount": 278,
-          "title": "他の言語がJavaにかなわない唯一のポイント"
-        },
-        {
-          "id": "https://qiita.com/kazuyamashi/items/5de942ec25cf891dc7de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "お前 is 誰\n\n\n某企業の研究職\n在勤5年目\nLED-Campという組込み開発者向け合宿の実行員\n\n\nhttps://swest.toppers.jp/LED-Camp/\n現在、参加者募集中\nここで培っ…",
-          "link": "https://qiita.com/kazuyamashi/items/5de942ec25cf891dc7de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T02:48:36.000Z",
-          "wordCount": 392,
-          "title": "若手が考えるチーム・プロジェクトマネージメント"
-        },
-        {
-          "id": "https://qiita.com/taichi-ishitani/items/b627e31a97fef24c6ee4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "WSL2 での DISPLAY 設定\n\nWSL2 では、YOUR_HOSTNAME.mshome.net のように、mshome.net をドメイン名としたホスト名が割り当てられています。\nこれを用…",
-          "link": "https://qiita.com/taichi-ishitani/items/b627e31a97fef24c6ee4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T02:36:36.000Z",
-          "wordCount": 296,
-          "title": "WSL2 での DISPLAY 設定"
-        },
-        {
-          "id": "https://qiita.com/minoden_osaka/items/c42a3a07cd682316c054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "お世話になります。\n\nいくつかのSES現場にお世話になってきましたが、必須ともいえるツールを紹介させて頂きます。\n\nSES現場の傾向として、\n・メインツールはExcel\n・管理者権限がないので勝手にソフ…",
-          "link": "https://qiita.com/minoden_osaka/items/c42a3a07cd682316c054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T02:05:05.000Z",
-          "wordCount": 327,
-          "title": "Excelを多用する現場で役に立つツール11選"
-        },
-        {
-          "id": "https://qiita.com/akase244/items/c3040b68b5e08057c861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "みなさん、シェル使ってますか？私は毎日使ってます。\n「シェルとは？」といった記事はたくさんあるのでここでは深く触れませんが、ざっくり言うと「コマンドでカーネルと対話的なインターフェースを提供する仕組…",
-          "link": "https://qiita.com/akase244/items/c3040b68b5e08057c861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-10T01:15:19.000Z",
-          "wordCount": 909,
-          "title": "シェルスクリプトの中で現在利用しているシェルを確認する方法"
-        },
-        {
-          "id": "https://qiita.com/erin/items/2aa7a70c34b0b2a64e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nElixirでAWS Lambdaのアプリケーションを書く場合、これまではカスタムランタイムを含めたアプリケーションを.zipファイルで固めてアップロードする方式一択でしたが、2020年…",
-          "link": "https://qiita.com/erin/items/2aa7a70c34b0b2a64e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T23:10:58.000Z",
-          "wordCount": 526,
-          "title": "ElixirでAWS Lambdaの.zipファイルとコンテナイメージの速度比較"
-        },
-        {
-          "id": "https://qiita.com/kazama1209/items/8db398e0948dbb4ae63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n\n\n今さら言うまでもないですが、Twitterって便利ですよね。\n\n全体的に匿名性が高くフランクな雰囲気が漂っているからなのか、面白いつぶやきがそこら中に転がっていますし、リアルタイム性に優れる事…",
-          "link": "https://qiita.com/kazama1209/items/8db398e0948dbb4ae63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T22:17:51.000Z",
-          "wordCount": 779,
-          "title": "とあるTwitterアカウントが特定のキーワードを含むツイートをした場合に何らかのアクションを実行する"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/d6e4e84afa2e1f2f0dd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Google Docsの、Tools内、Script editorを選択します。スクリプトエディターが開きます。\n\nGoogle Apps Script (GAS)\n\n\n\n以下をスクリプトとして保存したら、…",
-          "link": "https://qiita.com/e99h2121/items/d6e4e84afa2e1f2f0dd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T21:16:47.000Z",
-          "wordCount": 383,
-          "title": "Google Docsのカーソル位置に日付を挿入するGoogle Apps Script"
-        },
-        {
-          "id": "https://qiita.com/zukky_rikugame/items/dd247e476254a53f3c58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "これを書こう思ったきっかけ\n\nVSinger(歌うVTuber)のMVをいつか自分1人で作ってみたい！\nそして、VSingerになりたいと思い、\nその周辺技術の調査とメモのためのモチベーションとして…",
-          "link": "https://qiita.com/zukky_rikugame/items/dd247e476254a53f3c58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T18:13:54.000Z",
-          "wordCount": 348,
-          "title": "VSingerを目指すおじさん〜iPhoneとPCだけでフルトラッキング編〜"
-        },
-        {
-          "id": "https://qiita.com/thmd9726/items/392912b749dd566af9ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "要約\n\nEfficientNetは、畳み込みニューラルネットワークを用いた画像認識モデルです。既存のConvNetに比べてモデルパラメータを1/8.4倍に削減しつつ、推論速度を6.1倍にしました。\n\n…",
-          "link": "https://qiita.com/thmd9726/items/392912b749dd566af9ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T15:29:02.000Z",
-          "wordCount": 338,
-          "title": "【論文要約】 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [Tan+, 2020]"
-        },
-        {
-          "id": "https://qiita.com/torifukukaiou/items/7138e81e2ceb5573641d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://qiita.com/official-events/885e4031d03c787eceab\n\nはじめに\n\n\nこの記事はMicrosoft Buildで発表された技術情報に関する記事を投稿…",
-          "link": "https://qiita.com/torifukukaiou/items/7138e81e2ceb5573641d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T14:26:42.000Z",
-          "wordCount": 488,
-          "title": "Build Opening をみておもったこと (Elixir)"
-        },
-        {
-          "id": "https://qiita.com/PANDAKO/items/43ce9a4a0b6549dfbeef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "2021年6月25日に GDevelop の作成者である 4ian (Florian Rival) さんが Discord 上で「Ask Me Anything（なんでも聞いて）」というイベントを開…",
-          "link": "https://qiita.com/PANDAKO/items/43ce9a4a0b6549dfbeef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-09T13:50:49.000Z",
-          "wordCount": 350,
-          "title": "4ian 氏が Google 辞めて GDevelop に全振りする件"
         }
       ]
     }
