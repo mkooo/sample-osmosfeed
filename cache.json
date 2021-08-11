@@ -12,6 +12,15 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6401278?source=rss",
+          "author": null,
+          "description": "長崎在住の僧侶が、お盆を前に「墓参りは2人以上で」行くように呼びかけたツイートが、SNSで話題になっている。「1人で行かないほうがいい。熱中症で動けなくなると発見も遅れて危険です」。",
+          "link": "https://news.yahoo.co.jp/pickup/6401278?source=rss",
+          "publishedOn": "2021-08-10T11:44:15.000Z",
+          "wordCount": 61,
+          "title": "墓参り2人以上で ツイート話題"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6401202?source=rss",
           "author": null,
           "description": "五輪閉会式においても「出番なし」だったミライトワ。あるツイッターユーザーによる、ミライトワ&ソメイティの作品が話題になっている。",
@@ -748,51 +757,6 @@
           "publishedOn": "2021-07-12T14:07:35.000Z",
           "wordCount": 65,
           "title": "通信違約金 上限1カ月分の方針"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398524?source=rss",
-          "author": null,
-          "description": "5月に入ってから、AmazonにおいてAUKEYをはじめとした多数の中国製品ブランドの公式ストアが突如アカウント封鎖となり、購入できなくなっている。今回Amazonのサクラレビューの対策はかなりの本腰のようだ。",
-          "link": "https://news.yahoo.co.jp/pickup/6398524?source=rss",
-          "publishedOn": "2021-07-12T09:03:41.000Z",
-          "wordCount": 65,
-          "title": "Amazon サクラレビュー対策本腰"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398503?source=rss",
-          "author": null,
-          "description": "1本の映画を10分程度にまとめた「ファスト映画」。急激に投稿本数が増加し、最近では投稿者が逮捕された。ファスト映画が注目される中で、構造の類似が指摘されているのが「ゲーム実況」。それぞれの共通点と差、歴史について考える。",
-          "link": "https://news.yahoo.co.jp/pickup/6398503?source=rss",
-          "publishedOn": "2021-07-12T05:51:57.000Z",
-          "wordCount": 65,
-          "title": "ファスト映画 ゲーム実況との差"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398495?source=rss",
-          "author": null,
-          "description": "12日11時半頃より、Amazonの商品詳細ページが閲覧できないとの報告が相次いだ。12時45分現在、商品詳細ページは正常に表示されている。",
-          "link": "https://news.yahoo.co.jp/pickup/6398495?source=rss",
-          "publishedOn": "2021-07-12T04:10:46.000Z",
-          "wordCount": 67,
-          "title": "Amazon 商品詳細が一時見られず"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398483?source=rss",
-          "author": null,
-          "description": "新宿東口のビルの上に突如として現れた巨大な猫の3D映像が、SNSなどを通じて大きな話題に。なぜ、このような企画が実現したのか。放映する「クロス新宿ビジョン」運営会社・株式会社ユニカの藤沼良丞さんに聞いた。",
-          "link": "https://news.yahoo.co.jp/pickup/6398483?source=rss",
-          "publishedOn": "2021-07-12T02:31:56.000Z",
-          "wordCount": 64,
-          "title": "新宿「巨大猫」仕掛け人の願い"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398471?source=rss",
-          "author": null,
-          "description": "任天堂の家庭用ゲーム機NINTENDO64用ソフト「スーパーマリオ64」が11日、競売にかけられ、ゲームソフト史上最高額の156万ドル（約1億7200万円）で落札された。ゲームソフトの落札額が100万ドル（約1億1000万円）を超えるのは初めて。",
-          "link": "https://news.yahoo.co.jp/pickup/6398471?source=rss",
-          "publishedOn": "2021-07-12T00:33:20.000Z",
-          "wordCount": 65,
-          "title": "マリオ64に米で1.7億円 最高額"
         }
       ]
     },
@@ -801,6 +765,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613794142821",
+          "author": null,
+          "description": "こんにちは。倉内です。\nプログラミング学習には、独学でもある程度習得できる内容と、実務を経験しないとなかなか難しい内容とがあります。\n後者の代表的なもののひとつとして「例外処理」があげられます。趣味で作っている場合はあまり考慮しなくても問題ないかもしれませんが、実際にサービスとして提供するとなれば、避けては通れない課題です。\npaizaラーニングでも学習講座を提供していますが、初学者の方にはあまり馴染みのない内容かもしれません。ただ、これから開発系のエンジニアへの就職・転職を目指してプログラミング学習をされている方は触れておいてもよいでしょう。\n今回はどう例外処理のコードを書くか以前に、そもそも例外とはなにか、例外処理に対する考え方などもお伝えしていきます。\nもちろん開発するシステムの規模や社会的影響度合い、採用する開発言語、プロジェクトの方針はさまざまで、一概には言えない部分はありますが、ご自身で学ぶ際の足がかりにしていただければ幸いです。\n例外処理を考える前に\nそもそも例外とは\n補足：コンパイルエラーと実行時エラー\n例外処理とは\nなぜ例外処理が必要か\n例外処理に対する考え方\n例外処理の基本\n例外処理設計の基本\nプログラミング言語別に考える\nJava\nPHP\nRuby\nPython\nC#\nまとめ\n例外処理を考える前に\nそもそも例外とは\n「例外とは何か」については、いろいろな考え方や意見がありますが、たとえば……\nプログラミングでは、プログラムがある処理を実行している途中で生じ得る、設計から逸脱した状態を「例外」という。プログラムの利用者が対処するエラーとは異なり、例外は開発者が対処する。\n（出典）例外 - Wikipedia\nこう捉えると結構分かりやすいと思います。「想定内のエラー＝例外」と表現する場合もあります。「正常な状態とは違うけど、あらかじめ想定することはできるも…",
+          "link": "https://paiza.hatenablog.com/entry/2021/08/10/130000",
+          "publishedOn": "2021-08-10T04:00:00.000Z",
+          "wordCount": 624,
+          "title": "例外処理で考慮すべきこととは？プログラミング時の考え方と注意点",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210805/20210805180818.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613792109401",
           "author": null,
@@ -968,20 +946,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613785005154",
-          "author": null,
-          "description": "こんにちは。倉内です。\n30代も半ばを過ぎると、これまで培ってきたスキルや経験で日々の仕事をある程度こなせるようになり、エンジニアといってもチームや組織をマネジメントする役割につく方も多いでしょう。\nそんな中で現状になんとなく閉塞感がある、年次が上がるにつれてやりたいことができなくなってきてつまらない…と感じるようになったり、環境を変えてもっと年収を上げたい・キャリアアップしたいといった理由で転職を考える方もいらっしゃると思います。\n一般的に年齢が上がるにつれ、転職の難度も上がりますが、エンジニアは専門職であり自身のスキルで仕事に就くことができるため年齢に左右されづらい面があります。\nただ、特に若いうちに転職経験がある方に多いのが、20代前半と同じような気持ちと準備で転職活動に臨んでしまいうまくいかず悩むというものです。\n今回は、採用企業側の声も紹介しながら、30代後半から40代で転職に失敗する人がやりがちな勘違いと、成功させるためにどうすればいいかの対策をお伝えしたいと思います。\nエンジニア採用企業の本音\n採用状況について\nコロナ前後での中途採用の変化\n40代前後の転職でよくある3つの勘違いとその対策\n1．企業側が求める人材を理解できていない\n対策：企業が40代前後の人材に何を期待しているか知る\n2．転職準備にかける時間が圧倒的に足りていない\n対策：時間をかけて勝つための準備をする\n3．選考で年齢相応の実績アピールができていない\n対策：課題解決のプロセスも含め実績として伝える\nまとめ\nエンジニア採用企業の本音\ntypeが2021年2月に公開した、企業向けアンケート調査（52社（IT・通信 / インターネット・広告・メディア 業界が対象））の結果から採用状況や企業の本音を見ていきます。\n（参考）【2021年2月】ITエンジニア採用のための最新動向情報！企業の採用状況・求人倍…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/12/130000",
-          "publishedOn": "2021-07-12T04:00:00.000Z",
-          "wordCount": 265,
-          "title": "30代後半から40代で転職に失敗するエンジニアがやりがちな勘違いとその対策",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210709/20210709190517.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -991,6 +955,105 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/ugis_prog/items/73b0f8f2edfe4e1695e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "エアコンつけたいけどリモコンに手が届かない……という経験はないでしょうか。エアコンでなくとも似たような経験がある方は多いと思います。 そこで、より怠惰な生活を送るためにRaspberry Piを使っ…",
+          "link": "https://qiita.com/ugis_prog/items/73b0f8f2edfe4e1695e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T09:12:14.000Z",
+          "wordCount": 2297,
+          "title": "エアコンをHackしてスマートリモコンをつくる"
+        },
+        {
+          "id": "https://qiita.com/onthemoon/items/a6369df19126df7a55f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nSAP Activate認定(C_ACTIVATE13)というプロジェクトマネージャ向け認定をBASISエンジニアの私が取得しましたので、取得までの勉強方法等を共有します。\n\n前提\n\n\n本記事…",
+          "link": "https://qiita.com/onthemoon/items/a6369df19126df7a55f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T05:38:18.000Z",
+          "wordCount": 284,
+          "title": "[資格]SAP Activate認定試験をBASISエンジニアが取得してみた"
+        },
+        {
+          "id": "https://qiita.com/hez2010/items/6771f600bb3459e738a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "序論\n\n.NET 6の開発進展を伴い、C# 10の最終機能もようやく決定され、デイリービルドに実装されました。今回の更新は主にタイプシステムの改善ために出来ました。じゃあ早速見に行こう。\n\nStruc…",
+          "link": "https://qiita.com/hez2010/items/6771f600bb3459e738a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T03:54:22.000Z",
+          "wordCount": 687,
+          "title": "C# 10 完全紹介"
+        },
+        {
+          "id": "https://qiita.com/atm-snag/items/c1e532e5d6e88981a522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まとめ\n\n\n思い込みがあると，探すべきところを後回しにしてしまう場合がある．\n\n\nエラーになった\n\nnode_modules/chokidar-cli/node_modules/chokidar/lib/f…",
+          "link": "https://qiita.com/atm-snag/items/c1e532e5d6e88981a522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T02:42:21.000Z",
+          "wordCount": 297,
+          "title": "`node_modules` を探した話"
+        },
+        {
+          "id": "https://qiita.com/mkuwan/items/35d91e7c2f9edfe9884a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nドラッグアンドドロップはPCを使っていれば当たり前の機能ですが、デスクトップアプリで実装しようと思うと結構な手間です。\nマイクロソフトのドキュメントでWPFでのドラッグ アンド ドロップ…",
+          "link": "https://qiita.com/mkuwan/items/35d91e7c2f9edfe9884a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T02:11:24.000Z",
+          "wordCount": 981,
+          "title": "WPF・MVVMでのDrag&Drop実装例"
+        },
+        {
+          "id": "https://qiita.com/hann-solo/items/83208cd686d401bdf800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\n以前にメーリングリストの投稿をLINEグループに転送するGoogle Apps Script(GAS)について書いた。\n\n特定のメールをLINEグループに転送できると（相変わらず）便利だし、知…",
+          "link": "https://qiita.com/hann-solo/items/83208cd686d401bdf800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T01:00:33.000Z",
+          "wordCount": 622,
+          "title": "メールをLINEグループに転送するGoogle Apps Script（改良版）"
+        },
+        {
+          "id": "https://qiita.com/suin/items/55fc2ff9184c303bb4d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PostGraphileは、PostgreSQLのデータベースにGraphQL APIを生やすミドルウェアです。PostGraphileの概要は次の記事をご覧ください。\n\nhttps://qiita.…",
+          "link": "https://qiita.com/suin/items/55fc2ff9184c303bb4d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-10T00:20:56.000Z",
+          "wordCount": 514,
+          "title": "PostGraphileをインストールし、シンプルなGraphQL APIを立てる単純なチュートリアル"
+        },
+        {
+          "id": "https://qiita.com/ppt_msdg_maas/items/653e3f8b39734fd8ee94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nLINE Pay APIを利用したいと考えていましたが、version3の記事が少なかったと感じたので使い方について紹介していければと思います。\nまた、Node.js版のSDKがversio…",
+          "link": "https://qiita.com/ppt_msdg_maas/items/653e3f8b39734fd8ee94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T23:59:07.000Z",
+          "wordCount": 911,
+          "title": "LINE Pay APIを使った決済機能を作ってみた Node.js版 (Version3対応)"
+        },
+        {
+          "id": "https://qiita.com/sugulu_Ogawa_ISID/items/325d7c9211fa1ea01550?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事は、アジャイル・スクラム開発において便利な「Azure DevOps Extensions」（拡張機能）のまとめ記事です。\n\nアジャイル・スクラム開発で「製品の品質」を保つには、開発プロセス”そ…",
+          "link": "https://qiita.com/sugulu_Ogawa_ISID/items/325d7c9211fa1ea01550?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T23:29:21.000Z",
+          "wordCount": 569,
+          "title": "アジャイル・スクラム開発に便利なAzure DevOpsの拡張機能まとめ"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/6f0e1ae1d7daf597641c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/e99h2121/items/47857957fd549c83b5cb\n\nhttps://qiita.com/e99h2121/items/f4c5856734d1…",
+          "link": "https://qiita.com/e99h2121/items/6f0e1ae1d7daf597641c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T21:20:06.000Z",
+          "wordCount": 254,
+          "title": "孤独を避けてレガシーコードに立ち向かうための人的アプローチ"
+        },
+        {
+          "id": "https://qiita.com/kure/items/198516e87ed31f1c1fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "作ったもの概要\n\n\n次の日の予定のうち、特定ラベルの付いた予定のタイトルのメモをLINE Notifyで通知します\n\n\n\n\n仕組み概要のメモ\n\nTImeTree側\n\nTimeTree の Calendar API…",
+          "link": "https://qiita.com/kure/items/198516e87ed31f1c1fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T15:04:57.000Z",
+          "wordCount": 312,
+          "title": "【TimeTree】特定ラベルの予定をLINEに通知するメモ"
+        },
+        {
           "id": "https://qiita.com/Ouvill/items/95e075c27082113df346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "ほかのブラウザでは利用できるのに、Internet Explorer(以下 IE)では利用できない機能が多くあります。そのためWeb開発でIEをサポートに含めると、CSS, JavaScriptに結…",
@@ -998,6 +1061,24 @@
           "publishedOn": "2021-08-09T10:58:23.000Z",
           "wordCount": 448,
           "title": "Internet Explorerなんてサポートしたくないので、Internet Explorerでアクセスしてきた人に対応していませんとお知らせを表示する。"
+        },
+        {
+          "id": "https://qiita.com/tanaka_LV5/items/88d9506b0fe0fd40a5af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "電話はPCの前にいる時だけにして欲しい\n\n今回は在宅ワークで使えそうなツールを制作しました。\n在宅ワーク中の相手に電話して良いかどうか、気を使うことがあります。自宅は職場と違い、公私の区別がつきにく…",
+          "link": "https://qiita.com/tanaka_LV5/items/88d9506b0fe0fd40a5af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T10:25:56.000Z",
+          "wordCount": 243,
+          "title": "在宅ワーク中の人に「電話してもいいかな？」という気をつかわずに済むLINEBotを作ってみました！"
+        },
+        {
+          "id": "https://qiita.com/marzg510/items/90fa59fa5059b8d55018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今まで２５年ほどデータベースエンジニアとして生きてきたが\n技術者として限界を感じた。\nなんとかこの業界で生きていきたいので\n「データサイエンティスト」を\n５０代にして目指してみる。\n最終的には組織か…",
+          "link": "https://qiita.com/marzg510/items/90fa59fa5059b8d55018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T10:06:57.000Z",
+          "wordCount": 220,
+          "title": "５０代でデータサイエンティストを目指す"
         },
         {
           "id": "https://qiita.com/AkitoTsukahara/items/db090519602c49940aaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1016,6 +1097,15 @@
           "publishedOn": "2021-08-09T09:48:38.000Z",
           "wordCount": 791,
           "title": "エッ！？ 平衝二分木の update, push (eval, propagate) のタイミングがわからないですって？ フッフッフ……"
+        },
+        {
+          "id": "https://qiita.com/aya2648/items/f1643f297b41f7a280fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは\n\nコロナにより自炊をする機会も増えていると思います。\nスーパーでのお買い物も増え、スーパーのレシートを持っている方も多いのではないでしょうか？\n\nまた、レシート、請求書など、どこで買ったかを…",
+          "link": "https://qiita.com/aya2648/items/f1643f297b41f7a280fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T09:36:48.000Z",
+          "wordCount": 385,
+          "title": "そのレシートは捨てないで！どのスーパーのレシートかを教えてくれる、レシート画像判定機を作ってみた"
         },
         {
           "id": "https://qiita.com/chiba1sonny/items/c8f68497437312a137c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1043,6 +1133,15 @@
           "publishedOn": "2021-08-09T08:30:43.000Z",
           "wordCount": 623,
           "title": "顔出しをせずに表情だけを伝えることができるwebアプリを作った【Next.js+TypeScriptでface-api.jsを使って表情認識】"
+        },
+        {
+          "id": "https://qiita.com/komona/items/5cec3304ea70a53724ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "もうすぐ内定式や内定者研修が始まる時期ですね。\n今年も内定者研修はオンラインで行う企業も多いのではないでしょうか。\n\nオンラインだと座学ばかりになってしまい、参加者が退屈しないか悩んでいる人事担当者も…",
+          "link": "https://qiita.com/komona/items/5cec3304ea70a53724ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T07:19:00.000Z",
+          "wordCount": 253,
+          "title": "ネタに困っている人事担当者向け！オンライン研修でも楽しみながら学べる画像判定クイズアプリ"
         },
         {
           "id": "https://qiita.com/aki202/items/2348fd246d7904e5dc3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1108,6 +1207,15 @@
           "title": "『どの駐車場出入口から入ったっけ？』を機械学習を使って解決してみた"
         },
         {
+          "id": "https://qiita.com/yudiramaruyama/items/255c2fbb2d009b7f7b02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「A店からB店」への商品移動を伴う会社業務で紙の印刷が毎回不可欠になっている部分を\n想像して機械学習で作ってみました。\n\n商品移動をする時の業務流れ：\nハンディーで商品を一つ一つ認証させ⇒データをPC…",
+          "link": "https://qiita.com/yudiramaruyama/items/255c2fbb2d009b7f7b02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-09T03:36:26.000Z",
+          "wordCount": 546,
+          "title": "機械学習で商品認証+移動通知/管理"
+        },
+        {
           "id": "https://qiita.com/otokomigakimasu/items/284743d4772a477b047e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n\n\nエンジニアやエンジニア志望の皆さん、最後に海に行ったのはいつですか？\n\n元々インドアで仕事や勉強をしがちで、コロナ禍もありよほど好きな人でなければ1年以上海に行ってないのではないでしょうか？\n…",
@@ -1133,6 +1241,15 @@
           "publishedOn": "2021-08-09T01:01:20.000Z",
           "wordCount": 279,
           "title": "物の名前がわからなくても教えてくれる映像判断ツール"
+        },
+        {
+          "id": "https://qiita.com/bathtimefish/items/34e128cb2578c4db0845?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nLINE Botでユーザーの入力と対話をするBotサーバーを開発してみます。BotサーバーとはユーザーがLINEアプリに入力したメッセージを受信してそれに対する処理を行い、ユーザーに応答…",
+          "link": "https://qiita.com/bathtimefish/items/34e128cb2578c4db0845?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T16:28:44.000Z",
+          "wordCount": 875,
+          "title": "[LINE Bot 開発入門] LINE Bot Serverを作ってみる その1"
         },
         {
           "id": "https://qiita.com/smiler5617/items/66eb929bd6bac7737615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1198,6 +1315,15 @@
           "title": "[メモ] Pythonで色付きprintを行うクラスを作成"
         },
         {
+          "id": "https://qiita.com/tacchan5424/items/2e9506bea4ed97a1f742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n前回は応答通知を作成したので、今回はプッシュ通知に挑戦してみました。\n正しい実装かどうかは不明ですが参考程度になりましたら幸いです。\n\n背景\n\n今年の6月からGoogleのspreadshe…",
+          "link": "https://qiita.com/tacchan5424/items/2e9506bea4ed97a1f742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T08:12:07.000Z",
+          "wordCount": 464,
+          "title": "【LINE Messaging API＆Google Sheets API】プッシュ通知で週末に家計簿を通知"
+        },
+        {
           "id": "https://qiita.com/yamadashy/items/1c2c5d9fc766939a1851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nそのChrome拡張、Firefox や Edge などで出したいと思ったことはありませんか。\n\nしかし、いざやるとなると調べることも多く面倒臭いです。\n\nそこで本記事は「ブラウザ拡張の開発…",
@@ -1232,6 +1358,24 @@
           "publishedOn": "2021-08-08T05:17:02.000Z",
           "wordCount": 334,
           "title": "Security Command Center"
+        },
+        {
+          "id": "https://qiita.com/Ziyasumin01/items/6cc78eebe4a25568ee81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "皆さま。こんにちは。　\n今回も超初心者、基本アナログ人間の挑戦です！\n\n共同や公共で使えるキッチンの消費期限の食材管理って難しいですよね？\nたとえば、飲食業なども、期限が切れたものを使ってしまったら大…",
+          "link": "https://qiita.com/Ziyasumin01/items/6cc78eebe4a25568ee81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T03:56:56.000Z",
+          "wordCount": 266,
+          "title": "消費期限切れ防止！この食材はいつまでの期限かをチェックするアプリを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/y-okudera/items/198737ce79146ce62aa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近、久しぶりに「Sign in with Apple」を実装する機会があったのですが、\nデバッグをする際にハマったので備忘録も兼ねての投稿です！\n\n実装の仕方については、Firebase…",
+          "link": "https://qiita.com/y-okudera/items/198737ce79146ce62aa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-08T03:56:05.000Z",
+          "wordCount": 369,
+          "title": "Sign in with Appleのデバッグで困ったことと解決方法"
         },
         {
           "id": "https://qiita.com/kaizen_nagoya/items/82c7939f442cbd5fce37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5237,141 +5381,6 @@
           "publishedOn": "2021-07-12T13:24:10.000Z",
           "wordCount": 439,
           "title": "HTTPはステートレス？？セッションとは？？Cookieとは？"
-        },
-        {
-          "id": "https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "対象読者：将来国を建設したいが、国旗を考えるのは面倒くさいという人\n\n　他に誰かやっていると思ったら、ちょっと検索した範囲では見つからなかったのでやってみました。国旗をGANで作れないかという実験です…",
-          "link": "https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T12:21:03.000Z",
-          "wordCount": 948,
-          "title": "GANで国旗を作る"
-        },
-        {
-          "id": "https://qiita.com/seiwaman/items/aebc200727a7f03d600a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n現在私はPHPとLaravelを学んでいるのですが、そのLaravelの中で重要となってくるのが\n「MVCモデル」と呼ばれる考え方です。\n\n拙いですが自分の備忘録として他の方の記事などを参…",
-          "link": "https://qiita.com/seiwaman/items/aebc200727a7f03d600a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T12:09:36.000Z",
-          "wordCount": 306,
-          "title": "プログラミング初心者が書いたMVCモデルについて"
-        },
-        {
-          "id": "https://qiita.com/kudota/items/419abc212de4be74fca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "PHP8.1からenumが使えるようになります\n\nPHP8.1は2021年11月25日リリース予定です。\n追加される新機能は以下を参考\nhttps://stitcher.io/blog/new-in…",
-          "link": "https://qiita.com/kudota/items/419abc212de4be74fca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T12:00:08.000Z",
-          "wordCount": 386,
-          "title": "PHP8.1でenumが使えるようになる！"
-        },
-        {
-          "id": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "新潟←ちょっとこれを読んでみてください。\n\n読めましたね。\n\nではちょっと画面から目を離して、niigata←これを漢字で書いてみてください。\n\n8割くらいの人は書けなかったんじゃないかなと思います。\n\nと…",
-          "link": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T11:25:44.000Z",
-          "wordCount": 882,
-          "title": "【PHP8.1】読めるけど書けないプロパティが作れるようになる"
-        },
-        {
-          "id": "https://qiita.com/ikegawa-koshi/items/39c98779ad8696b78816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n株式会社日立製作所 研究開発グループ サービスコンピューティング研究部の池川です。\nBlockchainに関する研究をしており、特にHyperledgerが管理するOSSを使っています。\n\n本記事では、Hyperledger Fabric Private Chaincodeの紹介とサンプルを使った実行例について説明します…",
-          "link": "https://qiita.com/ikegawa-koshi/items/39c98779ad8696b78816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T08:41:41.000Z",
-          "wordCount": 620,
-          "title": "Hyperledger Fabric Private Chaincodeを動かしてみる"
-        },
-        {
-          "id": "https://qiita.com/Sugawara_Miti/items/e716ae41e80f69aabc4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "こんにちは。現在、大学院生で自然言語処理の研究をしています。言語処理100本ノックの問題を解いたので、復習がてら載せていこうと思います。\n\n言語処理100本ノック\n\n第１章：準備運動\n\n00.文字列の逆順\n\n問題：文字列”stressed”の文字を逆に（末尾から先頭に向かって）並べた文字列を得よ…",
-          "link": "https://qiita.com/Sugawara_Miti/items/e716ae41e80f69aabc4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T04:01:55.000Z",
-          "wordCount": 619,
-          "title": "言語処理100本ノック 2020　第１章"
-        },
-        {
-          "id": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "やること\n\n今回は簡単にKubernetes環境が作れる「Minikube」を用いてローカル環境にReactアプリケーションをデプロイし、疎通確認をしていきます。\nまた、今回のソースコードはGitH…",
-          "link": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T01:33:13.000Z",
-          "wordCount": 1039,
-          "title": "【Kubernetes入門】ローカル環境にReactアプリをデプロイする"
-        },
-        {
-          "id": "https://qiita.com/nicco_mirai/items/5591c1c48b1422c324c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nPythonでキチンと型アノテーションを書くのであれば一度は読んでおきたいのがtypingライブラリの公式ドキュメントです。\n\n前回の記事でも読んでくださいと(偉そうに)書いたわけですが、…",
-          "link": "https://qiita.com/nicco_mirai/items/5591c1c48b1422c324c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T01:14:08.000Z",
-          "wordCount": 1887,
-          "title": "Pythonの型を完全に理解するためのtypingモジュール全解説(3.10対応)"
-        },
-        {
-          "id": "https://qiita.com/baby-degu/items/f6f8ab57290d2db3e6fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "本記事は、Richmond Alake氏による「How You Should Read Research Papers According To Andrew Ng (Stanford Deep …",
-          "link": "https://qiita.com/baby-degu/items/f6f8ab57290d2db3e6fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-12T00:54:16.000Z",
-          "wordCount": 473,
-          "title": "【保存版】アンドリュー・ウン教授に学ぶ論文の読み方（スタンフォード大学の深層学習講義）＋追加情報"
-        },
-        {
-          "id": "https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n皆さんはアプリケーションデータを加工して分析用データを提供するためのデータパイプラインをどう構築していますか？\n本記事ではその選択肢の一つとして、今イチオシの AWS Data Wran…",
-          "link": "https://qiita.com/yaitaimo/items/dba79444714935e77392?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-11T23:42:47.000Z",
-          "wordCount": 558,
-          "title": "AWS Data Wrangler で ETL をやってみる（RDB のデータを加工してデータマートへ）"
-        },
-        {
-          "id": "https://qiita.com/arakawamotohide/items/a9e4712a0ab63e382cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "どうもこんにちは、Qiitaでは はじめまして。私です。普段は分析とかデータとかその辺の仕事をしてる者です。\n\nQiitaで分析とかプロマネの話をしていいのか悩んでたんですけどなんか大丈夫そうなのでこ…",
-          "link": "https://qiita.com/arakawamotohide/items/a9e4712a0ab63e382cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-11T23:35:59.000Z",
-          "wordCount": 445,
-          "title": "分析者が知っておくと便利なプロジェクトマネジメントの話"
-        },
-        {
-          "id": "https://qiita.com/suzuki0430/items/22cb6b0dcc607afd35dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n2021年7月でエンジニアになって1年経ちました。\n\nエンジニア転職直後に年収が700台から300台まで落ちて、爆速で市場価値をあげなければ！！というモチベーションで一年間いろいろ勉強して…",
-          "link": "https://qiita.com/suzuki0430/items/22cb6b0dcc607afd35dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-11T23:13:08.000Z",
-          "wordCount": 443,
-          "title": "エンジニア転職して一年経つので自宅学習で使った技術書&Udemyをジャンル別に評価してみた"
-        },
-        {
-          "id": "https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "皆さんESP32でWifiを使うときのIDとPASSってソースファイルに直書きしてますか？\nハードコードが嫌だからSDカードやSPIFFSに保存して再起動の度に読みだしてWiFi.begin(ID,…",
-          "link": "https://qiita.com/coppercele/items/6789deea453826916725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-11T18:26:18.000Z",
-          "wordCount": 387,
-          "title": "ESP32(M5StickC)でWPSを使うと設定ファイルも必要ないし便利ですよ"
-        },
-        {
-          "id": "https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "まとめ\n\nコードを読んでいても発音が分かりません。\n発音できないのが気持ち悪いので頑張って調べてみました。\n\n英語のビデオを見る限りは「こんすとえくすぷろ」が圧倒的に多いです。\nこれは間違いなさそうで…",
-          "link": "https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-11T13:56:24.000Z",
-          "wordCount": 292,
-          "title": "constexprの読み方"
-        },
-        {
-          "id": "https://qiita.com/yamad365/items/8922474d5aae94937018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Power Automate に関して質問される「このトリガーからナニが取れるのかわかりません。」みたいな話題に対する「こういうコトすれば良いんじゃない？」という当方からのアイディアです。\n\n実際にテ…",
-          "link": "https://qiita.com/yamad365/items/8922474d5aae94937018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-11T13:36:59.000Z",
-          "wordCount": 374,
-          "title": "Power Automate で得られる情報がわからない時は…"
         }
       ]
     }
