@@ -2,10 +2,274 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkooo.github.io/sample-osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T01:04:38.957Z</updated>
+    <updated>2021-08-12T01:03:09.009Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mkooo.github.io/sample-osmosfeed/index.html"/>
     <link rel="self" href="https://mkooo.github.io/sample-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[660億円流出の暗号資産 4割返還]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6401406?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6401406?source=rss"/>
+        <updated>2021-08-11T23:04:38.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産の取引システムを手掛けるポリ・ネットワークは11日、不正アクセスで盗まれた暗号資産の4割に当たる2億6000万ドル（約280億円）相当が返還されたと発表。事件は10日に発生。暗号資産計6億ドル（約660億円）相当が不正送金された。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初心者チームでkaggleコンペに参加して銅メダルを取った話]]></title>
+        <id>https://qiita.com/naccchan/items/f836876d3ed7b4528478?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/naccchan/items/f836876d3ed7b4528478?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T13:27:32.000Z</updated>
+        <summary type="html"><![CDATA[前置き
+
+SIIM-FISABIO-RSNA COVID-19 Detectionというコンペ（5月18日〜8月10日）に参加して、銅メダルを取得することができました（116位/1324）。
+そのと…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QiitaのContribution数が仕様変更でインフレ気味に？]]></title>
+        <id>https://qiita.com/kanta_yamaoka/items/d18314ac025cd3c79667?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kanta_yamaoka/items/d18314ac025cd3c79667?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T11:40:29.000Z</updated>
+        <summary type="html"><![CDATA[記事を書こうとQiitaを覗くとContributionが2倍になってました。
+
+あれ？仕様変更？
+
+Qiita夏の大型アップデート
+
+
+
+新Contributionsがあるのは聞いてましたが、段階的にロール…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士通 流出は129企業・機関]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6401357?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6401357?source=rss"/>
+        <updated>2021-08-11T09:23:17.000Z</updated>
+        <summary type="html"><![CDATA[富士通は11日、同社の情報共有ツールへの不正アクセスにより個人情報が流出した問題で、漏えいした企業や機関が計129に上ったと発表した。現時点で悪用された事例は把握していないという。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kaggleで初メダルを獲得しました！！！(4ヶ月でExpertになれました)]]></title>
+        <id>https://qiita.com/yoneyoneclub/items/2bb22e1e7e0242d696b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yoneyoneclub/items/2bb22e1e7e0242d696b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T09:22:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Google Smartphone Decimeter Challengeに参加し，銅メダルを獲得することができました．(CommonLit Readability Prizeコンペでも…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産660億円流出 最大規模]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6401343?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6401343?source=rss"/>
+        <updated>2021-08-11T07:43:36.000Z</updated>
+        <summary type="html"><![CDATA[分散型金融（DeFi）を手掛けるポリ・ネットワークは10日、ハッカー攻撃により約6億ドル（約660億円）相当の暗号資産（仮想通貨）が流出したと発表。DeFi分野の流出額としては過去最大規模になる公算が大きい。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Next.js＋TypeScript】Tailwind CSSの環境構築Q&A]]></title>
+        <id>https://qiita.com/emjo1804/items/503fd4d029168631a6b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/emjo1804/items/503fd4d029168631a6b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T07:35:14.000Z</updated>
+        <summary type="html"><![CDATA[筆者がfwywd一次採用試験を受けたときに、
+割とちょこちょこハマる部分が多かったのでQ&Aとしてまとめておく。
+
+https://fwywd.com/news/recruitment-1st
+
+採用試…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Next.js＋TailwindCSS】TypeScriptを使ってコンポーネントを作ってみよう【fwywd一次採用試験】]]></title>
+        <id>https://qiita.com/emjo1804/items/72c7c76581e60a0d611b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/emjo1804/items/72c7c76581e60a0d611b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T07:34:54.000Z</updated>
+        <summary type="html"><![CDATA[TypeScriptを試してみたいけど実際どう書くのかイマイチよくわからない人に捧ぐ。
+fwywd一次採用試験内容の一部をお借りして、実際に実装してみる。
+
+https://fwywd.com/new…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Git Flow】チーム開発のお作法～GitHubとブランチ管理編【採用試験対策】]]></title>
+        <id>https://qiita.com/emjo1804/items/9daea4cd42980f179032?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/emjo1804/items/9daea4cd42980f179032?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T07:34:29.000Z</updated>
+        <summary type="html"><![CDATA[技術面以外で採用担当者の心証が爆上がりする知識ってな～んだ？
+答えはチーム開発のお作法です！
+
+ここではGit Flowを利用したブランチ管理の手順を紹介していく。
+GitHubだけで完結するように組…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Next.js＋TypeScript】fwywdの一次採用試験攻略ガイド～試験の流れ編【採用試験対策】]]></title>
+        <id>https://qiita.com/emjo1804/items/62dabbc059a94778fd25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/emjo1804/items/62dabbc059a94778fd25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T07:33:51.000Z</updated>
+        <summary type="html"><![CDATA[無事合格。やったぜ。
+fwywdの一次採用試験を受けるにあたって大まかな作業の流れと、より良い成果物を作るためのポイントを共有しようと思う。
+
+より実践的な話に興味があったらこっちも読んでみてね。
+
+【…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok アプリDL数で世界1位に]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6401339?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6401339?source=rss"/>
+        <updated>2021-08-11T06:17:45.000Z</updated>
+        <summary type="html"><![CDATA[世界のアプリダウンロード数ランキング2020年版で、動画投稿アプリ「ティックトック（TikTok）」がフェイスブック（Facebook）などを抑えて1位になった。米市場調査会社アップアニー（App Annie）が10日、明らかにした。]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノーコードで電子掲示板（フォーラム）を開発できる「Forum.Land」を使ってみた！]]></title>
+        <id>hatenablog://entry/26006613796078061</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/08/11/130000"/>
+        <updated>2021-08-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
+今回は、面倒なサーバ環境の準備が不要なうえノーコードで自分だけの掲示板（フォーラム）を手軽に作れるWebサービスをご紹介します。
+掲示板の作成からユーザー管理・運用まで、このサービス1つで丸ごと完結するのが特徴です。また、関連するテーマごとにトピックを作成して投稿を簡単に整理できたり、高機能なテキストエディタによってブログのように記事が書けたりする機能も搭載されています。
+独自の掲示板を素早く作成して公開したい方は、ぜひ参考にしてみてください！
+【 Forum.Land 】
+
+■「Forum.Land」の使い方
+それでは、「Forum.Land」をどのように使えばいいのか詳しく見ていきましょう！
+まずはサイトの画面上部にある【Signup】ボタンから無料のユーザー登録をしておきます。
+
+
+Googleアカウントから手軽にログイン可能ですが、メールアドレスとパスワードを設定してユーザー登録を済ませることもできます。
+
+登録したメールアドレス宛に認証リンクが送付されるので、それをクリックして完了しておきましょう（再度ホームページに戻ってログインし直してください）。
+
+登録が完了すると「ホーム画面」が表示されるので、【CREATE A FORUM】ボタンをクリックして新規の掲示板を作ってみましょう。
+
+
+テーマカラーと掲示板の名称を設定して【NEXT】ボタンをクリックします。
+
+
+掲示板は特定のテーマに関連した「トピック」を作成できるのですが、その最初のトピック名を設定しておきましょう。
+
+誰が投稿できるのかも設定可能で、「Anyone」にしておくと誰でも掲示板に投稿できるようになります（特定のメンバーだけ投稿する場合は「Only member」を選択）。
+
+また、トピックのアイコンも変更可能で、豊富な「絵文字」から選んだり手持ちの画…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaggleの画像コンペに初心者だけでチーム組んで挑んでみたら銅メダル取れた話]]></title>
+        <id>https://qiita.com/RedBull_132/items/97a1fefc8d00d6d4d520?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/RedBull_132/items/97a1fefc8d00d6d4d520?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T02:32:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+表題そのまんまですが、深層学習を勉強し始めてすぐに無謀にもkaggleの画像コンペに挑戦し、コンペ終了時点で学習期間3か月ちょっとの初心者チームが、銅メダルを取る（116位/1324）に…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10のDocker×VSCode環境でReactを動かすまでの道のり]]></title>
+        <id>https://qiita.com/_KAYATO/items/110952e722ef73ded728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/_KAYATO/items/110952e722ef73ded728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-11T01:32:51.000Z</updated>
+        <summary type="html"><![CDATA[初Qiita投稿です！
+
+現在React Bootcampに参加しており、
+Windows10でのDockerを使った環境構築で躓いたポイントがあったので共有します。
+
+https://react-na…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全かつ前向きなバグ修正の手順～新しいメソッドを作り、既存メソッドを非推奨にする～]]></title>
+        <id>https://qiita.com/flyaway/items/644cbaa870c4a3b3167d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/flyaway/items/644cbaa870c4a3b3167d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T15:08:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに: バグ修正の際に意識するべきこと
+
+バグ修正の際に意識するべきこととは、何でしょうか。
+単に「そのバグが直る」ことだけではなく、今後は同じ間違いに陥らないようにすることも含まれるのではない…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラズパイ + Google Data Portalで自宅の気温・湿度をグラフ化]]></title>
+        <id>https://qiita.com/kaz2018/items/25dbbf2c69485a612d65?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kaz2018/items/25dbbf2c69485a612d65?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T13:35:29.000Z</updated>
+        <summary type="html"><![CDATA[これなに
+
+　ラズパイで自宅周りの気温・湿度を取得して、スマホやPCでサクッと見れるようにしました。
+
+　出来上がりは下記リンクになります。
+
+　自宅周辺の気温・湿度の推移
+
+動機
+
+　Google Dat…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆数の総和を取る6つの方法とその誤差]]></title>
+        <id>https://qiita.com/Nabetani/items/6d328f626776c2531c52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Nabetani/items/6d328f626776c2531c52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T12:58:37.000Z</updated>
+        <summary type="html"><![CDATA[これは何？
+
+https://qiita.com/ttf1998seiya/items/a60ff99c9fdffa09c28f
+
+で素朴に総和をとっていて。
+
+そういえば部分和を積み重ねることで誤差を…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[std::set を高速にマージする]]></title>
+        <id>https://qiita.com/i_saint/items/a8bdce5146bb38e69f72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/i_saint/items/a8bdce5146bb38e69f72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T12:52:38.000Z</updated>
+        <summary type="html"><![CDATA[前提
+
+std::set に、多数のソート済みアイテムをできるだけ高速に追加したい。
+具体的には、std::set<std::string> で要素数は 100000 くらい、各要素の文字数は多くて…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墓参り2人以上で ツイート話題]]></title>
         <id>https://news.yahoo.co.jp/pickup/6401278?source=rss</id>
@@ -17,11 +281,75 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[食事中のタイムラプス動画をつくりたい]]></title>
+        <id>https://qiita.com/im02kai/items/d4469190cb23a092a141?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/im02kai/items/d4469190cb23a092a141?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T10:55:38.000Z</updated>
+        <summary type="html"><![CDATA[動機
+
+作った料理をログを残したい
+ついでに、インスタにシェアしたい
+
+ハード
+
+テーブルの上の天井に
+ssh設定した、raspberry pi zero とカメラ 、USBスピーカーを設置
+
+画角の調整
+
+通常のカメラだと、広角すぎてトリミングすると解像度が荒くなるの…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トヨタの自工程完結　佐々木 眞一]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/dd2de8bd9d884c16911d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/dd2de8bd9d884c16911d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T10:47:39.000Z</updated>
+        <summary type="html"><![CDATA[今まで買ってよかった技術書を紹介しよう！
+https://qiita.com/official-events/d409f91fc8b9b44cefb4
+参加記事です。
+
+佐々木眞一の動画を拝見した。
+
+…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[エアコンをHackしてスマートリモコンをつくる]]></title>
         <id>https://qiita.com/ugis_prog/items/73b0f8f2edfe4e1695e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/ugis_prog/items/73b0f8f2edfe4e1695e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
         <updated>2021-08-10T09:12:14.000Z</updated>
         <summary type="html"><![CDATA[エアコンつけたいけどリモコンに手が届かない……という経験はないでしょうか。エアコンでなくとも似たような経験がある方は多いと思います。 そこで、より怠惰な生活を送るためにRaspberry Piを使っ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<html>のfont-sizeを62.5%と指定するのはどう考えても間違っている]]></title>
+        <id>https://qiita.com/NagayamaToshiaki/items/77e929d855d052863a85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/NagayamaToshiaki/items/77e929d855d052863a85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T07:45:22.000Z</updated>
+        <summary type="html"><![CDATA[悪魔の所業
+
+もはや廃れたものだと思っていたのだが、マイクロソフトの技術系ページで見てしまった^1ので、ムカムカを解消すべく記載する。SQL Serverのバージョン情報を見る限り、15年くらいは古…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timer Camera Fで定点カメラを作ってLINEに通知]]></title>
+        <id>https://qiita.com/moritalous/items/311fb0b881bc1198ed5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/moritalous/items/311fb0b881bc1198ed5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[夏休みなので（？）、Timer Camera Fで定点カメラを作ってみました。そのままだと面白くないので、気温・湿度・気圧を取得してLINEに通知するようにしてみました。
+
+
+
+Lineに定期的に通知しま…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -39,6 +367,16 @@ SAP Activate認定(C_ACTIVATE13)というプロジェクトマネージャ向け
 
 
 本記事…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野菜だけで一日分の栄養を取れる組み合わせを計算したら衝撃の結果が！]]></title>
+        <id>https://qiita.com/takobaya391076/items/faba9a9fe440c7dcfeeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/takobaya391076/items/faba9a9fe440c7dcfeeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-10T04:52:03.000Z</updated>
+        <summary type="html"><![CDATA[マクドナルドで一日分の栄養を取れる組み合わせを計算したら衝撃の結果が！では、なみいるマックメニューの中からサイドサラダの大量摂取が選ばれました。ということは、野菜だけを食べれば一日分の栄養が取れるの…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -230,6 +568,19 @@ TimeTree の Calendar API…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Firebase JS SDK v9がバンドルサイズを激減した神アップデートだった話😲]]></title>
+        <id>https://qiita.com/qrusadorz/items/166aa1948dca8bd046a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/qrusadorz/items/166aa1948dca8bd046a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-09T12:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+
+みんな大好きFirebaseですが、JSのSDKのファイルサイズが大きいという問題がありました。
+ファイルサイズが大きいということは、ページ描画に影響があるため扱いにくい印象でし…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ポケモン 「じてんしゃ」の歴史]]></title>
         <id>https://news.yahoo.co.jp/pickup/6401190?source=rss</id>
         <link href="https://news.yahoo.co.jp/pickup/6401190?source=rss"/>
@@ -237,6 +588,24 @@ TimeTree の Calendar API…]]></summary>
         <summary type="html"><![CDATA[7月30日、「ポケットモンスター 赤・緑」に登場したアイテム「じてんしゃ」の等身大模型が、ポケモン情報局の公式Twitterでお披露目となった。ポケモンシリーズと共に産声を上げた自転車は、後続シリーズでも度々登場。その歴史は。]]></summary>
         <author>
             <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新卒研修】初めて新規開発をして学んだこと]]></title>
+        <id>https://qiita.com/YutoTakakura/items/92dcdab50102bb0b0795?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/YutoTakakura/items/92dcdab50102bb0b0795?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-09T11:47:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+こんにちは。
+4月に新卒でイーリバースドットコムに入社した高倉です。
+この記事は、私が３ヶ月の研修期間を経て感じたことをアウトプットする目的で書いております。
+
+研修前のレベル感
+
+私の大学…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -8032,237 +8401,6 @@ https://qiita.com/official-events/d409f91fc8b9b44cefb4
         <updated>2021-07-13T13:08:21.000Z</updated>
         <summary type="html"><![CDATA[Twilioオンラインコンテスト2021の6月分に応募するために「PPAPTwilio - パスワードは電話で送ろう」を作りました。
 TwilioのCLI、Studio、Functions、Sync…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 送金サービスpring買収]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6398628?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6398628?source=rss"/>
-        <updated>2021-07-13T11:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Googleによる決済サービススタートアップpring（東京都港区）の買収が正式に公表された。Googleは8月下旬までに買収のための株式取得を終え、来年をめどに送金決済事業の自社展開を目指す方針。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【個人開発】海外旅行になかなか行けないので、コロナ禍の渡航難易度を可視化するサービスを作ってみた。]]></title>
-        <id>https://qiita.com/bosenohito/items/86c9c467b05aca75c495?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/bosenohito/items/86c9c467b05aca75c495?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T10:36:15.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-
-
-突然ですがみなさん、最後に海外旅行に行ったのはいつですか？
-多くの方は1年以上海外旅行に行けていないのではないでしょうか？
-
-申し遅れました、Yunoと申します。
-【Twitterアカウン…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 記事使用料巡り仏で制裁]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6398619?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6398619?source=rss"/>
-        <updated>2021-07-13T09:59:01.000Z</updated>
-        <summary type="html"><![CDATA[フランスの競争当局は13日、米IT大手Googleが自社サービスで使用する記事の対価支払いに関し、報道機関と誠実に交渉していないなどとして、制裁金5億ユーロ（約650億円）を科すと発表した。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pybottersでbybitの約定履歴と板情報をMongodbに保存するスクリプト]]></title>
-        <id>https://qiita.com/Osaifu-Crypto/items/b5fad10cfa242be7c27d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Osaifu-Crypto/items/b5fad10cfa242be7c27d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T09:10:09.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨トレードbotのオープンソースライブラリpybottersを利用して、バックテスト用のデータを保存するスクリプトです。本記事の内容はpybotters開発者のまちゅけんさんのDiscordで…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django でモデルフィールドの値を暗号化してくれる EncryptedField を作成する方法]]></title>
-        <id>https://qiita.com/rkiyose/items/1d9783889a97885b0e92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/rkiyose/items/1d9783889a97885b0e92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T08:51:34.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-業務でDjangoで作ったシステムのデータを暗号化してDBで保管するという
-タスクに携わったので、その方法を記事にしたいと思います。
-
-この記事で触れること
-
-
-Modelの値を暗号化してDB…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Elixir] Phoenix LiveViewのテストを書く]]></title>
-        <id>https://qiita.com/mokichi/items/d46a82d1248cdbe47a2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/mokichi/items/d46a82d1248cdbe47a2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T08:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Phoenix LiveViewをご存じない方へ
-
-Webアプリを開発するにあたって、リッチなUIを実現するためにReactやVue.jsでSPAを実装し、APIをGo等で実装するというように、フロ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】lilToonのTipsなど]]></title>
-        <id>https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T06:06:50.000Z</updated>
-        <summary type="html"><![CDATA[先日私がリリースいたしましたUnity向けシェーダー「lilToon」についての話です。
-公開直後ながら既に多くのご支援をいただいており、心より感謝申し上げます。
-今回の記事はlilToon向けの話…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure & MS Fundamentals資格の勉強方法 | AZ-900、DP-900、AI-900、PL-900、SC-900]]></title>
-        <id>https://qiita.com/sugulu_Ogawa_ISID/items/f228a8fef14bd1a13a1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/sugulu_Ogawa_ISID/items/f228a8fef14bd1a13a1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T05:22:47.000Z</updated>
-        <summary type="html"><![CDATA[本記事では、AzureおよびMicrosoftのFundamentals資格の勉強方法（の一例）を紹介します。
-
-本記事の対象は、AZ-900、DP-900、AI-900、PL-900、SC-900、…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WordPress][MySQL] クエリパフォーマンスが落ちてきたときに設定すると良いインデックス]]></title>
-        <id>https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T05:12:31.000Z</updated>
-        <summary type="html"><![CDATA[WordPress でサイト運営しているとデータが溜まってきて、SQLクエリのパフォーマンスが落ちることがありますよね。
-
-そういう時は、RDS の Performance Insights や、My…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript の即時関数さんてさ？]]></title>
-        <id>https://qiita.com/uniho/items/88b6f261b0a9165ab425?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/uniho/items/88b6f261b0a9165ab425?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T04:13:16.000Z</updated>
-        <summary type="html"><![CDATA[即時関数とは
-
-即時関数について知らない方はググって知識を得てからいかに進んでくださいm(_ _)m
-
-文が書けるとこでは即時関数の出番は減る
-
-JavaScript には、「文(statement)」…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浮動小数点数の呪われた世界（x87 と C/C++)]]></title>
-        <id>https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T02:52:32.000Z</updated>
-        <summary type="html"><![CDATA[これは何？
-
-ruby の数値の等値 という記事の冒頭に軽い気持ちで書いた C 言語の話が面白かったのでここに記す。
-
-基礎知識
-
-Usual arithmetic conversions
-
-C89 だか…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customizing Your Own Nerves System (Nervesをカスタマイズする)]]></title>
-        <id>https://qiita.com/kikuzo/items/f632e6b51098cdbd6e8e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kikuzo/items/f632e6b51098cdbd6e8e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-13T01:26:16.000Z</updated>
-        <summary type="html"><![CDATA[この記事は何？（この項目のみ訳者独自記述）
-
-この記事は、Nerves公式ドキュメントの「Customizing Your Own Nerves System v1.7.9」の章の日本語訳です。対象…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIerだった私が1つのプロダクトを継続開発するようになって意識するようになったこと]]></title>
-        <id>https://qiita.com/ham0215/items/1276853af5c54867ca71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/ham0215/items/1276853af5c54867ca71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-12T23:59:53.000Z</updated>
-        <summary type="html"><![CDATA[最近、プロダクトを作って納品して終わりではなく、同じプロダクトを継続して開発していくことが多いと思います。
-私もその一人です。
-SIerとして開発していたときと比較して、継続して開発するようになって…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikiとは何なのか、何でないのか - 社内Wiki運営のための参考文献]]></title>
-        <id>https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-12T21:12:09.000Z</updated>
-        <summary type="html"><![CDATA[表題のとおりだが、Wikiについて。
-
-https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD
-
-
-ウィキ（Wiki）とは、不特定多数のユーザー…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【合格体験記】令和3年度春期 ネットワークスペシャリスト]]></title>
-        <id>https://qiita.com/yuki_doi/items/8fd465825ae7dc30a41c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/yuki_doi/items/8fd465825ae7dc30a41c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-12T15:08:05.000Z</updated>
-        <summary type="html"><![CDATA[2021年4月18日(日)に実施された「令和3年度春期 ネットワークスペシャリスト試験(NW試験)」に合格しました！勉強方法や特に勉強になった過去問などを紹介したいと思います。
-
-経歴
-
-
-社会人4年目
-
-
-…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通信違約金 上限1カ月分の方針]]></title>
-        <id>https://news.yahoo.co.jp/pickup/6398540?source=rss</id>
-        <link href="https://news.yahoo.co.jp/pickup/6398540?source=rss"/>
-        <updated>2021-07-12T14:07:35.000Z</updated>
-        <summary type="html"><![CDATA[インターネットなどの通信サービスを解約する際の違約金について、総務省は12日、上限額を「1カ月分のサービス利用料相当額」に制限する方針を示した。解約を防ぐため高額な違約金を求める事業者もいたという。]]></summary>
-        <author>
-            <name>Yahoo!ニュース・トピックス - IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTPはステートレス？？セッションとは？？Cookieとは？]]></title>
-        <id>https://qiita.com/179Bell/items/0c15cb4f8ea3f3b948d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/179Bell/items/0c15cb4f8ea3f3b948d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-12T13:24:10.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-初学者の個人的なまとめ記事に近く、だいぶ読みづらい点があると思いますがご了承ください。
-
-WebサーバーとWebクライアント
-
-Webページはハイパーテキスト（HTML）というハイパーリンク…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
