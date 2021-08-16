@@ -12,6 +12,15 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6401753?source=rss",
+          "author": null,
+          "description": "76回目となる終戦記念日に先立ち、原爆の「きのこ雲」の白黒写真をカラー化した画像に「76年前の今日」というコメントを添えた投稿がTwitterで注目を集めている。一連の画像に対して「当時もこんな空だったのかな」などの声が寄せられた。",
+          "link": "https://news.yahoo.co.jp/pickup/6401753?source=rss",
+          "publishedOn": "2021-08-15T07:37:50.000Z",
+          "wordCount": 72,
+          "title": "原爆写真カラー化 ネットで反響"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6401707?source=rss",
           "author": null,
           "description": "メンタリストのDaiGoがアンバサダーを務める「霧島天然水　のむシリカ」の公式サイトが14日に更新。DaiGo出演のCMを当面の間、放送自粛することを発表した。",
@@ -811,24 +820,6 @@
           "publishedOn": "2021-07-18T01:02:12.000Z",
           "wordCount": 75,
           "title": "コロナ禍の恋愛 アプリにシフト"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398952?source=rss",
-          "author": null,
-          "description": "開会まで1週間を切った東京オリンピック。無観客開催でボランティアの辞退が相次ぐ中、フリマアプリや転売サイトなどを介し、非売品であるボランティア用のユニホームなどが高額で売り買いされているという。",
-          "link": "https://news.yahoo.co.jp/pickup/6398952?source=rss",
-          "publishedOn": "2021-07-17T01:21:03.000Z",
-          "wordCount": 77,
-          "title": "五輪ボラユニホーム 売買は罪?"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6398929?source=rss",
-          "author": null,
-          "description": "リモートワークで1年以上PCに接続しっぱなしのスマホの電池が、フタを押し上げるほど膨張して酒蒸しハマグリのような状態になっていたとの投稿があった。KDDIの専門家にバッテリーが膨らんだ原因と対処法を聞いた。",
-          "link": "https://news.yahoo.co.jp/pickup/6398929?source=rss",
-          "publishedOn": "2021-07-16T13:47:20.000Z",
-          "wordCount": 69,
-          "title": "動作確認用のスマホ膨張 原因は"
         }
       ]
     },
@@ -1027,6 +1018,168 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/the_haigo/items/6a8ddf84434cfa47a129?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事ではPhoenixのLiveViewでGoogleMapAPIを使用してGPS Loggerを作成していきます\n今回はClientとしてwatchOS App+SwiftUIで作成していきます\n\nLiveViewとGoogleMapAPIで作る GPS Logger …",
+          "link": "https://qiita.com/the_haigo/items/6a8ddf84434cfa47a129?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T16:38:19.000Z",
+          "wordCount": 1924,
+          "title": "LiveViewとGoogleMapAPIで作る GPS Logger Client watchOS App + SwiftUI"
+        },
+        {
+          "id": "https://qiita.com/torifukukaiou/items/5b90b038f38ce18c0256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/official-events/c6ee70084f9aeb38b0cc\n\nはじめに\n\n\nElixir 楽しんでいますか \nPhoenixとは、ElixirでWebアプリ…",
+          "link": "https://qiita.com/torifukukaiou/items/5b90b038f38ce18c0256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T14:59:22.000Z",
+          "wordCount": 626,
+          "title": "Phoenixの開発環境をつくる(Elixir)"
+        },
+        {
+          "id": "https://qiita.com/OKsaiyowa/items/597c5db17be40ab3b265?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nARでの空間共有の手法をまとめた記事が意外となかったので書きます。\n\n既にきれいにまとめている方がいたり、サンプルが出回っていたりしたわけじゃないので\nもっといいやり方はあるかもしれません。\n…",
+          "link": "https://qiita.com/OKsaiyowa/items/597c5db17be40ab3b265?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T14:29:43.000Z",
+          "wordCount": 652,
+          "title": "【Unity(C#)】ARFoundationのImageTrackingを使って三人称視点の実装"
+        },
+        {
+          "id": "https://qiita.com/Soh1121/items/e926408a63c122d6190d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この度、タスク管理とポモドーロ・テクニックを組み合わせたタスク管理アプリ『ToDoRo（トゥードーロ）』をリリースしました！\nLaravel + Vue.js + Terraform + Circl…",
+          "link": "https://qiita.com/Soh1121/items/e926408a63c122d6190d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T13:58:02.000Z",
+          "wordCount": 352,
+          "title": "【個人開発】タスク管理アプリ「ToDoRo」を開発！（Laravel+Vue+Terraform+CircleCI+Fargate）"
+        },
+        {
+          "id": "https://qiita.com/panamixkeda/items/f2185e145b78a28805ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "どうも、Panamixkedaです。Qiita2回目の投稿です。\n\n転職きっかけでQiita1回目を書いた後、2回目は何を書こうかな？と割と迷っていたところ、Kindleで「XAI（説明可能なAI）」…",
+          "link": "https://qiita.com/panamixkeda/items/f2185e145b78a28805ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T12:19:36.000Z",
+          "wordCount": 249,
+          "title": "「XAI（説明可能なAI）」を読みました"
+        },
+        {
+          "id": "https://qiita.com/kambe0331/items/374e1d8f0582a6835d7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nlaravelのログ出力にはmonologで実装されています。\n今回は、このmonologのフォーマットを変更する際にデフォルトだと出力されていたスタックトレースが表示されなくなったので…",
+          "link": "https://qiita.com/kambe0331/items/374e1d8f0582a6835d7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T12:00:07.000Z",
+          "wordCount": 291,
+          "title": "monologでフォーマットを変更したらスタックトレースが表示されなくなった件"
+        },
+        {
+          "id": "https://qiita.com/towel_funnel/items/16bff038bbf8e97649ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "VRやメタバースには様々なイベントが生まれてきています\nおそらくVRで一番メジャーなVket6というイベントに僕も今回、ブースを出展しました\nブースの設計などはあまり情報が無く、ワールド系の技術に馴…",
+          "link": "https://qiita.com/towel_funnel/items/16bff038bbf8e97649ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T10:46:51.000Z",
+          "wordCount": 396,
+          "title": "VR空間での作品展示：タイリングとshaderで容量を節約"
+        },
+        {
+          "id": "https://qiita.com/sintoride/items/10dcd99442d1719029c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n国土地理院が公開している基盤地図情報のデータを，shapefile形式に変換して，QGISで表示してみようというものです。\n地理情報や空間情報を扱う人ならご存じの方はそこそこ多いと思いま…",
+          "link": "https://qiita.com/sintoride/items/10dcd99442d1719029c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T09:47:31.000Z",
+          "wordCount": 254,
+          "title": "基盤地図情報データをshapefileに変換して，QGISで表示する。"
+        },
+        {
+          "id": "https://qiita.com/keisei_otsuka/items/365ce3332bca39bf5f58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n自己紹介\n\n私は関西で主にフロントエンド開発に携わっておりますオオツカと申します。\n最近はリモートワークが増えて自宅で一人寂しく仕事をしているので、もっと人と関わりたいと思いながらの毎日を…",
+          "link": "https://qiita.com/keisei_otsuka/items/365ce3332bca39bf5f58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T09:15:55.000Z",
+          "wordCount": 1349,
+          "title": "個人開発で『TATEKAE』アプリ開発。過去の反省を踏まえながら取り組んでみた。"
+        },
+        {
+          "id": "https://qiita.com/poruruba/items/cc10925e62060b24d1f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Google Nest Hubは、Googleが提供するスマートディスプレイです。\n「OK Google」ができる上に、ディスプレイがついているので、いろいろ役に立ちそうです。\n\nということで、ディス…",
+          "link": "https://qiita.com/poruruba/items/cc10925e62060b24d1f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T08:07:46.000Z",
+          "wordCount": 884,
+          "title": "Google Nest Hubに、WebRTCで映像配信してみた"
+        },
+        {
+          "id": "https://qiita.com/dsvvpxgcseldie/items/391b82f65d848f650139?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「受領しました」と返信する作業やOutlookで受信したPDFデータを1つのファイルへ保存する作業が非常に面倒くさい！\n\n毎月Outlookで取引先から、請求書のPDFが送付されてくるが、各社毎1通…",
+          "link": "https://qiita.com/dsvvpxgcseldie/items/391b82f65d848f650139?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T06:35:30.000Z",
+          "wordCount": 234,
+          "title": "Power Automate Desktopを使い、メール返信自動化＆受信したPDFデータをファイルへ自動保存"
+        },
+        {
+          "id": "https://qiita.com/nemo-855/items/93c465e001efda715f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nKMM(Kotlin Multiplatform Mobile)とは、Kotlin/NativeというKotlinのコードをさまざまなOSのネイティブコード(マシン語)に変換する技術を使…",
+          "link": "https://qiita.com/nemo-855/items/93c465e001efda715f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T06:09:49.000Z",
+          "wordCount": 298,
+          "title": "KMMを触ってみて思ったこと"
+        },
+        {
+          "id": "https://qiita.com/okinakamasayoshi/items/85bed260c0ea66d526a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "忘れてた・・・から始まるイレギュラー\n\n　「沖中さん　週間業務報告書と交通費申請まだですか？」集計担当者からの催促メールで\n　慌ててバタバタ作業開始。メールに気づいてないときは、催促電話をもらう始末。\n　ファイルを探し、週間を振り返りつつ急いで記入、ん？さっきまで何してたっけ・・…",
+          "link": "https://qiita.com/okinakamasayoshi/items/85bed260c0ea66d526a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T03:30:04.000Z",
+          "wordCount": 246,
+          "title": "integromatでGmailとLINEを連携　週間業務リマインド＆効率化"
+        },
+        {
+          "id": "https://qiita.com/saitaman_zarathustra/items/57030cf64224a53ee557?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n複数の就職先で悩んでいる就活生・転職希望者の方、たくさんいらっしゃると思います。\nそうした方々に向けて、選択肢の中から最高の就職先を算出するアプリをつくりました。\n\n後悔なく意思決定するた…",
+          "link": "https://qiita.com/saitaman_zarathustra/items/57030cf64224a53ee557?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T03:26:33.000Z",
+          "wordCount": 409,
+          "title": "【就活】階層分析で最高の就職先を算出するアプリをつくりました【転職】"
+        },
+        {
+          "id": "https://qiita.com/michimichix521/items/5981d9783efcc1d7c7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n2021年8月13日から、GitHub.comでのGit操作の認証時にアカウントのパスワードを受け付けなくなるような仕様に変更されました。\n\n\nhttps://github.blog/202…",
+          "link": "https://qiita.com/michimichix521/items/5981d9783efcc1d7c7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T02:30:41.000Z",
+          "wordCount": 262,
+          "title": "WindowsでSourcetreeを使ったGitHubの認証方法でパスワード認証からトークンベース認証への移行方法"
+        },
+        {
+          "id": "https://qiita.com/kenmaro/items/751f929acbd58ca08d02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "kenmaroです。\n秘密計算、準同型暗号などの記事について投稿しています。\n\n最近格子暗号を理解するためのロードマップを公開しました。\n格子暗号に興味のある方、勉強してみようかな、という方はぜひご覧…",
+          "link": "https://qiita.com/kenmaro/items/751f929acbd58ca08d02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T00:58:41.000Z",
+          "wordCount": 684,
+          "title": "デジタル資産のセキュリティについて再考してみよう！　BinanceのCEO CZ氏のブログから学ぶセキュリティへの考え方"
+        },
+        {
+          "id": "https://qiita.com/plusultra/items/57a5161a0ebac849fed2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Oracle Database 21c のオンプレミス版がダウンロードできるようになったため、Oracle Database 19c (19.12) と初期化パラメーターを比較してみました。基本的に…",
+          "link": "https://qiita.com/plusultra/items/57a5161a0ebac849fed2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-15T00:56:38.000Z",
+          "wordCount": 406,
+          "title": "Oracle Database 19cとOracle Database 21cの初期化パラメーターを比較する"
+        },
+        {
+          "id": "https://qiita.com/kei0919/items/cc3df681ce7415f79cb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nデータ分析をするにあたって、データ収集、加工、蓄積をするための基盤をGCPを使用して構築しました。\n自分がやったことの記録として記事にまとめます。\n\n前提\n\n\nスクレイピングをされる際は自己責…",
+          "link": "https://qiita.com/kei0919/items/cc3df681ce7415f79cb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-14T13:33:12.000Z",
+          "wordCount": 2734,
+          "title": "データ分析のための基盤構築"
+        },
+        {
           "id": "https://qiita.com/kimorisan/items/84997591c7c2c897da18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nはじめまして。森と申します。\n\nこの度、個人サービス「むしめがね」をリリースしました！\nサービスに関して記事にしましたので、ぜひご一読いただけたら嬉しいです！\n\nアプリのURL：https:…",
@@ -1043,6 +1196,15 @@
           "publishedOn": "2021-08-14T10:05:32.000Z",
           "wordCount": 372,
           "title": "GitHubでhttpsのパスワード認証が廃止された。Please use a personal access token instead."
+        },
+        {
+          "id": "https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "最近データサイエンティストが多くなってきて、めでたいな～、いいことだな～と思っているのですが、多くの人は機械学習寄りの話から入っていくことが多く、統計学から入っていく人は少ないような気もします。\n\n重…",
+          "link": "https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-14T09:55:01.000Z",
+          "wordCount": 1283,
+          "title": "腑に落ちない人のための回帰診断"
         },
         {
           "id": "https://qiita.com/yusei2629/items/da07d877a98c94abb3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1072,6 +1234,15 @@
           "title": "Auth0をPhoenix LiveViewと組み合わせて使ってみました (Elixir)"
         },
         {
+          "id": "https://qiita.com/jon18/items/dbbd5b84885e277e177d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "独学エンジニア学習(レッスン5)\n\n疑問に思ったこと\n\nsqlを使用せずにphpのみで読書ログの登録、表示を行っていた時はforeachを使って読書ログの表示を行っていた。そこでsqlをからデータを抽…",
+          "link": "https://qiita.com/jon18/items/dbbd5b84885e277e177d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-14T08:04:38.000Z",
+          "wordCount": 424,
+          "title": "mysqli_fetch_assocの使い方について"
+        },
+        {
           "id": "https://qiita.com/shiro01/items/c55a114c79ce19dd0795?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "業務でTerraformを数ヶ月使用しました。内容を忘れた時に見返す用としてメモします。\n業務ではモジュールを使用したフォルダ構成を主に扱ったため、それらを中心に記載しています。\n(Workspac…",
@@ -1097,6 +1268,15 @@
           "publishedOn": "2021-08-14T07:02:08.000Z",
           "wordCount": 264,
           "title": "AmplifyでLambda Layerを環境非依存にできなかった話とその対策"
+        },
+        {
+          "id": "https://qiita.com/suzuki0430/items/ebc2ab53a6456b3372ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nWebpackは、JavaScript, CSS, JPGなどのリソースを一つのjsファイルにバンドルする(まとめる)ツールです。\nバンドルすることで、各リソースの依存関係を気にする必要…",
+          "link": "https://qiita.com/suzuki0430/items/ebc2ab53a6456b3372ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-14T06:09:52.000Z",
+          "wordCount": 708,
+          "title": "【Webpack】webpack.config.jsの内容がいまいちわからない方々へ"
         },
         {
           "id": "https://qiita.com/plusultra/items/03a49998ff579079698c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5381,159 +5561,6 @@
           "publishedOn": "2021-07-17T13:24:29.000Z",
           "wordCount": 822,
           "title": "Active Record(Ruby)とEcto(Elixir)でmigrateした内容を一致させる"
-        },
-        {
-          "id": "https://qiita.com/HawkClaws/items/6f5a6938318fb7d7983d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nタイトルの通りです\n定義を設定すだけで、CRUDのRESTWebapiを作れるシステムです\n\n似たようなもので、FirebaseのRealtimeDatabaseやFireStoreがあり…",
-          "link": "https://qiita.com/HawkClaws/items/6f5a6938318fb7d7983d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T12:36:32.000Z",
-          "wordCount": 511,
-          "title": "CRUDのWebApi開発は不要！JsonでWebApiを作れるシステムを作った話"
-        },
-        {
-          "id": "https://qiita.com/mh_ti_fu/items/053774b14699c2a17ba5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこの記事の執筆は以下の環境で行っています。\nUiPathStudio 2021.6.0-beta.4514 (Community License)\nUiPath.System.Activ…",
-          "link": "https://qiita.com/mh_ti_fu/items/053774b14699c2a17ba5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T11:44:33.000Z",
-          "wordCount": 339,
-          "title": "【UiPath】正規表現ビルダーの使い方と「一致する文字列を取得(Matches)」を使用した文字列の抽出方法"
-        },
-        {
-          "id": "https://qiita.com/jhorikawa_err/items/a8562b5d38bb6ae3edea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Using Plateau Model in Unity - UnityにPlateauモデルを持っていこう\n\nPlateauモデル？\n\n国土交通省が公開している東京２３区を含む各市町村の３Dデータで…",
-          "link": "https://qiita.com/jhorikawa_err/items/a8562b5d38bb6ae3edea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T10:35:25.000Z",
-          "wordCount": 394,
-          "title": "Using Plateau Model in Unity - UnityにPlateauモデルを持っていこう"
-        },
-        {
-          "id": "https://qiita.com/rnakamuramartiny/items/1ae737168d53da6c0487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "SharePoint には、リスト とは別にドキュメントライブラリというのが存在します。\nSharePoint の リスト については、モダンサイトにすれば5000件問題から解放されるみたいな話があ…",
-          "link": "https://qiita.com/rnakamuramartiny/items/1ae737168d53da6c0487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T09:25:50.000Z",
-          "wordCount": 312,
-          "title": "SharePoint ドキュメントライブラリの5000件問題と対応策について"
-        },
-        {
-          "id": "https://qiita.com/suzu12/items/b27cc76e96edb623a54f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n便利だけど使うときにいつも調べて使っているコマンドをまとめました。\n\n〇〇したいときどうするんだっけ・・？\nって調べているのでこの記事を書いているときも\nたぶん全部を網羅できていません。笑\n\n比較的しようするコマンドだったり便利だなって思うコマンドだったり…",
-          "link": "https://qiita.com/suzu12/items/b27cc76e96edb623a54f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T09:09:57.000Z",
-          "wordCount": 470,
-          "title": "【Git】結構使うけどいつも調べるGitコマンドまとめ"
-        },
-        {
-          "id": "https://qiita.com/beehibiki/items/3ae6ea5e5a011ebcd0b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Google Colaboratoryとは何か\n\nGoogle Colaboratoryとは，環境構築なしでpythonのコードを書いたり，実行したりことができるGoogleのサービスです．\nAna…",
-          "link": "https://qiita.com/beehibiki/items/3ae6ea5e5a011ebcd0b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T07:10:56.000Z",
-          "wordCount": 348,
-          "title": "Google Colaboratoryについて"
-        },
-        {
-          "id": "https://qiita.com/nyappy15th/items/af71589efe07d99f5220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "メモがてらの投稿です。\n\nよく、プログラミング問題を解く時に、x、y座標を使って解くやつありますよね。\n以下みたいな感じで、あーだこーだするやつです。（雑\n\n# #を囲うにはいくつの柵が必要？みたいな問…",
-          "link": "https://qiita.com/nyappy15th/items/af71589efe07d99f5220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T06:20:46.000Z",
-          "wordCount": 635,
-          "title": "x�、y座標使ったプログラミング問題を解いて思ったこと"
-        },
-        {
-          "id": "https://qiita.com/kojix2/items/ad9ddf1794df77482615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "タイポフィックスでいいからOSSに貢献したい・・・\n\n先日Go言語で有名なmattnさんの\n\nhttps://twitter.com/mattn_jp/status/14151285251750707…",
-          "link": "https://qiita.com/kojix2/items/ad9ddf1794df77482615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T04:02:14.000Z",
-          "wordCount": 376,
-          "title": "タイポフィックス！Rubyのオープンソースプロジェクトにお手軽に貢献する方法を考える"
-        },
-        {
-          "id": "https://qiita.com/pp_zumipy/items/6b4232e4828e7adc1f2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "普段、業務でNordicが提供するnRF52系のマイコンを使用したFW開発に携わる事があるのですが、その多くをNonOS上で制御しています。\n\nその中で、NonOS開発特有の難しさなどから脱却したいと…",
-          "link": "https://qiita.com/pp_zumipy/items/6b4232e4828e7adc1f2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T03:28:57.000Z",
-          "wordCount": 2830,
-          "title": "FreeRTOSポーティングで学んだ事について"
-        },
-        {
-          "id": "https://qiita.com/masakichi_eng/items/b9948f7d14de793dc014?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "業務でプルダウンと文字入力から検索機能を実装する機会があり調べながら実装したので備忘録として。\n\nここではユーザーが都道府県やカテゴリを選択してニュースを投稿するという前提で進める。\n\n都道府県とカテ…",
-          "link": "https://qiita.com/masakichi_eng/items/b9948f7d14de793dc014?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T01:27:11.000Z",
-          "wordCount": 900,
-          "title": "Laravelで都道府県やカテゴリなどのプルダウンと文字入力から検索機能を実装する"
-        },
-        {
-          "id": "https://qiita.com/minoden_osaka/items/2646d39d7949429c8ea4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "お世話になります。\n\nWindows365が発表されましたので、これまで仮想デスクトップやVDIとは何か、あまり聞いたことのなかった方向けに簡単に説明させて頂きます。\n\n概要図は以下となります。\n\n\nAzu…",
-          "link": "https://qiita.com/minoden_osaka/items/2646d39d7949429c8ea4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-17T01:01:28.000Z",
-          "wordCount": 298,
-          "title": "Windows365とはどんなサービスか（初中級者むけ）"
-        },
-        {
-          "id": "https://qiita.com/tadashi9e/items/046cd681be61bc52111e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "きっかけ\n\n以前は休日の度に子供を連れ出してあちこちに遊びに出かけていたのですが、コロナ禍のせいで気軽に外に出られなくなってしまいました。YouTube のおかげで家にこもっていても退屈はしないよう…",
-          "link": "https://qiita.com/tadashi9e/items/046cd681be61bc52111e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-16T23:51:44.000Z",
-          "wordCount": 620,
-          "title": "子供の YouTube 見すぎ問題を解決するために Python で嫌がらせをする"
-        },
-        {
-          "id": "https://qiita.com/Ag_smith/items/7c76438906b3f665af38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "2021年7月16日午前3時頃（日本時間）に公開されたAlphaFold ver.2（以下、断りがない限り単純にAlphaFoldと書く）の論文について。\n\n論文は https://www.natur…",
-          "link": "https://qiita.com/Ag_smith/items/7c76438906b3f665af38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-16T22:49:27.000Z",
-          "wordCount": 1355,
-          "title": "AlphaFold (ver.2) インストール"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/50b43f6f4f087c40f4f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://qiita.com/official-events/be8c5ab5a9ddf90055cd\n\nにあやかり、ちょっとした息抜きを。\n\n時間を溶かす素敵なサイト\n\n1. 顔画像生成技術\n\n8 …",
-          "link": "https://qiita.com/e99h2121/items/50b43f6f4f087c40f4f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-16T21:13:38.000Z",
-          "wordCount": 298,
-          "title": "時間を溶かす素敵なサイトとすごい技術コレクション"
-        },
-        {
-          "id": "https://qiita.com/GleamingCake/items/2b325d189a166ca4f88e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nJava など、オブジェクト指向言語に触れたとき困惑するものの一つが アクセス修飾子 だと思います。\nなんでこんなもん必要なんだ って気持ちのせいで、一向に身につかない...\n全部 pu…",
-          "link": "https://qiita.com/GleamingCake/items/2b325d189a166ca4f88e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-16T19:39:03.000Z",
-          "wordCount": 761,
-          "title": "全部 public じゃなんでダメなの？"
-        },
-        {
-          "id": "https://qiita.com/kihara-takahiro/items/703c1863248659ad518b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "このページは？\n\n最近、新入社員の人たちが基本情報の勉強をしていたので、自分でもパラパラと基本情報の本を読んでみたのですが、初学者にこの説明をしても難しすぎるのでは？？と感じたため厳密ではないと怒ら…",
-          "link": "https://qiita.com/kihara-takahiro/items/703c1863248659ad518b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-16T15:02:10.000Z",
-          "wordCount": 346,
-          "title": "正規化についてまとめてみた"
-        },
-        {
-          "id": "https://qiita.com/shibuya01055/items/f3c413ed54d422fc2b98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "GitKrakenとは\n\ngitの管理をGUIで見やすく操作するためのツールです。\n2021年7月現在、publicなリポジトリは0円、privateになると有料です。\nhttps://www.gi…",
-          "link": "https://qiita.com/shibuya01055/items/f3c413ed54d422fc2b98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-16T14:59:43.000Z",
-          "wordCount": 468,
-          "title": "エイリアスと無料GUIツールで脱GitKraken"
         }
       ]
     }
