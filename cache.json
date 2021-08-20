@@ -12,6 +12,42 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6402154?source=rss",
+          "author": null,
+          "description": "スマートフォンを使ったQRコード決済大手の「PayPay」が、これまで無料としてきた中小の加盟店の決済手数料を10月から有料にする方針。店側の負担が増えるため、今後は加盟店をどう維持していくかが焦点となる。",
+          "link": "https://news.yahoo.co.jp/pickup/6402154?source=rss",
+          "publishedOn": "2021-08-19T14:06:29.000Z",
+          "wordCount": 70,
+          "title": "PayPay中小加盟店 手数料有料に"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402151?source=rss",
+          "author": null,
+          "description": "スマートフォンを使う上で「どれだけバッテリーが長持ちするのか」は重要なポイントだ。少しでもバッテリーの寿命を長くするには、どんなことに注意すればいいのか。4キャリアに聞いた。",
+          "link": "https://news.yahoo.co.jp/pickup/6402151?source=rss",
+          "publishedOn": "2021-08-19T13:51:45.000Z",
+          "wordCount": 69,
+          "title": "スマホの電池寿命 延ばすには"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402115?source=rss",
+          "author": null,
+          "description": "米暗号資産取引所大手のコインベースの日本法人Coinbase株式会社が、日本における暗号資産取引所サービスの開始を19日発表した。すでにサイトやアプリは公開されている。",
+          "link": "https://news.yahoo.co.jp/pickup/6402115?source=rss",
+          "publishedOn": "2021-08-19T06:05:59.000Z",
+          "wordCount": 66,
+          "title": "米コインベース 日本市場に参入"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402096?source=rss",
+          "author": null,
+          "description": "インターネットに常時接続する「コネクティッドカー（つながる車）」を巡り、国土交通省はメーカーごとに異なる専用通信機の共通規格を策定する方針を固めた。2022年度にも内容の検討に着手する。",
+          "link": "https://news.yahoo.co.jp/pickup/6402096?source=rss",
+          "publishedOn": "2021-08-19T02:15:53.000Z",
+          "wordCount": 66,
+          "title": "車のネット通信 共通規格策定へ"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6402086?source=rss",
           "author": null,
           "description": "任天堂の2021年度第1四半期決算（4～6月）は、減収減益と前年度には及ばなかった。数字だけを見れば決して少なくない減少幅だが、任天堂にとって「景気が悪くなった」のか。内実をゲームから考える。",
@@ -838,24 +874,6 @@
           "publishedOn": "2021-07-21T14:02:01.000Z",
           "wordCount": 62,
           "title": "コロナ禍 ネット通信量が2倍に"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399319?source=rss",
-          "author": null,
-          "description": "YouTubeは米国時間7月20日、ファンが応援したいクリエイターに送金する新たな手段となる「Super Thanks」を、日本を含む68の国と地域で開始した。Super Thanksではアップロード済みの動画を視聴しながらクリエイターに送金できる。",
-          "link": "https://news.yahoo.co.jp/pickup/6399319?source=rss",
-          "publishedOn": "2021-07-21T08:03:13.000Z",
-          "wordCount": 66,
-          "title": "YouTube 通常動画に投げ銭機能"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399287?source=rss",
-          "author": null,
-          "description": "米動画配信大手ネットフリックスは20日、6月末の世界の有料会員数が2億918万人となり、3月末から154万人増加したと発表。今後は会員獲得増へゲーム事業を強化する考えを明らかにした。",
-          "link": "https://news.yahoo.co.jp/pickup/6399287?source=rss",
-          "publishedOn": "2021-07-21T00:20:35.000Z",
-          "wordCount": 63,
-          "title": "ネトフリ ゲーム事業を強化へ"
         }
       ]
     },
@@ -1045,20 +1063,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613788991603",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回は、ブラウザ上からNode.jsやPythonをプログラミング可能なクラウドエディタを提供する無料のWebサービスをご紹介します。\nサーバレスでバックエンドを開発できるうえ、シンプルなエディタから即座にエンドポイントを作って公開もできる便利なサービスとなっています。\n手軽にサーバ側の処理を構築したい場合やFaaSのように使いたい方にも最適なのでぜひ参考にしてみてください！\n【 Napkin 】\n\n■「Napkin」の使い方\nそれでは、「Napkin」をどのように使えばいいのか詳しく見ていきましょう。\nまず最初にサイトのトップページから【Sign Up】ボタンをクリックして無料のユーザー登録を済ませておきます。\n\n\n登録方法はいくつかありますが、今回はもっとも簡単なGitHubアカウントを利用してみます。\n\n確認用のウィンドウが表示されるので承認をしておけばOKです。\n\n初回のみ「ユーザー名」を設定する画面が表示されるので、好きな名前を入力して【Start】ボタンをクリックします。\n\n\n最終的に以下のような「ダッシュボード」が表示されたら準備は完了です！\n\nこの画面から新規のプロジェクトを作成・管理できるようになっています。また、チュートリアルや詳細なドキュメントなどのリンクも提供されているので、最初に一読しておくといいでしょう。\n■「Napkin」のコードエディタを使ってみよう！\nそれではさっそくですが「Napkin」が提供するコードエディタを利用してみましょう。\nまずは「ダッシュボード」から【+ New Function】ボタンをクリックしてください。\n\n\n初期設定画面が表示されるので、今回は「Node.js」を選択してから好きな名称を入力します。\n\n\n「Napkin」のコードエディタが表示されました。\n\nこのエディタでは…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/21/130000",
-          "publishedOn": "2021-07-21T04:00:00.000Z",
-          "wordCount": 366,
-          "title": "ブラウザ上からNode.jsやPythonでバックエンドを無料で開発可能な「Napkin」を使ってみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210721/20210721105204.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -1067,6 +1071,150 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/kaizen_nagoya/items/e38c97a8a468c7fc5743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今まで買ってよかった技術書を紹介しよう！\nhttps://qiita.com/official-events/d409f91fc8b9b44cefb4\n参加記事をです。\n\nbookmeterの「今まで…",
+          "link": "https://qiita.com/kaizen_nagoya/items/e38c97a8a468c7fc5743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T13:04:14.000Z",
+          "wordCount": 242,
+          "title": "人月の神話"
+        },
+        {
+          "id": "https://qiita.com/yamada-hakase/items/d7a9041039586b1241be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "国内初のOracle Cloud Infrastructure本が発売されたよ\n\n2021年7月21日にOracle Cloud Infrastructureの市販書籍が出版されました。これまで英語…",
+          "link": "https://qiita.com/yamada-hakase/items/d7a9041039586b1241be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T11:53:46.000Z",
+          "wordCount": 301,
+          "title": "書評「Oracle Cloud Infrastructure徹底入門 Oracle Cloudの基本からインフラ設計・構築まで」"
+        },
+        {
+          "id": "https://qiita.com/gushwell/items/16dc318de15b625042d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年8月14日、『C#コードレシピ集』を技術評論社より出版しました。これで4冊目の本となります。タイトルの通りいわゆるレシピ本(クックブック)で、ある問題を解決するためのコードと解説を載せたも…",
+          "link": "https://qiita.com/gushwell/items/16dc318de15b625042d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T11:26:09.000Z",
+          "wordCount": 314,
+          "title": "『C#コードレシピ集』を出版しました"
+        },
+        {
+          "id": "https://qiita.com/yhzz/items/f8993ae93087b9262db8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Chromeの拡張機能を作りました。手っ取り早くスクショとダウンロードリンクを置いておきます。使い方はこちらです。\n\nhttps://chrome.google.com/webstore/detail…",
+          "link": "https://qiita.com/yhzz/items/f8993ae93087b9262db8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T10:13:52.000Z",
+          "wordCount": 309,
+          "title": "細かいタスクがいろんなツールからたくさん飛んでくる。混乱してとりこぼしそう。そんなあなたに"
+        },
+        {
+          "id": "https://qiita.com/yuuton8823/items/cf5c9d4614fa096efad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "最近癒しが欲しくてVSCode上でペットを飼い始めました。\n\n飼い方\n\nVSCodeを開いて、Ctrl + Shift + X で拡張機能開きます。\n「vscode-pets」と検索。\nあとはインストー…",
+          "link": "https://qiita.com/yuuton8823/items/cf5c9d4614fa096efad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T09:24:07.000Z",
+          "wordCount": 229,
+          "title": "VSCode上で猫ちゃんを飼い始めました"
+        },
+        {
+          "id": "https://qiita.com/tokiyan/items/8e9103d0f7cf1058f9d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nWidget内でLinkや.widgetURLを使用した場合、SceneDelegate内で処理を追加する必要があります。\nAppDelegateのみで実装している場合、後からScene…",
+          "link": "https://qiita.com/tokiyan/items/8e9103d0f7cf1058f9d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T08:58:25.000Z",
+          "wordCount": 294,
+          "title": "【WidgetKit】SceneDelegateを使用せずにウィジェットからの遷移を実装したい"
+        },
+        {
+          "id": "https://qiita.com/manabuyasuda/items/30f0764903dac1c44b96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "要約\n\n\nwindow.matchMediaはメディアクエリ文字列を渡して、その条件が切り替わった時にだけ処理を実行してくれます\nいわゆるdebounce()などでresizeイベントの間引きをする必…",
+          "link": "https://qiita.com/manabuyasuda/items/30f0764903dac1c44b96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T02:19:17.000Z",
+          "wordCount": 480,
+          "title": "JavaScriptでもメディアクエリが使えるwindow.matchMediaを関数化して使い回す"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/b7d0a80c3bbfffa29ce4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ユーザ名からContribution数をクリックするとContribution履歴に行けるのですが、おそらくContributionの算出方法が変わったあたりから一切見れなくなりました。\n\nhttps…",
+          "link": "https://qiita.com/rana_kualu/items/b7d0a80c3bbfffa29ce4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T00:40:36.000Z",
+          "wordCount": 225,
+          "title": "【Qiita】コントリビューション履歴が見れない"
+        },
+        {
+          "id": "https://qiita.com/taka_yayoi/items/f6b35cec29b06e5fb239?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Databricks Runtime 9.0 and Databricks Runtime 9.0 Photon | Databricks on AWSにあるように、今回のランタイムでは新たなユーテ…",
+          "link": "https://qiita.com/taka_yayoi/items/f6b35cec29b06e5fb239?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T23:47:09.000Z",
+          "wordCount": 245,
+          "title": "Databricksランタイム9.0のGA、dbutils.data.summarizeのサポート"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/e198547b389dfea2929e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxrossを運営している藤原です。\n\nAxross とは、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクと社内起業…",
+          "link": "https://qiita.com/Axross_SBiv/items/e198547b389dfea2929e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T23:12:41.000Z",
+          "wordCount": 281,
+          "title": "TensorFlowを使って学べるレシピの紹介"
+        },
+        {
+          "id": "https://qiita.com/6565/items/c27c9c6e039e4e27dce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "皆さんは、PowerAppsはご存じですか？\nPowerAppsとはマイクロソフトが提供してる、「Power Platform」の一つで業務アプリケーション開発のプラットフォームになります。\n\n■■■…",
+          "link": "https://qiita.com/6565/items/c27c9c6e039e4e27dce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T16:19:28.000Z",
+          "wordCount": 236,
+          "title": "Power Appsとは？"
+        },
+        {
+          "id": "https://qiita.com/Nona0511/items/5e6bd53599a81f4b989a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは、Nonaと申します。\n31歳でWebエンジニアになることを目標に2021年5月からスクールにてRailsを中心に学習中です。これまで学んできたことをいかして今回Railsにて…",
+          "link": "https://qiita.com/Nona0511/items/5e6bd53599a81f4b989a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T15:44:52.000Z",
+          "wordCount": 313,
+          "title": "30代実務未経験がRailsでオリジナルポートフォリオを作成"
+        },
+        {
+          "id": "https://qiita.com/chino_tweet/items/f82716f2769ec5d8f0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "イントロダクション\n\nこの投稿は「夏休みが残り10日になっても、まだ自由研究のテーマが決まらなくてどうしよう」と悩んでいる君のために、プログラミングが大好きな大人が趣味の一環で書いたものだ。\n今の時…",
+          "link": "https://qiita.com/chino_tweet/items/f82716f2769ec5d8f0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T15:37:26.000Z",
+          "wordCount": 467,
+          "title": "夏休み自由研究のためのプログラミング講座"
+        },
+        {
+          "id": "https://qiita.com/nodai2h_ITC/items/675a746be66c2b91f912?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事の方針\n\nシオドア・スタージョンは「SFの90%はクズである──ただし、あらゆるものの90%はクズである」と言いましたが、ご多分にもれず公開鍵暗号関係の書籍・技術記事も90%はクズであることは…",
+          "link": "https://qiita.com/nodai2h_ITC/items/675a746be66c2b91f912?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T14:45:30.000Z",
+          "wordCount": 298,
+          "title": "足し算だけの世界の物語～第一話「鍵共有」"
+        },
+        {
+          "id": "https://qiita.com/yusuke___web/items/6edd2ec7ef6adf45c4c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "簡単にクラスとインスタンスについて書いていきます！！\n\nクラスとは\n\n・プロパティ(変数)とメソッド(関数)を持つオブジェクトで、いわゆる設計図のようなもの。\n　→　プロパティは情報が入っている箱、メソ…",
+          "link": "https://qiita.com/yusuke___web/items/6edd2ec7ef6adf45c4c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T14:28:37.000Z",
+          "wordCount": 236,
+          "title": "【初心者向け】クラスとインスタンスについて"
+        },
+        {
+          "id": "https://qiita.com/kazu177/items/bd5bfe61d19d0b38bbcf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "globで取得したファイルリストの並び替え\n\nglob.glob()でファイルを読み込んだ際, ファイル名の順番に困ったことはないでしょうか？\n\nそんなときは,「natsort」というライブラリを使う…",
+          "link": "https://qiita.com/kazu177/items/bd5bfe61d19d0b38bbcf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-18T14:24:31.000Z",
+          "wordCount": 324,
+          "title": "【Python】globで取得したファイルリストの並び替え"
+        },
         {
           "id": "https://qiita.com/smiler5617/items/2edaaf9f6ffdef85a809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -1203,6 +1351,15 @@
           "title": "【AtCoder解説】PythonでABC214のA,B,C,D問題を制する！"
         },
         {
+          "id": "https://qiita.com/tommyecguitar/items/dabe40fd02f734e46416?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "内容\n\n1.言いたいことはセクション1つにつき3つまでにする。\n2.セクションタイトルで内容が掴めるようにする。\n3.前提から先に説明する。\n\n1. 言いたいことはセクション1つにつき3つまでにする。\n\n　人間は3つまでのことは瞬時に把握できるという性質に基づいたテクニックで、資料において3要素以上の塊を作らないようにするというものです。プレゼン全体で言いたいことは章3つまで、それぞれの章の中でも内容の並列分岐は3つまで、といった具合に3つ以下の塊に伝えたいことをまとめあげます。例えばこんな感じ…",
+          "link": "https://qiita.com/tommyecguitar/items/dabe40fd02f734e46416?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-17T11:30:32.000Z",
+          "wordCount": 236,
+          "title": "プレゼン大革命? おじさんたちに言いたいことを伝えるには。"
+        },
+        {
           "id": "https://qiita.com/studio-kakky/items/e55cdcc60293b8c21477?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Next.js + Vercelの組み合わせで Incremental Static Regeneration（以後ISRとします) したら、なんか思ったとおりにいかなかったというお話。\n完全にドキ…",
@@ -1282,6 +1439,15 @@
           "publishedOn": "2021-08-16T13:04:08.000Z",
           "wordCount": 572,
           "title": "[swift]API通信を利用しているクラスをUnitTestしてみる[stubとmockの使い方]"
+        },
+        {
+          "id": "https://qiita.com/yonekura-h/items/2e9cc90dc69ecf9aef14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は chillSAP 夏の自由研究2021 の記事として執筆しています。\n\nはじめに\n\n夏の自由研究のお題としてSAPFiori関連でなにかしてみようと思い、\nLuigiフレームワーク＋SAPU…",
+          "link": "https://qiita.com/yonekura-h/items/2e9cc90dc69ecf9aef14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-16T12:56:23.000Z",
+          "wordCount": 346,
+          "title": "【SAPUI5】SAPUI5+Luigiでマイクロフロントエンドな実装を試してみる"
         },
         {
           "id": "https://qiita.com/boriko/items/35f210f46140817c5f7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5440,150 +5606,6 @@
           "publishedOn": "2021-07-21T13:24:31.000Z",
           "wordCount": 457,
           "title": "Route53を使ってACM+CloudFront+S3で構築した SorryページへDNSフェイルオーバーを設定する。"
-        },
-        {
-          "id": "https://qiita.com/Mikoto_Hashimoto/items/3125577b6edd66929041?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "まえがき\n\nこの度AWS認定ソリューションアーキテクトアソシエイトに１ヵ月の勉強期間で一発合格することができました！\nスコアは795点でした。（800点は行きたかった。。。）\n\n私はこの春から新卒でI…",
-          "link": "https://qiita.com/Mikoto_Hashimoto/items/3125577b6edd66929041?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T12:30:20.000Z",
-          "wordCount": 327,
-          "title": "新卒１年目がAWS認定SAAに１ヵ月で一発合格した話"
-        },
-        {
-          "id": "https://qiita.com/ykawakubo/items/16fd0c08ee4f6e21e653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n千葉大学・株式会社Nospareの川久保です．\n今回は，回帰モデルのうち，目的変数が連続変数ではなく，カウントだったり二値変数だったりする場合のモデルを含んだ一般化線形モデル（Gener…",
-          "link": "https://qiita.com/ykawakubo/items/16fd0c08ee4f6e21e653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T10:51:04.000Z",
-          "wordCount": 684,
-          "title": "一般化線形モデルと一般化線形混合モデル"
-        },
-        {
-          "id": "https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n\n良い良いと噂のJuliaの実行環境を作ってみました\n最速で動作環境を作るということを目標に、Dockerを使って超お手軽に実行環境を構築します（最適化とかはまだ何も考えてない）\nまだ環境を作…",
-          "link": "https://qiita.com/yoichi_t/items/429b24c2cdee4600c760?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T09:46:08.000Z",
-          "wordCount": 359,
-          "title": "Julia言語の実行環境をお手軽に構築する"
-        },
-        {
-          "id": "https://qiita.com/akaiteto/items/b5c8c3d5eb5ca3849c5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n近頃、人間の姿勢推定に興味をもっています。\n姿勢推定というと個人的にはカメラの姿勢推定を連想します。\nしかしそうではなく、ここで言う姿勢推定とは\n写真などの何かしらの媒体から、人の姿勢を…",
-          "link": "https://qiita.com/akaiteto/items/b5c8c3d5eb5ca3849c5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T08:51:36.000Z",
-          "wordCount": 413,
-          "title": "写真から人間の３Ｄモデルを出力できたら、イラストに活用できるよねという話。- SMPL -"
-        },
-        {
-          "id": "https://qiita.com/omuram/items/e540e319c235746c7e04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "DeepFake関連の研究に興味があり現状どれくらいの動画が作れるのか気になったので、研究の一環として簡単なフェイク動画を作ってみました。\n細かい手作業の編集や面倒なアノテーションは一切やらずにほぼ…",
-          "link": "https://qiita.com/omuram/items/e540e319c235746c7e04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T08:43:59.000Z",
-          "wordCount": 467,
-          "title": "ヒカキンのフェイク動画作ってみた"
-        },
-        {
-          "id": "https://qiita.com/azumagoro/items/a3b7b52f87c1b68b43e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nUnityのButtonは標準で複数ボタンの同時押しや連打の制御がないため、自前で実装する必要があります。\n\nUniRxを使うと（同じボタンの）連打に関しては記事が見つかりましたが、複数ボ…",
-          "link": "https://qiita.com/azumagoro/items/a3b7b52f87c1b68b43e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T06:03:01.000Z",
-          "wordCount": 472,
-          "title": "Unity/UniRx - 複数ボタンの同時押し/連打制御"
-        },
-        {
-          "id": "https://qiita.com/kccs_api3/items/463b985bd65a34874b4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "前回投稿した以下記事の続き。\n\nhttps://qiita.com/kccs_api3/items/ac09a4905ba94ae33402\n\n第2回の本記事では、前回の記事内で利用したKCCS API…",
-          "link": "https://qiita.com/kccs_api3/items/463b985bd65a34874b4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T05:33:04.000Z",
-          "wordCount": 549,
-          "title": "KCCS APIサービス 天気予報データ配信機能(weather-forecasts)について"
-        },
-        {
-          "id": "https://qiita.com/kai-utsunomiya/items/55bff354aaa15c4a58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "こんにちは。今回は値の受け渡しを伴う、特定のタイミングでの画面遷移についてまとめてみようと思います。\n\n画面遷移先に値を渡す処理、あるいは画面遷移元に値を渡す処理についてはたくさんの既存記事がありまし…",
-          "link": "https://qiita.com/kai-utsunomiya/items/55bff354aaa15c4a58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T04:43:46.000Z",
-          "wordCount": 670,
-          "title": "swiftで画面遷移先に値を渡す＆画面遷移元に値を渡す"
-        },
-        {
-          "id": "https://qiita.com/taka_yayoi/items/ad7b119d995fb178e2de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "What Is Feature Engineering and How to Apply/Scale It for Machine Learning - The Databricks Blogの翻訳…",
-          "link": "https://qiita.com/taka_yayoi/items/ad7b119d995fb178e2de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T04:02:19.000Z",
-          "wordCount": 820,
-          "title": "大規模特徴量エンジニアリング"
-        },
-        {
-          "id": "https://qiita.com/jnchito/items/fb4ed2238ee3404b4403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに：順番に意味のある配列を定義するのは避けよう\n\nプログラミング初心者向けの簡単なTipsです。\n\n何か複数のデータをまとめてひとつの変数に保持したい場合には配列が使えます。\nしかし「複数のデー…",
-          "link": "https://qiita.com/jnchito/items/fb4ed2238ee3404b4403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T03:07:28.000Z",
-          "wordCount": 499,
-          "title": "【初心者向け】順番に意味がある配列はハッシュに置き換えよう"
-        },
-        {
-          "id": "https://qiita.com/coe/items/851803001413cc0c88aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "例えば、\n\n<ul>\n  <li>ベーグル</li>\n  <li>バゲット\n    <ul>\n      <li>パリジャン</li>\n      <li>バタール</li>\n    </ul>\n  </li>\n</ul>\n\n\nのようなHTMLを、\n\nul.…",
-          "link": "https://qiita.com/coe/items/851803001413cc0c88aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T02:49:26.000Z",
-          "wordCount": 608,
-          "title": "SwiftUIっぽくHTMLを作成するライブラリを作ってみた"
-        },
-        {
-          "id": "https://qiita.com/EGJ-Kaz_Okada/items/e789e0a9cb8cf22cd8ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nAnimGraphにおける各ノードのON/OFFをノードのAlphaで制御している方はそれなりに多いかと思います。\n\n\nこの方法は非常に簡単で便利なのですが、Alphaに0, 1で値を渡すと…",
-          "link": "https://qiita.com/EGJ-Kaz_Okada/items/e789e0a9cb8cf22cd8ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-21T02:41:34.000Z",
-          "wordCount": 319,
-          "title": "[UE4] [UE5] AnimNodeのAlpha Scale Bias Clampを使って滑らかなブレンド処理を簡単実装しよう！"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/f84da8503d847cdf973a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1319407.html\n\nという記事を以前見かけたが、幸か不幸か弊社内のイチ界隈でかつて…",
-          "link": "https://qiita.com/e99h2121/items/f84da8503d847cdf973a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-20T21:11:11.000Z",
-          "wordCount": 314,
-          "title": "叙勲、国宝級、まだある、古のフリーソフトたち"
-        },
-        {
-          "id": "https://qiita.com/Kiri8128/items/b2c30691942b2220b509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "添え字ガチャはお得意ですか？\n\n私は苦手です。得意な方はこの記事のありがたみがあまりないかもしれません ^ari。\n\nこの記事は？\n\n添え字ガチャを回避するためのテクを紹介します。\n実装・考え方の工夫と…",
-          "link": "https://qiita.com/Kiri8128/items/b2c30691942b2220b509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-20T16:38:49.000Z",
-          "wordCount": 1551,
-          "title": "添え字ガチャから逃げる一般的なテク"
-        },
-        {
-          "id": "https://qiita.com/Nmatician/items/7d989973e498210bac0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n\n知見が共有されないからLaTeX文書やSATySFi文書をGoogle DriveなんかでPDFだけ投げるのまじでやめろ\n手軽さも考えるとGitHubで丸ごと公開しちゃうのがおすすめ\nそのと…",
-          "link": "https://qiita.com/Nmatician/items/7d989973e498210bac0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-20T16:09:38.000Z",
-          "wordCount": 384,
-          "title": "お前らいい加減PDFだけ共有するのはやめろ"
-        },
-        {
-          "id": "https://qiita.com/codemountains/items/f40a2c983116b1b810ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "VSCodeで前回開いていたフォルダを開かせない\n\n今回の目的は「VSCodeをまっさらな状態で起動できるようにする」です。\n\nこの設定は好みが別れると思いますが、\n個人的には前回開いていたフォルダを…",
-          "link": "https://qiita.com/codemountains/items/f40a2c983116b1b810ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-20T13:26:02.000Z",
-          "wordCount": 358,
-          "title": "VSCodeで前回開いていたフォルダを開かせない"
         }
       ]
     }
