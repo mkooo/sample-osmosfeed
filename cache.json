@@ -12,6 +12,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6402353?source=rss",
+          "author": null,
+          "description": "国内の主要企業を対象とした読売新聞のアンケート調査で、新型コロナウイルスの感染拡大で普及が進むテレワークに「課題を感じる」と回答した企業が約9割にのぼった。約4割がコロナ収束後に「縮小する」とみていた。",
+          "link": "https://news.yahoo.co.jp/pickup/6402353?source=rss",
+          "publishedOn": "2021-08-21T23:38:58.000Z",
+          "wordCount": 65,
+          "title": "企業9割が「テレワークに課題」"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402328?source=rss",
+          "author": null,
+          "description": "将棋の羽生善治九段の妻で元女優の理恵さんが、誹謗（ひぼう）中傷に法的措置を辞さない構えを示した。「夫が有名人だから、どんな言葉を投げられても黙って無視して言われた方が耐えろと言うのは違うと思います」。",
+          "link": "https://news.yahoo.co.jp/pickup/6402328?source=rss",
+          "publishedOn": "2021-08-21T11:00:07.000Z",
+          "wordCount": 64,
+          "title": "羽生九段に誹謗中傷 法的措置も"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6402289?source=rss",
           "author": null,
           "description": "世界最大のネット通販「Amazon」の書籍商品のレビュー欄で、著者の人格を攻撃したり、デマを流したりする書き込みが問題になっている。Amazon社は、対策を取っているものの、実際には投稿が放置されるケースも多い。",
@@ -838,24 +856,6 @@
           "publishedOn": "2021-07-23T13:21:09.000Z",
           "wordCount": 69,
           "title": "各国のプラカードにネット反響"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399495?source=rss",
-          "author": null,
-          "description": "米ツイッターの4－6月（第2四半期）決算は、売上高がアナリスト予想を上回った。第2四半期の売上高は前年同期比74%増の11億9000万ドル。",
-          "link": "https://news.yahoo.co.jp/pickup/6399495?source=rss",
-          "publishedOn": "2021-07-23T05:47:01.000Z",
-          "wordCount": 68,
-          "title": "Twitter売上高 4-6月は74%増"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399457?source=rss",
-          "author": null,
-          "description": "日本時間23日午前1時頃より、多くのWebサーバーでDNSエラーが発生している。米Akamaiが「Edge DNS」サービスの障害をアナウンスしていたが、修正プログラムの実施によりサービスが通常通り再開されたという。",
-          "link": "https://news.yahoo.co.jp/pickup/6399457?source=rss",
-          "publishedOn": "2021-07-22T17:27:58.000Z",
-          "wordCount": 71,
-          "title": "DNS障害 Akamai「復旧済み」"
         }
       ]
     },
@@ -1054,6 +1054,159 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/nemo-855/items/e8521fed9392be72b3d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nFragment等を扱うときなどにおまじないとして書いていたLayoutInflaterのinflateメソッドの第3引数attachToRootの意味がよくわからなかったので調べてみま…",
+          "link": "https://qiita.com/nemo-855/items/e8521fed9392be72b3d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T15:11:05.000Z",
+          "wordCount": 265,
+          "title": "LayoutInflater.inflateのattachToRootとは何か？"
+        },
+        {
+          "id": "https://qiita.com/yugoes1021/items/56cda44d1913e57d742c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに - 前提\n\nデータソースにはいろんな種類があるもので、データのカタチも多種多様ですよね。すべてのデータがテーブル形式に整っているわけではありません。中には、列定義がコロコロと変わることもあ…",
+          "link": "https://qiita.com/yugoes1021/items/56cda44d1913e57d742c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T14:18:02.000Z",
+          "wordCount": 524,
+          "title": "[Power BI Tips] Power Query で動的に変わる列名に対応するには？ - 01"
+        },
+        {
+          "id": "https://qiita.com/torifukukaiou/items/eab0dbebf3623e4e0b47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n\nElixirを楽しんでいますか\n今日は、Hacobune（はこぶね） β版にてLivebookをイゴかしてみます\n現在、Hacobune（はこぶね）は、オープンβ版にて無料で利用できると…",
+          "link": "https://qiita.com/torifukukaiou/items/eab0dbebf3623e4e0b47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T13:13:20.000Z",
+          "wordCount": 415,
+          "title": "HacobuneでLivebookをイゴかす(Elixir)"
+        },
+        {
+          "id": "https://qiita.com/KMim/items/a18212c58ea5c545a72a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n概要\n\nGo言語を用いて、ゲーム用のマップの自動生成のプログラムを書いてみます。\n本記事では、マップ生成のロジックに当たる部分をメインに記述するため、使用するライブラリ固有の機能やインター…",
+          "link": "https://qiita.com/KMim/items/a18212c58ea5c545a72a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T10:13:14.000Z",
+          "wordCount": 1052,
+          "title": "Goでゲーム用マップを自動生成してみる"
+        },
+        {
+          "id": "https://qiita.com/n0bisuke/items/3dbf584cb52564ea0a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "理由は謎ですが、Arduino IoT Cloud + Arduino MKR WiFi 1010で木魚を叩いてみます。\n\nちなみに先日のIoTLTでやったネタです。\n\n\n\n\n\nArduino MKR WiFi…",
+          "link": "https://qiita.com/n0bisuke/items/3dbf584cb52564ea0a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T08:58:42.000Z",
+          "wordCount": 433,
+          "title": "IoTリモート木魚 〜インターネット経由で木魚を叩く〜 #iotlt #Arduino"
+        },
+        {
+          "id": "https://qiita.com/masatomix/items/c63115254ed59d06ff9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。UiPath Friendsコミュニティ運営メンバの @masatomix です。\n\nイントロ\n\n今回のテーマは、オンプレ版の Unattended ロボットです。\n\nUiPath の Una…",
+          "link": "https://qiita.com/masatomix/items/c63115254ed59d06ff9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T08:46:50.000Z",
+          "wordCount": 346,
+          "title": "[UiPath] よくわかるUnattendedロボット(イントロ編)"
+        },
+        {
+          "id": "https://qiita.com/Yohei_Shiina/items/01236ac8a7752c02798f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前置き\n\nこちらの記事は筆者が備忘録的にまとめたものです。\nせっかく来てくれた読者の皆様にとっても役に立つように意識して書いてみましたので、\n是非最後まで読んでみてください。では、Let us be…",
+          "link": "https://qiita.com/Yohei_Shiina/items/01236ac8a7752c02798f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T08:09:35.000Z",
+          "wordCount": 405,
+          "title": "駆け出しプログラマ向け、実務で使える「効率性」ってなに？"
+        },
+        {
+          "id": "https://qiita.com/oga0927/items/e2689448d565a8161ad6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Vue3で追加されたsetupメソッド\n\nvue 3で導入されたComposition APIのsetupメソッドを使った時の備忘録\n\nVue 2.5までの書き方\n\nコンポーネントにdata、metho…",
+          "link": "https://qiita.com/oga0927/items/e2689448d565a8161ad6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T07:25:45.000Z",
+          "wordCount": 315,
+          "title": "Vue 3 setupメソッド"
+        },
+        {
+          "id": "https://qiita.com/divclass123/items/4124dd8c4149a0fc7be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/divclass123/items/fe54635b8434e9d82e08の続き。\n前回は、動かすのに必要なコードを書いていったので、\n理論上動くはずですが、実…",
+          "link": "https://qiita.com/divclass123/items/4124dd8c4149a0fc7be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T07:16:30.000Z",
+          "wordCount": 1496,
+          "title": "#8 Rails × Vue.jsで動的なページをSPA化させる(いいね機能)"
+        },
+        {
+          "id": "https://qiita.com/taka_yayoi/items/d564a58819f6515353eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "How to Build an Experimentation Pipeline for Extracting Topics From Text Data Using PySpark - The D…",
+          "link": "https://qiita.com/taka_yayoi/items/d564a58819f6515353eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T06:51:26.000Z",
+          "wordCount": 515,
+          "title": "PySparkを用いたテキストデータからのトピック抽出のための実験パイプライン"
+        },
+        {
+          "id": "https://qiita.com/mihooo24/items/4444492cda69cd012471?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1.背景\n\nRuby on Railsを主に学習しています。\npostgresQLはアプリを作成して-d でデータベース指定しておく、という認識でした。\n（自動で作成してもらえるので仕組みを理解でき…",
+          "link": "https://qiita.com/mihooo24/items/4444492cda69cd012471?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-21T06:38:39.000Z",
+          "wordCount": 388,
+          "title": "【postgresQL】起動と停止"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/3245085a54f4f797796a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "isEven というGitHubトレンドに突如現れたライブラリ。\n\nプロジェクト\n\nhttps://github.com/samuelmarina/is-even\n\n\nThis is a 100% seri…",
+          "link": "https://qiita.com/e99h2121/items/3245085a54f4f797796a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T21:09:55.000Z",
+          "wordCount": 353,
+          "title": "JavaScript: isEven"
+        },
+        {
+          "id": "https://qiita.com/fabsabsfabsabs/items/e8e3b717dc311ac2176d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "DMM.comの女優APIを使って約5万人の女優を検索できる驚異のサービスを作った\n\nDMM.comにDMM Webサービスというのがあって、DMMアフィリエイトのサイト申請をしたらAPIを使うこと…",
+          "link": "https://qiita.com/fabsabsfabsabs/items/e8e3b717dc311ac2176d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T15:19:55.000Z",
+          "wordCount": 315,
+          "title": "【個人開発】DMM.comの女優APIを使って約5万人の女優を検索できる驚異のサービスを作った"
+        },
+        {
+          "id": "https://qiita.com/yamad365/items/075ae727fb73eeab9d89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Power Apps のカメラコントロールを利用する際に、フロント（正面）なのかバック（背面）なのか”方向”を指定する際に、以前は数値で指定していました。ドロップダウンに配列指定したり、コンボボック…",
+          "link": "https://qiita.com/yamad365/items/075ae727fb73eeab9d89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T14:52:48.000Z",
+          "wordCount": 290,
+          "title": "#PowerApps 選択可能なカメラを簡単に指定する方法"
+        },
+        {
+          "id": "https://qiita.com/zhang_yid/items/a7afb4098967e00f3981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "原文\ngoogle/eng-practices: Google's Engineering Practices documentation\n\n自分が重要だと思うポイントだけを記載します。\n\nレビュアに対…",
+          "link": "https://qiita.com/zhang_yid/items/a7afb4098967e00f3981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T13:55:14.000Z",
+          "wordCount": 1215,
+          "title": "Google's Engineering Practices documentationを読んだメモ"
+        },
+        {
+          "id": "https://qiita.com/stomita/items/9a1d1396f0801acc5e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nSalesforceで構築したシステムのテスト環境を用意する際、複数組織に渡って統一されたデータ環境を準備するのは困難です。Sandbox組織でも Full / Partial Copyがで…",
+          "link": "https://qiita.com/stomita/items/9a1d1396f0801acc5e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T11:29:04.000Z",
+          "wordCount": 386,
+          "title": "Salesforceレコードデータをパッケージ化して任意の組織へロードする方法"
+        },
+        {
+          "id": "https://qiita.com/kenjihiranabe/items/11d07d3cea0325f17851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何?\n\n\nGilbert Strang 先生から学んだ線形代数シリーズ、第4回目の記事です。全体は以下から。\n\n\nhttps://qiita.com/kenjihiranabe/items/bfa9…",
+          "link": "https://qiita.com/kenjihiranabe/items/11d07d3cea0325f17851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T10:25:34.000Z",
+          "wordCount": 1608,
+          "title": "手計算で LU 分解〜Gauss消去法の逆思考"
+        },
+        {
           "id": "https://qiita.com/mokichi/items/1f6ac77a4e259db5f6d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "※2021年8月20日現在の情報です\n\nPhoenixの最新バージョンは1.5.10ですが、GitHubのリポジトリを見ると1.6.0-devが出ています。\n\nhttps://github.com/ph…",
@@ -1061,6 +1214,15 @@
           "publishedOn": "2021-08-20T09:43:09.000Z",
           "wordCount": 348,
           "title": "[Elixir] Phoenix 1.6.0-devのプロジェクトを作成できるようにする"
+        },
+        {
+          "id": "https://qiita.com/wakaba710/items/5107963e6b4123523603?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n「QRコードを手計算＆手書きで書けたらかっこいいのでは？」と思い立ち、QRコードの仕組みを勉強しました。\nしかしその仕組みは想定の１億倍難しく、到底手計算できるものではありませんでした。…",
+          "link": "https://qiita.com/wakaba710/items/5107963e6b4123523603?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-20T06:39:13.000Z",
+          "wordCount": 3278,
+          "title": "ライブラリを使わずにC#でQRコードを生成してみる"
         },
         {
           "id": "https://qiita.com/hikaru_motomiya/items/a2e9e11b1a2246b8e30d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1124,6 +1286,15 @@
           "publishedOn": "2021-08-19T23:08:07.000Z",
           "wordCount": 438,
           "title": "【動画付き・初心者向け】コメントにはWHYを書こう 〜不要なコメントと必要なコメントの違いについて〜"
+        },
+        {
+          "id": "https://qiita.com/kt103/items/e3491092573b7e89d9e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n　プログラミングを学習しているとフレームワーク、ライブラリというものが出てくると思いますが、どちらも似たような意味で考えておられる初学者の方は多いと思います。\n　かくいう私もその一人で、…",
+          "link": "https://qiita.com/kt103/items/e3491092573b7e89d9e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-19T22:30:05.000Z",
+          "wordCount": 242,
+          "title": "ライブラリとフレームワークの違い"
         },
         {
           "id": "https://qiita.com/ktsuda103/items/e3491092573b7e89d9e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -4159,6 +4330,15 @@
           "title": "【AtCoder解説】PythonでABC212のA,B,C,D,E問題を制する！"
         },
         {
+          "id": "https://qiita.com/hhujk5/items/a37cb17041c3e1070ac7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nポートフォリオとして制作したアプリケーションのポイントを投稿させていただきます。\nポートフォリオURL：https://task-time.net\n(まだGoogleCloudPlatf…",
+          "link": "https://qiita.com/hhujk5/items/a37cb17041c3e1070ac7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-31T15:03:43.000Z",
+          "wordCount": 306,
+          "title": "Java × GoogleCalendarAPI でタスク管理アプリ"
+        },
+        {
           "id": "https://qiita.com/notori48/items/93acf6dc8563a81eeac2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Grover Mixer QAOA\n\nGrover Mixer QAOA (GM-QAOA)は、組み合わせ最適化問題を解く量子アルゴリズムであるQAOAを、\n制約付き最適化問題に拡張したアルゴリズム…",
@@ -5354,213 +5534,6 @@
           "publishedOn": "2021-07-23T13:44:23.000Z",
           "wordCount": 434,
           "title": "MagikEyeをROS1で動かすまで"
-        },
-        {
-          "id": "https://qiita.com/nst-zama/items/954ce559b2de46e946ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "背景\n\nTrend Micro Cloud One Container Securityとは\n\nTrend Micro Cloud One Container Securityとは、コンテナイメージの…",
-          "link": "https://qiita.com/nst-zama/items/954ce559b2de46e946ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T12:47:09.000Z",
-          "wordCount": 1231,
-          "title": "AWS CDKを使ってTrend Micro Cloud One Container SecurityをEKSにセットアップしてみた その１"
-        },
-        {
-          "id": "https://qiita.com/yasu-graz/items/2fd1da10d3cd372ff64b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこちらはスッキリわかるSQL入門をまとめた記事となります。\n今回は「テーブルの作成」についてです。\nプログラミング初学者向けの内容となっていますので、お気づきの点があれば、コメントの方を…",
-          "link": "https://qiita.com/yasu-graz/items/2fd1da10d3cd372ff64b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T12:17:41.000Z",
-          "wordCount": 615,
-          "title": "[SQL]SQL入門　- テーブルの作成 -"
-        },
-        {
-          "id": "https://qiita.com/akihiro-cmd/items/5c702789cac62dbcd39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nSQLの勉強会の発表が今回で最後になります。\n今回は書籍の「さまざまな支援機能」についてまとめます。\nこの章ではデータベースをより早く、便利に、安全に使うためにそのような機能があるのか学…",
-          "link": "https://qiita.com/akihiro-cmd/items/5c702789cac62dbcd39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T12:04:34.000Z",
-          "wordCount": 475,
-          "title": "SQLのまとめ③(インデックスについて)"
-        },
-        {
-          "id": "https://qiita.com/yamad365/items/3c63ce41b4c93267389f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "この記事はコミュニティで質問するときのコツやマインドセットを当方の意見として紹介したものです。ここに書かれていることは「こころがけ」「ヒント」「助言」にすぎません。法律のようにこれを守る必要もありま…",
-          "link": "https://qiita.com/yamad365/items/3c63ce41b4c93267389f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T09:39:47.000Z",
-          "wordCount": 473,
-          "title": "コミュニティ等で質問する際に覚えておいてほしいこと"
-        },
-        {
-          "id": "https://qiita.com/karintou8710/items/eb81e5c97d698e729e03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "処理系は完全に初心者なので間違っている所を指摘して頂けると嬉しいです。\n\nはじめに\n\nPythonのfor文って遅いですよね。\n競技プログラミングでPythonを使う際、実行時間を意識するときはより速い…",
-          "link": "https://qiita.com/karintou8710/items/eb81e5c97d698e729e03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T09:24:31.000Z",
-          "wordCount": 811,
-          "title": "C言語と比較してPythonのforが遅いわけを処理系から調べてみた"
-        },
-        {
-          "id": "https://qiita.com/vit_udon_husqy/items/9ed675c4feb4ff0d0c28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "背景\n\n最終回である今回は「テーブル設計」についてまとめていこうと思います。\n\n＊本記事は私が学習コミュニティで書籍勉強会を企画したときの発表資料です。\n企画概要概要は以下の通り。\n・スッキリわかるS…",
-          "link": "https://qiita.com/vit_udon_husqy/items/9ed675c4feb4ff0d0c28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T07:42:49.000Z",
-          "wordCount": 411,
-          "title": "【SQL書籍勉強会】テーブル設計"
-        },
-        {
-          "id": "https://qiita.com/yetanothersu/items/3b0d3e6ccad63c16ac48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n色々ドキュメントを読んでmlr3が他の機械学習パッケージのラッパーであることをようやく理解しました．\n\n準備\n\nテキストマイニングにはtmパッケージではなくtidytextパッケージを使うこ…",
-          "link": "https://qiita.com/yetanothersu/items/3b0d3e6ccad63c16ac48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T06:50:19.000Z",
-          "wordCount": 1529,
-          "title": "mlr3で「Rによる機械学習」：第4章「確率的学習 -- 単純ベイズを使った分類」"
-        },
-        {
-          "id": "https://qiita.com/kin292929/items/92aa0f6f5e1fbca553ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "今朝起きたらブラックリスト追加通知がきてた\n\n(-ω-).。ｽﾔｧ\n\nΣ(oωo) {ﾋﾟﾛﾝｯ}\n\n(-ω-) {　なんや・・・普段なることがないラインに通知がきとる・・・　）\n\n(’ω’)！！ {　「…",
-          "link": "https://qiita.com/kin292929/items/92aa0f6f5e1fbca553ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T06:41:56.000Z",
-          "wordCount": 644,
-          "title": "サイト攻撃されてたけど、対策しててよかった話"
-        },
-        {
-          "id": "https://qiita.com/Eternal_door/items/7c076f81035432ddd451?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Progateを一通り終えたら次はpaizaだ！\n\nそんな声を聞いたのでやり始めた去年の夏。\nDランクですら回答がままならないのに凹んでた学習中の私。\n色々躓きまくったが、ロジック力やデバック力やグ…",
-          "link": "https://qiita.com/Eternal_door/items/7c076f81035432ddd451?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T06:02:21.000Z",
-          "wordCount": 603,
-          "title": "paizaで個人的にお世話になった記法【Python編】"
-        },
-        {
-          "id": "https://qiita.com/irgaly/items/d1194a4f72a835e79653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "デバッグ用署名とリリース用署名を生成するコマンドまとめ。\n\nkeytool バージョン\n\nkeytool は JDK のバージョンに依存します。\nこの記事では AdoptOpenJDK 16.0.1 で…",
-          "link": "https://qiita.com/irgaly/items/d1194a4f72a835e79653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T05:47:54.000Z",
-          "wordCount": 532,
-          "title": "Android: Debug Keystore と Release Keystore をコマンドから生成する"
-        },
-        {
-          "id": "https://qiita.com/slave/items/5e06bc8c8eb2b766c0e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "書きかけです。時間ないので、駄文を撒き散らしていきます。\n\nPythonには大変お世話になっております。\n\nPythonは科学計算が得意で、データ解析もできる。独りな孤独な人間なので、Pythonはなく…",
-          "link": "https://qiita.com/slave/items/5e06bc8c8eb2b766c0e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T02:52:56.000Z",
-          "wordCount": 348,
-          "title": "Pythonの高速化技術。JavaScript,C++にも負けてない"
-        },
-        {
-          "id": "https://qiita.com/carol0226/items/084fbbb3f31b646025f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Azure の 仮想マシン を使って、Active Directory を構築することは可能です。本作業は、オンプレミスで Active Directory 構築の経験が豊富な人でも Azure に…",
-          "link": "https://qiita.com/carol0226/items/084fbbb3f31b646025f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T02:51:38.000Z",
-          "wordCount": 976,
-          "title": "Azure上で Active Directory の構築＆ドメイン参加"
-        },
-        {
-          "id": "https://qiita.com/179Bell/items/720ad30544bda64ff521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nLinuxについて学んだのでLinuxについての基礎的なことをまとめました。\n\nLinuxとは\n\nOSの一種で1991年にリーナス・トーバルズ氏により有料であったUnixをベースに開発された。\n有料であったUnixと違い無料で使用できオープンソースであったため広く普及した…",
-          "link": "https://qiita.com/179Bell/items/720ad30544bda64ff521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T01:45:02.000Z",
-          "wordCount": 834,
-          "title": "初学者がLinuxを学んだのでアウトプットする"
-        },
-        {
-          "id": "https://qiita.com/quryu/items/710b786673918046366a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初めに\n\n以下のチュートリアルをやってみました。ElastiCache はセッションデータの保持や、DB 処理の高速化など資格勉強でよく見かけますので、実際に使ってみたいとずっと思っていました。El…",
-          "link": "https://qiita.com/quryu/items/710b786673918046366a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-23T01:09:20.000Z",
-          "wordCount": 508,
-          "title": "AWS ElastiCache for Redis オンラインアプリケーション用の高速セッションストアを構築するチュートリアルをやってみた"
-        },
-        {
-          "id": "https://qiita.com/Axross_SBiv/items/e3a97eef46cbef67eb7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nAxrossを運営している藤原です。\n\nAxross とは、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクと社内起業…",
-          "link": "https://qiita.com/Axross_SBiv/items/e3a97eef46cbef67eb7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T23:21:54.000Z",
-          "wordCount": 319,
-          "title": "自然言語処理技術を活用したレシピの紹介"
-        },
-        {
-          "id": "https://qiita.com/C_HERO/items/c5cfbdbb269efb72fb8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "GitLabのマージリクエスト機能でコードレビューを行う方法の覚え書きです。\nプロジェクト用に考えたものを汎用化してみました。\n\nオプション\n\nまず、マージリクエストのオプションについて。\nマージリクエ…",
-          "link": "https://qiita.com/C_HERO/items/c5cfbdbb269efb72fb8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T23:21:43.000Z",
-          "wordCount": 484,
-          "title": "GitLabのマージリクエスト機能でコードレビューする"
-        },
-        {
-          "id": "https://qiita.com/tomoto335/items/263b23d9ba156de12857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "M5StickCの内蔵マイクを使って騒音計を作るのはなかなか難しい。マイクからの入力を既知の単位、例えばdB(デシベル)に変換する方法が自明ではなく、実際に実装してみたというサンプルもあまり見ない。…",
-          "link": "https://qiita.com/tomoto335/items/263b23d9ba156de12857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T22:26:02.000Z",
-          "wordCount": 388,
-          "title": "M5StickCでdB(デシベル)表示の騒音計を作る"
-        },
-        {
-          "id": "https://qiita.com/quryu/items/fae0bd49a0bd0a106ee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初めに\n\n以下のチュートリアルをやってみました。Amplify と CodeCommit の連携、CodeCommit を使用した開発、Cognito を使ったオーソライザー、Lambda プロキシ…",
-          "link": "https://qiita.com/quryu/items/fae0bd49a0bd0a106ee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T20:52:57.000Z",
-          "wordCount": 683,
-          "title": "AWS Amplify サーバーレスウェブアプリケーションを構築するチュートリアルをやってみた"
-        },
-        {
-          "id": "https://qiita.com/akase244/items/b5700f465512d020d873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "「LinuCレベル1」の試験勉強をしていると、bashの設定ファイルの読み込み順序について、以下のような表で説明されていました。\n\n\n\nこの読み込み順序のルールについてはなんとなく知ってはいたんですが。。。\n…",
-          "link": "https://qiita.com/akase244/items/b5700f465512d020d873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T17:51:30.000Z",
-          "wordCount": 967,
-          "title": "Linuxサーバログイン時の/etc/bashrc、/etc/profile、~/.bashrc、~/.bash_profile等の読み込み順序が気になったので調べてみた"
-        },
-        {
-          "id": "https://qiita.com/kazupaka/items/8a501f6c2f648c10583b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nプログラミングに関する簡単な問題集です。\n\n世の中にはプログラミング言語の解説本や、テクニック集など、スキルを高めるのに有用なリソースが豊富にあります。\nただし、プログラミング学習において次の…",
-          "link": "https://qiita.com/kazupaka/items/8a501f6c2f648c10583b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T15:39:35.000Z",
-          "wordCount": 624,
-          "title": "プログラミングスキル向上のための問題集(レベル判定付き!）"
-        },
-        {
-          "id": "https://qiita.com/moritoru/items/c6fc303bf9925de0a3a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこの6月からAWSが提供するAmazon Location Serviceが正式版になってグローバル規模でリリースされています。\nこれによって、Googleマップ以外の地図サービスの選択…",
-          "link": "https://qiita.com/moritoru/items/c6fc303bf9925de0a3a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T15:31:16.000Z",
-          "wordCount": 355,
-          "title": "Amazon Location Serviceのマップスタイルを日本対応にする"
-        },
-        {
-          "id": "https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nOpenSiv3Dでウィンドウプロシージャを使用したい場面にであったのですが\n裏で呼ばれているウィンドウプロシージャは隠蔽されていて、ユーザーコード側で触れないので\nこのあたりの対処法を…",
-          "link": "https://qiita.com/tyanmahou/items/88b793e255f1e04f85d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T14:01:37.000Z",
-          "wordCount": 571,
-          "title": "OpenSiv3D(Windows)で自前のウィンドウプロシージャを使用する"
-        },
-        {
-          "id": "https://qiita.com/fam_taro/items/df6061b589c3ccf86089?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "PyTorch とかで複数GPUを使って学習する場合に DP と DDP って何が違うのか毎回調べてたのでまとめました。\n\n本記事は下記記事やドキュメントをさらに噛み砕いたものとなっています。\n特に一…",
-          "link": "https://qiita.com/fam_taro/items/df6061b589c3ccf86089?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-22T13:08:45.000Z",
-          "wordCount": 599,
-          "title": "複数GPUで学習するときのDP(Data Parallel)とDDP(Distributed Data Parallel)の違い"
         }
       ]
     }
