@@ -829,33 +829,6 @@
           "publishedOn": "2021-07-26T13:56:46.000Z",
           "wordCount": 56,
           "title": "ゼロクリック攻撃 スマホに脅威"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399780?source=rss",
-          "author": null,
-          "description": "東京五輪・スケートボードの女子ストリートで、13歳の西矢椛が金メダル、16歳の中山楓奈が銅メダルに輝いた。テレビ中継での「真夏の大冒険」の実況が話題を呼んでおり、ツイッターでトレンド入りを果たした。",
-          "link": "https://news.yahoo.co.jp/pickup/6399780?source=rss",
-          "publishedOn": "2021-07-26T06:42:11.000Z",
-          "wordCount": 62,
-          "title": "真夏の大冒険 スケボー実況話題"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399779?source=rss",
-          "author": null,
-          "description": "日本航空によると、26日午前9時半ごろから同社のシステムで障害が起き、国内の複数の空港で飛行機の離陸を見合わせた。午前10時40分ごろに復旧し、チェックインの手続きや出発を順次、再開。障害の詳しい原因はわかっていないという。",
-          "link": "https://news.yahoo.co.jp/pickup/6399779?source=rss",
-          "publishedOn": "2021-07-26T06:15:33.000Z",
-          "wordCount": 57,
-          "title": "JALで一時障害 離陸見合わせも"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399752?source=rss",
-          "author": null,
-          "description": "携帯電話事業者（キャリア）が提供するいわゆる「キャリアメール」は、スマートフォンとSNSなどの普及で利用が大幅に減少。にもかかわらず、総務省はキャリアメールの持ち運びができるよう各キャリアに求めている。一体なぜなのか。",
-          "link": "https://news.yahoo.co.jp/pickup/6399752?source=rss",
-          "publishedOn": "2021-07-26T00:47:11.000Z",
-          "wordCount": 71,
-          "title": "メアド持ち運び 国がこだわる訳"
         }
       ]
     },
@@ -1045,20 +1018,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613789846914",
-          "author": null,
-          "description": "こんにちは。倉内です。\nITエンジニアへの転職を考えている方の中には、連休中にプログラミングの学習に取り組んだ方も多いのではないでしょうか。\npaizaラーニングのようにブラウザ上で動画講座を見るものから、スライドや書籍を読んで学ぶものまでさまざまな学習方法がありますが、実際にコードはあまり書いていないという方もお見かけします。\nもちろんきちんとアウトプットするためにまずはインプットが必要というのも分かります。ただ、初心者こそ作法に則ったきれいなコードを書くより「動くコード」を意識してたくさん書く練習をしてほしいんです。\nそこで今回は、なぜ自らコードを書くことが大切なのかをお伝えするとともに、アウトプットをたくさんするためのおすすめ学習コンテンツも合わせてご紹介します。\nなぜ「きれいに書く」ことにとらわれてしまうのか？\nプログラミングには、命名規則だったり、改行位置やインデントなどのフォーマットだったり…コードを書くお作法があることを知っている方も多いと思います。\n以前当ブログでも「エンジニアになるならコーディング規約というものを知っておこう」とお伝えしました。\nまた、2012年発売にもかかわらず、いまだにエンジニアのバイブルとして挙げられることが多い書籍『リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック』を読んだことがある、もしくは読もうと思っている方もいるかもしれません。\nたしかに、\n他の人や半年後・1年後の自分が見ても分かりやすいコードを書く\n保守性や品質を高めるために作法に則ってコードを書く\nといったことはとても大切です。業務でチーム開発をするとなったらなおさらです。\nそのため勉強をし始めたばかりの方は「まだきれいなコードを書けないから…」「コーディングの作法を知らないから…」と書くことをためらいます。\nもしくは本来は実現したい機能があって…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/26/130000",
-          "publishedOn": "2021-07-26T04:00:00.000Z",
-          "wordCount": 256,
-          "title": "プログラミング初心者こそ「動くコード」をたくさん書いたほうがいい",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210723/20210723163928.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -1068,6 +1027,87 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/hasehiro0828/items/19a02b1b5f67a11ab0fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n21卒エンジニア、そろそろ社会人6ヶ月目の @hasehiro0828 です。\n\n現在、リモートメインで働いており、オフィスには片手で数えられるほどしか出社していません。\n\nこういう状況下で…",
+          "link": "https://qiita.com/hasehiro0828/items/19a02b1b5f67a11ab0fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T12:13:21.000Z",
+          "wordCount": 553,
+          "title": "21卒エンジニア 社会人6ヶ月目の働き方"
+        },
+        {
+          "id": "https://qiita.com/MeRT/items/bf99d240be864dbae2a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "pcl::fromROSMsgとは\n\npcl::fromROSMsgとは、ROS形式からPCL形式にしてくれる優れものです。\nしかしながら落とし穴が。。。\n\n何故かpcl::fromROSMsg遅い\n\n…",
+          "link": "https://qiita.com/MeRT/items/bf99d240be864dbae2a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T10:11:04.000Z",
+          "wordCount": 228,
+          "title": "pcl::fromROSMsgを高速化したい"
+        },
+        {
+          "id": "https://qiita.com/annayamamoto/items/a2b4297c1a1d17a6c7b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "CASEで条件分岐させてDBから値を取得しようとした時に書き方がわからなくて\n少し手こずったのでおさらい\nちなみに元々のクエリ文はWHERE句のみ（ANDやORを使って）で\n20行以上あったのが8行…",
+          "link": "https://qiita.com/annayamamoto/items/a2b4297c1a1d17a6c7b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T04:08:59.000Z",
+          "wordCount": 408,
+          "title": "SQL CASEを使って条件分岐させてみた"
+        },
+        {
+          "id": "https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1.はじめに\n\n先ほどQiitaエンジニアフェスタなるものがあるらしいと知りました。\n\nhttps://qiita.com/official-events/8d3820474c1143e88801\n\n告…",
+          "link": "https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T00:05:10.000Z",
+          "wordCount": 375,
+          "title": "【Azure】ぎりぎりにAzure Static Web Appsについて調べてみた"
+        },
+        {
+          "id": "https://qiita.com/Iwancof/items/83be1e250f82c3ad3ebf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "セキュリティパラノイアのためのArchLinux\n\nあなたのPCは本当に安全ですか？\n\nカフェでPC作業をしていて、ふと席を立った時。\nあなたが寝ていて、PCの電源をつけっぱなしにしている時。\nどこか…",
+          "link": "https://qiita.com/Iwancof/items/83be1e250f82c3ad3ebf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T22:50:55.000Z",
+          "wordCount": 742,
+          "title": "セキュリティパラノイアに送る ArchLinux"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/d1b15b54719da76ffad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4\n\nというのを以前書いたのだが、その際に教わったAmazon社の「Internal Press…",
+          "link": "https://qiita.com/e99h2121/items/d1b15b54719da76ffad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T21:07:46.000Z",
+          "wordCount": 564,
+          "title": "開発者が考える提案書 補講 - Amazon流Internal Press Releaseテンプレート"
+        },
+        {
+          "id": "https://qiita.com/sanshouo/items/becfd1b94bd305c67752?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nみなさま、超ウキウキするイベントが開催されていることはご存知でしょうか。\nTrendMicro社が開催する以下のイベントで大賞を取ると、超大盤振る舞い、アマゾンギフト券10万円分が手にで…",
+          "link": "https://qiita.com/sanshouo/items/becfd1b94bd305c67752?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T19:05:20.000Z",
+          "wordCount": 386,
+          "title": "あなたのAWS S3は安全ですか?"
+        },
+        {
+          "id": "https://qiita.com/Sashiiii111/items/65f53c80a108ef1a826e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "目次\n\n2020年10月に個人開発でFlutterを使ったスマホアプリをリリースしました。\nそろそろリリースしてから1年経つので得た知見を簡単に纏めておきます。\n誰かの役に立てば嬉しいです。\n\nリリー…",
+          "link": "https://qiita.com/Sashiiii111/items/65f53c80a108ef1a826e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T15:33:55.000Z",
+          "wordCount": 409,
+          "title": "Flutterで個人アプリリリースをして、約1年間で得た知見をまとめる"
+        },
+        {
+          "id": "https://qiita.com/nashineko/items/d79c008fef5b3a33b220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PCスペック\n\n\n型番:HP Pavilion Laptop 15-eh0xxx\nプロセッサ:AMD Ryzen 7 4700U with Radeon Graphics            2.00 GHz\n実装 RA…",
+          "link": "https://qiita.com/nashineko/items/d79c008fef5b3a33b220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T15:25:44.000Z",
+          "wordCount": 375,
+          "title": "【WSL】仮想マシンプラットフォームをオンにするとBSODになる問題【Win】"
+        },
+        {
           "id": "https://qiita.com/i_saint/items/59c394a28a5244ec94e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "あらまし\n\nプロファイラとにらめっこしながら気合を入れて最適化していくと、最終的に上位に std::vector<char>::resize() が残った、という経験が度々ある。\n\n該当ケースは大抵 …",
@@ -1075,6 +1115,33 @@
           "publishedOn": "2021-08-23T15:07:06.000Z",
           "wordCount": 704,
           "title": "std::vector をがんばって高速に resize する"
+        },
+        {
+          "id": "https://qiita.com/kei37/items/446b2a53ddbfd9573719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今までAPIサーバーとしてNode.jsを用いていましたが、最近話題のGoを使ってみたいと思い、Go初見の状態から1週間でWebアプリを開発できるのかをチャレンジします。\n他の使用言語は今まで開発経…",
+          "link": "https://qiita.com/kei37/items/446b2a53ddbfd9573719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T14:54:03.000Z",
+          "wordCount": 263,
+          "title": "Go初見が1週間でWebアプリ開発できるか　ー1日目ー"
+        },
+        {
+          "id": "https://qiita.com/RyogaTakao/items/890bcbefd046eff126c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n本記事は、IBM Cloud上のNode-REDとLINE Messaging APIを利用した、LINE Botの作成方法を記載しています。\n※2021年8月時点での手順です(クラウド…",
+          "link": "https://qiita.com/RyogaTakao/items/890bcbefd046eff126c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T14:43:56.000Z",
+          "wordCount": 387,
+          "title": "IBM Cloud上のNode-REDでLINE Botの作成"
+        },
+        {
+          "id": "https://qiita.com/akebi_mh/items/6fd0867c059e076fea27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PC/タッチデバイス両対応の回転操作のサンプル\n\n\n\n動作デモ\n\n\n\n<!DOCTYPE html>\n<html lang='ja'>\n<head>\n<meta charset='utf-8'>\n<title>…",
+          "link": "https://qiita.com/akebi_mh/items/6fd0867c059e076fea27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T11:54:42.000Z",
+          "wordCount": 476,
+          "title": "JavaScript 要素をマウスやタッチ操作で回転"
         },
         {
           "id": "https://qiita.com/gushwell/items/11968b1e6d0f644c8c69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1102,6 +1169,15 @@
           "publishedOn": "2021-08-23T10:05:09.000Z",
           "wordCount": 425,
           "title": "新卒がUnitTestとWidgetTestに挑む:[前半/UnitTest編]"
+        },
+        {
+          "id": "https://qiita.com/tanacchi/items/249fcecbbb65d1f56ec8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は古川研究室 AdventCalendar 4日目の記事です．\n本記事は古川研究室の学生が学習の一環として書いたものです．\n内容が曖昧であったり表現が多少異なったりする場合があります．\n\nまえ…",
+          "link": "https://qiita.com/tanacchi/items/249fcecbbb65d1f56ec8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T09:59:22.000Z",
+          "wordCount": 672,
+          "title": "matplotlib で描画する度に色をグラデーション的に変える（2次元 ver もあるよ！）"
         },
         {
           "id": "https://qiita.com/tkyko13/items/f59f29e8412666848496?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1158,6 +1234,24 @@
           "title": "コンポーネント設計の基礎"
         },
         {
+          "id": "https://qiita.com/Murayu0225/items/c709872fff0a8c5b5fce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事の内容は、政府IT室CIO補佐官からの了承を得て投稿しております。\n\n前回の内容は、GitHubでの貢献方法でしたが、今回は仮想デバイス上にてCOCOAをデプロイする方法について書きます。(A…",
+          "link": "https://qiita.com/Murayu0225/items/c709872fff0a8c5b5fce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T01:14:46.000Z",
+          "wordCount": 310,
+          "title": "COCOAにコントリビューターとして貢献しよう！～実践編～"
+        },
+        {
+          "id": "https://qiita.com/irgaly/items/2d90423bdcb883554e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "マテリアルデザイン、および Android アプリのデザインには、最適なタップ領域のサイズ (Touch targets) が定義されています。\n\nアプリの実装をするときにはこの最小タップ領域を守って…",
+          "link": "https://qiita.com/irgaly/items/2d90423bdcb883554e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T00:29:02.000Z",
+          "wordCount": 415,
+          "title": "Android: 最小のタップ領域サイズは 48dp (UIデザイン, Material Design)"
+        },
+        {
           "id": "https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "1. 誰に向けたどういう記事なのか\n\nいわゆる #駆け出しエンジニア と呼ばれるような(定義割愛)プログラミング学習者に向けて，私が個人的に定義する「本物のエンジニア」になるための１つの道標になるよ…",
@@ -1165,6 +1259,15 @@
           "publishedOn": "2021-08-22T23:03:16.000Z",
           "wordCount": 694,
           "title": "具体的にどう本物のエンジニアになるかというお話（バックエンドエンジニアのロードマップ付）"
+        },
+        {
+          "id": "https://qiita.com/rebi/items/ae97745868817c839a2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近Pythonを用いてLambdaを開発する機会がありました。今までJavaを中心に開発してきた自分にとっては新鮮な経験で、Javaと違ってPythonだとこのように書く・書けるのかと…",
+          "link": "https://qiita.com/rebi/items/ae97745868817c839a2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-22T22:57:12.000Z",
+          "wordCount": 377,
+          "title": "JavaユーザーがPythonを使って印象的だった点"
         },
         {
           "id": "https://qiita.com/hirochan/items/3bb0d80df59992cb7201?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1183,6 +1286,15 @@
           "publishedOn": "2021-08-22T17:35:24.000Z",
           "wordCount": 551,
           "title": "【Apex】recalculateFormulasメソッドまとめ"
+        },
+        {
+          "id": "https://qiita.com/Lulu_die_Zweite/items/2bcfa516852a9e8bbac3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "私の周りにYoutubeに表示される動画がどんどん堕落していって困っている人がいます。私も頭が堕落しているので放っておくと勉強のために見ているYoutubeがどんどん娯楽専用になってきてしまいます。…",
+          "link": "https://qiita.com/Lulu_die_Zweite/items/2bcfa516852a9e8bbac3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-22T15:39:38.000Z",
+          "wordCount": 288,
+          "title": "堕落したYoutubeのアルゴリズムを自動で再教育する"
         },
         {
           "id": "https://qiita.com/Tommyyyyyyy/items/3cec00156cb51e1dcb75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1246,6 +1358,15 @@
           "publishedOn": "2021-08-22T10:50:07.000Z",
           "wordCount": 529,
           "title": "【C#】com0comを使ったシリアル通信テスト"
+        },
+        {
+          "id": "https://qiita.com/anago1030/items/62da6bc05bca7a0bee55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近jQuery関連について学習したのでチートシートを作成しました！\nよく使うものを中心に、使い方や記述のポイントを簡単にまとめたのでご活用ください。\n\n目次\n\n1.予約状態\n2.セレクタの…",
+          "link": "https://qiita.com/anago1030/items/62da6bc05bca7a0bee55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-22T08:52:02.000Z",
+          "wordCount": 722,
+          "title": "jQueryチートシート"
         },
         {
           "id": "https://qiita.com/nishikyon/items/0219a81673f0b84980da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5440,123 +5561,6 @@
           "publishedOn": "2021-07-26T13:39:39.000Z",
           "wordCount": 344,
           "title": "コロナ禍からプログラミングをして内定までこぎつけた高専生のお話"
-        },
-        {
-          "id": "https://qiita.com/Taiki92777/items/f408846297526addba4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://notebox.jp\n\nはじめに\n\nあらゆるサイエンス領域で使われているJupyter Notebookですが、誰でもシェアできるサービスはGithub / Colab・Kaggleしか…",
-          "link": "https://qiita.com/Taiki92777/items/f408846297526addba4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T11:23:08.000Z",
-          "wordCount": 282,
-          "title": "Jupyter Notebookを一瞬で記事にできて誰でも収益化できるサービス作ってみた"
-        },
-        {
-          "id": "https://qiita.com/minorin22/items/04c0ca64274cc5741ddb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "リポジトリ\n\nhttps://github.com/studio-mizutama/MizutamaConte\n\nWeb版\n\nhttps://studio-mizutama.github.io/Mizu…",
-          "link": "https://qiita.com/minorin22/items/04c0ca64274cc5741ddb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T11:17:00.000Z",
-          "wordCount": 763,
-          "title": "React + Electron製の絵コンテエディタアプリ「Mizutama Conte」を支える技術"
-        },
-        {
-          "id": "https://qiita.com/rana_kualu/items/a6601b49e0591eb42200?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "PHP8.1 / PHP8.0 / PHP7.4\n\n2021/07/20、PHP8.1がフィーチャーフリーズしました。\n言語機能に関わるような機能の追加・変更が締め切られたということです。\n今後はデバ…",
-          "link": "https://qiita.com/rana_kualu/items/a6601b49e0591eb42200?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T11:09:37.000Z",
-          "wordCount": 1197,
-          "title": "【PHP8.1】PHP8.1の新機能"
-        },
-        {
-          "id": "https://qiita.com/gorilla0513/items/918c578a398ae82ac3cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初めに\n\n以前にブラウザからターミナルを操作したくて、周りの方に聞いたらSecure Shell Appを教えていただいたんですが、なぜか自分の環境ではうまく動作しませんでした。\n他にも似たようなこ…",
-          "link": "https://qiita.com/gorilla0513/items/918c578a398ae82ac3cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T04:26:48.000Z",
-          "wordCount": 521,
-          "title": "ブラウザをターミナル代わりにするrttyを作った"
-        },
-        {
-          "id": "https://qiita.com/yuikoito/items/bb9c40bbb673e4f71abe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "先日#web1weekで気軽にバーチャル旅行をしようということでバーチャル背景をつけるアプリを開発しました。\n\nここでは、create next-appの状態から完成に至るまでを１から書きます。\n以下…",
-          "link": "https://qiita.com/yuikoito/items/bb9c40bbb673e4f71abe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T02:55:50.000Z",
-          "wordCount": 771,
-          "title": "【Next.js + TensorFlowでweb cameraにバーチャル背景をつける】バーチャル旅行を体験できるアプリを作った"
-        },
-        {
-          "id": "https://qiita.com/yitora/items/6f4c917437dc36aa1edb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "この記事では「Anime.jsをプロダクトで使用する3つの理由」と題して、Anime.jsを実際にプロダクトで使用した中で見えてきたポイントについて、以下の順番でまとめたいきたいと思います。\n\n\n軽量で…",
-          "link": "https://qiita.com/yitora/items/6f4c917437dc36aa1edb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T02:02:06.000Z",
-          "wordCount": 525,
-          "title": "Anime.jsをプロダクトで使用する4つの理由"
-        },
-        {
-          "id": "https://qiita.com/quantum-human/items/f42a298a55b917267039?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n負の二項分布が全然覚えられないので、はぐれメタルに助けてもらうことにした。\n\n背景\n\n筆者が統計学を勉強した際、負の二項分布がどうしても頭に入らなかった。というのも教科書等で紹介される例が淡白で…",
-          "link": "https://qiita.com/quantum-human/items/f42a298a55b917267039?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T00:27:33.000Z",
-          "wordCount": 1036,
-          "title": "はぐれメタル討伐と負の二項分布（SFC版ドラクエ2RTAを例に）"
-        },
-        {
-          "id": "https://qiita.com/ppt_msdg_maas/items/28ed1cfbe2eb1f84eeb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Recoilとは\n\nRecoilはReact向けのステート管理ライブラリです。\nReactを開発したFacebook製のライブラリです。\n\nhttps://recoiljs.org/docs/intr…",
-          "link": "https://qiita.com/ppt_msdg_maas/items/28ed1cfbe2eb1f84eeb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T00:07:21.000Z",
-          "wordCount": 1120,
-          "title": "Reactステート管理ライブラリ Recoil入門（typescript）（UseContextの比較も）"
-        },
-        {
-          "id": "https://qiita.com/baby-degu/items/05cf809d4d992923020d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "本記事は、Fatos Morina氏による「100 Helpful Python Tips You Can Learn Before Finishing Your Morning Coffee」（2…",
-          "link": "https://qiita.com/baby-degu/items/05cf809d4d992923020d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-25T23:26:08.000Z",
-          "wordCount": 1441,
-          "title": "朝飯前に学べる！便利なPythonのヒント100選【前編】"
-        },
-        {
-          "id": "https://qiita.com/xrxoxcxox/items/02e9f86a754aa705d2ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "これは何\n\n\nCSSでは同じUIを表現するにしてもたくさんの書き方があります\n最終的な見た目は同じになるとしても、プロパティや値の意味が不自然なものを選ぶと後から困りがち……\n自然な書き方の例をいくつ…",
-          "link": "https://qiita.com/xrxoxcxox/items/02e9f86a754aa705d2ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-25T21:36:11.000Z",
-          "wordCount": 326,
-          "title": "CSSを書くときは、プロパティや値の意味が自然になるものを選ぼう"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/a3763dc9fd3a4e530684?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nhttps://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4\n\nなんてものを以前書いたが、同じくMarkdownで自分自身の経歴書を書いてみると、…",
-          "link": "https://qiita.com/e99h2121/items/a3763dc9fd3a4e530684?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-25T21:23:17.000Z",
-          "wordCount": 545,
-          "title": "開発者が考える職務経歴書テンプレート markdown版"
-        },
-        {
-          "id": "https://qiita.com/shusuke3362/items/41e02d4e903ff5524bf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nみなさんこんにちは！\n株式会社hokanでフロントエンドエンジニアをしている斉藤と申します！！\n初投稿でございます。どうぞよろしくお願いします\n今回はReactでJiraのスクラムボード…",
-          "link": "https://qiita.com/shusuke3362/items/41e02d4e903ff5524bf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-25T18:45:38.000Z",
-          "wordCount": 604,
-          "title": "Jiraっぽいアプリをサクッと作ってみた！"
-        },
-        {
-          "id": "https://qiita.com/YoshitakaAtarashi/items/877d1a0cc5ba94a39755?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://webglsim.etrobo.jp\n\nはじめに\n\n私はETロボコン実行委員の一員として、2020年にUnityによるETロボコンシミュレータを開発しました。どんなものかはETロボコン…",
-          "link": "https://qiita.com/YoshitakaAtarashi/items/877d1a0cc5ba94a39755?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-25T17:12:36.000Z",
-          "wordCount": 315,
-          "title": "WEB版ETロボコンシミュレータについて（導入編）"
         }
       ]
     }
