@@ -12,6 +12,42 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6402667?source=rss",
+          "author": null,
+          "description": "総務省は25日、情報通信メディアの利用状況に関する調査で、平日のインターネット平均利用時間が、テレビの視聴時間を初めて上回ったと発表した。新型コロナウイルス感染拡大で若者の在宅時間が増えたことが影響したとみられる。",
+          "link": "https://news.yahoo.co.jp/pickup/6402667?source=rss",
+          "publishedOn": "2021-08-25T10:56:17.000Z",
+          "wordCount": 61,
+          "title": "ネット利用時間 初のテレビ超え"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402661?source=rss",
+          "author": null,
+          "description": "9月に発足するデジタル庁の入札ルールが25日、固まった。IT企業などに籍を置いたまま、兼業で働く非常勤職員が入札業務を担当する場合、兼業先企業や子会社の応札を原則禁止する。10月から適用し、情報漏えいなどの不正行為を抑止する。",
+          "link": "https://news.yahoo.co.jp/pickup/6402661?source=rss",
+          "publishedOn": "2021-08-25T09:21:53.000Z",
+          "wordCount": 63,
+          "title": "デジタル庁 兼業先の応札禁止へ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402651?source=rss",
+          "author": null,
+          "description": "楽天グループは、スマホ決済「楽天ペイ」について、中小事業者向けの手数料を10月1日から1年間無料にすると発表した。これまでの手数料は3.24%だった。スマホ決済を巡っては「PayPay」が中小向けの手数料の有料化を発表したばかり。",
+          "link": "https://news.yahoo.co.jp/pickup/6402651?source=rss",
+          "publishedOn": "2021-08-25T08:28:20.000Z",
+          "wordCount": 59,
+          "title": "楽天ペイ中小向け手数料1年無料"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6402642?source=rss",
+          "author": null,
+          "description": "政府が、9月に発足する「デジタル庁」の事務方トップに、一橋大学名誉教授の、石倉洋子氏をあてる方向で最終調整していることがわかった。IT企業幹部の伊藤穣一氏を起用する案は、見送りになっていた。",
+          "link": "https://news.yahoo.co.jp/pickup/6402642?source=rss",
+          "publishedOn": "2021-08-25T06:50:12.000Z",
+          "wordCount": 67,
+          "title": "デジタル監に石倉洋子氏 調整"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6402504?source=rss",
           "author": null,
           "description": "21日～22日にかけて放送された「24時間テレビ」。23日に各メディアが報じた番組の全枠の世帯平均視聴率は12.0%で、番組全44回の放送のうち、29位タイだったと伝えられている。実際の視聴者の反応はどうだったのか、SNS分析ツールで調べた。",
@@ -766,69 +802,6 @@
           "publishedOn": "2021-07-27T21:40:40.000Z",
           "wordCount": 66,
           "title": "Google 四半期で最高益2兆円"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399911?source=rss",
-          "author": null,
-          "description": "五輪スケートボードで、金メダルを獲得した西矢椛と銅メダルの中山楓奈がインタビューで「あらいぐまラスカル」の話をしていた。同作品のアニメ制作会社が素早く反応し、お祝いツイート。他の仕事を脇に置いて2時間ほどで制作したという。",
-          "link": "https://news.yahoo.co.jp/pickup/6399911?source=rss",
-          "publishedOn": "2021-07-27T12:30:50.000Z",
-          "wordCount": 72,
-          "title": "ラスカルお祝い投稿 制作の裏側"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399908?source=rss",
-          "author": null,
-          "description": "東京大とIBMは27日、商用で日本初となる量子コンピューターをかわさき新産業創造センター（川崎市）に設置し、運用を始めたと発表した。IBMが開発した「量子ゲート」型と呼ばれる汎用（はんよう）タイプで、東大が運用の権利を持つ。",
-          "link": "https://news.yahoo.co.jp/pickup/6399908?source=rss",
-          "publishedOn": "2021-07-27T12:05:06.000Z",
-          "wordCount": 72,
-          "title": "商用量子コンピューター 初設置"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399894?source=rss",
-          "author": null,
-          "description": "楽天モバイルは27日、世界的な半導体不足の影響で、携帯電話の基地局整備が遅れるとの見通しを明らかにした。自社回線の人口カバー率が96%となる時期を、これまで公表していた「今年夏ごろ」から「年内」へ修正した。",
-          "link": "https://news.yahoo.co.jp/pickup/6399894?source=rss",
-          "publishedOn": "2021-07-27T09:32:27.000Z",
-          "wordCount": 70,
-          "title": "楽天モバイル 基地局整備に遅れ"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399850?source=rss",
-          "author": null,
-          "description": "東京五輪スケートボード男女ストリートで、プロスケートボーダー瀬尻稜の飾らない解説が、SNS上で「わかりやすい」「愛着を感じる」などと話題に。本人にスケートボードへの思いを聞いた。",
-          "link": "https://news.yahoo.co.jp/pickup/6399850?source=rss",
-          "publishedOn": "2021-07-27T02:25:28.000Z",
-          "wordCount": 70,
-          "title": "スケボー解説 めちゃめちゃ緊張"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399820?source=rss",
-          "author": null,
-          "description": "スケートボード女子ストリートで金メダルを獲得した西矢椛が競技後のインタビューで、中山楓奈と「ラスカルの話をしていました」と答え話題に。「あらいぐまラスカル」がメダル獲得を祝福したが、ヒップホップ歌手のことではという指摘も。",
-          "link": "https://news.yahoo.co.jp/pickup/6399820?source=rss",
-          "publishedOn": "2021-07-26T15:28:24.000Z",
-          "wordCount": 63,
-          "title": "金祝福 でも「ラスカル」違い?"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399819?source=rss",
-          "author": null,
-          "description": "政府はクラスター対策として、QRコードを活用して濃厚接触者を追跡する新たなシステムを導入する方向で調整に入った。飲食店やイベント会場などの利用客に自治体がQRコードを配布し、スマートフォンの電話番号を登録してもらうというもの。",
-          "link": "https://news.yahoo.co.jp/pickup/6399819?source=rss",
-          "publishedOn": "2021-07-26T14:50:51.000Z",
-          "wordCount": 58,
-          "title": "濃厚接触者QRコードで追跡検討"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6399812?source=rss",
-          "author": null,
-          "description": "メッセージアプリへの受信だけでスマートフォンが乗っ取られ、あらゆるデータが筒抜けになるー。そんな監視システムの脅威が世界的な波紋を呼んでいる。「ゼロクリック攻撃」と呼ばれるものが、乗っ取りに使われているという。",
-          "link": "https://news.yahoo.co.jp/pickup/6399812?source=rss",
-          "publishedOn": "2021-07-26T13:56:46.000Z",
-          "wordCount": 56,
-          "title": "ゼロクリック攻撃 スマホに脅威"
         }
       ]
     },
@@ -837,6 +810,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613801048931",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、Figmaで作成したWebデザインを一般的なWebサイトに変換して、そのままネット上に公開できる無料のWebサービスをご紹介します！\n面倒な操作や設定などは一切不要で、Figmaと連携するだけで誰でも簡単に扱えるのが特徴です。人気のノーコードツールとしても活用できるので、ご興味ある方はぜひ参考にしてみてください。\n【 Figside 】\n\n■「Figside」の使い方\nそれでは、「Figside」をどのように使えばいいのか詳しく見ていきましょう！\n「Figside」はデザインツールのFigmaと連携して利用するサービスのため、最初にFigmaにログインしているかを確認しておきます。まだFigmaを利用していない方は、以下のリンクからユーザー登録（無料）を済ませておきましょう。\n＜参考リンク＞\n「Figma」公式サイト\n\n\n\nログイン画面が表示されたらボタンをクリックして、自身のFigmaアカウントと連携します。\n\n\n以下のようなダッシュボードが表示されたら準備は完了です！\n\nこの画面から新規のWebサイトを作成・管理できるようになっています。\nまた、公式ドキュメントやチュートリアルなども提供されているので、最初に目を通しておくことをオススメします。\n■FigmaのデザインをWebサイトに変換してみよう！\n「Figside」の基本的な使い方を解説するために、FigmaのデザインをWebサイトに変換する流れを実際に試してみましょう！\nダッシュボード画面の上部メニューある【Templates】を選択して、好きなWebデザインのテンプレートを選んでみてください。\n\nこれらのテンプレートはFigmaで作成されたデザインなので、ゼロから構築する必要がなく手軽に始めることができます（もちろんFigmaでゼロからデザインを作成してもOK…",
+          "link": "https://paiza.hatenablog.com/entry/2021/08/25/130000",
+          "publishedOn": "2021-08-25T04:00:00.000Z",
+          "wordCount": 261,
+          "title": "FigmaのデザインをそのままWebサイトに変換＆公開できる「Figside」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210825/20210825101220.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613799414730",
           "author": null,
@@ -1027,6 +1014,105 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/AngularSpectrumMTD/items/aeea1046c0ec5d4dd1d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めに\n\nはじめまして．社会人2年目になってしまったプログラマです．\n毎度光学系の記事を書いてきましたが，懲りずに今回も光学系です．\nマックス・プランク研究所の論文Physically-Based …",
+          "link": "https://qiita.com/AngularSpectrumMTD/items/aeea1046c0ec5d4dd1d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T13:18:57.000Z",
+          "wordCount": 653,
+          "title": "Physically-Based Real-Time Lens Flare Rendering (Matthias B. Hullin et al., Max Planck Institute for Informatics, ACM, 2011)"
+        },
+        {
+          "id": "https://qiita.com/DaikiSuyama/items/ca5ccd40082cb9de5fcf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "（0）はじめに\n\n本記事では、約一年半の時間を競技プログラミング（競プロ）に費やした筆者が競プロを続けた理由と辞めた理由について述べます。\n\n（1）バックグラウンド\n\n本節では、競プロを始めた際（201…",
+          "link": "https://qiita.com/DaikiSuyama/items/ca5ccd40082cb9de5fcf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T10:06:26.000Z",
+          "wordCount": 269,
+          "title": "だから僕は競プロを辞めた"
+        },
+        {
+          "id": "https://qiita.com/PowerBIxyz/items/47bcb8b42cd417e867ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "何回か発言していたのだけど念押しで言っておきますね。Power Query は Excel ではないですからね。ワークシート上での操作のノリで \"適用するステップ\" をキメたら駄目ね。間違った処理が…",
+          "link": "https://qiita.com/PowerBIxyz/items/47bcb8b42cd417e867ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T09:34:02.000Z",
+          "wordCount": 344,
+          "title": "Power Query エディタでテーブルの行を絞り込むとき、うっかりやらかしていること"
+        },
+        {
+          "id": "https://qiita.com/d_date/items/a06b5661101460851f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事では、Bitriseを利用してiOSのCI/CDを構築します。\nCI/CD環境の構築は日頃アプリを作るエンジニアにとっては慣れない作業であり、\n利用するCIサービスによってやり方は異なるので…",
+          "link": "https://qiita.com/d_date/items/a06b5661101460851f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T07:58:27.000Z",
+          "wordCount": 632,
+          "title": "Bitriseを利用してミニマルにiOSのCI / CD環境を構築する"
+        },
+        {
+          "id": "https://qiita.com/ktoshiya/items/cb91532d262ae1242b4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "構成\n\n\nバックエンド: Golang\nフロントエンド: React(TypeScript) + Tailwind CSS\nDB: PostgreSQL\n\n\nなぜ作ろうと思ったのか\n\n開発中に、バックエンド…",
+          "link": "https://qiita.com/ktoshiya/items/cb91532d262ae1242b4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T05:07:41.000Z",
+          "wordCount": 807,
+          "title": "Golang / React / PostgreSQLのホットリロードできる開発環境をDockerで作ってみた"
+        },
+        {
+          "id": "https://qiita.com/yasukotelin/items/15ffad2c66a642746679?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "問題点\n\nJetpack ComposeのTabRowのbackgroundにwhiteを指定しているのになぜかグレーになってしまったり、正常に白色にならない場合があります。\n例えばこんな感じです。\n\n@Composable\nfun TabPage() {\n    var selectedTabIndex by remember { mutableStateOf(0) }\n\n    TabRow(\n        selectedTabIndex = selectedTabIndex,\n        modifier = Modifier\n            .fillMaxWidth()\n            .height(50.dp),\n        backgroundColor = Color.White\n    ) {\n        Tab(\n            selected = selectedTabIndex == 0,\n            onClick = { selectedTabIndex = 0 },\n            text = { Text(\"Tab1\") }\n        )\n        Tab(\n            selected = selectedTabIndex == 1,\n            onClick = { selectedTabIndex = 1 },\n            text = { Text(\"Tab2\") }\n        )\n    }\n}…",
+          "link": "https://qiita.com/yasukotelin/items/15ffad2c66a642746679?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T03:39:55.000Z",
+          "wordCount": 504,
+          "title": "【Jetpack Compose】TabRowの背景色がWhiteにならない場合"
+        },
+        {
+          "id": "https://qiita.com/thanai/items/f27a25fc04ec359e6515?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Kubernetesはこわくない！\n\nコンテナとかKubernetes（K8s）なんて自分には関係ない、なんて思ってませんか？\n\nK8sを始めるのに遅すぎるなんてことはありません。むしろエコシステムは…",
+          "link": "https://qiita.com/thanai/items/f27a25fc04ec359e6515?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-25T02:09:59.000Z",
+          "wordCount": 592,
+          "title": "Kubernetesはこわくない！Azure Bicep + Bridge to KubernetesをVisual Studio Codeで一気に体験する"
+        },
+        {
+          "id": "https://qiita.com/HiroyasuNishiyama/items/ff8f44cec8c6ffb4f525?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Node-RED 2.0の新機能: 概要紹介\n\n株式会社日立製作所 \nサービスコンピューティング研究部\n西山博泰\n\nはじめに\n\nNode-REDはコーディングレスでプログラムを作成できるプログラミングツー…",
+          "link": "https://qiita.com/HiroyasuNishiyama/items/ff8f44cec8c6ffb4f525?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T23:47:03.000Z",
+          "wordCount": 448,
+          "title": "Node-RED 2.0の新機能: 概要紹介"
+        },
+        {
+          "id": "https://qiita.com/daiti0113/items/8d56e1fb0f3a932bebfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n(有料プランに入れよという話だが、)\nZoomの無料プランでは同じミーティングURLを使い続けることができないため、\nURLを新規に自動生成し、Slackに定期的に投げてくれるBotを作…",
+          "link": "https://qiita.com/daiti0113/items/8d56e1fb0f3a932bebfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T17:50:30.000Z",
+          "wordCount": 393,
+          "title": "GASでZoomのURLを生成し、定期的にSlackに投げる"
+        },
+        {
+          "id": "https://qiita.com/ko1nksm/items/bfa60211d967d8e7944a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n: コマンドは何もしないコマンドです。何もしないコマンドですが POSIX 準拠のシェルスクリプトでは、条件分岐や関数などで何もしない時に何もしないコマンドを省略することはできません。こ…",
+          "link": "https://qiita.com/ko1nksm/items/bfa60211d967d8e7944a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T16:06:02.000Z",
+          "wordCount": 710,
+          "title": "POSIX準拠のシェルスクリプトは何もしない時に何もしない「 : 」コマンドを省略してはいけない 件について"
+        },
+        {
+          "id": "https://qiita.com/bathtimefish/items/77453b367ce634f7d677?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nLINE Bot Serverを作ってみる その1のつづきです。\n前回はMessaging APIチャンネルを開設してEC2インスタンス上にサンプルのBotサーバーをセットアップして使っ…",
+          "link": "https://qiita.com/bathtimefish/items/77453b367ce634f7d677?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T12:15:48.000Z",
+          "wordCount": 577,
+          "title": "[LINE Bot 開発入門] LINE Bot Serverを作ってみる その2"
+        },
+        {
           "id": "https://qiita.com/hasehiro0828/items/19a02b1b5f67a11ab0fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n21卒エンジニア、そろそろ社会人6ヶ月目の @hasehiro0828 です。\n\n現在、リモートメインで働いており、オフィスには片手で数えられるほどしか出社していません。\n\nこういう状況下で…",
@@ -1036,6 +1122,15 @@
           "title": "21卒エンジニア 社会人6ヶ月目の働き方"
         },
         {
+          "id": "https://qiita.com/wutian/items/95aa3e935d0a7e9d38f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は chillSAP 夏の自由研究2021  の記事として執筆しています。\n\nはじめに\n\nコロナ禍でDXの需要が高まっており、RPAを利用している企業が増えてきました。\n\nRPA（Robotic P…",
+          "link": "https://qiita.com/wutian/items/95aa3e935d0a7e9d38f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T10:35:54.000Z",
+          "wordCount": 303,
+          "title": "SAPでのRPA活用方法のご紹介"
+        },
+        {
           "id": "https://qiita.com/MeRT/items/bf99d240be864dbae2a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "pcl::fromROSMsgとは\n\npcl::fromROSMsgとは、ROS形式からPCL形式にしてくれる優れものです。\nしかしながら落とし穴が。。。\n\n何故かpcl::fromROSMsg遅い\n\n…",
@@ -1043,6 +1138,42 @@
           "publishedOn": "2021-08-24T10:11:04.000Z",
           "wordCount": 228,
           "title": "pcl::fromROSMsgを高速化したい"
+        },
+        {
+          "id": "https://qiita.com/Py_r/items/06260e710a2ac6d64f12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nPart1を投稿してから1日が経ちました。そこでPart1のLGTMとView数を確認してみました.なんと...\n\n1365views!!(18:26現在)しかも6LGTM...これはかな…",
+          "link": "https://qiita.com/Py_r/items/06260e710a2ac6d64f12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T09:58:50.000Z",
+          "wordCount": 262,
+          "title": "PythonでLINE半botを作る(Part4)"
+        },
+        {
+          "id": "https://qiita.com/pocokhc/items/0b6b6534ab984bb87ac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初心者ながらKaggleに挑戦した時のコードを備忘録として残しておきます。\n今回は自然言語編です。\nまた、BERT編を別記事にする予定です。\n\n・Kaggle関係の記事\nKaggleのタイタニックに挑…",
+          "link": "https://qiita.com/pocokhc/items/0b6b6534ab984bb87ac4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T09:54:05.000Z",
+          "wordCount": 2248,
+          "title": "Kaggleで書いたコードの備忘録その２～自然言語処理まとめ～（形態素解析、TF-IDF、スタッキング等）"
+        },
+        {
+          "id": "https://qiita.com/it_tsumugi/items/263aa1f91cc8b05c93b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n　APIを利用して認証機能をもつサービスを作成しようとしましたが、認証機能でつまづきました。フレームワークやライブラリを利用して実現しようとしていたのですが、そもそも認証やネットワークの…",
+          "link": "https://qiita.com/it_tsumugi/items/263aa1f91cc8b05c93b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T08:11:27.000Z",
+          "wordCount": 400,
+          "title": "Webサービスの認証についてまとめる"
+        },
+        {
+          "id": "https://qiita.com/motonobu_ut/items/bcd012b28226e4c722f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n画像の異常検知技術は、ビデオ監視、製造業の欠陥検出、医療画像分析などに応用されますが、中でも大量の画像(映像)に対して、自動かつ高精度に異常を判定する目的でAIモデルの活用が研究されてい…",
+          "link": "https://qiita.com/motonobu_ut/items/bcd012b28226e4c722f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-24T06:56:44.000Z",
+          "wordCount": 593,
+          "title": "【検証】音声異常へゼロショット学習"
         },
         {
           "id": "https://qiita.com/annayamamoto/items/a2b4297c1a1d17a6c7b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1117,6 +1248,15 @@
           "title": "std::vector をがんばって高速に resize する"
         },
         {
+          "id": "https://qiita.com/aboru/items/16ba69afd1e1a2413563?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nrakeタスクを初めて作っているときに、標準入力の文字を受け取りたいと思い、getsを実装したところエラーが発生しました。rubyではgetsでエラーが起きてなかったのになぜ？Rakef…",
+          "link": "https://qiita.com/aboru/items/16ba69afd1e1a2413563?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T14:59:21.000Z",
+          "wordCount": 413,
+          "title": "rubyでgetsするときはSTDINがいらないのに、rakeタスクでgetsするときはSTDINが必要な理由"
+        },
+        {
           "id": "https://qiita.com/kei37/items/446b2a53ddbfd9573719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "今までAPIサーバーとしてNode.jsを用いていましたが、最近話題のGoを使ってみたいと思い、Go初見の状態から1週間でWebアプリを開発できるのかをチャレンジします。\n他の使用言語は今まで開発経…",
@@ -1133,6 +1273,15 @@
           "publishedOn": "2021-08-23T14:43:56.000Z",
           "wordCount": 387,
           "title": "IBM Cloud上のNode-REDでLINE Botの作成"
+        },
+        {
+          "id": "https://qiita.com/ok2/items/04086f7ee7bde6ab57b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近は色々な企業がエンジニア向けの新人研修資料を公開しています。\n基本は自分用の備忘録です。\n※気がついた時に更新する程度なので、最新版などをお求めの方は別途調べてもらえるとmm\n\n資料リ…",
+          "link": "https://qiita.com/ok2/items/04086f7ee7bde6ab57b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-23T13:01:49.000Z",
+          "wordCount": 224,
+          "title": "色々な会社のエンジニア向け新人研修資料"
         },
         {
           "id": "https://qiita.com/akebi_mh/items/6fd0867c059e076fea27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -2159,6 +2308,15 @@
           "publishedOn": "2021-08-17T00:37:17.000Z",
           "wordCount": 364,
           "title": "良い質問をして自己成長に繋げるためのあれこれ"
+        },
+        {
+          "id": "https://qiita.com/YutoTakakura/items/3250649c5f93dbbd3a85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先日書いた新卒研修のアウトプット記事が、思いのほか多くの方に見ていただいております。\nこんなにLGTMやストックをいただいたのは初めてなので、大変嬉しいです。\n\n今回は、ログの構造化につい…",
+          "link": "https://qiita.com/YutoTakakura/items/3250649c5f93dbbd3a85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-17T00:24:36.000Z",
+          "wordCount": 402,
+          "title": "ログを構造化するとなにがいいのか"
         },
         {
           "id": "https://qiita.com/e99h2121/items/00c2c9619feccdff81d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5453,114 +5611,6 @@
           "publishedOn": "2021-07-27T14:44:40.000Z",
           "wordCount": 1512,
           "title": "Amplify GraphQLでRDSを使用する"
-        },
-        {
-          "id": "https://qiita.com/ko1nksm/items/4a1932963c69448a138f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "あ．．．ありのまま 今　起こった事を話すぜ！\n\n「おれは　cat の方が grep \".\" よりも速いことを示すために、両方の出力を \n/dev/null に捨てたら grep の方だけ処理速度が異常に…",
-          "link": "https://qiita.com/ko1nksm/items/4a1932963c69448a138f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T11:03:34.000Z",
-          "wordCount": 1339,
-          "title": "GNU grep は /dev/null に出力すると、処理速度が異常に速くなる件について"
-        },
-        {
-          "id": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "WebAssembly(WASM) は JavaScript より計算処理が速いという話題がしばしば聞かれます。\n\nでは、単純な数値計算ではないけれど、JavaScript で時間がかかる処理を移植す…",
-          "link": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T10:11:46.000Z",
-          "wordCount": 966,
-          "title": "WebAssembly で画像のリサイズ処理をやってみたら JavaScript + Canvas API より遅かった話"
-        },
-        {
-          "id": "https://qiita.com/kyosuke_hashimoto/items/d2e8fbcf5f851a1bb8a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初版: 2021年7月27日\n著者: 橋本恭佑, 河野泰隆、株式会社 日立製作所\n\nはじめに\n\nAI技術への注目の高まりに伴い、機械学習技術をビジネスへ適用するニーズが増えています。\nビジネスに機械学習…",
-          "link": "https://qiita.com/kyosuke_hashimoto/items/d2e8fbcf5f851a1bb8a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T09:13:38.000Z",
-          "wordCount": 775,
-          "title": "AWSを活用した機械学習モデルの継続的な運用改善"
-        },
-        {
-          "id": "https://qiita.com/bobrock/items/e2a678ef4137a6cdc151?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "GitHubを触り始めた超初心者のメモ\nめっちゃ触ってる人には蛇足メモ\n\n本当はMacとかLinuxでやるべきかと思うが、残念ながらwindowsなのでごめんなさい。\n\nMac及びLinuxについては虎…",
-          "link": "https://qiita.com/bobrock/items/e2a678ef4137a6cdc151?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T07:10:53.000Z",
-          "wordCount": 627,
-          "title": "GitHubって難しいよね"
-        },
-        {
-          "id": "https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nタイトルの通り、PythonでAtCoderをやるときのメモです。個人的というか自分用というかそんな感じなので、ミスがあったりもっと良い書き方があったりするかもしれません。随時更新していく…",
-          "link": "https://qiita.com/Kyopopopo/items/003e37c87aeb8465b6cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T04:29:38.000Z",
-          "wordCount": 663,
-          "title": "PythonでAtCoderをやるときの個人的チートシート"
-        },
-        {
-          "id": "https://qiita.com/siberiannhasuki_iijima/items/36502ce387795ad284df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nネットワーク初心者を脱却するために、ルーティングを覚えておけば、\nある程度通信の流れについていけるかなと思いました。\n前回の記事は要点をまとめましたが、今回はもう少し突っ込んで丁寧にルー…",
-          "link": "https://qiita.com/siberiannhasuki_iijima/items/36502ce387795ad284df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T04:26:00.000Z",
-          "wordCount": 322,
-          "title": "ルーティングを知ってネットワーク初心者から脱却しよう！"
-        },
-        {
-          "id": "https://qiita.com/satona-oinuma/items/b033ffcc346dc167f749?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "CheckedTextViewをご存知でしょうか。\n私は先日、Android Studioの予測機能で存在を知りました。\nということで、この機会にCheckedTextViewを使えるようになりたい…",
-          "link": "https://qiita.com/satona-oinuma/items/b033ffcc346dc167f749?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T04:17:04.000Z",
-          "wordCount": 543,
-          "title": "CheckedTextViewを知り、ListViewを知る"
-        },
-        {
-          "id": "https://qiita.com/mathlive/items/7cc6a17cb0b46f6eb1ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "2021/7/27　投稿\n\n0. この記事の対象者\n\n\npython, sklearnをある程度扱える人\n次元削減手法q-SNEについて知りたい人\nq-SNEを使ってみたい人\n\n\n1. はじめに\n\nこの記事では…",
-          "link": "https://qiita.com/mathlive/items/7cc6a17cb0b46f6eb1ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T04:13:32.000Z",
-          "wordCount": 428,
-          "title": "【論文解説:python実装】t-SNEの改良版！q-SNE"
-        },
-        {
-          "id": "https://qiita.com/yasukotelin/items/f14def46e25e8c3f9888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "About\n\nもうすぐRelease版が出るJetpack Composeでサンプルアプリを作ったので、色々知見を書いていこうと思います！\n本当はちゃんと整理された記事を書こうと思ったのですが、色々…",
-          "link": "https://qiita.com/yasukotelin/items/f14def46e25e8c3f9888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-27T03:23:06.000Z",
-          "wordCount": 804,
-          "title": "【Jetpack Compose】Githubリポジトリを一覧表示するサンプルアプリ作った"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/3e7ffc6a25881b5e3d43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "ひとしきり、最低限の手順です。\n\n準備\n\nDocker for windows desktop等 (記事末尾参照)\n\n├ Readme.md\n├ Dockerfile\n├ docker-compose.y…",
-          "link": "https://qiita.com/e99h2121/items/3e7ffc6a25881b5e3d43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T21:09:41.000Z",
-          "wordCount": 421,
-          "title": "DockerでPython3 - 実務編"
-        },
-        {
-          "id": "https://qiita.com/zamis/items/703bfcea027a70c1cec6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nどんな仕事でも強い人は存在する。\nでも最初から強い人は珍しい。\nこれは、web 業界に身を置いてみて、信じられないくらいムキムキになっていった人たちを見てきた私が送る こうしたら強くなれ…",
-          "link": "https://qiita.com/zamis/items/703bfcea027a70c1cec6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T19:39:34.000Z",
-          "wordCount": 396,
-          "title": "最初から強いやつの特徴"
-        },
-        {
-          "id": "https://qiita.com/Marny/items/1919186f5db36bb6394f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nども。僕です。\n\n僕は21年卒のエンジニアなのですが、先月に内定先が決まりました。\n\n内容はアプリケーション開発で、ネットワーク系もやるような企業様です。\n\n今回は、技術系とは違って、「完全未…",
-          "link": "https://qiita.com/Marny/items/1919186f5db36bb6394f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-26T13:39:39.000Z",
-          "wordCount": 344,
-          "title": "コロナ禍からプログラミングをして内定までこぎつけた高専生のお話"
         }
       ]
     }
