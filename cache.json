@@ -12,6 +12,24 @@
       "siteUrl": "https://news.yahoo.co.jp/topics/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/pickup/6403283?source=rss",
+          "author": null,
+          "description": "東京都は、建設、港湾、都市整備の各局が業務を委託していた会社がランサムウエアによるサイバー攻撃を受けたと発表。設計資料など多数のデータが暗号化されたほか、外部流出の可能性があるとしている。埼玉県なども情報流出の可能性。",
+          "link": "https://news.yahoo.co.jp/pickup/6403283?source=rss",
+          "publishedOn": "2021-09-01T09:02:56.000Z",
+          "wordCount": 62,
+          "title": "都業務委託先に攻撃 情報流出か"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/pickup/6403268?source=rss",
+          "author": null,
+          "description": "国立科学博物館は1日、「未来技術遺産」に、日本初の磁気録音用テープ「ソニ・テープシリーズ」や電子部品メーカー太陽誘電が世界で初めて開発した光記録メディア「CD-R」など新たに24件を登録したと発表した。",
+          "link": "https://news.yahoo.co.jp/pickup/6403268?source=rss",
+          "publishedOn": "2021-09-01T06:15:08.000Z",
+          "wordCount": 61,
+          "title": "未来技術遺産 CD-Rなど登録"
+        },
+        {
           "id": "https://news.yahoo.co.jp/pickup/6403239?source=rss",
           "author": null,
           "description": "菅首相肝いりの新たな中央官庁、「デジタル庁」が1日、発足。「誰一人取り残さない、人に優しいデジタル化」の実現を目指し、平井デジタル改革担当大臣が初代のデジタル大臣に就任する。",
@@ -739,33 +757,6 @@
           "publishedOn": "2021-08-04T03:51:00.000Z",
           "wordCount": 63,
           "title": "デジタル庁 問われる「本気度」"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6400579?source=rss",
-          "author": null,
-          "description": "OKIは、AI（人工知能）が表情や視線から顧客の興味関心を推定して、おすすめ商品をレコメンドする「提案型注文システム」の実証実験をサブウェイ渋谷桜丘店（東京都渋谷区）で実施する。「迷って決められない」という悩みの解消を狙う。",
-          "link": "https://news.yahoo.co.jp/pickup/6400579?source=rss",
-          "publishedOn": "2021-08-03T06:13:05.000Z",
-          "wordCount": 58,
-          "title": "表情と視線で AIがメニュー提案"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6400556?source=rss",
-          "author": null,
-          "description": "漫画誌の代表格「週刊少年ジャンプ」（集英社）グループが、作家と編集者を講師に据えた漫画家育成事業「ジャンプの漫画学校」に取り組んでいる。立ち上げの背景には、近年、紙媒体が苦戦を強いられている時代の変化があるという。",
-          "link": "https://news.yahoo.co.jp/pickup/6400556?source=rss",
-          "publishedOn": "2021-08-03T01:02:48.000Z",
-          "wordCount": 60,
-          "title": "ジャンプ漫画学校 背景に危機感"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/pickup/6400552?source=rss",
-          "author": null,
-          "description": "米グーグルは2日、スマートフォン「ピクセル」の新製品「6」と「6プロ」を今秋に投入すると明かした。スマホ向けに開発した初の自社製チップ「テンサー」を搭載し、同社の強みであるAIの機能を使ったカメラの性能などに優れているという。",
-          "link": "https://news.yahoo.co.jp/pickup/6400552?source=rss",
-          "publishedOn": "2021-08-03T00:04:50.000Z",
-          "wordCount": 59,
-          "title": "Google「Pixel6」今秋発売へ"
         }
       ]
     },
@@ -774,6 +765,20 @@
       "feedUrl": "https://paiza.hatenablog.com/rss",
       "siteUrl": "https://paiza.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/26006613803524427",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！\n今回は、誰でもお手軽に自分専用のダッシュボードを作成できるWebサービスをご紹介します！\nさまざまな機能をブロック化したウィジェットを画面にペタペタと配置していくだけで、タスク管理・情報収集・旅行計画・エンタメ…など、多彩な用途に活用できるボードを作成できるのが大きな特徴です。\n自由にデザイン可能なダッシュボードにご興味ある方は、ぜひ参考にしてみてください！\n【 Widget Board 】\n\n■ダッシュボードの作成例\n「Widget Board」の詳しい使い方を解説する前に、まずはどのようなダッシュボードが作れるのかサンプル例をいくつか見てみましょう。\n以下はToDoやカレンダーなどのウィジェットを組み合わせて、自分だけのタスク管理ボードを作成した例です。\n\n他にも、時計・検索ボックス・テキストエディタなどのウィジェットも提供されているので、組み合わせしだいで作業のしやすいボードが簡単に構築できます。\n\nまた、仕事以外にもたとえば「Spotify」や「SoundCloud」のプレイリストを組み合わせて、お気に入りの楽曲を再生できる音楽ボードを作って楽しむことも可能です。\n\nもちろん「YouTube」や「Vimeo」などの動画共有サービスから、好きな映像を組み合わせて視聴できるダッシュボードも作れます。\n\n画像やテキストエディタを組み合わせて、独自のレシピ調理ボードなんかも手軽に作れます。\n\nダッシュボードは公開して友人・知人と共有できる機能もあるので、お互いのレシピを交換して遊んだりもできて便利です。\nこのように複数のウィジェットを好きなように組み合わせるだけで、自分だけのダッシュボードを素早く構築できるのが「Widget Board」の魅力なのです。\n■「Widget Board」の使い方\nそれでは、「Widget Boar…",
+          "link": "https://paiza.hatenablog.com/entry/2021/09/01/150000",
+          "publishedOn": "2021-09-01T06:00:00.000Z",
+          "wordCount": 289,
+          "title": "ノーコードで自分専用ダッシュボードを作成＆公開できる「Widget Board」を使ってみた！",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210901/20210901114719.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "id": "hatenablog://entry/26006613802321491",
           "author": null,
@@ -950,6 +955,159 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/yamaday0u/items/65d6bf2589c46312f0d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "やまだゆう（@yamaday0u）です。\n\nぼくは現在地方公務員として働いています。\n2020年5月から未経験からのエンジニア転職を目指して学習を始め、先日ついに転職活動が完了したので振り返りをしたい…",
+          "link": "https://qiita.com/yamaday0u/items/65d6bf2589c46312f0d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T14:03:34.000Z",
+          "wordCount": 312,
+          "title": "【未経験からのエンジニア転職応援】実務未経験からのエンジニア転職活動の振り返りの共有"
+        },
+        {
+          "id": "https://qiita.com/baby-degu/items/d9e530ec574683bf6f24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事は、Simon Holdorf氏による「9 Popular GitHub Repos For Every Web Developer」（2021年4月4日公開）の和訳を、著者の許可を得て掲載し…",
+          "link": "https://qiita.com/baby-degu/items/d9e530ec574683bf6f24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T10:56:27.000Z",
+          "wordCount": 371,
+          "title": "すべての開発者へ。人気GitHubリポジトリ9選"
+        },
+        {
+          "id": "https://qiita.com/uhyo/items/b789c5e976d6af274892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Temporalとは、JavaScriptに組み込まれた新しい日付計算機能です（正確にはまだStage 3ですが、仕様自体はほとんど完成している状態です）。従来あったDateのさまざまなつらい部分が…",
+          "link": "https://qiita.com/uhyo/items/b789c5e976d6af274892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T10:49:06.000Z",
+          "wordCount": 559,
+          "title": "Temporalで8月32日をサポートする"
+        },
+        {
+          "id": "https://qiita.com/harayuu10/items/b83ac7228e086767df12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n心地よく書けるC#スクリプトとしてCSharpZxScriptを作ってみました。\ndotnet tool経由で簡単に導入出来ます。\n\n\n\n\n心地よく書ける\n\nC#でスクリプトが書ける物で公式のcs…",
+          "link": "https://qiita.com/harayuu10/items/b83ac7228e086767df12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T10:18:26.000Z",
+          "wordCount": 257,
+          "title": "CSharpZxScriptでbatファイルからの脱出"
+        },
+        {
+          "id": "https://qiita.com/zucchero316/items/09549c0e87f95604c582?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nVSCode のターミナルで Git Bash を使おうとしたら、意外と苦戦したので忘れないようにメモしておく。\n\n結論\n\nスペースを入れるな。それと、WSL 使えばいいんじゃね。\n\nやったこと\n…",
+          "link": "https://qiita.com/zucchero316/items/09549c0e87f95604c582?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T08:46:10.000Z",
+          "wordCount": 319,
+          "title": "VSCode のターミナルを Git Bash にする"
+        },
+        {
+          "id": "https://qiita.com/autotaker1984/items/284e28f82fc1828da44e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL; DR\n\n2021年8月31日にDocker社がDocker Desktopを有料化するという衝撃の発表をしました。\n\nhttps://www.docker.com/blog/updating-…",
+          "link": "https://qiita.com/autotaker1984/items/284e28f82fc1828da44e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T07:29:51.000Z",
+          "wordCount": 464,
+          "title": "Docker Desktop有料化の影響"
+        },
+        {
+          "id": "https://qiita.com/satona-oinuma/items/f7e5bde0d2c1c0d8f34f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回、ListViewでCheckedTextViewを実装する方法をまとめました。\nしかしその後の調査で、前回まとめた方法がツッコミどころ満載の方法だったということが分かりました。\nこれ以上セルフ…",
+          "link": "https://qiita.com/satona-oinuma/items/f7e5bde0d2c1c0d8f34f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T06:37:39.000Z",
+          "wordCount": 746,
+          "title": "ListViewでCheckedTextViewを実装したい"
+        },
+        {
+          "id": "https://qiita.com/marshmallow88/items/442ecb7eaaa7e6f7c000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "書き捨てのコードなので、適当に参考にしてください。\n実装はTypeScriptですが、同じノリで他の言語もできると思ってます。\n\nwikipedia\n補色同士の色の組み合わせは、互いの色を引き立て合う…",
+          "link": "https://qiita.com/marshmallow88/items/442ecb7eaaa7e6f7c000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-01T00:33:20.000Z",
+          "wordCount": 265,
+          "title": "RGBの補色を返す関数を書いた"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/6e49bade7a7cb0101b35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxross は、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いで、ソフトバンク社内起業制度にて立ち上げたサービスです。\n\n現役エンジニ…",
+          "link": "https://qiita.com/Axross_SBiv/items/6e49bade7a7cb0101b35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T23:25:46.000Z",
+          "wordCount": 597,
+          "title": "AI・Python活用レシピ100選"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/ee754964fe4043e91d76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/ok2/items/04086f7ee7bde6ab57b9\n\nhttps://qiita.com/e99h2121/items/20fe59cc562525048…",
+          "link": "https://qiita.com/e99h2121/items/ee754964fe4043e91d76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T21:15:15.000Z",
+          "wordCount": 247,
+          "title": "大企業でも(だから)イノベーションは起こせる？ - 組織のルールに悩んだら読む記事"
+        },
+        {
+          "id": "https://qiita.com/u2dayo/items/dd17bab5d443bf7a1a67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ABC216のA,B,C,D,E問題を、Python3でなるべく丁寧に解説していきます。\n\nただ解けるだけの方法ではなく、次の3つのポイントを満たす解法を解説することを目指しています。\n\n\nシンプル：余計…",
+          "link": "https://qiita.com/u2dayo/items/dd17bab5d443bf7a1a67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T17:14:49.000Z",
+          "wordCount": 1288,
+          "title": "【AtCoder解説】PythonでABC216のA,B,C,D,E問題を制する！"
+        },
+        {
+          "id": "https://qiita.com/nonNoise/items/238dcfe3d59cd377b5db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は・・・同人誌になるかもしれません。主に同人誌向けのネタメモです。\n何回か続きます。（多分）\n\n■　開発の事前準備（Windows）\n\n◇ Visual StudioのC++コンパイラをインスト…",
+          "link": "https://qiita.com/nonNoise/items/238dcfe3d59cd377b5db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T16:22:33.000Z",
+          "wordCount": 275,
+          "title": "WindowsでEtherCATと通信してみる(1)"
+        },
+        {
+          "id": "https://qiita.com/liveasnotes/items/8576ce50481f39ecf436?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "◤ Introduction ／ はじめに\n\nこの記事では２つの時間操作系アセットを比較し、それぞれの機能や使い勝手を紹介します。時間操作系アセットのうち、無料かつ高機能そうなアセットとして Aga…",
+          "link": "https://qiita.com/liveasnotes/items/8576ce50481f39ecf436?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T14:43:50.000Z",
+          "wordCount": 654,
+          "title": "【時間操作系アセット比較】Agamotto vs. Chronos"
+        },
+        {
+          "id": "https://qiita.com/tatsuya_1995/items/b960297bc9fd4e0e9f85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nエンジニア一年生です。\nLinuxがどのように起動していくのか気になったので、ざっくりとまとめました。\n\nブートシーケンスとは\n\nブートシーケンスとは「PC電源投入後から起動するまでの流れ」…",
+          "link": "https://qiita.com/tatsuya_1995/items/b960297bc9fd4e0e9f85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T13:26:00.000Z",
+          "wordCount": 251,
+          "title": "Linuxのブートシーケンスって？"
+        },
+        {
+          "id": "https://qiita.com/tachyon777/items/ea991847b58d5775158c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "twitterでコンテストの広告が流れてきて、医療分野で富士フィルムちょっと興味あったので取り組んでみました。\n\nコンペ概要\n\nコンペは3つの課題から成っており、Q1は初心者向けの簡単な画像処理、Q2は…",
+          "link": "https://qiita.com/tachyon777/items/ea991847b58d5775158c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T13:21:35.000Z",
+          "wordCount": 356,
+          "title": "第6回富士フィルムBrain(s)コンテスト参加記"
+        },
+        {
+          "id": "https://qiita.com/akoya/items/30396e776d3276de28b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事の概要\n\nプログラミング初学者です。\n2021年7月13日にPythonの勉強を始めて、2021年8月29日にPython 3 エンジニア認定基礎試験に合格しました。\nこの7週間は日々頑張…",
+          "link": "https://qiita.com/akoya/items/30396e776d3276de28b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T12:53:53.000Z",
+          "wordCount": 312,
+          "title": "プログラミング初学者が7週間でPython 3 エンジニア認定基礎試験に合格するまでの記録"
+        },
+        {
+          "id": "https://qiita.com/hima2b4/items/2bdb20a25fde2923afa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "※2021/8/31：Pythonを操作したことがない方でも手持ちデータでグラフが描けることができるよう、すこし内容を修正・補足しました。\n\n\n\n\n\n\nはじめに\n\n最近、PythonやRで、データ分析したり、グ…",
+          "link": "https://qiita.com/hima2b4/items/2bdb20a25fde2923afa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-31T10:45:36.000Z",
+          "wordCount": 550,
+          "title": "Pythonでしか描けない美しいグラフを描こう！"
+        },
+        {
           "id": "https://qiita.com/komasayuki/items/b9ad609f87388536f369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nGitHubマスコットのOctocatを魔改造してCO2モニタにしてみました。\n\n左がVer.1で、足に埋め込んだ5LED(光ファイバー経由)の色と点灯でCO2を表示。\n右がVer.2で、…",
@@ -1110,6 +1268,15 @@
           "publishedOn": "2021-08-30T08:08:01.000Z",
           "wordCount": 250,
           "title": "【祝】CentOS 8+PostgreSQLにて動作するプリザンターを使用しCUI上で情報公開機能を設定する。【.NET Core版への統合】"
+        },
+        {
+          "id": "https://qiita.com/irgaly/items/7ebba96f16462158579d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021/08/30: 注意: この記事の内容のすべてはまだ検証できていません。対応1~3 のすべてを動作確認はできていません。引き続き動作確認を進めて、記事の内容に間違いがあれば随時更新します。記…",
+          "link": "https://qiita.com/irgaly/items/7ebba96f16462158579d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-08-30T06:02:40.000Z",
+          "wordCount": 931,
+          "title": "Android 12 のスプラッシュ画面 (Splash Screen) に対応する"
         },
         {
           "id": "https://qiita.com/hugehoge/items/180b0c6dc767878434af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -5457,123 +5624,6 @@
           "publishedOn": "2021-08-03T13:17:49.000Z",
           "wordCount": 382,
           "title": "[個人開発]プログラマーなら気になっちゃうWebサービスを作ってみた。"
-        },
-        {
-          "id": "https://qiita.com/dwl/items/8914d6dda3fe8901d489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n\nmacOS BigSur 11.4\nFork Ver 2.7\n\n\nこの記事で解説するのは以下の三つ\n\n・commit コミット（保存）\n・branch ブランチ (分岐)\n・merge マージ (…",
-          "link": "https://qiita.com/dwl/items/8914d6dda3fe8901d489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T12:29:12.000Z",
-          "wordCount": 385,
-          "title": "RPGでボスを倒しながらGitを学べば魔王も倒せる Fork(Gitクライアント) commit branch merge"
-        },
-        {
-          "id": "https://qiita.com/yamori813/items/431e55df1f93bc3f24c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "力武さんが「さよなら、愛しのFreeBSD」というコラムを書かれていたが、こちらはなかなかFreeBSDから離れられない。というのは最初に触ったのがBSDであまり物覚えがよくないので、他のものを覚え…",
-          "link": "https://qiita.com/yamori813/items/431e55df1f93bc3f24c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T12:09:14.000Z",
-          "wordCount": 264,
-          "title": "それでもFreeBSDを使い続けるわけ"
-        },
-        {
-          "id": "https://qiita.com/_xac/items/0544c968ffefeaf1071c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初投稿です！\nよろしくお願い致します。\n\n概要\n\nリモートラジオ体操集会で健康な夏を過ごそう！\n\n\nPythonを用いてボイスチャンネルでラジオ(.m3u8)を再生するためのDiscord botを作る\nG…",
-          "link": "https://qiita.com/_xac/items/0544c968ffefeaf1071c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T11:47:01.000Z",
-          "wordCount": 538,
-          "title": "Discordでラジオを流して友達とリモートラジオ体操しよう！(AM6:30)"
-        },
-        {
-          "id": "https://qiita.com/Uma_cryptids/items/c5fbbd81759389b48106?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nプログラミングのテスト前日、Pythonのテキストにある演習問題にこうあった。\n\n\n次のような九九表を作成してみよう\n\n\n1 2 3 4 5 6 7 8 9\n2 4 6 8 10 12 14 16 …",
-          "link": "https://qiita.com/Uma_cryptids/items/c5fbbd81759389b48106?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T10:54:49.000Z",
-          "wordCount": 357,
-          "title": "Pythonで九九表を一行で作る"
-        },
-        {
-          "id": "https://qiita.com/fumiya-konno/items/002a19e239c9bcf6ce92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n以前、Ansibleのwin_commandモジュールでコマンドを実行した際、出力結果が文字化けしてしまうということがありました。\nその際にansible 2.10.xのwin_comm…",
-          "link": "https://qiita.com/fumiya-konno/items/002a19e239c9bcf6ce92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T10:32:49.000Z",
-          "wordCount": 673,
-          "title": "＜Ansible＞「win_command」モジュールで文字化けしたときの対処方法"
-        },
-        {
-          "id": "https://qiita.com/Nekoya3/items/c370febb6ac952ea41f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "TL;DR\n\n先日？3日前？Amplify GeoのDeveloper Previewが開始されたので試す記事です。\n\n現在 Amplify Geo はDeveloper Preview中であり正式リ…",
-          "link": "https://qiita.com/Nekoya3/items/c370febb6ac952ea41f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T09:40:31.000Z",
-          "wordCount": 1282,
-          "title": "Amplify でDeveloper Preview 中のGeoを試す"
-        },
-        {
-          "id": "https://qiita.com/namizatork/items/79b0a8002575bc74dfd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nプロジェクトによって色々なコーディングルールがあると思うけど、\nPHP初めて触る人に PSR に準拠してね！ってだけじゃちょっと難しい時もある。\nただ1から説明するのはめんどくさい...そう…",
-          "link": "https://qiita.com/namizatork/items/79b0a8002575bc74dfd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T09:00:35.000Z",
-          "wordCount": 655,
-          "title": "PHP初心者とお仕事した時に用意したコーディングルールのテンプレ"
-        },
-        {
-          "id": "https://qiita.com/soukun1988/items/6a09a3bf3fa5b8eb0002?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nStyleGANの潜在空間次元分離性(PPLで表すDisentanglement)を大幅に改善した上に、\n1024xの高解像度の画像を生成できるメリットを保つ画像生成手法、ALAE。\n\nこれを…",
-          "link": "https://qiita.com/soukun1988/items/6a09a3bf3fa5b8eb0002?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T04:44:56.000Z",
-          "wordCount": 420,
-          "title": "ALAE (敵対的潜在空間自己符号化器, Adversarial Latent Autoencoder) を使ってみた"
-        },
-        {
-          "id": "https://qiita.com/kobayashiryou/items/603495f9b357ce7a6a57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1.はじめに\n\n初めまして、小林凌(こばやし　りょう)と申します。\n\n現在、バックエンドエンジニアへの転職を目指し、転職活動中です。\n\n当記事は、LINE messagingAPIを活用したアプリケーシ…",
-          "link": "https://qiita.com/kobayashiryou/items/603495f9b357ce7a6a57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-03T04:25:35.000Z",
-          "wordCount": 542,
-          "title": "【Rails/Ruby/Docker/LINE messagingAPI/Heroku】単語帳bot"
-        },
-        {
-          "id": "https://qiita.com/nanbuwks/items/0d1be9589b4b94bc32b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "組み込み Rust を試してみたい！\nその場合、現時点では書籍「基礎から学ぶ 組み込みRust」において十分な解説があります。\n\nしかしながらこれは Wio Terminal をターゲットとし、手元で…",
-          "link": "https://qiita.com/nanbuwks/items/0d1be9589b4b94bc32b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-02T17:03:19.000Z",
-          "wordCount": 465,
-          "title": "リモート環境で Wio Terminal で組み込み Rust を動かしてみるハンズオン"
-        },
-        {
-          "id": "https://qiita.com/yuikoito/items/274f926b5c5e59b43ce9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "今回、とみーさんと一緒にピクトグラムさんになれるアプリを開発したので、そのことについて書きます。\n\n頑張って作ったのでぜひぜひ利用してみてください！一緒にオリンピックを盛り上げましょう  \n\n東京五輪のピク…",
-          "link": "https://qiita.com/yuikoito/items/274f926b5c5e59b43ce9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-02T16:38:50.000Z",
-          "wordCount": 499,
-          "title": "オリンピックを盛り上げるためにピクトグラムさんになれるアプリを作った【Next.js+TypeScriptでTensorFlow.jsを使って姿勢検出】"
-        },
-        {
-          "id": "https://qiita.com/tamaki8021/items/f20a680a60af5e7dbf84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nDiscord使っていて通知の面だったり、LINEのほうが日常的に使っていて浸透しやすいという事があったので、LINEとDiscord両方に同じメッセージを送るのがめんどくさいので、Disc…",
-          "link": "https://qiita.com/tamaki8021/items/f20a680a60af5e7dbf84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-02T15:57:46.000Z",
-          "wordCount": 1072,
-          "title": "sinatraを使ってDiscordのメッセージをLINEのグループに共有し連結する"
-        },
-        {
-          "id": "https://qiita.com/boriko/items/93eb0eb15bfd4eff1fbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "「地名」って読むの難しい！\n\n私が住んでいるのは　北海道　アイヌ語が地名の語源になっており\n「読むのが難しい地名ランキング」なんてまとめサイトがあるくらい難解な地名が多いです。\n\n今回は習いたてのNo…",
-          "link": "https://qiita.com/boriko/items/93eb0eb15bfd4eff1fbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-02T14:03:43.000Z",
-          "wordCount": 293,
-          "title": "「この住所なんて読むの？」郵便番号から地名の読み方を確認したい！プログラム知識ゼロ初心者のNode-RED×LINEbot奮闘記録"
         }
       ]
     }
